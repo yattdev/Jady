@@ -1,0 +1,10 @@
+{
+  "priority": 6,
+  "lookup": {
+    "rules": {},
+    "rules_for_loop_unhappy_path": {}
+  },
+  "core_fallback_threshold": 0.3,
+  "core_fallback_action_name": "action_default_fallback",
+  "enable_fallback_prediction": true
+}

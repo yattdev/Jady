@@ -1,0 +1,5009 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Comprendre Dans quel but je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Comprendre Dans quelle intention je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Comprendre Dans quelle intention je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Comprendre Ils t-on forger dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Comprendre On ta réaliser pour quel motif"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Comprendre Pour quel fin je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Comprendre Pour quel motif je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Comprendre Pourquoi je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Comprendre Pourquoi tu a été ériger ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Comprendre Tu a été établir à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Comprendre dans quel but je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Comprendre dans quel but je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Comprendre dans quel but je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Comprendre dans quel but on ta ériger ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Comprendre dans quelle intention je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Comprendre on ta fabriquer dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Comprendre pour quel motif je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Comprendre pourquoi tu a été assembler ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Comprendre À quel fin je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Comprendre à quel fin on ta assembler ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Comprendre à quel fin on ta bâti"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Comprendre à quoi bon ils t-on assembler"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Comprendre à quoi bon je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Connaitre Dans quel but je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Connaitre Ils t-on préparer pour quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Connaitre Tu a été créer pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Connaitre Tu a été fonder pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Connaitre on ta construit dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Connaitre pour quel fin ils t-on inventer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Connaitre pourquoi je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Connaitre tu a été implémenter dans quelle intention ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Connaitre tu a été inventer pourquoi"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Connaitre tu a été préparer dans quel but ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Connaitre À quel motif tu a été produire"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Connaitre À quoi bon ils t-on assembler ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Connaitre À quoi bon ils t-on fonder"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Connaitre à quoi bon je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Dans quel but ils t-on fait"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Dans quel but ils t-on fait ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Dans quel but je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Dans quel but je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Dans quel but je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Dans quel but on ta forger ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Dans quel but on ta former"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Dans quel but tu a été préparer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Dans quel but tu a été réaliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Dans quel but tu a été élaborer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Dans quelle intention ils t-on construit ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Dans quelle intention ils t-on fabriquer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Dans quelle intention je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Dans quelle intention je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Dans quelle intention je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Dans quelle intention je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Dans quelle intention on ta assembler"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Dans quelle intention on ta constituer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Dans quelle intention on ta construit ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Dans quelle intention on ta imaginer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Dans quelle intention on ta ériger"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Dans quelle intention tu a été former"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Dans quelle intention tu a été établir"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Est ce que je peux saisir dans quelle intention tu a été construit"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Ils t-on assembler pour quel motif"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Ils t-on assembler à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Ils t-on bâti dans quel but ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Ils t-on constituer pour quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Ils t-on constituer pourquoi ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Ils t-on créer dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Ils t-on créer pour quel fin"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Ils t-on créer pour quel fin ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Ils t-on créer à quel motif"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Ils t-on fabriquer à quoi bon ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Ils t-on forger à quoi bon"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Ils t-on former pour quel fin"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Ils t-on imaginer pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Ils t-on implémenter à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Ils t-on inventer dans quel but ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Ils t-on inventer pourquoi ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Ils t-on réaliser à quel fin ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Ils t-on élaborer dans quel but"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Ils t-on élaborer dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Ils t-on élaborer à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Ils t-on ériger à quel motif ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Ils t-on ériger à quoi bon"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "J'ai besion de trouver tu a été produire dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "J'ai envie de Comprendre Dans quel but ils t-on former"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "J'ai envie de Connaitre pour quel fin on ta implémenter ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "J'ai envie de trouver Tu a été fabriquer à quoi bon"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "J'ai envie de trouver À quel motif je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "J'aime Connaitre Pour quel fin tu a été construit ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "J'aime savoir tu a été former pour quel fin ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "J'aimerais Connaitre Ils t-on constituer pour quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "J'aimerais connaitre on ta produire à quel fin ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "J'aspire à Connaitre dans quel but on ta former"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "J'aspire à Saisir Pour quel fin je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "J'aspire à connaitre à quoi bon on ta inventer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "J'aspire à trouver pour quel motif on ta former"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "J'exige de Savoir Ils t-on fabriquer à quel fin ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "J'exige de saisir on ta établir à quel fin"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "J'implore de Saisir dans quelle intention je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "J'implore de Trouver Pourquoi on ta constituer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "J'implore de comprendre dans quelle intention tu a été préparer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Je peux Trouver pourquoi tu a été imaginer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Je peux savoir à quel motif on ta établir ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Je souhaite Comprendre dans quel but tu a été fait ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Je vise à Saisir Pourquoi on ta assembler ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Je voudrais comprendre dans quel but je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Nous voulons Saisir à quoi bon tu a été imaginer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Nous voulons Savoir Pourquoi je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Nous voulons Savoir À quoi bon je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Nous voulons comprendre À quel fin tu a été ériger"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "On ta bâti pour quel motif ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "On ta construit dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "On ta construit à quoi bon"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "On ta construit à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "On ta fait à quoi bon"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "On ta fonder pourquoi ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "On ta forger à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "On ta implémenter pourquoi ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "On ta inventer dans quelle intention ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "On ta produire dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "On ta préparer dans quelle intention"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "On ta préparer pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "On ta réaliser pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "On ta réaliser à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "On ta ériger dans quel but"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "On ta établir dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Peut-on Connaitre dans quel but je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Peut-on Savoir Tu a été implémenter pour quel fin ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Peut-on comprendre pourquoi tu a été forger ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Peut-on saisir dans quelle intention je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Pour quel fin je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Pour quel fin je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Pour quel fin tu a été créer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Pour quel motif je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Pour quel motif je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Pour quel motif on ta constituer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Pour quel motif tu a été inventer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Pour quel motif tu a été réaliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Pourquoi ils t-on constituer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Pourquoi ils t-on forger"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Pourquoi ils t-on imaginer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Pourquoi ils t-on réaliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Pourquoi je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Pourquoi je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Pourquoi je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Pourquoi tu a été fait"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Pourquoi tu a été produire"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Pourrais-je trouver À quel motif tu a été fabriquer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Puis-je Saisir à quoi bon je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Puis-je Savoir on ta fait à quel fin ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît Est ce que je peux Savoir ils t-on constituer à quel fin"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît Est ce que je peux trouver Dans quelle intention ils t-on fonder"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît J'ai besion de Connaitre Pourquoi tu a été former ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît J'ai besion de Savoir dans quel but je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît J'ai envie de Comprendre Ils t-on former dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît J'ai envie de Connaitre dans quelle intention tu a été créer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît J'ai envie de saisir à quoi bon ils t-on établir"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît J'aime saisir dans quelle intention on ta forger ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît J'aimerais trouver dans quel but on ta assembler ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît J'aspire à Saisir dans quel but ils t-on créer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît J'aspire à connaitre on ta inventer pourquoi"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît J'aspire à saisir pour quel fin on ta construit"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît J'exige de Connaitre Dans quel but je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît J'implore de Trouver Dans quel but on ta créer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît J'implore de connaitre À quoi bon on ta inventer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît Je sollicite de Comprendre Tu a été implémenter pour quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît Je veux Saisir Dans quel but ils t-on imaginer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît Peut-on Trouver On ta imaginer pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît Peut-on savoir Pour quel motif je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît Pourrais-je Connaitre pour quel fin je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît Pourrais-je connaitre Pourquoi je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît Pourrais-je savoir ils t-on imaginer à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît Puis-je connaitre À quel fin tu a été constituer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît Puis-je savoir on ta imaginer pourquoi"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît est ce que je peux Savoir Ils t-on réaliser dans quel but ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît est ce que je peux Savoir Ils t-on ériger à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît est ce que je peux saisir tu a été bâti dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît est ce que je peux saisir À quel fin je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît j'ai besion de saisir Dans quelle intention je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît j'ai envie de Trouver ils t-on implémenter à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît j'aime Saisir Pour quel motif je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît j'aime saisir Pourquoi ils t-on fait"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît j'aspire à Saisir à quel fin je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît j'aspire à comprendre dans quel but je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît j'aspire à trouver on ta fabriquer à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît j'exige de Saisir à quel fin je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît j'implore de connaitre pour quel motif on ta imaginer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît je peux Connaitre À quel fin je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît je voudrais connaitre Ils t-on fonder à quoi bon"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît nous voulons comprendre Pourquoi je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît nous voulons savoir tu a été construit pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît peut-on connaitre Ils t-on implémenter à quoi bon"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît pourrais-je Saisir pourquoi je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît puis-je Connaitre tu a été implémenter à quoi bon ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il te plaît puis-je trouver tu a été former pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Dans quel but ils t-on construit"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Dans quel but ils t-on créer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Dans quel but ils t-on préparer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Dans quel but je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Dans quel but je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Dans quel but je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Dans quel but tu a été élaborer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Dans quel but tu a été ériger"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Dans quelle intention ils t-on imaginer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Dans quelle intention je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Dans quelle intention je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Dans quelle intention je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Dans quelle intention on ta assembler"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Dans quelle intention on ta fait"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Dans quelle intention on ta inventer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Dans quelle intention tu a été constituer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Dans quelle intention tu a été fait ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Est ce que je peux Savoir dans quelle intention tu a été former ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Ils t-on construit à quoi bon"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Ils t-on fait dans quelle intention ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Ils t-on forger à quoi bon"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Ils t-on inventer dans quel but"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Ils t-on inventer pour quel fin ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Ils t-on produire dans quel but"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Ils t-on réaliser à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Ils t-on réaliser à quoi bon ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Ils t-on élaborer dans quelle intention ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Ils t-on élaborer à quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît J'ai besion de trouver Pour quel fin ils t-on fait"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît J'aime Savoir Dans quel but je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît J'aime Savoir on ta bâti pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît J'aimerais comprendre Pour quel motif je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît J'aimerais saisir On ta implémenter à quel motif"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît J'aspire à trouver Tu a été fonder pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît J'implore de Trouver pourquoi ils t-on implémenter"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Je peux Saisir Ils t-on ériger à quoi bon ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Je peux saisir pourquoi tu a été établir"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Nous voulons connaitre on ta créer dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Nous voulons savoir ils t-on préparer pourquoi"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît On ta assembler à quel fin ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît On ta créer à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît On ta fait pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît On ta inventer dans quelle intention ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît On ta inventer à quel fin ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît On ta établir pour quel motif"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Peut-on saisir À quel fin je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Peut-on saisir à quel fin je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Pour quel fin ils t-on ériger"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Pour quel fin je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Pour quel fin je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Pour quel fin je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Pour quel fin on ta élaborer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Pour quel fin tu a été implémenter ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Pour quel motif ils t-on fait"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Pour quel motif ils t-on fait ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Pour quel motif je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Pour quel motif je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Pour quel motif je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Pourquoi ils t-on bâti"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Pourquoi ils t-on fait"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Pourquoi ils t-on élaborer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Pourquoi je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Pourquoi je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Pourquoi je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Puis-je Connaitre Pour quel motif on ta établir ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Puis-je comprendre Pour quel fin je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Tu a été bâti dans quelle intention ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Tu a été créer dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Tu a été fabriquer à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Tu a été fait pourquoi ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Tu a été former à quoi bon ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Tu a été implémenter dans quelle intention"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Tu a été élaborer à quel fin ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît Tu a été ériger à quel fin ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît dans quel but je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît dans quel but je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît dans quel but je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît dans quel but je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît dans quelle intention ils t-on constituer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît dans quelle intention je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît dans quelle intention je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît dans quelle intention je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît dans quelle intention on ta établir ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît dans quelle intention tu a été élaborer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît dans quelle intention tu a été établir ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît est ce que je peux Trouver Pourquoi je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît est ce que je peux savoir Dans quel but je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît ils t-on assembler dans quel but"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît ils t-on constituer dans quelle intention"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît ils t-on construit dans quelle intention ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît ils t-on construit pour quel fin ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît ils t-on créer dans quel but ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît ils t-on créer pour quel motif"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît ils t-on créer à quel motif"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît ils t-on fait dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît ils t-on fonder à quel fin ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît ils t-on imaginer à quoi bon"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît ils t-on ériger à quel fin ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît j'ai besion de Comprendre tu a été constituer dans quel but ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît j'ai besion de Connaitre ils t-on créer pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît j'ai besion de Saisir on ta fait dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît j'ai besion de Trouver À quel fin je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît j'ai besion de comprendre dans quelle intention je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît j'ai besion de saisir pourquoi tu a été fabriquer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît j'ai envie de Trouver dans quel but on ta réaliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît j'aime Connaitre à quel motif je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît j'aime comprendre Tu a été ériger dans quelle intention ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît j'aime connaitre Pourquoi je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît j'aspire à comprendre à quoi bon je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît j'exige de connaitre Dans quel but ils t-on préparer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît j'implore de savoir À quel motif je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît je peux saisir pour quel motif je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît je voudrais savoir À quel fin je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît nous voulons Savoir pourquoi ils t-on forger ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît on ta construit à quel fin ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît on ta fabriquer pourquoi ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît on ta implémenter dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît on ta préparer pour quel fin ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît on ta réaliser pour quel fin ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît on ta établir pour quel motif ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît peut-on Trouver Tu a été ériger à quoi bon ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît peut-on comprendre tu a été fait dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît peut-on savoir On ta implémenter à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît pour quel fin ils t-on assembler"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît pour quel fin on ta implémenter ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît pour quel motif je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît pourquoi ils t-on assembler"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît pourquoi je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît pourquoi je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît pourquoi je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît pourquoi je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît pourquoi on ta élaborer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît pourquoi on ta ériger"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît pourquoi tu a été fonder"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît pourrais-je Savoir Pour quel fin je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît pourrais-je Trouver pourquoi ils t-on fonder"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît tu a été bâti à quel fin ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît tu a été constituer à quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît tu a été construit à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît tu a été fabriquer pour quel fin ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît tu a été fabriquer à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît tu a été fait pour quel fin ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît tu a été former dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît tu a été implémenter à quel motif"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît À quel fin je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît À quel fin je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît À quel motif ils t-on constituer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît À quel motif ils t-on constituer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît À quel motif je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît À quel motif je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît À quel motif on ta fabriquer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît À quoi bon ils t-on assembler"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît À quoi bon ils t-on fait"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît À quoi bon ils t-on fait ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît À quoi bon ils t-on produire ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît À quoi bon je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît À quoi bon je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît À quoi bon je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît À quoi bon on ta élaborer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît À quoi bon tu a été fait"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît à quel fin je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît à quel fin tu a été fait ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît à quel motif je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît à quel motif tu a été former"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît à quel motif tu a été produire ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît à quoi bon ils t-on ériger ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît à quoi bon je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît à quoi bon tu a été bâti"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "S'il vous plaît à quoi bon tu a été former"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Saisir Dans quelle intention je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Saisir Ils t-on bâti dans quel but"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Saisir Ils t-on imaginer pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Saisir On ta implémenter dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Saisir Pour quel fin je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Saisir Pour quel motif on ta ériger ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Saisir Pourquoi on ta implémenter ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Saisir Pourquoi tu a été implémenter ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Saisir Tu a été fait à quel motif"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Saisir dans quel but tu a été assembler ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Saisir dans quelle intention je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Saisir dans quelle intention on ta fabriquer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Saisir dans quelle intention on ta préparer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Saisir ils t-on fonder pour quel fin ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Saisir ils t-on produire à quel fin"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Saisir on ta assembler pour quel fin ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Saisir on ta fonder pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Saisir pour quel motif je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Saisir pourquoi ils t-on produire ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Saisir pourquoi je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Saisir pourquoi je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Saisir tu a été forger dans quelle intention"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Saisir tu a été implémenter pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Saisir À quel motif tu a été inventer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Saisir à quoi bon ils t-on fonder ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Savoir Dans quelle intention je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Savoir Dans quelle intention tu a été produire"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Savoir Ils t-on former dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Savoir Ils t-on imaginer dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Savoir On ta bâti à quoi bon"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Savoir On ta fabriquer dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Savoir Pour quel fin je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Savoir Pourquoi je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Savoir Tu a été assembler pourquoi ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Savoir Tu a été fait pour quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Savoir dans quel but ils t-on bâti ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Savoir dans quel but je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Savoir dans quel but je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Savoir dans quel but tu a été élaborer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Savoir dans quelle intention je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Savoir ils t-on assembler pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Savoir ils t-on élaborer à quel fin ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Savoir on ta fait pour quel fin ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Savoir pourquoi je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Savoir pourquoi je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Savoir À quel fin ils t-on former ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Savoir À quel motif je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Savoir À quel motif on ta construit"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Savoir à quel motif ils t-on établir"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Savoir à quoi bon tu a été forger"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Trouver Dans quel but ils t-on ériger ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Trouver Dans quel but je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Trouver Dans quel but je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Trouver Dans quel but on ta assembler ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Trouver Dans quelle intention je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Trouver Ils t-on préparer à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Trouver On ta ériger à quel fin"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Trouver Pour quel fin je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Trouver Pour quel motif ils t-on préparer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Trouver Pourquoi on ta préparer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Trouver Tu a été produire à quoi bon ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Trouver dans quel but je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Trouver dans quelle intention je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Trouver dans quelle intention je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Trouver ils t-on construit pour quel fin ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Trouver ils t-on réaliser pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Trouver ils t-on réaliser à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Trouver ils t-on ériger pourquoi ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Trouver on ta assembler à quoi bon"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Trouver on ta établir à quel motif"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Trouver pour quel fin je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Trouver pour quel motif je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Trouver pourquoi je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Trouver pourquoi je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Trouver tu a été construit pour quel fin"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Trouver tu a été forger à quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Trouver À quoi bon je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Trouver à quoi bon ils t-on fait ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Trouver à quoi bon ils t-on préparer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Trouver à quoi bon je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Tu a été assembler dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Tu a été assembler dans quelle intention"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Tu a été bâti pourquoi ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Tu a été bâti à quel motif"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Tu a été constituer dans quelle intention"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Tu a été construit pour quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Tu a été construit à quel fin"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Tu a été construit à quel fin ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Tu a été construit à quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Tu a été fabriquer dans quelle intention ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Tu a été fonder pour quel fin ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Tu a été former à quel fin ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Tu a été imaginer dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Tu a été imaginer pour quel fin ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Tu a été imaginer à quel motif ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Tu a été inventer à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "Tu a été produire pour quel fin ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre Dans quel but ils t-on imaginer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre Dans quel but je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre Dans quel but tu a été bâti"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre Dans quelle intention je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre On ta établir dans quel but"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre Pour quel fin je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre Pour quel motif on ta assembler ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre Pourquoi je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre Pourquoi on ta forger ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre Tu a été construit pour quel fin ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre Tu a été former à quoi bon ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre Tu a été élaborer à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre dans quelle intention ils t-on implémenter"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre dans quelle intention je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre ils t-on produire pourquoi"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre on ta construit pourquoi ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre pour quel fin je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre pour quel motif je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre pourquoi ils t-on ériger"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre pourquoi je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre pourquoi je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre pourquoi je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre tu a été bâti dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre tu a été fonder pour quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre tu a été ériger à quoi bon ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre tu a été établir dans quel but ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre À quel motif ils t-on assembler"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre À quoi bon ils t-on établir"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre À quoi bon tu a été inventer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre à quel motif ils t-on imaginer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre à quel motif je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "comprendre à quoi bon ils t-on inventer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "connaitre Dans quel but on ta fabriquer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "connaitre Dans quelle intention on ta assembler"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "connaitre Ils t-on constituer pourquoi"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "connaitre On ta fait à quel motif ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "connaitre On ta ériger pourquoi ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "connaitre Pour quel fin je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "connaitre Pour quel fin tu a été fabriquer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "connaitre Pourquoi on ta fait ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "connaitre Pourquoi tu a été fonder ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "connaitre Pourquoi tu a été inventer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "connaitre Tu a été fonder à quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "connaitre dans quelle intention je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "connaitre ils t-on réaliser dans quel but"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "connaitre ils t-on élaborer dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "connaitre on ta implémenter pour quel motif"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "connaitre pour quel fin je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "connaitre pour quel fin tu a été établir"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "connaitre pourquoi je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "connaitre tu a été imaginer dans quel but ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "connaitre tu a été établir dans quelle intention"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "connaitre À quoi bon je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "connaitre À quoi bon je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "connaitre à quel fin on ta fait ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "connaitre à quel motif je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "connaitre à quoi bon je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "connaitre à quoi bon je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "connaitre à quoi bon on ta former"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "connaitre à quoi bon tu a été imaginer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "dans quel but ils t-on préparer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "dans quel but je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "dans quel but je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "dans quel but je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "dans quel but je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "dans quel but on ta imaginer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "dans quel but tu a été constituer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "dans quel but tu a été fait ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "dans quel but tu a été fonder ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "dans quel but tu a été implémenter"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "dans quel but tu a été ériger"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "dans quelle intention ils t-on construit ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "dans quelle intention ils t-on implémenter ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "dans quelle intention je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "dans quelle intention je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "dans quelle intention je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "dans quelle intention on ta assembler ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "dans quelle intention on ta réaliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "dans quelle intention on ta élaborer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "dans quelle intention tu a été forger ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "est ce que je peux Savoir Pourquoi je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "est ce que je peux connaitre Ils t-on élaborer pourquoi"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "ils t-on créer dans quelle intention"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "ils t-on créer dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "ils t-on fabriquer dans quel but ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "ils t-on fabriquer pour quel fin"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "ils t-on fabriquer pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "ils t-on fabriquer à quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "ils t-on fait dans quelle intention ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "ils t-on fonder dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "ils t-on fonder pour quel fin ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "ils t-on forger dans quelle intention ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "ils t-on imaginer dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "ils t-on imaginer pour quel fin"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "ils t-on inventer pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "ils t-on produire à quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "ils t-on réaliser pour quel motif ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "ils t-on établir dans quel but ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "ils t-on établir pourquoi"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "ils t-on établir pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "j'ai besion de Comprendre Dans quelle intention tu a été constituer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "j'ai envie de Saisir pour quel motif on ta constituer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "j'ai envie de comprendre à quoi bon je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "j'ai envie de trouver On ta constituer dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "j'aime Comprendre à quel motif je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "j'aime Connaitre À quoi bon je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "j'aime savoir À quel motif tu a été forger ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "j'aimerais Connaitre Pour quel fin ils t-on forger"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "j'aimerais Savoir Dans quelle intention on ta imaginer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "j'aimerais Trouver pour quel motif je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "j'aimerais saisir Pourquoi je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "j'aimerais saisir tu a été implémenter pourquoi"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "j'aimerais savoir à quel fin tu a été forger"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "j'aspire à Savoir tu a été préparer dans quel but"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "j'aspire à Savoir À quoi bon tu a été établir"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "j'aspire à connaitre à quel fin je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "j'implore de Connaitre À quel fin tu a été produire ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "j'implore de Saisir On ta constituer à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "j'implore de Trouver à quoi bon je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "j'implore de comprendre tu a été forger dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "j'implore de connaitre Pourquoi ils t-on fabriquer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "j'implore de trouver pour quel fin je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "je brûle de Comprendre Ils t-on établir dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "je cherche à trouver à quel motif je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "je demande à connaitre pour quel motif je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "je désire Trouver à quoi bon ils t-on bâti ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "je peux Comprendre Dans quel but je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "je peux Savoir ils t-on préparer à quoi bon ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "je peux saisir ils t-on fait dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "je vise à Connaitre Ils t-on établir pour quel fin"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "je vise à savoir Dans quel but ils t-on construit ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "nous voulons Comprendre dans quel but tu a été créer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "nous voulons Saisir Dans quelle intention je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "nous voulons Trouver tu a été fonder dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "nous voulons comprendre Pourquoi ils t-on établir"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "nous voulons savoir Tu a été produire à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "nous voulons trouver Tu a été ériger dans quelle intention ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "on ta fabriquer à quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "on ta fait dans quelle intention ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "on ta fait pourquoi ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "on ta fonder dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "on ta former pour quel fin"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "on ta inventer à quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "on ta produire dans quelle intention ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "on ta produire à quoi bon ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "on ta réaliser dans quelle intention ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "peut-on Saisir à quoi bon on ta fait ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "pour quel fin ils t-on créer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "pour quel fin je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "pour quel fin je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "pour quel fin tu a été construit ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "pour quel fin tu a été ériger"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "pour quel motif ils t-on établir ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "pour quel motif je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "pour quel motif je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "pour quel motif je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "pour quel motif on ta imaginer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "pour quel motif on ta réaliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "pour quel motif tu a été inventer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "pourquoi ils t-on assembler ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "pourquoi ils t-on construit"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "pourquoi ils t-on forger ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "pourquoi ils t-on former ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "pourquoi je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "pourquoi je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "pourquoi je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "pourquoi je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "pourquoi on ta construit"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "pourquoi on ta forger"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "pourrais-je Saisir on ta fait dans quelle intention"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "pourrais-je Savoir pour quel fin tu a été implémenter"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "pourrais-je trouver On ta constituer pourquoi"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "puis-je Trouver À quel fin tu a été construit"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît Est ce que je peux Trouver dans quelle intention on ta fonder ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît Est ce que je peux savoir Dans quelle intention je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît Est ce que je peux trouver ils t-on former pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît J'ai envie de Savoir Tu a été bâti dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît J'aime Savoir ils t-on établir dans quelle intention ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît J'aime Trouver à quoi bon ils t-on produire"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît J'aimerais Comprendre on ta inventer à quoi bon ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît J'aspire à trouver Dans quelle intention je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît J'exige de trouver ils t-on fait à quel fin ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît J'implore de comprendre Pour quel motif je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît Je ordonne de Connaitre Pour quel motif je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît Je peux Savoir Tu a été créer à quel motif ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît Je suis intérêssé de savoir pourquoi je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît Je voudrais savoir On ta bâti dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît Nous voulons Comprendre Pour quel fin je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît Nous voulons Savoir dans quelle intention on ta ériger ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît Nous voulons trouver ils t-on fabriquer à quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît Peut-on Connaitre Dans quelle intention je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît Peut-on Saisir tu a été ériger pour quel fin"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît Peut-on saisir À quoi bon je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît Peut-on savoir Ils t-on établir dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît Puis-je savoir À quel fin ils t-on bâti"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît Puis-je trouver ils t-on élaborer pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît est ce que je peux Connaitre pour quel motif je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît est ce que je peux comprendre Dans quelle intention tu a été fabriquer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît j'ai envie de Comprendre Dans quelle intention tu a été fonder"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît j'ai envie de trouver On ta produire dans quel but"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît j'aimerais Connaitre pourquoi je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît j'aimerais savoir Pour quel fin ils t-on inventer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît j'aimerais savoir à quel fin je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît j'exige de Trouver Pourquoi tu a été produire"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît j'exige de comprendre Ils t-on produire à quel fin"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît j'implore de connaitre Tu a été former dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît j'implore de saisir Pour quel fin on ta imaginer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît je brûle de Saisir Ils t-on imaginer dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît je peux Connaitre dans quel but on ta réaliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît je souhaite connaitre On ta forger à quoi bon"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît je vise à Comprendre à quel fin tu a été élaborer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît je vise à comprendre dans quel but je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît je voudrais saisir Dans quel but je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît nous voulons Savoir Dans quelle intention je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît nous voulons comprendre Pour quel fin on ta produire ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît peut-on comprendre Dans quel but je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît pourrais-je savoir À quel motif tu a été bâti ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît pourrais-je trouver Ils t-on élaborer dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît puis-je Comprendre pour quel fin je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il te plaît puis-je Connaitre À quel motif je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Dans quel but ils t-on forger ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Dans quel but je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Dans quel but je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Dans quel but je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Dans quel but on ta ériger"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Dans quel but tu a été construit"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Dans quel but tu a été créer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Dans quelle intention ils t-on fonder ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Dans quelle intention je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Dans quelle intention je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Dans quelle intention tu a été fabriquer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Dans quelle intention tu a été produire ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Est ce que je peux saisir Dans quelle intention on ta ériger ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Ils t-on bâti pourquoi"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Ils t-on former à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Ils t-on établir à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît J'ai besion de Comprendre Dans quel but tu a été créer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît J'ai besion de Connaitre Pour quel fin ils t-on fonder ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît J'ai besion de Savoir On ta construit pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît J'ai besion de comprendre Ils t-on constituer à quel fin ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît J'aime Comprendre Dans quelle intention je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît J'aime Comprendre Ils t-on former pour quel motif ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît J'aime Comprendre pour quel motif je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît J'aimerais Comprendre Dans quel but tu a été forger"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît J'aimerais Saisir pour quel fin on ta imaginer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît J'aimerais saisir à quel motif je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît J'aimerais savoir Tu a été fait à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît J'aimerais savoir ils t-on fonder dans quel but ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît J'aimerais trouver Dans quelle intention je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît J'aspire à Comprendre pour quel motif ils t-on fabriquer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît J'aspire à savoir pourquoi je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît J'exige de Saisir Pourquoi je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît J'implore de Trouver à quel fin je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît J'implore de comprendre pourquoi je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît J'implore de comprendre À quel motif je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît J'implore de trouver tu a été former dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Je brûle de Trouver pourquoi tu a été bâti ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Je peux Savoir Tu a été fait à quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Je suis intérêssé de trouver Dans quel but ils t-on préparer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Je voudrais savoir À quel motif on ta fonder"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Nous voulons Trouver Pourquoi ils t-on préparer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît On ta bâti pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît On ta créer dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît On ta fonder dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît On ta imaginer à quel motif ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît On ta élaborer pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît On ta établir dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Peut-on Saisir à quel motif je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Pour quel fin ils t-on fait ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Pour quel fin on ta préparer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Pour quel fin tu a été assembler ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Pour quel fin tu a été préparer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Pour quel motif ils t-on former"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Pour quel motif ils t-on élaborer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Pour quel motif je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Pourquoi ils t-on bâti ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Pourquoi je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Pourquoi on ta imaginer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Pourquoi tu a été fonder ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Pourquoi tu a été imaginer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Pourquoi tu a été implémenter ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Pourquoi tu a été produire"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Pourquoi tu a été ériger"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Pourrais-je Comprendre tu a été constituer dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Pourrais-je Saisir À quel motif je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Tu a été construit à quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Tu a été former pour quel fin ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Tu a été inventer à quel fin ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît Tu a été élaborer pour quel motif ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît dans quel but ils t-on fait"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît dans quel but je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît dans quel but je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît dans quel but je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît dans quel but on ta assembler ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît dans quel but on ta produire"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît dans quel but tu a été préparer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît dans quelle intention je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît dans quelle intention je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît dans quelle intention tu a été assembler"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît est ce que je peux comprendre Pour quel motif tu a été constituer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît est ce que je peux saisir À quel motif ils t-on créer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît ils t-on construit pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît ils t-on construit à quel motif ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît ils t-on créer dans quelle intention ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît ils t-on créer à quel fin ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît ils t-on fonder à quoi bon ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît ils t-on forger à quoi bon"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît ils t-on former à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît ils t-on inventer pour quel motif ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît j'aime Saisir On ta produire pourquoi ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît j'aime Saisir pourquoi ils t-on constituer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît j'aime savoir Pourquoi ils t-on construit"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît j'aimerais saisir à quoi bon on ta fait"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît j'aspire à Comprendre On ta former à quel motif ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît j'aspire à Trouver Ils t-on réaliser dans quel but"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît j'exige de Savoir on ta imaginer dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît j'exige de comprendre À quoi bon ils t-on établir"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît j'implore de Connaitre ils t-on fait à quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît j'implore de Connaitre À quoi bon je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît j'implore de trouver À quoi bon je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît je cherche à savoir Dans quelle intention je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît je peux Connaitre Dans quelle intention je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît je réclame de Comprendre à quel motif je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît je voudrais Comprendre Dans quelle intention je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît nous voulons comprendre ils t-on produire dans quelle intention"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît nous voulons saisir dans quel but je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît on ta assembler à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît on ta construit dans quel but ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît on ta inventer dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît on ta réaliser dans quelle intention ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît on ta réaliser à quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît on ta ériger dans quel but ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît peut-on Savoir ils t-on implémenter à quoi bon"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît peut-on savoir pour quel fin je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît pour quel fin ils t-on élaborer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît pour quel fin je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît pour quel motif ils t-on assembler"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît pour quel motif je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît pour quel motif je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît pour quel motif je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît pourquoi ils t-on construit"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît pourquoi ils t-on créer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît pourquoi je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît pourquoi je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît pourquoi on ta assembler"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît pourquoi on ta imaginer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît pourrais-je Comprendre À quoi bon je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît pourrais-je Saisir à quel motif tu a été fabriquer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît pourrais-je savoir tu a été former dans quel but ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît puis-je connaitre dans quelle intention je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît tu a été créer dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît tu a été fabriquer dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît tu a été inventer dans quel but ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît tu a été établir dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît À quel fin je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît À quel fin je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît À quel motif ils t-on créer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît À quel motif je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît À quel motif je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît À quel motif on ta préparer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît À quoi bon ils t-on assembler"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît À quoi bon ils t-on préparer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît À quoi bon je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît À quoi bon je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît À quoi bon je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît À quoi bon je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît à quel fin je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît à quel motif ils t-on bâti ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît à quel motif je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît à quel motif on ta fonder"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît à quel motif tu a été fait"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît à quoi bon ils t-on réaliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît à quoi bon je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît à quoi bon je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît à quoi bon je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît à quoi bon on ta bâti"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît à quoi bon on ta fonder"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "s'il vous plaît à quoi bon on ta ériger ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "saisir Dans quel but je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "saisir Dans quelle intention ils t-on implémenter"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "saisir Dans quelle intention tu a été fait ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "saisir On ta imaginer dans quel but ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "saisir On ta produire dans quelle intention ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "saisir Pour quel fin je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "saisir Pourquoi je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "saisir Pourquoi je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "saisir Pourquoi on ta fabriquer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "saisir Tu a été forger pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "saisir Tu a été produire à quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "saisir dans quel but je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "saisir dans quel but je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "saisir dans quel but je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "saisir dans quelle intention ils t-on inventer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "saisir dans quelle intention je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "saisir dans quelle intention on ta former"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "saisir dans quelle intention tu a été imaginer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "saisir ils t-on former à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "saisir ils t-on préparer à quel fin"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "saisir ils t-on élaborer à quel fin ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "saisir pour quel fin je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "saisir pour quel fin je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "saisir pour quel fin je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "saisir pourquoi ils t-on assembler ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "saisir tu a été établir dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "saisir À quel fin tu a été établir"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "saisir à quel fin je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "saisir à quel fin je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "saisir à quel fin tu a été forger"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "saisir à quoi bon je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "savoir Dans quelle intention je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "savoir Ils t-on forger pour quel motif"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "savoir Ils t-on ériger pourquoi ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "savoir On ta fonder à quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "savoir On ta produire dans quelle intention ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "savoir On ta élaborer dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "savoir Pour quel fin tu a été réaliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "savoir Pour quel motif tu a été fonder"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "savoir Pourquoi je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "savoir Pourquoi je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "savoir dans quel but je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "savoir dans quelle intention je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "savoir dans quelle intention je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "savoir dans quelle intention tu a été construit"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "savoir on ta assembler à quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "savoir on ta bâti à quel fin"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "savoir on ta fabriquer pour quel fin ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "savoir on ta élaborer pour quel motif"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "savoir pour quel fin je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "savoir pour quel fin tu a été produire"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "savoir pour quel motif tu a été créer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "savoir pourquoi on ta bâti"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "savoir pourquoi tu a été former"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "savoir tu a été fonder à quoi bon"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "savoir tu a été forger à quoi bon ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "savoir tu a été établir dans quelle intention ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "savoir À quel motif tu a été bâti ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver Dans quel but je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver Dans quel but je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver Dans quel but on ta former ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver Dans quelle intention je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver Ils t-on implémenter à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver Ils t-on inventer dans quel but"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver On ta assembler pour quel fin ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver On ta former dans quel but ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver On ta produire dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver On ta établir à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver Pour quel fin je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver Pour quel fin tu a été forger ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver Pourquoi ils t-on créer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver Pourquoi je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver Pourquoi on ta ériger"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver Tu a été construit pourquoi"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver dans quelle intention je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver dans quelle intention je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver on ta établir à quoi bon"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver pour quel motif tu a été constituer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver pourquoi tu a été constituer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver pourquoi tu a été imaginer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver pourquoi tu a été élaborer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver tu a été fabriquer pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver tu a été fait dans quel but"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver tu a été fonder dans quel but ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver tu a été élaborer à quoi bon"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver À quel fin on ta implémenter ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver À quel motif on ta fabriquer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver À quel motif tu a été créer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver À quoi bon ils t-on former ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver à quel fin tu a été fabriquer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver à quel motif je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver à quoi bon je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "trouver à quoi bon je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "tu a été assembler pour quel fin"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "tu a été bâti pour quel fin"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "tu a été bâti pour quel fin ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "tu a été créer dans quel but ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "tu a été fabriquer à quel motif"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "tu a été fait pour quel fin"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "tu a été forger dans quel but"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "tu a été forger dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "tu a été forger pourquoi"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "tu a été implémenter à quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "tu a été préparer à quoi bon"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "tu a été élaborer dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "tu a été ériger pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "tu a été ériger à quoi bon"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "À quel fin je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "À quel fin je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "À quel fin on ta construit ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "À quel fin on ta fabriquer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "À quel fin on ta fabriquer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "À quel fin on ta implémenter"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "À quel motif ils t-on forger ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "À quel motif ils t-on former"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "À quel motif ils t-on produire ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "À quel motif je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "À quel motif on ta fabriquer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "À quel motif tu a été constituer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "À quel motif tu a été préparer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "À quoi bon ils t-on forger"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "À quoi bon ils t-on produire ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "À quoi bon ils t-on élaborer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "À quoi bon ils t-on établir"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "À quoi bon je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "À quoi bon je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "À quoi bon je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "À quoi bon je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "À quoi bon on ta constituer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "À quoi bon on ta créer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "À quoi bon on ta forger"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "À quoi bon on ta imaginer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "À quoi bon tu a été bâti"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "à quel fin ils t-on construit ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "à quel fin ils t-on fabriquer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "à quel fin je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "à quel fin je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "à quel fin on ta créer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "à quel fin tu a été fonder ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "à quel motif ils t-on bâti ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "à quel motif je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "à quel motif je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "à quel motif on ta forger"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "à quel motif on ta réaliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "à quel motif tu a été fabriquer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "à quel motif tu a été fonder ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "à quel motif tu a été élaborer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "à quoi bon ils t-on fabriquer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "à quoi bon ils t-on préparer"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "à quoi bon ils t-on élaborer ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "à quoi bon je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "à quoi bon je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "à quoi bon je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "à quoi bon je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "à quoi bon on ta bâti ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "à quoi bon on ta produire"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "à quoi bon on ta ériger"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "à quoi bon tu a été construit ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "à quoi bon tu a été fonder"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "à quoi bon tu a été former ?"
+      },
+      {
+        "entities": [],
+        "intent": "why_bot_has_been_build",
+        "text": "à quoi bon tu a été élaborer"
+      }
+    ],
+    "entity_synonyms": [],
+    "lookup_tables": [],
+    "regex_features": []
+  }
+}

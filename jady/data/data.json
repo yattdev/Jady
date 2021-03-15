@@ -1,0 +1,316 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "Salut",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Salut !",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Hi !",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Allo !",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Bonjour",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Hi",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Bonjour !",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Allo",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Q'est ce que tu peut faire",
+        "intent": "ask_bot_possibility",
+        "entities": [
+          {
+            "start": 0,
+            "end": 26,
+            "value": "Q'est ce que tu peut faire",
+            "entity": "bot_possibility"
+          },
+          {
+            "start": 13,
+            "end": 26,
+            "value": "tu peut faire",
+            "entity": "bot_possibility"
+          }
+        ]
+      },
+      {
+        "text": "Qu'est ce que tu peut faire",
+        "intent": "ask_bot_possibility",
+        "entities": [
+          {
+            "start": 0,
+            "end": 27,
+            "value": "Qu'est ce que tu peut faire",
+            "entity": "bot_possibility"
+          }
+        ]
+      },
+      {
+        "text": "Comment est-tu cense m'aider",
+        "intent": "ask_bot_possibility",
+        "entities": [
+          {
+            "start": 0,
+            "end": 28,
+            "value": "Comment est-tu cense m'aider",
+            "entity": "bot_possibility"
+          },
+          {
+            "start": 21,
+            "end": 28,
+            "value": "m'aider",
+            "entity": "bot_possibility"
+          }
+        ]
+      },
+      {
+        "text": "Tu es null",
+        "intent": "offend",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "Tu es null",
+            "entity": "offend"
+          },
+          {
+            "start": 0,
+            "end": 10,
+            "value": "es null",
+            "entity": "offend"
+          }
+        ]
+      },
+      {
+        "text": "Tu vaux rien",
+        "intent": "offend",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "Tu vaux rien",
+            "entity": "offend"
+          },
+          {
+            "start": 3,
+            "end": 12,
+            "value": "vaux rien",
+            "entity": "offend"
+          },
+          {
+            "start": 3,
+            "end": 12,
+            "value": "vaut rien",
+            "entity": "offend"
+          }
+        ]
+      },
+      {
+        "text": "Merci",
+        "intent": "thankyou",
+        "entities": []
+      },
+      {
+        "text": "Merci beaucoup !",
+        "intent": "thankyou",
+        "entities": []
+      },
+      {
+        "text": "thank you !",
+        "intent": "thankyou",
+        "entities": []
+      },
+      {
+        "text": "thx you",
+        "intent": "thankyou",
+        "entities": []
+      },
+      {
+        "text": "thx !",
+        "intent": "thankyou",
+        "entities": []
+      },
+      {
+        "text": "Merci pour ton aide",
+        "intent": "thankyou",
+        "entities": []
+      },
+      {
+        "text": "Merci ! c'etais sympa",
+        "intent": "thankyou",
+        "entities": []
+      },
+      {
+        "text": "Merci ! Tu es genial",
+        "intent": "thankyou",
+        "entities": []
+      },
+      {
+        "text": "Bien le bonjour",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Hola !",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Hola ",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Bonsoir !",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Bonsoir",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Bien le bonsoir",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "T'es con ",
+        "intent": "offend",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "T'es con ",
+            "entity": "offend"
+          },
+          {
+            "start": 2,
+            "end": 9,
+            "value": "es con ",
+            "entity": "offend"
+          }
+        ]
+      },
+      {
+        "text": "Tu es une merde",
+        "intent": "offend",
+        "entities": [
+          {
+            "start": 0,
+            "end": 15,
+            "value": "Tu es une merde",
+            "entity": "offend"
+          },
+          {
+            "start": 3,
+            "end": 15,
+            "value": "es une merde",
+            "entity": "offend"
+          }
+        ]
+      },
+      {
+        "text": "Tu n'as aucun utilite",
+        "intent": "offend",
+        "entities": [
+          {
+            "start": 0,
+            "end": 21,
+            "value": "Tu n'as aucun utilite",
+            "entity": "offend"
+          }
+        ]
+      },
+      {
+        "text": "Yo",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Hello",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "salut",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "bonjour",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "bonsoir",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "greet",
+        "intent": "hallo !",
+        "entities": []
+      },
+      {
+        "text": "salut",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "bonjour",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "bonsoir",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "bien le bonjour",
+        "intent": "greet",
+        "entities": []
+      }
+    ],
+    "regex_features": [],
+    "entity_synonyms": []
+  }
+}

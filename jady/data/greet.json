@@ -1,0 +1,5009 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ça va bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Greet bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Sa va robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que te sens tu bien intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tout va bien bien toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que sa va bien toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Tout va bien bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ca va bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Ca va bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salam"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Sa va toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que sa va bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que sa va bien intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Il y'a quelqu'un intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Greet intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Heho bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "il y'a quelqu'un bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "sa va robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que te sens tu bien toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonjour"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonsoir toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment sa va bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment ça va intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salution toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "sa va"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "T'es la bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "tu es la"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment tout va bien toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que te sens tu toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Ça va intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "yo robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Ca va intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que te sens tu bien robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ça va bien !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salamalec intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salam bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que sa va robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tout va bien toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hello toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonjour robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "greet !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ça va intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "tu es la bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salution bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ca va bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "T'es la bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ça va bien !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que sa va bien robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Ça va intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "greet"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Tout va bien intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment te sens tu !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "ca va bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hello robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salamalec intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Tout va bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hallo !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Ça va"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonsoir"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hello robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment ca va"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que te sens tu bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ca va toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Sa va bien !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonsoir robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "tout vas bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment tu te sens bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Allo intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "mes salutions toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Ça va bien toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Tout va bien bien robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tu te sens bien !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que sa va bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Heho toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "greet robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Sa va"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "ça va intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ça va toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Sa va bien toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ca va !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment tu te sens intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonsoir"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Ça va"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que sa va intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ca va bien toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hallo !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ça va bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Ca va toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tout va bien !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que sa va robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salam bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ça va bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Sa va"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Tout va bien bien bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Ca va robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "T'es la intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tu te sens bien bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Ça va bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Sa va robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Tu es la intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tout va bien bien toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Ça va bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tu te sens bien bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment te sens tu !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Mes salutions robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ca va bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salam toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonsoir toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tout va bien bien !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Ca va"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Sa va bien robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que te sens tu bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "sa va bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Sa va robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ça va bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ça va bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Yo toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonsoir toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Sa va robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que te sens tu bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salam bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "ca va robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tu te sens"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "mes salutions !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "yo bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonjour toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Ca va bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "tout vas bien intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salution intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Tout va bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que te sens tu"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "mes salutions toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonjour bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ca va"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Tout va bien bien robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Ça va bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "ça va robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ça va toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salution toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "allo bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Tout vas bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tout va bien bien bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Tout va bien bien toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "T'es la robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "tu es la robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ça va bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que sa va bien toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "heho !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment te sens tu toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salamalec !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ca va robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Ça va bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hallo intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Sa va !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ca va toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hallo bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tout va bien bien robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salamalec bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tu te sens bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "ca va toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ça va bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Sa va toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Ca va"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonsoir robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tout va bien robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Ca va intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salut toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que te sens tu toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ça va bien toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Yo !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ca va bien robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que sa va intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que sa va bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Ça va toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "mes salutions"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Ça va robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hey toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment tout va bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tu te sens bien robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Tout va bien bien intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonsoir intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Heho robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Tout va bien bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Tout va bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tout va bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonsoir intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Tout vas bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment ça va toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "ça va"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que sa va bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "allo bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonjour toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Ça va bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "mes salutions robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Sa va bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonjour bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "greet bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Ca va bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ça va bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Sa va robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "yo robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "sa va robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tout va bien bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment ça va"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonsoir robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ca va intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Sa va intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que sa va bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ça va bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment ca va robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que te sens tu bien !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tout va bien bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonsoir"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonsoir"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Sa va bien intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Sa va robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Tout va bien bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "il y'a quelqu'un intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Tu es la !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Heho toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonsoir !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "ca va bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ça va bien toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ça va bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Ca va toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ca va intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Tout va bien bien toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Tout va bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Heho bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "allo toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Tout va bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que te sens tu"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonsoir"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "mes salutions"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonjour robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment te sens tu toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tu te sens robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salam robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ça va bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "t'es la intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ça va bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Tu es la"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Sa va toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tout va bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Tout va bien !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "mes salutions toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment ça va toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Sa va"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "greet robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hallo robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Yo robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment tu te sens toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonsoir toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "yo bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonjour bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonsoir intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que te sens tu bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hello intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "tu es la toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "yo !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Tout va bien bien toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "tout vas bien robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Ça va bien toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ça va bien robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ca va bien robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que sa va bien intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ca va bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tout va bien bien bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tout va bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "t'es la robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Tout va bien bien toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que sa va bien robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "allo !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonjour robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tu te sens bien toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Ca va bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment ca va toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tu te sens bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "heho intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Sa va bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tout va bien robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Ça va toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonjour toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que sa va bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Sa va robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ca va"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Sa va bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tout va bien bien toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Tout va bien !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonsoir !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Tout va bien intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tu te sens bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "sa va toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ca va toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Tu es la bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ça va bien toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "sa va intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment te sens tu robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salam robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Ça va !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Tout va bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que sa va bien toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Tout vas bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment ça va bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Tout va bien bien !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Tu es la"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Allo"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Allo robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tout va bien bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonsoir bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Sa va bien bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Ça va robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salution intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ca va bien bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "il y'a quelqu'un toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Tout va bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "tout vas bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ça va bien intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salamalec robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment tout va bien !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "il y'a quelqu'un !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Mes salutions intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que te sens tu intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment te sens tu !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ca va bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "yo intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tu te sens bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Tout va bien toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment tu te sens toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "heho robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Sa va robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ça va bien robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Allo intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Sa va toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Tu es la toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment tout va bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tu te sens bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Tout va bien intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment te sens tu toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "T'es la robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salam"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Yo toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment ca va bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ca va intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Ca va"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tu te sens toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Ca va bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Tout va bien bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que te sens tu toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ca va bien bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ça va bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hallo robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment te sens tu robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Tout va bien bien toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hallo robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salamalec intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que sa va !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Sa va bien !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Tout va bien toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tu te sens intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Yo toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Ça va !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que sa va toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment ca va intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ça va !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment ça va !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Sa va intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "ça va bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Yo !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Tout va bien bien bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ca va !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salamalec"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonsoir intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Tout va bien bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonjour toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonsoir"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Yo robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Tout va bien bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tu te sens bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tu te sens bien intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonsoir intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "t'es la bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Tout va bien bien !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hey"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Ça va intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "greet toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Ca va intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ça va"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Ca va robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ça va bien !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment ca va intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment sa va robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Tout va bien bien toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment ça va intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ca va bien bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Allo robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "tout vas bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ça va intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que te sens tu bien toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonsoir toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Ça va robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ça va bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "tu es la toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salam toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ça va intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salam robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tout va bien bien toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ca va bien !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Tout va bien robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tout va bien bien toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "sa va toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que sa va toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Sa va robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Tu es la robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Ca va intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "greet toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que te sens tu bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Tout va bien robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ca va toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Ça va bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment tout va bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tu te sens robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "heho intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Tout va bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonsoir toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Greet intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Heho bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que sa va"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Ca va toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tu te sens bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ca va bien toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Tout va bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salamalec toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que sa va robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonsoir intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonsoir intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Ca va bien !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Tout va bien !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que te sens tu robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que te sens tu robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment sa va toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ça va bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que te sens tu bien intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "greet bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "greet robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonjour robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que te sens tu toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "ça va"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Tout va bien toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ca va bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Sa va"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "il y'a quelqu'un !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Greet intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Allo bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Sa va !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Tout vas bien toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tout va bien bien robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonjour intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Ca va"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Ça va bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ça va bien intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment te sens tu bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ça va bien toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que te sens tu bien toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "mes salutions bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salam !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ca va bien intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "heho bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que sa va bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonsoir robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment tout va bien bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment tout va bien toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Greet bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment tout va bien !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "ca va toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonsoir bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tu te sens robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Sa va bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Ca va robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "heho !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "T'es la robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Sa va bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ca va bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Tout va bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ca va toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "ca va toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que te sens tu bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salution"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Ça va !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "T'es la !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ça va robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Ca va robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Ca va bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Ça va bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Ça va robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment tout va bien !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Ca va robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Ça va bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonjour"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tout va bien intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "il y'a quelqu'un toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salution toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Ça va !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonjour bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Greet toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "heho intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ca va bien robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment te sens tu !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que te sens tu bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment sa va robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hallo"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que sa va bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Tout va bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ça va bien intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonjour bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment ca va !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ça va bien toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tu te sens robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonsoir toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "tout vas bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Ca va intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salamalec bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Ca va bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tout va bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment te sens tu robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salam toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Tout va bien bien toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Ca va bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salam intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonjour intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que sa va bien toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hallo toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ça va bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment tout va bien bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tout va bien bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment tu te sens !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ça va bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment ça va robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que sa va robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salam !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salam robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment tout va bien bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Tout va bien toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Tout va bien bien bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "heho robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Sa va bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonsoir robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonjour !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment sa va bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ca va"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonjour intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ça va bien intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Yo toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Il y'a quelqu'un intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Sa va robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Tout va bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonjour bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ça va toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Tu es la toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ça va bien toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonsoir toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "t'es la intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Tu es la bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Ça va intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "T'es la intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tu te sens bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment ça va robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Ça va"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "tout vas bien bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hello intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ca va intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Ca va intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Mes salutions toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Mes salutions"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonjour robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment te sens tu robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Il y'a quelqu'un"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ca va bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonjour bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment sa va robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ça va toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Tout vas bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ca va bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonjour toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Tout va bien !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tout va bien toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonjour robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonjour intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment sa va intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tu te sens bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonjour robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonsoir intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ça va"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "il y'a quelqu'un intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "ca va robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que te sens tu !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment tu te sens intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salam toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que sa va bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Ça va robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "heho toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment tu te sens robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Allo robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Mes salutions toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "T'es la toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Tout va bien bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment te sens tu toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ça va intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tout va bien bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Ça va bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment tout va bien toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "t'es la !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tu te sens bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Ca va bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salut bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Ça va robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment ça va robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tu te sens"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que te sens tu bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "mes salutions !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Tout va bien toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ca va bien !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tout va bien bien robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ça va bien toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Sa va bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment ca va !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Ca va robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hallo toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tout va bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ça va !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Sa va toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Tout va bien bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tout va bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment ça va toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que te sens tu intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salution intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Tout vas bien robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "allo toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Il y'a quelqu'un bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hallo"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que te sens tu !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ca va bien !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salam intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Sa va robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Allo toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Sa va robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ca va bien toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonjour robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment tu te sens toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment tu te sens robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salut robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Yo bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonsoir bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonsoir !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hey bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Tout va bien bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salut"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Ça va intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salam intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonsoir toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salution !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salam intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "heho bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonsoir !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Heho robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonsoir toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonsoir bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment te sens tu"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Tout va bien bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ca va bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salut toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "tout vas bien bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonjour"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Il y'a quelqu'un toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "sa va !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Tout va bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment tout va bien robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment sa va bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salam intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment tu te sens"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tout va bien intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ça va toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tout va bien bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "yo toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Il y'a quelqu'un toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ca va toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salution robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tout va bien bien robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "t'es la bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "tu es la bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Sa va intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Mes salutions !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ça va bien toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "tout vas bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment tu te sens toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "yo"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Ca va bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Allo !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ça va bien robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "il y'a quelqu'un bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment tout va bien robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Sa va bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment tout va bien intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "t'es la toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment tu te sens !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "greet intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "t'es la bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Ça va intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Ca va robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tu te sens bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment tu te sens"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Ca va robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ca va"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Mes salutions"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Mes salutions !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salution bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Greet toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "T'es la toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment te sens tu intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment sa va intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Allo robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment ça va toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que te sens tu bien intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Tout va bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Tout va bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hello bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salution robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "il y'a quelqu'un bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Ça va bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonjour bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonsoir toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Ça va bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que te sens tu bien toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ça va bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que sa va bien robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "ça va bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salution bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tout va bien bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Ca va robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment te sens tu bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonjour robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Yo robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonjour !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ça va robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "heho robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tu te sens toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment ca va bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hallo"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salution robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "sa va robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Ca va bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment ca va robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Tout va bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salution"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salut intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Sa va intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Tout va bien toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Sa va bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment te sens tu toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tout va bien bien bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Mes salutions robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ca va bien intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que te sens tu intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hallo toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salution bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "sa va intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que sa va !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salution intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment sa va toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Sa va bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tu te sens intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Sa va intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Ca va toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ca va bien bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que te sens tu bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ca va bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "t'es la intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Ca va bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Sa va bien intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonjour !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonsoir robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que sa va toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ca va bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "greet toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Il y'a quelqu'un bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "t'es la robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "la forme ?"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ça va robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que sa va bien intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que te sens tu robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ça va bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Ça va"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Sa va bien toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tu te sens bien toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que te sens tu bien toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que te sens tu bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "ca va !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Sa va toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment tu te sens intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "mes salutions robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que sa va bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonjour toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tu te sens bien toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que sa va bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salamalec bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Tout va bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ça va robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ça va bien intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salam intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que sa va toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que te sens tu bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "tout vas bien toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que te sens tu bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que te sens tu toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment tout va bien robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ça va !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment ça va !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que te sens tu robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Ça va bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Sa va bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salution toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Il y'a quelqu'un"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Tout va bien robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Sa va bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Mes salutions intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que sa va bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tout va bien !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que te sens tu bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que sa va robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Ça va bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonjour robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment te sens tu bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonjour robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Il y'a quelqu'un robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ca va robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tout va bien bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salution"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment te sens tu bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "il y'a quelqu'un bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ca va"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ça va bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ca va bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Ca va intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ça va toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Il y'a quelqu'un !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Greet robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Ca va toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment sa va !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonsoir intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tout va bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Tout va bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que sa va bien robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salam"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hallo toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Ca va !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment ça va intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "ça va bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salamalec toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Sa va bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que sa va intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ca va bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Ca va bien robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Sa va"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Sa va bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ça va bien !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tout va bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Ça va bien intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que te sens tu bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que te sens tu bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "ça va toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ca va bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salut bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que ça va bien bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tout va bien bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Ça va"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tu te sens bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ca va toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Tout va bien bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salution robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salution robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que sa va"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment te sens tu robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonjour bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment ca va toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ça va intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salamalec robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hallo toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ça va robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Ça va bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salut toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que te sens tu"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salam toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Tout va bien bien !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Tout va bien bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Il y'a quelqu'un toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Tout vas bien toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ca va bien toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que sa va intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Sa va bien intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Tout va bien toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment ça va toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tu te sens bien toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ça va"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment ca va !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "allo robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salam bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salut !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salution toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Allo"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Ça va bien !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Ça va intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "tout vas bien intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment te sens tu intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Sa va bien intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salut bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment tout va bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "heho toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Sa va bien toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Tout va bien bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment tu te sens intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salut intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salamalec bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salam !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hey toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Tout va bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Greet intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hallo intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Ca va bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que sa va bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonjour toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "sa va robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "tout vas bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salamalec toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salamalec bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment tu te sens intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Sa va"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Ca va toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment ça va bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Tout va bien intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Sa va bien toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tu te sens bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Il y'a quelqu'un bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salut toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salamalec robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonsoir"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Tu es la intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "tu es la toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que ça va bien bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment Sa va toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment sa va"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment Tout va bien robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que tu te sens intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "greet !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment tout va bien bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonsoir bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salut bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment sa va toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tout va bien"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "comment toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Comment ça va bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonjour !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que sa va intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que Tout va bien toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que sa va bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonjour intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Est est ce que Ca va bien bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "est est ce que tu te sens bien"
+      }
+    ],
+    "entity_synonyms": [],
+    "lookup_tables": [],
+    "regex_features": []
+  }
+}

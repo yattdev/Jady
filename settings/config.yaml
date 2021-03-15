@@ -1,0 +1,19 @@
+appname: chatbotapp
+logLevel: WARN
+
+
+books:
+    json:
+        french: 'books/jsonFrench'
+        english: 'books/jsonEnglish'
+    epub:
+        french: 'books/epubFrench'
+        english: 'books/epubEnglish'
+    paths:
+        french: 'books/chapterFrenchPaths/indexed_chap_paths.json'
+
+nlu_data_path: 'jady/data'
+
+VERIFY: ${VERIFY}
+SECRET: ${SECRET}
+PAGE_ACCESS_TOKEN: ${PAGE_ACCESS_TOKEN}

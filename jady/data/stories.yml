@@ -1,0 +1,107 @@
+version: "2.0"
+
+stories:
+
+- story: happy path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_great
+  - action: utter_happy
+
+- story: sad path 1
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_unhappy
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: affirm
+  - action: utter_happy
+
+- story: sad path 2
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_unhappy
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: deny
+  - action: utter_goodbye
+
+- story: interactive_story_1
+  steps:
+  - intent: Établir_des_distinctions_:_les_méta-programmes
+  - action: action_answer_question
+
+- story: interactive_story_1
+  steps:
+  - intent: Établir_des_distinctions_:_les_méta-programmes
+  - action: action_answer_question
+
+- story: interactive_story_1
+  steps:
+  - intent: Établir_des_distinctions_:_les_méta-programmes
+  - action: action_answer_question
+
+- story: interactive_story_1
+  steps:
+  - intent: Les_sept_mensonges_du_succès
+  - action: action_answer_question
+
+- story: interactive_story_1
+  steps:
+  - intent: Apprendre_excéllence_humaine
+  - action: action_answer_question
+  - intent: L_énergie_:_le_carburant_de_l_excellence
+  - action: action_answer_question
+
+- story: interactive_story_1
+  steps:
+  - intent: L_énergie_:_le_carburant_de_l_excellence
+  - action: action_answer_question
+
+- story: interactive_story_1
+  steps:
+  - intent: L_énergie_:_le_carburant_de_l_excellence
+  - action: action_answer_question
+  - action: action_answer_question
+  - intent: Les_points_d_ancrage_de_la_réussite
+  - action: action_answer_question
+  - intent: Les_sept_mensonges_du_succès
+  - action: action_answer_question
+
+- story: interactive_story_1
+  steps:
+  - intent: L_énergie_:_le_carburant_de_l_excellence
+  - action: action_answer_question
+
+- story: interactive_story_1
+  steps:
+  - intent: L_énergie_:_le_carburant_de_l_excellence
+  - action: action_answer_question
+
+- story: interactive_story_1
+  steps:
+  - intent: L_énergie_:_le_carburant_de_l_excellence
+  - action: action_answer_question
+  - intent: Connaître_la_distinction_entre_les_gens_qui_reussissent_et_les_autres
+
+- story: interactive_story_1
+  steps:
+  - intent: offend
+    entities:
+    - offend: 'null'
+  - intent: offend
+  - action: utter_greet
+
+- story: interactive_story_1
+  steps:
+  - action: action_answer_question
+  - intent: L_énergie_:_le_carburant_de_l_excellence
+  - action: action_answer_question
+
+- story: interactive_story_1
+  steps:
+  - intent: L_énergie_:_le_carburant_de_l_excellence
+  - action: action_answer_question

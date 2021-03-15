@@ -1,0 +1,6 @@
+indexation
+jady
+processing_book
+settings
+src
+watch

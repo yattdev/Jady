@@ -1,0 +1,5009 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Abruti"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Aigrefin"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Analphabète"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Andouille"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Anus De Poulpe"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Aspirateur A Muscadet"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Assisté"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Asticot"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Attardé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Avorton"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Baltringue"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Bigleux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Boloss"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Bougre De Conne"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Bourrin"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Boursemolle"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Branquignole"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Brosse à Chiottes"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Brêle"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Bélitre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Cancrelat"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Carburateur à Beaujolais"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Casse-pieds"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Cassos (cas Social)"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Cervelle D’huitre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Charogne"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Chiure De Pigeon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Clodo"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Couillon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Crevure"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Crotte De Moineau"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Crétin"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Crétin Goîtreux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Cuistre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Cul De Babouin"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Cul Terreux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Ducon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Dugenou"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Dugland"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Débile"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Décérébré"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Dégueulis"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Ecervelé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Ectoplasme"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Empaffé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Emplâtre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Empoté"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Enculeur De Mouches"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Enculé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Enflure"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Enfoiré"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Erreur De La Nature"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Eunuque"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Fiote"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Foireux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Frappe"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Freluquet"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Frustré"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Furoncle"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Félon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Glandus"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Gnome"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Graveleux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Grenouille"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Gros Caca Poilu"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Gros Lard"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Grosse Merde Puante"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Grosse Truie Violette"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Grue"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Gueule De Raie"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Has-been"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Histrion"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Iconoclaste"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Idiot"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Ignare"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Illettré"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Imbibé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Imbécile"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Impuissant"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Infâme Raie De Cul"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Ironie De La Création"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Ivrogne"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu es Gibier De Potence"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu es Merdasse"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu es Morpion"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu es Salope"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu es Salopiaud"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu es chenapan"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu es dégueulis"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu es foutriquet"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu es fripouille"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu es goujat"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu es guignol"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu es manant"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu es morpion"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu es panaris"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu es sabraque"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu es tabarnak"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu es un Bégueule"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu es un Crapule"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu es un Jean-foutre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu es un Mononeuronal"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu es un Moudlabite"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu es un Pute Au Rabais"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu es un Sombre Crétin"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu es un Vaurien"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu es un bordel"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu es un gogol"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu es un manche à Couille"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu es un minable"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu n'est qu'un Batârd"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu n'est qu'un Bélitre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu n'est qu'un Conard"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu n'est qu'un Empaffé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu n'est qu'un Enfoiré"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu n'est qu'un Imbibé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu n'est qu'un Infâme Raie De Cul"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu n'est qu'un Naze"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu n'est qu'un Obsédé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu n'est qu'un Outre à Pisse"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu n'est qu'un Outrecuidant"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu n'est qu'un Sodomite"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu n'est qu'un ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu n'est qu'un attardé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu n'est qu'un bordel à Cul"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu n'est qu'un brigand"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu n'est qu'un butor"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu n'est qu'un clodo"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu n'est qu'un crassard"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu n'est qu'un ecervelé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu n'est qu'un illettré"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu n'est qu'un merde Molle"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que Tu n'est qu'un wisigoth"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es Foireux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es Globicéphale"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es Pignolo"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es Sac à Merde"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es Saperlotte"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es Tasse à Foutre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es Veule"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es Vieille Taupe"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es cornard"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es cryptorchide"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es pauvre Con"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es poivrot"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es sac à Viande"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es saltinbanque"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es un Cave"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es un Cloche"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es un Has-been"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es un Judas"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es un Paysan"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es un Phlegmon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es un Spermatozoide Avarié"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es un Traîne Savate"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es un boule De Pus"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es un brêle"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es un bélitre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es un béotien"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es un fumiste"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es un grosse Merde Puante"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es un pimbêche"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es un pintade"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es un pygocéphale"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es un queutard"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es un tonnerre De Brest"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es un tronche De Cake"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es un vandale"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es wisigoth"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu es zigomar"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu n'est qu'un Analphabète"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu n'est qu'un Anus De Poulpe"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu n'est qu'un Ecervelé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu n'est qu'un Empoté"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu n'est qu'un Guignol"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu n'est qu'un Imbibé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu n'est qu'un Marchand De Tapis"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu n'est qu'un Mécréant"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu n'est qu'un Nounouille"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu n'est qu'un Outre à Pisse"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu n'est qu'un Parvenu"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu n'est qu'un Sous Merde"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu n'est qu'un Toqué"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu n'est qu'un Va Nu Pieds"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu n'est qu'un abruti"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu n'est qu'un avorton"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu n'est qu'un cervelle D’huitre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu n'est qu'un ecervelé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu n'est qu'un emplâtre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu n'est qu'un enculeur De Mouches"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu n'est qu'un imbibé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu n'est qu'un ironie De La Création"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu n'est qu'un merlan Frit"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu n'est qu'un obsédé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu n'est qu'un olibrius"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu n'est qu'un outre à Pisse"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu n'est qu'un pignolo"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu n'est qu'un pignouf"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu n'est qu'un sac à Foutre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Je dis que tu n'est qu'un tasse à Foutre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Jobastre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Larve"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Loutre Analphabète"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Malandrin"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Manant"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Mange Merde"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Merdasse"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Minable"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Morpion"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Morveux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Mou Du Gland"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Mécréant"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Nain De Jardin"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Nez De Boeuf"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Noob"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Nécrophile"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Obsédé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Oiseau De Mauvaise Augure"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Olibrius"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Ordure Purulente"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Outre à Pisse"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Paltoquet"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Parbleu"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Paysan"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Peine à Jouir"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Pervers"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Pignouf"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Pinailleur"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Pine D’huitre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Pine D’ours"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Plouc"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Poivrot"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Polisson"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Pouffe"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Poufieux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Pouilleux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Pourceau"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Pourriture"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Putassière"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Pute Au Rabais"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Pétasse"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Raclure De Chiotte"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Résidus De Partouze"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Sac à Brin"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Salaud"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Saperlipopette"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Serpillière à Foutre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Sinistrose Ambulante"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Sombre Conne"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Sot"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Sybarite"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Syphonné"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tanche"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tartignole"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Taré"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tonnerre De Brest"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Traîne Savate"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Triple Buse"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Trou De Balle"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es Bougre De Congre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es Couille De Tétard"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es Détritus"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es Gangrène"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es Gros Caca Poilu"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es Nazillon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es Pachyderme"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es Paumé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es Pousse Mégot"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es Ramassis De Chiure De Moineau"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es Renégat"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es Salopard"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es Troubignole"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es Va Nu Pieds"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es Vieille Poule"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es cornegidouille"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es dégueulis"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es fesse De Moule"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es frigide"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es ganache"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es gogol"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es gras Du Bide"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es grognasse"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es gros Lard"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es malpropre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es neuneu"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es noob"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es phlegmon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es quadrizomique"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es ramassis De Chiure De Moineau"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es renégat"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es sous Merde"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es trou Du Cul"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es tête De Noeud"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un Branque"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un Bubon Puant"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un Caribou"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un Clampin"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un Concombre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un Crassard"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un Fini à L’urine"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un Fourbe"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un Frapadingue"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un Gros Caca Poilu"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un Guignol"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un Loutre Analphabète"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un Mongol"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un Pimbêche"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un Pompe A Merde"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un Pouffiasse"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un Schnock"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un Schpountz"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un Trumeaux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un Tête De Chibre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un Vorace"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un Zoulou"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un casse-pieds"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un cassos (cas Social)"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un chieur"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un débile"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un kroumir"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un kéké"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un maquereau"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un morveux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un parasite"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un peau De Vache"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un pouffiasse"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un rouge"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un saltinbanque"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un triple Buse"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un trou Du Cul"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un tétârd"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es un zigoto"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu es zigomar"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un Aigrefin"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un Andouille"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un Arsouille"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un Bandit"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un Bélitre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un Carburateur à Beaujolais"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un Coprophage"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un Crapaud De Pissotière"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un Cul Terreux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un Dégénéré Du Bulbe"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un Détritus"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un Ecervelé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un Ectoplasme"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un Emmerdeur"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un Empaffé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un Eunuque"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un Faquin"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un Frippon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un Iconoclaste"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un Ivrogne"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un Loutre Analphabète"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un Morpion"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un Patate"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un Pisse-vinaigre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un Putin"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un Renégat"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un Spermiducte"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un Traîne Savate"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un Usurpateur"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un Vieux Chnoque"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un Zouave"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un abruti"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un anachorète"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un analphabète"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un asticot"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un couillon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un crétin Goîtreux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un cuistre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un ectoplasme"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un enfoiré"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un eunuque"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un goujat"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un gringalet"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un gros Caca Poilu"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un idiot"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un imbibé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un minable"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un neuneu"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un oiseau De Mauvaise Augure"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un ordure Purulente"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un paysan"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un pine D’ours"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un queutard"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un sacrebleu"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un sauvage"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un spermatozoide Avarié"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un tabernacle"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tu n'est qu'un tétârd"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tudieu"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tête De Chibre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Tête De Noeud"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Usurpateur"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Ventrebleu"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Veule"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Vieux Con"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Vérole"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Zigomar"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Zozo"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "abruti"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "aigrefin"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "anachorète"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "analphabète"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "andouille"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "anus De Poulpe"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "arsouille"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "aspirateur A Muscadet"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "assisté"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "asticot"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "attardé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "avorton"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "babache"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "bachibouzouk"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "balai de Chiottes"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "barjot"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "blaireau"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "bouffon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "bougre De Congre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "branleur"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "branlotin"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "brigand"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "burne"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "bécasse"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "bégueule"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "bélitre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "béotien"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "bête"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "canaille"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "canaillou"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "cancrelat"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "carburateur à Beaujolais"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "caribou"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "cervelle D’huitre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "chacal"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "chameau"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "chancre puant"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "chaoui"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "chenapan"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "chieur"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "clampin"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "connard"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "couille De Tétard"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "crassard"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "crétin Des Alpes"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "crétin Goîtreux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "cuistre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "cul De Babouin"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "ducon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "dugenou"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "dugland"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "décamerde"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "dégueulasse"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "dégénéré Du Bulbe"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "détritus"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "ecervelé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "ectoplasme"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "emmerdeur"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "empaffé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "emplâtre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "empoté"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "enculeur De Mouches"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "enculé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "enflure"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "erreur De La Nature"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "eunuque"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "faraud"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "faux Jeton"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "fini à L’urine"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "fiote"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "foireux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "four à Merde"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "fourbe"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "fumier"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "garage A Bite"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "gros Con"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "hérétique"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "iconoclaste"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "idiot"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "ignare"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "illettré"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "imbibé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "imbécile"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "impuissant"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "ironie De La Création"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "ivrogne"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "jaune"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu es Gueule De Fion"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu es Kéké"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu es Naze"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu es Piètre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu es Rouge"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu es Sacrement"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu es Va Nu Pieds"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu es Voyou"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu es crétin Goîtreux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu es dypterosodomite"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu es goinfre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu es mange Merde"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu es mérule"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu es pétochard"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu es sac à Gnole"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu es tête De Noeud"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu es un Four à Merde"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu es un Morfale"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu es un Sacrement"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu es un Saligaud"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu es un Va Te Faire"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu es un chancre puant"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu es un merdaillon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu es un nazillon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu es un pinailleur"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu es un pompe A Merde"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu es un pourceau"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu es zozo"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un Abruti"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un Arsouille"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un Assisté"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un Chaoui"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un Crapule"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un Eunuque"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un Fricoteur"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un Idiot"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un Infâme Raie De Cul"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un Mouton De Panurge"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un Pauvre Con"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un Quadrizomique"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un Sac à Brin"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un Vieux Fossile"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un anus De Poulpe"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un attardé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un chancreux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un couard"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un face De Rat"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un faraud"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un faux Jeton"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un fesses Molles"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un fourbe"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un frippon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un imbécile"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un ironie De La Création"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un olibrius"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un ordure Purulente"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un serpillière à Foutre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un tête De Con"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un vaurien"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que Tu n'est qu'un vermine"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es Crapule"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es Fricoteur"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es Grognasse"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es Piqueniquedouille"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es Poltron"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es Pouacre, Pouacreux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es cinglé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es fion"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es glandus"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es jobastre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es laideron"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es nazillon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es pauvre Con"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es phlegmon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es piètre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es un Chacal"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es un Cinglé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es un Concombre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es un Faux Jeton"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es un Fesses Molles"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es un Grosse Merde Puante"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es un Merdaillon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es un Peau De Bite"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es un Pourriture"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es un Salope"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es un babache"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es un bégueule"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es un canaillou"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es un chancre puant"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es un crapaud De Pissotière"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es un gnome"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es un jobastre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es un maquerelle"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es un vautour"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es un vieux Con"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es un voleur"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu es veule"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un Abruti"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un Anachorète"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un Analphabète"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un Anus De Poulpe"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un Aspirateur A Muscadet"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un Assisté"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un Avorton"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un Bouricot"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un Coprolithe"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un Enculeur De Mouches"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un Erreur De La Nature"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un Foldingue"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un Gommeux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un Gueux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un Idiot"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un Impuissant"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un Larve"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un Paysan"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un Renégat"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un Spermiducte"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un Vautour"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un Zigomar"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un abruti"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un aigrefin"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un arsouille"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un asticot"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un attardé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un cornard"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un emplâtre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un enculé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un enfoiré"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un eunuque"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un frapadingue"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un glandus"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un iconoclaste"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un infâme Raie De Cul"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un ivrogne"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un obsédé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un petzouille"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "je dis que tu n'est qu'un usurpateur"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "jean-foutre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "jobastre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "laideron"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "lavedu"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "malotru"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "manant"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "maraud"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "merde Molle"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "merdophile"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "merlan Frit"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "microcéphale"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "minable"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "minus"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "miteux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "mont De Brin"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "morbleu"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "morfale"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "morille"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "mou Du Genou"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "nain De Jardin"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "nanar"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "nigaud"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "obsédé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "oiseau De Mauvaise Augure"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "olibrius"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "ordure Purulente"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "outre à Pisse"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "outrecuidant"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "pecore"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "pervers"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "phlegmon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "pimbêche"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "pinailleur"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "pine D’huitre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "pisse Froid"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "pissure"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "playboy De Superette"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "poivrot"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "poltron"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "quiche"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "raclure De Bidet"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "raclure De Chiotte"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "radin"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "ramassis De Chiure De Moineau"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "roulure"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "sac à Merde"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "saltinbanque"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "sot"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "spermiducte"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "sybarite"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "syphonné"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tasse à Foutre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "trainé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "traîne Savate"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es Brosse à Chiottes"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es Bête"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es Couillon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es Décérébré"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es Garage A Bite"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es Glandus"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es Gommeux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es Marchand De Tapis"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es Pignolo"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es Poireau"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es Pouilleux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es Salaud"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es Scelerat"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es Spermatozoide Avarié"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es Suintance"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es Va Te Faire"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es Vicelard"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es Vieux Tromblon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es carburateur à Beaujolais"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es crâne D’obus"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es frappe"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es gueule De Fion"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es marchand De Tapis"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es minus"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es pauvre Con"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es peau De Bite"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es pécore"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es renégat"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es salope"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es tromblon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es trou Du Cul"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un Boudin"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un Bourrin"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un Bouseux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un Bubon Puant"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un Chaoui"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un Crasspouillard!"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un Godiche"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un Morille"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un Morveux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un Moudlabite"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un Poufieux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un Schnock"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un Sombre Conne"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un Tête De Bite"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un Vaurien"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un Vipère Lubrique"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un Zigomar"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un banane"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un bourrin"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un bouseux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un brêle"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un bégueule"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un caprinophile"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un conchieur"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un crapaud De Pissotière"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un débile"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un grand Dépandeur D’andouilles"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un jean-foutre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un moins Que Rien"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un poufieux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un pute Au Rabais"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un putin"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un pétassoïde Conassiforme"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un scaphandrier D’eau De Vaiselle"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un sodomite"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un sot"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es un vieux Fossile"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es vieux Fossile"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es vorace"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu es zouave"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un Aspirateur A Muscadet"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un Avorton"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un Bougre D’âne"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un Burne"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un Canaille"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un Chiasse De Caca Fondu"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un Emmerdeur"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un Empaffé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un Emplâtre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un Erreur De La Nature"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un Eunuque"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un Fourbe"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un Gringalet"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un Gueulard"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un Hostie D’épais"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un Idiot"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un Ignare"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un Illettré"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un Imbibé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un Infâme Raie De Cul"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un Jaune"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un Moins Que Rien"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un Mérule"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un Obsédé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un Outrecuidant"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un Piètre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un Tête De Con"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un Voleur"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un Zigomar"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un abruti"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un anachorète"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un analphabète"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un aspirateur A Muscadet"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un asticot"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un attardé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un chameau"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un emmerdeur"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un enculé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un enfoiré"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un frapadingue"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un grand Cornichon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un gras Du Bide"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un histrion"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un imbécile"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un impuissant"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un merdaillon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un oiseau De Mauvaise Augure"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un outrecuidant"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un panaris"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un parbleu"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un pignolo"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un pimbêche"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un poireau"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un pousse Mégot"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un saperlipopette"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un tocard"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un tétârd"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tu n'est qu'un tête De Con"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tétârd"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "tête D’ampoule"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "usurpateur"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "va Nu Pieds"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "vieille Poule"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "vieille Taupe"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "vieux Chnoque"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "vieux Con"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "vieux Tromblon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "vipère Lubrique"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "zigomar"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "zigoto"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "zonard"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "zouave"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "zozo"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece Ducon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece Dugenou"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece Dugland"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece d'Abruti"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece d'Ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece d'Aigrefin"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece d'Analphabète"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece d'Arsouille"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece d'Asticot"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece d'Attardé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece d'Emmerdeur"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece d'Empaffé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece d'Empoté"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece d'Enculeur De Mouches"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece d'Erreur De La Nature"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece d'Idiot"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece d'Imbibé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece d'Imbécile"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece d'Obsédé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece d'Oiseau De Mauvaise Augure"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece d'Ordure Purulente"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece d'abruti"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece d'anus De Poulpe"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece d'assisté"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece d'attardé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece d'emmerdeur"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece d'enculeur De Mouches"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece d'enculé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece d'eunuque"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece d'imbibé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece d'imbécile"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece d'infâme Raie De Cul"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece d'usurpateur"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de Bandit"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de Bête"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de Cagole"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de Chameau"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de Cloporte"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de Faux Jeton"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de Flaque De Pus"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de Foldingue"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de Fumiste"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de Félon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de Gangrène"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de Goujat"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de Gros Caca Poilu"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de Jobastre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de Kroumir"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de Merdaillon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de Pendard"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de Pouilleux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de Pédale"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de Roublard"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de Saligaud"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de Sombre Crétin"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de Tudieu"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de Vieux Tableau"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de Vilain Comme Une Couvée De Singe"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de Zéro"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de barjot"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de bourique"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de bouseux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de boutonneux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de cinglé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de con"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de crapule"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de don Juan De Pissotière"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de face De Rat"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de flaque De Pus"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de gommeux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de graveleux"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de grosse Merde Puante"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de morfale"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de nain De Jardin"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de nez De Boeuf"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de paysan"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de pipistrelle Puante"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de pot de chambre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de péquenot"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de quadrizomique"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de radasse"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de roquet"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de résidus De Partouze"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de saligaud"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de saloperie"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de truand"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece de vautour"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece ducon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece dugenou"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "Èspece dugland"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece Ducon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece Dugenou"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece Dugland"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'Anachorète"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'Arsouille"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'Assisté"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'Ecervelé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'Ectoplasme"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'Emplâtre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'Enculeur De Mouches"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'Enfoiré"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'Idiot"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'Ignare"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'Imbécile"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'Ironie De La Création"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'Ivrogne"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'Obsédé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'Outrecuidant"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'andouille"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'aspirateur A Muscadet"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'ecervelé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'ectoplasme"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'emmerdeur"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'emplâtre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'empoté"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'enculé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'enfoiré"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'erreur De La Nature"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'iconoclaste"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'idiot"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'illettré"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'impuissant"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'ivrogne"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'oiseau De Mauvaise Augure"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'ordure Purulente"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'outre à Pisse"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece d'outrecuidant"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de Boursemolle"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de Cornard"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de Couard"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de Crevure"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de Cul De Babouin"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de Face De Pet"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de Fumiste"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de Gland"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de Gnome"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de Guignol"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de Loboto"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de Maraud"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de Marchand De Tapis"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de Moins Que Rien"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de Mérule"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de Pissure"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de Sagouin"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de Sinoque"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de Sodomite"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de Tanche"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de Veule"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de Vieux Fossile"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de Vipère Lubrique"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de banane"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de burne"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de chenapan"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de glandeur"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de grand Cornichon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de grenouille"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de gros Caca Poilu"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de histrion"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de jobastre"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de manche à Couille"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de nain De Jardin"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de peigne-cul"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de pigeon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de pute Au Rabais"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de queutard"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de ramassis De Chiure De Moineau"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de sabraque"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de saloperie"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de trainé"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece de vautour"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece ducon"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece dugenou"
+      },
+      {
+        "entities": [],
+        "intent": "offend",
+        "text": "èspece dugland"
+      }
+    ],
+    "entity_synonyms": [],
+    "lookup_tables": [],
+    "regex_features": []
+  }
+}

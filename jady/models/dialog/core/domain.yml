@@ -1,0 +1,175 @@
+version: '2.0'
+config:
+  store_entities_as_slots: true
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+intents:
+- greet:
+    use_entities: true
+- goodbye:
+    use_entities: true
+- affirm:
+    use_entities: true
+- deny:
+    use_entities: true
+- mood_great:
+    use_entities: true
+- mood_unhappy:
+    use_entities: true
+- bot_challenge:
+    use_entities: true
+- thankyou:
+    use_entities: true
+- to_learn:
+    use_entities: true
+- offend:
+    use_entities: true
+- ask_bot_possibility:
+    use_entities: true
+- give_name:
+    use_entities: true
+- satisfaction:
+    use_entities: true
+- status:
+    use_entities: true
+entities:
+- marketing
+- selling
+- finance
+- value_creation
+- subject
+- question
+- offend
+- bot_possibility
+- status
+slots:
+  context:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  finance:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  greet:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  learn_continuous:
+    type: rasa.shared.core.slots.BooleanSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  marketing:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  name:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  question:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  satisfaction:
+    type: rasa.shared.core.slots.BooleanSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  selling:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  status_entrepreneurial:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  subject:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  value_creation:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+responses:
+  utter_greet:
+  - text: '{greet} ! Je suis Yattus, et je suis un bot'
+  - text: Bien le bonjour! Je suis Yattus, et je suis un bot
+  - text: Bien le bonjour! Je suis Yattus, et je suis un bot
+  - text: Yo ! Je suis Yattus, et je suis un bot
+  utter_cheer_up:
+  - text: 'Voici quelque chose qui pourrais te donne une idee de moi:'
+    image: https://i.imgur.com/nGF1K8f.jpg
+  utter_did_that_help:
+  - text: Comment puis-je t'aider ?
+  utter_happy:
+  - text: Super !
+  utter_goodbye:
+  - text: 👋 ba-bye !
+  utter_iamabot:
+  - text: Bien le bonjour! Je suis Yattus, et je suis un bot
+  utter_ask_user_name:
+  - text: C'est quoi ton prenom !?
+  - text: Comment t'appelle tu !?
+  - text: Quel est ton nom !?
+  utter_give_name:
+  - text: Alors {name}, tu veux savoir comment je peux t'aider !?
+  - text: Alors {name}, tu veux savoir ce que je peut faire !?
+  utter_ask_for_possibility:
+  - text: "Je t'accompagne et t'informe dans: (1)La creation de valeur, (2)La vente, (3)Le Marketing et (4)la finance pour le succes ton entreprise."
+  - text: "Je suis ton outils pour monter plus rapidement le mont evreste, en claire mon objectif est de t'apporter les meilleurs informations et outils selon ton status entrepreneurial: Si tu veux en savoir plus sur notre pourquoi ? {lien}. /nJe t'accompagne et t'informe dans: (1)La creation de valeur, (2)La vente, (3)Le Marketing et (4)la finance pour le succes ton entreprise."
+  utter_ask_user_satisfaction:
+  - text: Cette reponse vous a t-il aider !?
+  utter_answer_back_satisfaction:
+  - text: Merci de ta contribution !?
+  - text: Merci de ta contribution {name}!?
+  utter_ask_learn_continuous:
+  - text: Bien ! Sur quel sujet, allons nous continuer la suite ?
+  - text: Bien! {name}, Sur quel sujet, allons nous continuer la suite ?
+  utter_ask_what_to_learn:
+  - text: Bien! Que veux tu savoir !?
+  - text: Bien ! Qu'est ce qu'on veux apprendre aujourd'hui !?
+  utter_thankyou:
+  - text: Merci !
+  - text: Merci! {name}
+  - text: Enchanter !
+  - text: Enchanter {name}
+  utter_return_thankyou:
+  - text: Je t'en prie ! on est ensemble
+  utter_ask_the_next:
+  - text: Ok ! note que je reste toujour a l'ecoute !
+  utter_answer_offend:
+  - text: Alma a dit que, CELUI QUI DIT QUI EST !
+  utter_default:
+  - text: Hummm...! J'ai pas compris !?
+  - text: Hummm...! Qu'est ce que tu chante la !?
+  - text: J'ai pas compris, tu peut l'ecrire autrement !?
+actions:
+- utter_greet
+- utter_ask_user_name
+- utter_ask_bot_possibility
+- utter_thankyou
+- utter_return_thankyou
+- utter_ask_learn_continuous
+- utter_ask_what_to_learn
+- utter_ask_user_satisfaction
+- utter_answer_back_satisfaction
+- utter_answer_question
+- utter_default
+- utter_ask_the_next
+- utter_answer_offend
+forms: {}
+e2e_actions: []

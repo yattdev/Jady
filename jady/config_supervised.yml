@@ -1,0 +1,44 @@
+language: "fr"
+
+pipeline:
+  # - name: ConveRTFeaturizer
+  #   "model_url": "./models/"
+  # - name: LanguageModelTokenizer
+  # - name: LanguageModelFeaturizer
+    # "intent_tokenization_flag": False
+  - name: WhitespaceTokenizer
+  - name: CRFEntityExtractor
+  - name: RegexFeaturizer
+  - name: LexicalSyntacticFeaturizer
+  - name: CountVectorsFeaturizer
+  - name: CountVectorsFeaturizer
+    analyzer: "char_wb"
+    min_ngram: 1
+    max_ngram: 4
+  - name: DIETClassifier
+    epochs: 10
+  - name: EntitySynonymMapper
+  - name: ResponseSelector
+    featurizers: ["convert", "cvf-word"]
+    epochs: 10
+
+policies:
+  # - name: KerasPolicy
+    # featurizer:
+    # - name: MaxHistoryTrackerFeaturizer
+      # max_history: 5
+      # state_featurizer:
+        # - name: BinarySingleStateFeaturizer
+  - name: MemoizationPolicy
+    max_history: 5
+  - name: TEDPolicy
+    max_history: 5
+    epochs: 10
+    batch_size: 10
+    max_training_samples: 300
+  - name : RulePolicy 
+
+  # - name: "FallbackPolicy" Deprecated
+    # nlu_threshold: 0.4
+    # core_threshold: 0.3
+    # fallback_action_name: "utter_default"
