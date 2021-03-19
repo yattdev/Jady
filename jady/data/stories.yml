@@ -105,3 +105,8 @@ stories:
   steps:
   - intent: L_énergie_:_le_carburant_de_l_excellence
   - action: action_answer_question
+
+- story: interactive_story_1
+  steps:
+  - intent: greet
+  - action: utter_greet

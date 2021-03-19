@@ -11,7 +11,7 @@
 # https://rasa.com/docs/rasa/custom-actions
 
 action_endpoint:
- url: "https://jady-server-actions.herokuapp.com/webhook"
+ url: "http://localhost:5055/webhook"
 
 # nlg:
   # url: "http://localhost:8888/nlg"

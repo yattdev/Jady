@@ -3,10 +3,10 @@ session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true
 intents:
+- greet
 - L_énergie_:_le_carburant_de_l_excellence
 - Connaître_la_distinction_entre_les_gens_qui_reussissent_et_les_autres
 - to_learn
-- greet
 - user_give_his_name
 - thankyou
 - affirm
@@ -77,8 +77,8 @@ slots:
     influence_conversation: true
 responses:
   utter_greet:
-  - text: '{greet} ! Je suis Jady, et je suis un bot'
-  - text: Bien le bonjour! Je suis Jady, et je suis un bot
+  - text: {greet} ! Je suis Jady, et je suis un bot
+  - text: Bonjour! Je suis Jady, et je suis un bot
   - text: Bien le bonjour! Je suis Jady, et je suis un bot
   - text: Yo ! Je suis Jady, et je suis un bot
   utter_bot_give_his_name:
@@ -157,3 +157,6 @@ actions:
 - utter_happy
 - utter_return_thankyou
 - utter_thankyou
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

@@ -266,7 +266,7 @@ class  ProcessBook():
 
 if __name__ == '__main__':
     print('Je suis YATTARA')
-    pbook = ProcessBook("/home/alassane/Code/JimBot/chatbotapp/books/epubFrench/POUVOIR ILLIMITE by Anthony Robbins (z-lib.org).pdf.epub")
+    pbook = ProcessBook("/home/alassane/Code/JimBot/chatbotapp/books/epubFrench/Le Personal MBA by KAUFMAN Josh (z-lib.org).epub")
     pbook.book_to_jsonFile()
     #  print(pbook.get_pages())
 
