@@ -23,22 +23,16 @@ pipeline:
     epochs: 10
 
 policies:
-  # - name: KerasPolicy
-    # featurizer:
-    # - name: MaxHistoryTrackerFeaturizer
-      # max_history: 5
-      # state_featurizer:
-        # - name: BinarySingleStateFeaturizer
   - name: MemoizationPolicy
     max_history: 5
   - name: TEDPolicy
-    max_history: 5
-    epochs: 10
-    batch_size: 10
-    max_training_samples: 300
+    max_history: 10
+    epochs: 500
+    batch_size: 50
+    max_training_samples: 1000
   - name : RulePolicy 
-
-  # - name: "FallbackPolicy" Deprecated
-    # nlu_threshold: 0.4
-    # core_threshold: 0.3
-    # fallback_action_name: "utter_default"
+    core_fallback_threshold: 0.3
+    core_fallback_action_name: action_default_fallback
+    enable_fallback_prediction: true
+    restrict_rules: true
+    check_for_contradictions: true

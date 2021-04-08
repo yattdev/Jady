@@ -17,4 +17,5 @@ AlexaUtteranceGenerator/
 *output/train/*
 others/
 utterances/
-resultat.txt
+*result*
+*train_test*

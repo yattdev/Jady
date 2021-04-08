@@ -1,0 +1,52 @@
+responses:
+  utter_greet:
+  - text: "Bonjour! Ça bouge.\nJ'ecoute! Quelle question tu as pour moi ?"
+  - text: "Bien le bonjour! Tout baigne.\nJ'ecoute! Quelle question tu as pour moi ?"
+  - text: "Yo! Comment ça va ?\nJ'ecoute! Quelle question tu as pour moi ?"
+  utter_bot_give_his_name:
+  - text: "M'nom c'est Nex" 
+  - text: "Nex"
+  - text: "Appelle moi Nex"
+  utter_happy:
+  - text: Super 
+  - text: Formidable 
+  - text: Génial 
+  - text: Excéllent 
+  utter_goodbye:
+  - text: 👋 ba-bye 
+  utter_ask_user_name:
+  - text: C'est quoi ton prenom ?
+  - text: Comment t'appelle tu ?
+  - text: Quel est ton nom ?
+  utter_bot_present_itself:
+  - text: "Hum! Je suis le model super artifiel des entrepreneurs a success,\n 
+    \nJe suis concus pour mimer la façons dont les legendes du business traite
+    \nl'informations pour avoir des resultats qui donnent cet status de legende
+    \nOBJECTIF: Mon but est de t'aider a apprehender et comment l'utiliser 
+    \nce qu'il faut qui, place au sommet ce qui sont aux sommet, \n"
+  utter_ask_bot_possibility:
+  - text: "OBJECTIF: Mon but est de t'aider a apprehender et comment l'utiliser 
+    \nce qu'il faut qui, place au sommet ce qui sont aux sommet.\n
+    Je suis un Model des entrepreneurs a success.\n 
+    \nConcus pour mimer la façons dont les legendes du business traite
+    \nl'informations pour avoir des resultats qui donnent cet status de legende"
+  utter_thankyou:
+  - text: Merci! ☺️   
+  - text: Merci {user_name}
+  - text: Merci beaucoup! ☺️   
+  - text: 👊
+  utter_return_thankyou:
+  - text: Je t'en prie!
+  - text: Pas de quoi!
+  - text: tkt! 👊
+  - text: Avec plaisir! 👊
+  utter_answer_offend:
+  - text: Alma a dit! CELUI QUI DIT QUI EST.
+  utter_default:
+  - text: Hummm... J'ai pas compris ?
+  - text: Hummm... Qu'est ce que tu chante la ?
+  - text: J'ai pas compris, tu peut l'ecrire autrement ?
+  utter_bot_present_its_users:
+  - text: Mes acolytes, les entrepreneurs qui revent de changer le monde en meilleur, ou meme de changer carement de planet ;) comme Elon.
+
+

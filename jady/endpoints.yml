@@ -13,9 +13,9 @@
 action_endpoint:
  url: "http://localhost:5055/webhook"
 
-# nlg:
-  # url: "http://localhost:8888/nlg"
-  # use_ssl: false
+nlg:
+  url: "http://localhost:5056/nlg"
+  use_ssl: false
 
 # core:
   # url: "http://localhost:5005"

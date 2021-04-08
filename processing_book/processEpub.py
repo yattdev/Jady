@@ -5,7 +5,6 @@ import json
 import string
 from errno import ENOENT
 from os import strerror
-from typing import Dict, List
 
 from textwrap3 import wrap
 from bs4 import BeautifulSoup
@@ -16,7 +15,7 @@ from ebooklib.utils import get_pages
 from settings import config_default as cfg
 
 
-class  ProcessBook():
+class ProcessBook():
     """ Class to splite Epubbook by chapter to jsonFormat """
 
     def __init__(self, bookname: string):
@@ -41,13 +40,13 @@ class  ProcessBook():
         self.book_to_chaps = self.splitbook_to_chapters(self.book.toc,
                                                         self.book_to_chaps)
 
-    def get_pages(self):
-        """ Return book chapter and it's page.
-
-        :returns: TODO
-
-        """
-        return self.pages
+    #  def get_pages(self):
+        #  """ Return book chapter and it's page.
+#
+        #  :returns: TODO
+#
+        #  """
+        #  return self.pages
 
     def get_book(self):
         """ Get Epubook in processing """
@@ -64,7 +63,7 @@ class  ProcessBook():
         return self.book_to_chaps
 
     @staticmethod
-    def get_chapters_and_pages(toc, pages: List, duplicat: set):
+    def get_chapters_and_pages(toc, pages, duplicat: set):
         """ Return list of chapters """
         for chap in toc:
             if isinstance(chap, epub.Link):

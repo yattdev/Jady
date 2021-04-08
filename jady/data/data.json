@@ -285,8 +285,8 @@
         "entities": []
       },
       {
-        "text": "greet",
-        "intent": "hallo !",
+        "text": "hallo !",
+        "intent": "greet",
         "entities": []
       },
       {
