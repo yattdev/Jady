@@ -135,7 +135,7 @@ class ActionAnswerQuestion(Action):
 
 class ActionPresentModels(Action):
     def name(self):
-        return "utter_bot_present_its_models"
+        return "action_bot_present_its_models"
 
     def run(self, dispatcher, tracker, domaine):
         """

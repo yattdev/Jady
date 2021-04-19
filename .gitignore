@@ -19,3 +19,6 @@ others/
 utterances/
 *result*
 *train_test*
+*.tar.gz
+*.log
+*.dot

@@ -1,0 +1,2509 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Comment est ce qu'on t'exploite"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Comment est ce qu'on t'utilise ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Comment est ce qu'on te manie"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Comment est ce qu'on te manipule"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Comment est ce qu'on te manipule ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Comment je peux avoir de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Comment je peux gagner de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Comment je peux mieux te manier tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Comment je peux mieux te manier tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Comment je peux tirer parti de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Comment je pourrais gagner de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Comment je pourrais profiter de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Comment je suis cencé te manier tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Comment je suis sensé te manier tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Comment pourrai-je avoir de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Comment pourrai-je retirer de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Comment pourrai-je retirer de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Comment pourrai-je tirer parti de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Comprendre Comment je pourrais obtenir de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Comprendre Comment je suis sensé t'utiliser tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Comprendre Comment pourrai-je profiter de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Comprendre Par quelle procédé est ce qu'on t'exploite ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Comprendre Par quelle travail pourrai-je tirer profit de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Comprendre Quel est ton mode d'emploi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Comprendre Quels sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Comprendre comment est ce qu'on t'utilise"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Comprendre comment je peux mieux t'utiliser tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Comprendre comment je pourrais retirer de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Comprendre par quelle façon je suis sensé t'exploiter tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Comprendre par quelle travail est ce qu'on t'exploite"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Comprendre quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Connaitre Comment est ce qu'on t'exploite ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Connaitre Par quelle moyen est ce qu'on t'exploite ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Connaitre Quelles sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Connaitre comment est ce qu'on te manie ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Connaitre comment je peux gagner de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Connaitre comment je suis sensé t'exploiter tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Connaitre comment je suis sensé te manier tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Connaitre comment pourrai-je tirer profit de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Connaitre par quelle moyen est ce qu'on t'utilise ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Connaitre par quelle moyen je peux mieux te manier tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Connaitre par quelle procédé je suis cencé t'utiliser tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Connaitre quel est ton mode d'emploi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Connaitre quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Connaitre quels sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "J'ai besoin d'aide pour t'exploiter"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "J'ai besoin d'aide pour t'exploiter ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "J'ai besoin d'aide pour t'utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "J'ai besoin d'aide pour t'utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "J'ai besoin d'aide pour te manier"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "J'ai besoin d'aide pour te manier ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "J'ai besoin d'aide pour te manipuler"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "J'ai besoin d'aide pour te manipuler ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "J'ai envie de trouver Comment pourrai-je jouir de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "J'aime Saisir par quelle travail est ce qu'on t'exploite ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "J'aimerais connaitre Comment je suis sensé te manipuler tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "J'aimerais savoir Quel est ton mode d'emploi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "J'implore de Comprendre Quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "J'implore de Savoir Comment est ce qu'on t'utilise"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Je voudrais savoir par quelle façon est ce qu'on t'utilise ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Par quelle façon est ce qu'on t'utilise ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Par quelle façon je peux tirer parti de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Par quelle façon je pourrais tirer profit de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Par quelle manière est ce qu'on te manie"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Par quelle manière je peux mieux t'utiliser tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Par quelle manière pourrai-je tirer parti de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Par quelle moyen est ce qu'on t'utilise ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Par quelle méthode est ce qu'on t'exploite ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Par quelle méthode je peux mieux t'exploiter tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Par quelle méthode je peux obtenir de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Par quelle méthode je peux profiter de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Par quelle méthode je pourrais retirer de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Par quelle méthode je suis cencé t'exploiter tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Par quelle procédé je peux mieux t'utiliser tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Par quelle procédé je suis sensé te manier tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Par quelle technique je suis sensé t'exploiter tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Par quelle technique pourrai-je gagner de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Par quelle technique pourrai-je profiter de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Par quelle travail est ce qu'on t'utilise ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Par quelle travail est ce qu'on te manipule"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Par quelle travail je peux mieux t'utiliser tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Par quelle travail je pourrais profiter de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Par quelle travail je suis cencé t'exploiter tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Par quelle travail je suis cencé t'utiliser tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Par quelle travail pourrai-je tirer profit de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Peut-on Saisir Quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Peut-on comprendre Comment est ce qu'on te manie"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Pourrais-je Connaitre quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Pourrais-je Savoir Quelles sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Puis-je Comprendre Quels sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Puis-je Comprendre par quelle façon je suis sensé t'exploiter tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Puis-je comprendre Quels sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Puis-je comprendre comment est ce qu'on t'exploite ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Quel est ton mode d'emploi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Quelles sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Quelles sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Quels sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Quels sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il te plaît Est ce que je peux Trouver Par quelle manière je suis sensé te manipuler tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il te plaît Est ce que je peux connaitre Comment je peux mieux te manier tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il te plaît J'ai envie de comprendre quel est ton mode d'emploi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il te plaît J'aime comprendre quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il te plaît J'aime connaitre comment est ce qu'on t'exploite ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il te plaît J'aspire à Saisir comment est ce qu'on t'utilise ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il te plaît J'aspire à savoir Par quelle moyen je peux tirer parti de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il te plaît J'implore de Saisir quelles sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il te plaît J'implore de Saisir quels sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il te plaît J'implore de Savoir quel est ton mode d'emploi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il te plaît Nous voulons Comprendre comment est ce qu'on t'utilise ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il te plaît Pourrais-je saisir Comment est ce qu'on te manipule ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il te plaît Pourrais-je trouver Comment je peux mieux te manipuler tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il te plaît Puis-je Trouver Quels sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il te plaît Puis-je Trouver par quelle procédé est ce qu'on te manipule ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il te plaît Puis-je comprendre par quelle manière je suis cencé t'exploiter tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il te plaît est ce que je peux Comprendre quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il te plaît j'ai envie de comprendre Quel est ton mode d'emploi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il te plaît j'aime Connaitre quel est ton mode d'emploi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il te plaît j'aime comprendre Quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il te plaît j'aimerais Trouver Quels sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il te plaît j'aimerais savoir Quels sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il te plaît j'aspire à Savoir Par quelle procédé est ce qu'on t'utilise ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il te plaît j'aspire à saisir Comment je pourrais gagner de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il te plaît j'exige de saisir comment je pourrais exploiter de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il te plaît je voudrais Comprendre Par quelle méthode je peux mieux t'exploiter tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il te plaît je voudrais Savoir par quelle travail pourrai-je retirer de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il te plaît je voudrais trouver Comment je peux mieux t'exploiter tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il te plaît pourrais-je Savoir quels sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il te plaît pourrais-je trouver Comment je suis cencé te manier tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il te plaît puis-je saisir Par quelle méthode je peux gagner de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît Comment est ce qu'on t'exploite"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît Comment est ce qu'on te manie"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît Comment je peux exploiter de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît Comment je peux gagner de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît Comment je peux mieux te manier tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît Comment je suis cencé t'utiliser tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît Comment pourrai-je tirer parti de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît Est ce que je peux Savoir par quelle travail je suis sensé te manier tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît J'ai besion de Saisir Par quelle manière je peux mieux te manipuler tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît J'ai envie de Saisir Comment pourrai-je profiter de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît J'aime connaitre Quels sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît J'aimerais Savoir par quelle procédé je peux mieux te manipuler tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît J'aspire à Trouver Quelles sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît J'implore de connaitre Par quelle méthode je peux mieux te manipuler tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît Je demande à Connaitre quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît Nous voulons Saisir Comment je pourrais retirer de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît Nous voulons comprendre Quel est ton mode d'emploi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît Par quelle façon je peux profiter de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît Par quelle manière est ce qu'on t'exploite"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît Par quelle moyen je peux mieux t'exploiter tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît Par quelle moyen je suis cencé t'utiliser tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît Par quelle méthode je peux mieux te manipuler tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît Par quelle procédé est ce qu'on t'exploite"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît Par quelle procédé est ce qu'on t'utilise"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît Par quelle procédé est ce qu'on te manie ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît Par quelle procédé je peux mieux t'exploiter tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît Par quelle technique est ce qu'on te manie"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît Par quelle travail est ce qu'on t'exploite"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît Par quelle travail je peux mieux te manier tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît Puis-je trouver quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît Quel est ton mode d'emploi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît Quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît Quelles sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît Quels sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît Quels sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît comment est ce qu'on te manie ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît comment est ce qu'on te manipule"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît comment je peux tirer profit de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît comment je suis cencé te manier tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît j'ai besion de connaitre comment je peux mieux te manipuler tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît j'ai besion de saisir quelles sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît j'ai besoin d'aide pour t'exploiter"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît j'ai besoin d'aide pour t'exploiter ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît j'ai besoin d'aide pour t'utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît j'ai besoin d'aide pour t'utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît j'ai besoin d'aide pour te manier"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît j'ai besoin d'aide pour te manier ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît j'ai besoin d'aide pour te manipuler"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît j'ai besoin d'aide pour te manipuler ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît j'aime Connaitre par quelle procédé je pourrais obtenir de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît j'aime saisir quel est ton mode d'emploi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît j'aimerais savoir par quelle manière est ce qu'on t'exploite ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît j'exige de Connaitre Quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît j'exige de comprendre Comment pourrai-je tirer parti de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît j'exige de connaitre par quelle manière est ce qu'on te manipule ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît j'implore de comprendre quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît je voudrais saisir Comment est ce qu'on t'exploite"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît je voudrais saisir Par quelle procédé je pourrais obtenir de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît par quelle façon je peux mieux te manier tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît par quelle façon je peux mieux te manipuler tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît par quelle façon je suis cencé te manier tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît par quelle manière est ce qu'on t'utilise ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît par quelle manière je peux tirer profit de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît par quelle manière pourrai-je gagner de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît par quelle manière pourrai-je jouir de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît par quelle moyen je peux retirer de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît par quelle méthode est ce qu'on te manie ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît par quelle méthode est ce qu'on te manipule"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît par quelle méthode je suis sensé t'exploiter tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît par quelle méthode pourrai-je tirer parti de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît par quelle technique est ce qu'on te manipule ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît par quelle technique je peux mieux t'exploiter tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît par quelle technique je peux mieux te manipuler tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît par quelle travail est ce qu'on te manie ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît par quelle travail je peux mieux te manier tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît puis-je Saisir quels sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît puis-je saisir quels sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît quel est ton mode d'emploi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît quelles sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît quelles sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît quels sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "S'il vous plaît quels sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Saisir Comment est ce qu'on te manipule ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Saisir Comment je peux avoir de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Saisir Par quelle manière je peux mieux t'exploiter tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Saisir Par quelle manière pourrai-je tirer parti de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Saisir Par quelle méthode je suis sensé te manier tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Saisir Par quelle procédé est ce qu'on t'utilise"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Saisir Par quelle travail je suis cencé te manipuler tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Saisir Quel est ton mode d'emploi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Saisir Quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Saisir Quelles sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Saisir Quels sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Saisir comment je peux mieux t'utiliser tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Saisir comment je suis sensé t'utiliser tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Saisir comment je suis sensé te manier tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Saisir par quelle façon je peux mieux t'utiliser tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Saisir quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Saisir quelles sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Saisir quels sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Savoir Comment est ce qu'on t'utilise"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Savoir Comment je peux avoir de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Savoir Comment pourrai-je retirer de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Savoir Par quelle travail est ce qu'on t'utilise"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Savoir Quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Savoir Quelles sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Savoir Quels sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Savoir par quelle technique je peux mieux t'exploiter tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Savoir quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Savoir quelles sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Savoir quels sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Trouver Comment est ce qu'on te manie ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Trouver Comment pourrai-je gagner de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Trouver Par quelle méthode je peux mieux te manipuler tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Trouver Quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Trouver Quelles sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Trouver comment est ce qu'on te manie ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Trouver comment je suis sensé t'utiliser tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Trouver par quelle moyen est ce qu'on te manipule ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Trouver par quelle méthode je suis sensé te manipuler tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Trouver par quelle méthode pourrai-je tirer parti de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "Trouver quel est ton mode d'emploi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comment est ce qu'on t'exploite"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comment est ce qu'on t'exploite ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comment est ce qu'on t'utilise ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comment est ce qu'on te manie"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comment est ce qu'on te manie ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comment est ce qu'on te manipule"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comment je peux exploiter de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comment je peux mieux t'exploiter tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comment je peux mieux t'utiliser tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comment je peux mieux t'utiliser tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comment je peux mieux te manipuler tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comment je peux profiter de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comment je pourrais avoir de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comment je pourrais tirer profit de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comment je suis cencé t'exploiter tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comment je suis cencé te manier tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comment je suis sensé t'utiliser tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comment je suis sensé te manipuler tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comment pourrai-je tirer profit de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comprendre Comment je peux mieux t'exploiter tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comprendre Comment je peux mieux te manier tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comprendre Comment je suis sensé te manipuler tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comprendre Par quelle façon est ce qu'on te manie"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comprendre Par quelle manière est ce qu'on t'exploite"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comprendre Quel est ton mode d'emploi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comprendre Quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comprendre par quelle travail est ce qu'on t'utilise"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comprendre par quelle travail pourrai-je avoir de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comprendre quel est ton mode d'emploi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comprendre quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comprendre quelles sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comprendre quels sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "comprendre quels sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "connaitre Comment est ce qu'on te manie ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "connaitre Comment je peux gagner de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "connaitre Par quelle moyen je suis cencé te manier tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "connaitre Par quelle procédé je suis sensé t'utiliser tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "connaitre Quelles sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "connaitre Quelles sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "connaitre Quels sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "connaitre comment est ce qu'on te manie"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "connaitre par quelle procédé est ce qu'on te manipule ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "connaitre quel est ton mode d'emploi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "connaitre quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "connaitre quelles sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "connaitre quelles sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "connaitre quels sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "est ce que je peux Comprendre quels sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "est ce que je peux comprendre comment est ce qu'on te manie ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "est ce que je peux savoir quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "est ce que je peux savoir quelles sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "j'ai besion de Connaitre Comment je suis sensé te manipuler tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "j'ai besion de Savoir Par quelle façon pourrai-je jouir de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "j'ai besion de Savoir quels sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "j'ai besoin d'aide pour t'exploiter"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "j'ai besoin d'aide pour t'exploiter ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "j'ai besoin d'aide pour t'utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "j'ai besoin d'aide pour t'utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "j'ai besoin d'aide pour te manier"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "j'ai besoin d'aide pour te manier ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "j'ai besoin d'aide pour te manipuler"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "j'ai besoin d'aide pour te manipuler ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "j'ai envie de Savoir Quels sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "j'aime Saisir Comment je peux gagner de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "j'aime comprendre Quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "j'aime connaitre Quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "j'aimerais Savoir comment je peux exploiter de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "j'aimerais Trouver comment je suis sensé t'utiliser tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "j'aspire à comprendre Par quelle manière pourrai-je tirer parti de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "je désire Trouver quelles sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "je peux connaitre par quelle moyen je peux mieux te manier tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "je peux trouver Comment je pourrais avoir de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "je voudrais Connaitre par quelle manière pourrai-je gagner de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "nous voulons Saisir comment je peux mieux te manipuler tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "nous voulons Trouver comment pourrai-je tirer profit de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "nous voulons saisir Comment pourrai-je gagner de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "par quelle façon est ce qu'on te manipule ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "par quelle façon je peux profiter de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "par quelle façon je pourrais tirer parti de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "par quelle manière pourrai-je avoir de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "par quelle moyen est ce qu'on t'exploite ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "par quelle moyen est ce qu'on te manipule ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "par quelle moyen je peux mieux t'exploiter tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "par quelle moyen je suis sensé t'utiliser tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "par quelle méthode je suis cencé t'utiliser tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "par quelle méthode pourrai-je tirer parti de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "par quelle procédé est ce qu'on t'exploite ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "par quelle procédé je peux mieux te manier tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "par quelle procédé je peux tirer parti de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "par quelle procédé pourrai-je profiter de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "par quelle technique je pourrais tirer profit de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "par quelle travail je peux mieux te manipuler tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "pourrais-je Savoir Par quelle façon je peux obtenir de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "pourrais-je Trouver par quelle façon je suis sensé t'exploiter tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "quel est ton mode d'emploi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "quelles sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "quelles sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "quels sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "quels sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il te plaît Est ce que je peux Connaitre par quelle travail pourrai-je gagner de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il te plaît J'ai besion de Saisir quel est ton mode d'emploi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il te plaît J'ai besion de savoir quel est ton mode d'emploi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il te plaît J'ai envie de comprendre Quel est ton mode d'emploi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il te plaît J'aimerais Connaitre Quels sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il te plaît J'aspire à savoir Par quelle procédé je suis sensé t'utiliser tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il te plaît J'exige de Saisir Par quelle méthode je peux mieux t'exploiter tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il te plaît J'exige de connaitre quels sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il te plaît J'implore de Connaitre Comment je peux mieux t'utiliser tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il te plaît J'implore de comprendre par quelle procédé est ce qu'on t'exploite ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il te plaît Je cherche à Comprendre quels sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il te plaît Peut-on Savoir Par quelle technique je pourrais gagner de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il te plaît Pourrais-je Connaitre Par quelle moyen est ce qu'on te manie ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il te plaît est ce que je peux trouver Quel est ton mode d'emploi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il te plaît j'ai besion de Comprendre par quelle manière est ce qu'on te manipule"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il te plaît j'ai besion de saisir comment je suis cencé te manipuler tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il te plaît j'ai envie de Connaitre quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il te plaît j'aime comprendre Par quelle procédé est ce qu'on t'exploite ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il te plaît j'aime saisir Quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il te plaît j'aspire à savoir Quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il te plaît j'implore de connaitre Quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il te plaît je souhaite Saisir Comment pourrai-je gagner de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il te plaît je voudrais Saisir Par quelle méthode est ce qu'on te manipule ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il te plaît je voudrais Saisir par quelle manière je pourrais tirer profit de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il te plaît nous voulons Comprendre Comment je peux gagner de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il te plaît nous voulons Connaitre Par quelle manière est ce qu'on te manie"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il te plaît puis-je trouver Comment est ce qu'on te manipule ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Comment est ce qu'on t'exploite"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Comment est ce qu'on t'exploite ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Comment est ce qu'on te manie"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Comment est ce qu'on te manie ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Comment je peux avoir de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Comment je peux exploiter de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Comment je peux mieux te manier tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Comment je peux mieux te manipuler tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Comment pourrai-je gagner de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Comment pourrai-je jouir de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Est ce que je peux savoir quelles sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît J'ai besion de saisir quels sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît J'ai envie de saisir Par quelle façon est ce qu'on te manie"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît J'aime Trouver Comment pourrai-je gagner de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît J'aspire à Comprendre Quelles sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Je peux Saisir Par quelle technique est ce qu'on t'utilise"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Je peux Savoir quels sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Je peux Trouver comment pourrai-je avoir de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Je questionne de savoir Comment je suis sensé te manipuler tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Je réclame de Saisir comment pourrai-je jouir de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Par quelle façon je peux tirer parti de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Par quelle façon pourrai-je tirer parti de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Par quelle manière pourrai-je avoir de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Par quelle moyen je peux retirer de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Par quelle moyen je pourrais gagner de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Par quelle moyen je suis cencé te manier tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Par quelle moyen pourrai-je jouir de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Par quelle méthode est ce qu'on t'utilise ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Par quelle procédé pourrai-je tirer profit de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Par quelle travail est ce qu'on te manie"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Par quelle travail pourrai-je exploiter de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Pourrais-je Trouver Quel est ton mode d'emploi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Quel est ton mode d'emploi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Quelles sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Quels sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît Quels sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît comment est ce qu'on t'utilise"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît comment est ce qu'on te manipule ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît comment je peux mieux t'exploiter tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît comment je peux mieux t'utiliser tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît comment je peux mieux te manier tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît comment je peux mieux te manipuler tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît comment je peux profiter de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît comment je pourrais exploiter de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît comment je pourrais obtenir de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît comment je pourrais retirer de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît comment je suis cencé te manier tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît comment je suis sensé t'exploiter tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît comment pourrai-je gagner de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît est ce que je peux savoir quels sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît j'ai besion de saisir Comment pourrai-je gagner de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît j'ai besoin d'aide pour t'exploiter"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît j'ai besoin d'aide pour t'exploiter ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît j'ai besoin d'aide pour t'utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît j'ai besoin d'aide pour t'utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît j'ai besoin d'aide pour te manier"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît j'ai besoin d'aide pour te manier ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît j'ai besoin d'aide pour te manipuler"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît j'ai besoin d'aide pour te manipuler ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît j'ai envie de saisir quel est ton mode d'emploi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît j'aime Saisir comment est ce qu'on te manie ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît j'aimerais Connaitre Par quelle moyen pourrai-je retirer de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît j'aimerais Saisir Quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît j'exige de Saisir comment est ce qu'on t'utilise ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît j'exige de Savoir Comment pourrai-je tirer parti de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît j'exige de connaitre Par quelle travail est ce qu'on te manipule ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît j'implore de Savoir Comment est ce qu'on te manie"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît j'implore de savoir Comment pourrai-je profiter de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît je peux Savoir Par quelle manière je suis sensé te manipuler tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît je peux saisir comment pourrai-je avoir de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît je voudrais comprendre par quelle moyen je suis sensé te manier tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît nous voulons Saisir par quelle travail je peux mieux te manier tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît nous voulons saisir par quelle moyen je suis sensé te manipuler tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît par quelle façon est ce qu'on te manipule ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît par quelle façon je suis sensé t'utiliser tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît par quelle manière est ce qu'on te manie ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît par quelle manière est ce qu'on te manipule"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît par quelle manière je peux mieux t'exploiter tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît par quelle manière pourrai-je jouir de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît par quelle moyen est ce qu'on te manipule"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît par quelle moyen je peux gagner de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît par quelle méthode je peux mieux t'exploiter tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît par quelle méthode pourrai-je profiter de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît par quelle technique est ce qu'on te manie ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît peut-on comprendre quelles sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît quel est ton mode d'emploi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît quelles sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît quels sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "s'il vous plaît quels sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "saisir Comment je peux profiter de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "saisir Comment je peux tirer profit de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "saisir Comment je pourrais gagner de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "saisir Comment pourrai-je obtenir de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "saisir Par quelle travail pourrai-je obtenir de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "saisir Quel est ton mode d'emploi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "saisir Quelles sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "saisir Quelles sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "saisir quel est ton mode d'emploi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "saisir quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "saisir quelles sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "savoir Comment je suis sensé te manipuler tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "savoir Comment pourrai-je avoir de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "savoir Par quelle manière je pourrais obtenir de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "savoir Quelles sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "savoir par quelle travail je pourrais gagner de toi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "savoir quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "trouver Comment je peux gagner de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "trouver Comment je suis cencé t'exploiter tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "trouver Quel est ton mode d'emploi"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "trouver Quelles sont tes fonctions ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "trouver comment est ce qu'on te manipule ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "trouver comment je peux mieux te manier tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "trouver par quelle façon je peux mieux t'exploiter tes capacites"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "trouver par quelle façon je peux mieux te manipuler tes capacites ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "trouver par quelle procédé je pourrais jouir de toi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "trouver quel est ton mode d'emploi ?"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "trouver quelles sont tes fonctions"
+      },
+      {
+        "entities": [],
+        "intent": "need_help",
+        "text": "trouver quelles sont tes fonctions ?"
+      }
+    ],
+    "entity_synonyms": [],
+    "lookup_tables": [],
+    "regex_features": []
+  }
+}

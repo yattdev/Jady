@@ -43,7 +43,7 @@
       },
       {
         "text": "Q'est ce que tu peut faire",
-        "intent": "ask_bot_possibility",
+        "intent": "bot_possibility",
         "entities": [
           {
             "start": 0,
@@ -61,7 +61,7 @@
       },
       {
         "text": "Qu'est ce que tu peut faire",
-        "intent": "ask_bot_possibility",
+        "intent": "bot_possibility",
         "entities": [
           {
             "start": 0,
@@ -73,7 +73,7 @@
       },
       {
         "text": "Comment est-tu cense m'aider",
-        "intent": "ask_bot_possibility",
+        "intent": "bot_possibility",
         "entities": [
           {
             "start": 0,
@@ -91,45 +91,11 @@
       },
       {
         "text": "Tu es null",
-        "intent": "offend",
-        "entities": [
-          {
-            "start": 0,
-            "end": 10,
-            "value": "Tu es null",
-            "entity": "offend"
-          },
-          {
-            "start": 0,
-            "end": 10,
-            "value": "es null",
-            "entity": "offend"
-          }
-        ]
+        "intent": "offend"
       },
       {
         "text": "Tu vaux rien",
-        "intent": "offend",
-        "entities": [
-          {
-            "start": 0,
-            "end": 12,
-            "value": "Tu vaux rien",
-            "entity": "offend"
-          },
-          {
-            "start": 3,
-            "end": 12,
-            "value": "vaux rien",
-            "entity": "offend"
-          },
-          {
-            "start": 3,
-            "end": 12,
-            "value": "vaut rien",
-            "entity": "offend"
-          }
-        ]
+        "intent": "offend"
       },
       {
         "text": "Merci",
@@ -148,26 +114,6 @@
       },
       {
         "text": "thx you",
-        "intent": "thankyou",
-        "entities": []
-      },
-      {
-        "text": "thx !",
-        "intent": "thankyou",
-        "entities": []
-      },
-      {
-        "text": "Merci pour ton aide",
-        "intent": "thankyou",
-        "entities": []
-      },
-      {
-        "text": "Merci ! c'etais sympa",
-        "intent": "thankyou",
-        "entities": []
-      },
-      {
-        "text": "Merci ! Tu es genial",
         "intent": "thankyou",
         "entities": []
       },
@@ -200,54 +146,6 @@
         "text": "Bien le bonsoir",
         "intent": "greet",
         "entities": []
-      },
-      {
-        "text": "T'es con ",
-        "intent": "offend",
-        "entities": [
-          {
-            "start": 0,
-            "end": 9,
-            "value": "T'es con ",
-            "entity": "offend"
-          },
-          {
-            "start": 2,
-            "end": 9,
-            "value": "es con ",
-            "entity": "offend"
-          }
-        ]
-      },
-      {
-        "text": "Tu es une merde",
-        "intent": "offend",
-        "entities": [
-          {
-            "start": 0,
-            "end": 15,
-            "value": "Tu es une merde",
-            "entity": "offend"
-          },
-          {
-            "start": 3,
-            "end": 15,
-            "value": "es une merde",
-            "entity": "offend"
-          }
-        ]
-      },
-      {
-        "text": "Tu n'as aucun utilite",
-        "intent": "offend",
-        "entities": [
-          {
-            "start": 0,
-            "end": 21,
-            "value": "Tu n'as aucun utilite",
-            "entity": "offend"
-          }
-        ]
       },
       {
         "text": "Yo",

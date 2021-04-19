@@ -4,3282 +4,7 @@
       {
         "entities": [],
         "intent": "greet",
-        "text": "Allo toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hallo bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hello toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ca va Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "heho !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Mes salutions Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salution bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Il y'a quelqu'un Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonjour toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hey bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonjour intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hey intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hey intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "mes salutions"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonsoir"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salut Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ca va bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hello bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonsoir !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salution toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonjour intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salution Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Heho"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salam"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonjour Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Heho robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hello bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "sa va Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hello toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ca va !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonsoir bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonsoir robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hallo !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "T'es la Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Sa va Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Greet Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonsoir intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hello bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tu es la intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonsoir robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "greet !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonjour toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Mes salutions robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salut bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Greet robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ca va"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Yo Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Sa va robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Mes salutions toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tout vas bien Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonsoir robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonsoir bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "mes salutions toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "il y'a quelqu'un intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Mes salutions bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonsoir toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hallo toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "il y'a quelqu'un Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hey bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonsoir intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "mes salutions toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hey toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tu es la bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Il y'a quelqu'un bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "allo"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tu es la !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "heho Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tout vas bien intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonsoir intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ça va intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "heho bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hallo intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ça va"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "t'es la toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Yo toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Yo"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hallo toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hello"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salamalec toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Il y'a quelqu'un robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonsoir toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hey robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Mes salutions intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonjour intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "sa va toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Heho intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ça va intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonsoir bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ça va robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonjour toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tout vas bien bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "greet Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "t'es la bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tout vas bien toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salam intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tout vas bien !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Il y'a quelqu'un toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonsoir robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hey intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salution bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salamalec bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonjour bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salam toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salut toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tu es la !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hello !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salut robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonsoir"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ça va Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Il y'a quelqu'un intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salam robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Heho toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "mes salutions"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hello !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "T'es la intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Greet Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salution"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salut bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "heho robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonjour bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tu es la intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salut bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hey robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salution bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonsoir robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salamalec intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "il y'a quelqu'un bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Allo robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "heho !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonsoir toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salamalec robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "t'es la toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hey bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "allo Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salut Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Yo intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Mes salutions intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "allo Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ça va robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonjour intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "T'es la robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hallo intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Yo"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ça va Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "t'es la robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hello robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "sa va intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salamalec toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "il y'a quelqu'un Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "T'es la robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "il y'a quelqu'un Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salut robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salut !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salut intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salution intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salam toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tout vas bien toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tout vas bien Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Allo Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonsoir intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salut robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "t'es la robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ça va bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonsoir intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "t'es la bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "mes salutions robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Greet"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hello robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "yo Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salut bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonjour toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hallo"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Il y'a quelqu'un intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonjour bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonsoir toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Yo toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonsoir toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tu es la intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salamalec bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hello robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tout vas bien"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hello Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salamalec Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Allo Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "t'es la !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Yo bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "heho toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salam toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tout vas bien"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Il y'a quelqu'un robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonsoir robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonjour robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonsoir !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonjour !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "t'es la !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonsoir !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonjour !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "T'es la bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "allo intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salution bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Allo !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonsoir Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "greet Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salamalec robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ça va bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Sa va Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonjour robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonjour !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tu es la Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Sa va robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "mes salutions intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "heho toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "yo intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "t'es la toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tu es la robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "T'es la bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salamalec"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salam"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salamalec robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Greet toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hello toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Heho robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Heho robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tout vas bien intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "yo robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "heho intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "yo toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ça va !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Heho intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "T'es la toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "il y'a quelqu'un bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Allo intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hallo intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "sa va Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "allo intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ca va Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salution toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Greet bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hello bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "greet bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tout vas bien Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "mes salutions bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonjour intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ça va robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Sa va toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonjour bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Greet robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonsoir toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salut"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tu es la robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Mes salutions Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonsoir robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Yo intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tout vas bien intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "t'es la Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ça va !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ca va"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salamalec toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonsoir toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ça va robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "mes salutions Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tu es la bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Mes salutions"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Il y'a quelqu'un intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salamalec robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salam Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "sa va !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tu es la intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "yo robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salut toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonsoir Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salam bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonjour Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonjour"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ça va bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Mes salutions bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salution intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salution Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hey toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tout vas bien robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tout vas bien robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salamalec bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "T'es la intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salam intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonjour bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "allo robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salamalec bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Greet Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "heho intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salution intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Mes salutions Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "t'es la intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hey !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonsoir intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Mes salutions robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "il y'a quelqu'un toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "sa va toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonsoir intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salamalec intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salut robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hallo !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tout vas bien robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ca va robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tout vas bien intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "T'es la bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonsoir Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hallo Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tu es la toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salamalec !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "sa va robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salam intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hello bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonsoir Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ça va toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salam intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Heho Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ça va"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tout vas bien Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "greet robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Greet robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Yo !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salution intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "il y'a quelqu'un toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salution intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonsoir robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salution intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ca va robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tout vas bien Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salut"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salamalec robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "allo toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salut toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "sa va intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salam !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tu es la Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "mes salutions intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "il y'a quelqu'un intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Sa va bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "heho robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tout vas bien bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "T'es la robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonjour !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salamalec intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salut Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tout vas bien robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Yo robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ca va toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonjour toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hello Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "t'es la robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Mes salutions toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hello Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hallo Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "sa va bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "greet bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salution"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Heho"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonsoir intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonjour toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonsoir Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "il y'a quelqu'un intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Greet !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tu es la bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Mes salutions bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "il y'a quelqu'un robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salam"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonjour"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salut bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hey robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonsoir bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hallo intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hello robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Allo !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonjour robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonjour Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ça va Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ca va Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hey Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salution intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tout vas bien toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tu es la"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hello robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salam toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hello bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonsoir intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salam bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tu es la robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "heho Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hey Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "yo Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salam Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Allo intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Greet bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ca va Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonjour bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonsoir Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salut bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "T'es la !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tu es la toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salution toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Mes salutions toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonjour robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonjour bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hey Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "allo toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Sa va intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Il y'a quelqu'un bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "T'es la intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tout vas bien intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonsoir Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Mes salutions intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tout vas bien intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "heho bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tout vas bien toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hello intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hallo !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salution toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "mes salutions robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Heho toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hey Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tu es la toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salut intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "t'es la bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tout vas bien"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salut intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "allo toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hey robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tu es la robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tu es la toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonjour toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ca va intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "heho"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salut toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hey !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ça va toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonjour Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "greet intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonjour intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tu es la bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tout vas bien bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Heho toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "yo bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salut !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hello robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salut Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salution bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salamalec bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonsoir robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salamalec Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salut Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Sa va bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Sa va !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hello toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hello toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hello intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "sa va robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salution robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonjour Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Allo bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ça va bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ca va Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salam robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tout vas bien toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonsoir Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salamalec Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonsoir toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hallo toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Il y'a quelqu'un Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Sa va intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "mes salutions bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonjour intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hello toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ca va Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Heho bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "sa va Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hello Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ca va intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonjour Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "greet intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ca va bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonjour Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tu es la bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "yo bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonsoir Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hallo robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salamalec Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salut Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hello toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonsoir !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salution"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hey"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hello bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salam intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ça va toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hallo"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tu es la bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ça va"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonjour intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonjour Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salamalec toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salamalec toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ca va Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "mes salutions Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hallo bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salamalec toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "yo intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Yo bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "allo Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salut toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Heho intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hello intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ça va bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salut toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Heho bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salam !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Mes salutions robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hey bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Mes salutions toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Sa va"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salut Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "allo !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tu es la"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salut toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonsoir Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salution intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonsoir bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hello"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "yo toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hallo intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonjour intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salamalec robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hey toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salut intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hallo"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tout vas bien intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonjour robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonsoir bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "greet Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hey toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ça va intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonsoir bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonsoir robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonjour toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Mes salutions bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Yo robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "T'es la toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salution robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Greet !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hey"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "mes salutions bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "greet"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonjour bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hello Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "heho bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tout vas bien bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonjour Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "yo robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Sa va robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hey robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hallo bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hey bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonjour"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "greet robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ça va bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salam bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonjour robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salam !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "greet Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Allo bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Heho Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "yo robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "heho Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ça va Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hello"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salut bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonjour toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salamalec bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tout vas bien Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonjour bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "t'es la intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hello robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "sa va bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Yo intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "allo bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ça va toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salution bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "heho"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "t'es la Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonjour robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hello Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "yo Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Heho Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Il y'a quelqu'un robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonsoir bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "T'es la toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hey intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hallo robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hey intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salution Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salution robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salamalec Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salamalec Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hello intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonjour bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tu es la intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salamalec"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tu es la robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ca va !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonsoir"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hallo bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tout vas bien bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Heho !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Il y'a quelqu'un Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hey intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonsoir robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tout vas bien robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonsoir bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "greet"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "il y'a quelqu'un robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Sa va !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tout vas bien robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salam"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salam intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "T'es la bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonjour Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "il y'a quelqu'un"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tu es la Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonsoir toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Sa va bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Greet intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salution !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hey robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salut"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hallo intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "heho Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hallo"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonjour toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "allo robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonjour"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hey bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Sa va intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salution Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hallo robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonjour Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "mes salutions Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hallo bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tu es la bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hallo bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "greet bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salam robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonsoir toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "heho robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonsoir bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tout vas bien Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salut Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tu es la Jady !"
+        "text": "mes salutions intelligence artificiel"
       },
       {
         "entities": [],
@@ -3289,107 +14,27 @@
       {
         "entities": [],
         "intent": "greet",
-        "text": "Bonjour Jady !"
+        "text": "bonjour toi"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "ca va bot !"
+        "text": "bien le bonsoir bot"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "heho robot !"
+        "text": "Salution intelligence artificiel !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "salution Jady"
+        "text": "salut toi"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "Il y'a quelqu'un !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Il y'a quelqu'un toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "yo"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salam bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonsoir toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hey toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salam !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "yo bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonjour toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonsoir !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salam Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "t'es la intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonsoir Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Heho bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salution robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salamalec Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "greet !"
+        "text": "salut bot !"
       },
       {
         "entities": [],
@@ -3399,132 +44,32 @@
       {
         "entities": [],
         "intent": "greet",
-        "text": "Tu es la"
+        "text": "bonsoir Nex"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "Bien le bonsoir intelligence artificiel !"
+        "text": "mes salutions robot !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "Greet toi"
+        "text": "Greet intelligence artificiel !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "Yo robot"
+        "text": "salamalec intelligence artificiel !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "Tout vas bien toi"
+        "text": "salam robot !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "Sa va"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ca va toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tu es la !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonjour intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ca va robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ça va robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ca va toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "T'es la Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "t'es la"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonjour bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tout vas bien bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hallo Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "yo toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salam toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ca va toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonjour robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "il y'a quelqu'un !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonjour robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonjour bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salut robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salam bot"
+        "text": "Salution intelligence artificiel"
       },
       {
         "entities": [],
@@ -3534,52 +79,317 @@
       {
         "entities": [],
         "intent": "greet",
-        "text": "bien le bonsoir"
+        "text": "Yo !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "bonjour intelligence artificiel !"
+        "text": "il y'a quelqu'un robot !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "Allo"
+        "text": "bien le bonsoir robot !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "ca va robot !"
+        "text": "Greet Nex"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "Il y'a quelqu'un intelligence artificiel"
+        "text": "Bonjour Nex !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "Salamalec bot"
+        "text": "yo Nex"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "t'es la Jady"
+        "text": "Il y'a quelqu'un Nex"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "mes salutions intelligence artificiel"
+        "text": "Allo !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "Bien le bonsoir"
+        "text": "allo toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "allo Nex !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonjour"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hey toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "yo robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonsoir"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonjour intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hello robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Yo robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonjour toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salamalec toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "t'es la bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "il y'a quelqu'un"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "t'es la robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Heho Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "tu es la robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salution intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hey bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonjour !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "il y'a quelqu'un robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salamalec Nex !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salution intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "mes salutions intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salut !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Heho !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salution robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "allo Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Tu es la !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hey toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salamalec intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salution Nex !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "T'es la robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salut intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonjour Nex !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Heho"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Mes salutions robot !"
       },
       {
         "entities": [],
         "intent": "greet",
         "text": "allo bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Tu es la robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salut intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salam !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "T'es la intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "heho intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "il y'a quelqu'un toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hello bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Mes salutions Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "allo robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hallo !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Allo robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hallo bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Heho Nex !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonsoir bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hello toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salut Nex"
       },
       {
         "entities": [],
@@ -3594,317 +404,27 @@
       {
         "entities": [],
         "intent": "greet",
-        "text": "Hello Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ca va toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tu es la bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Mes salutions Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salamalec intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "allo toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "greet toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "sa va"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Yo Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ça va"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ca va bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonsoir intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Heho intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ça va robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salamalec robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonsoir"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "heho intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salamalec Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salam robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonsoir toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ca va intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salam bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "greet toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Greet bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hallo robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salam toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonjour Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tu es la Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Allo Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonjour bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hallo bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonsoir robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonjour intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salam Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tu es la toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonsoir bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hey bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "yo"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonsoir bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salut robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "heho bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salam bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tout vas bien Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salut intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tu es la"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Greet intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Sa va toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Greet toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salam Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hallo Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonsoir robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonjour toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonsoir Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ça va toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ça va !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonjour toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonsoir bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salut robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
         "text": "salut"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "tu es la toi"
+        "text": "tu es la Nex"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "Bien le bonjour toi !"
+        "text": "tu es la intelligence artificiel !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "Mes salutions robot !"
+        "text": "Salam robot"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "bien le bonsoir Jady"
+        "text": "yo robot"
       },
       {
         "entities": [],
@@ -3914,322 +434,37 @@
       {
         "entities": [],
         "intent": "greet",
-        "text": "Tout vas bien !"
+        "text": "Bonjour Nex"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "il y'a quelqu'un"
+        "text": "il y'a quelqu'un robot"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "allo"
+        "text": "Hello"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "hey toi"
+        "text": "tu es la"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "Mes salutions intelligence artificiel"
+        "text": "Salution Nex !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "Il y'a quelqu'un"
+        "text": "salution intelligence artificiel !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "il y'a quelqu'un bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Sa va intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salamalec toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonsoir intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tu es la !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ca va bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tout vas bien robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ca va intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ça va robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hello intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ca va robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salam robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salution robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ca va intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "mes salutions !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "T'es la !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salution toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ca va robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "allo bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salamalec"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hello intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "sa va !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "T'es la"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hello bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonsoir intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonjour Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonsoir robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tout vas bien !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Allo toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Allo bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "allo bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "mes salutions bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "mes salutions toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "greet intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Il y'a quelqu'un toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hey bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "il y'a quelqu'un robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Yo robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "yo toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "allo intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Il y'a quelqu'un"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "heho toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hallo toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Yo toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ca va bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salamalec toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonsoir Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hello Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ca va robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "T'es la intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonjour intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ca va intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ça va toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "greet toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Yo intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salamalec !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonjour intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ça va intelligence artificiel"
+        "text": "Hallo intelligence artificiel !"
       },
       {
         "entities": [],
@@ -4239,262 +474,27 @@
       {
         "entities": [],
         "intent": "greet",
-        "text": "greet robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "sa va toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hello intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salution Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Allo toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ca va toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ca va"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Sa va toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tu es la robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "t'es la bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "sa va"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salution robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
         "text": "Tu es la toi"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "salution bot !"
+        "text": "T'es la Nex"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "bonsoir robot"
+        "text": "il y'a quelqu'un !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "bonjour Jady !"
+        "text": "tu es la toi"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "T'es la robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salam intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ça va Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hallo robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonjour bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Heho bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Greet Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Heho toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ça va intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonjour robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hallo robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "allo Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salam robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Heho !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hey robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salut bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Yo bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ça va bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonjour robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salution robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tu es la Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonjour intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salut !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "tout vas bien intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Il y'a quelqu'un bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salution Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonsoir bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salamalec intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "sa va intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Heho Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salam Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hey toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonjour bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "sa va Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ca va robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Salution !"
+        "text": "il y'a quelqu'un Nex !"
       },
       {
         "entities": [],
@@ -4504,312 +504,57 @@
       {
         "entities": [],
         "intent": "greet",
-        "text": "hallo robot"
+        "text": "Bonsoir Nex"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "salam robot !"
+        "text": "salut robot"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "ça va Jady"
+        "text": "Salamalec bot"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "ça va Jady !"
+        "text": "tu es la robot !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "Salamalec"
+        "text": "t'es la toi"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "T'es la toi"
+        "text": "salam toi"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "Ça va intelligence artificiel !"
+        "text": "Hello !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "bien le bonsoir !"
+        "text": "tu es la intelligence artificiel !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "t'es la toi !"
+        "text": "il y'a quelqu'un Nex"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "salam Jady"
+        "text": "Allo !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "ca va bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hello"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "T'es la Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonsoir intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonjour"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hey"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Allo"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "greet bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ca va !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Sa va toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bonsoir Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Mes salutions !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tout vas bien bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Allo Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonjour"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "mes salutions robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Il y'a quelqu'un bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Allo robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ça va toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "t'es la robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bonjour robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "t'es la"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Greet toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ça va !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Ca va intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Bien le bonjour bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ca va Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ça va bot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Sa va Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salution !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ca va intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salam toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salution !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tout vas bien !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "sa va bot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hey toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hey Jady !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "allo robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tout vas bien toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "yo !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hey robot"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Tu es la intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ça va intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Greet intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "ça va robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salut intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salution toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonsoir intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hello intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "bien le bonsoir toi"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "hello robot !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "sa va intelligence artificiel !"
+        "text": "yo Nex"
       },
       {
         "entities": [],
@@ -4819,22 +564,12 @@
       {
         "entities": [],
         "intent": "greet",
-        "text": "Salution bot !"
+        "text": "Bonsoir toi"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "heho toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "Hallo Jady"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "heho intelligence artificiel"
+        "text": "Salution bot"
       },
       {
         "entities": [],
@@ -4844,42 +579,27 @@
       {
         "entities": [],
         "intent": "greet",
-        "text": "hey Jady"
+        "text": "hey intelligence artificiel !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "mes salutions !"
+        "text": "salut Nex"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "Yo Jady !"
+        "text": "T'es la intelligence artificiel"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "Hey !"
+        "text": "greet bot"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "hallo intelligence artificiel !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "il y'a quelqu'un toi !"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "t'es la intelligence artificiel"
-      },
-      {
-        "entities": [],
-        "intent": "greet",
-        "text": "salamalec intelligence artificiel"
+        "text": "greet robot !"
       },
       {
         "entities": [],
@@ -4889,47 +609,47 @@
       {
         "entities": [],
         "intent": "greet",
-        "text": "Bonsoir"
+        "text": "hallo Nex !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "salam Jady"
+        "text": "bonjour !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "salution toi !"
+        "text": "salution toi"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "tu es la toi !"
+        "text": "t'es la Nex"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "Mes salutions"
+        "text": "greet !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "Allo bot"
+        "text": "salam !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "Bien le bonsoir robot"
+        "text": "hey bot !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "ca va !"
+        "text": "bien le bonjour toi !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "Il y'a quelqu'un toi !"
+        "text": "Salamalec intelligence artificiel !"
       },
       {
         "entities": [],
@@ -4939,57 +659,172 @@
       {
         "entities": [],
         "intent": "greet",
-        "text": "sa va robot !"
+        "text": "greet intelligence artificiel !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "Salution"
+        "text": "Salut Nex !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "Bien le bonjour robot"
+        "text": "Allo intelligence artificiel"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "Ça va toi"
+        "text": "Hallo toi !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "sa va robot"
+        "text": "t'es la robot !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "bonjour robot"
+        "text": "T'es la Nex !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "hallo Jady"
+        "text": "hey robot"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "Bien le bonjour intelligence artificiel !"
+        "text": "bonjour intelligence artificiel"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "hello !"
+        "text": "Salution bot !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "Bonjour toi !"
+        "text": "Bonjour intelligence artificiel !"
       },
       {
         "entities": [],
         "intent": "greet",
-        "text": "Bonsoir Jady !"
+        "text": "Allo Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hallo robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "t'es la intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Allo toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Yo"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salut toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salut toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Tu es la robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salamalec Nex !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "heho bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Yo toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonsoir"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonsoir Nex !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonjour"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "t'es la bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salamalec intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonjour toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salam bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Il y'a quelqu'un Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonjour bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonjour intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonjour toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonsoir intelligence artificiel"
       },
       {
         "entities": [],
@@ -4999,7 +834,1672 @@
       {
         "entities": [],
         "intent": "greet",
-        "text": "greet toi !"
+        "text": "salam robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salut bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "allo robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salamalec bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonjour"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Yo robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "T'es la toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Tu es la toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonsoir toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Il y'a quelqu'un intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonjour !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "greet !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonjour robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonsoir Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Greet robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salam bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonjour robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hey toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Allo bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonjour robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonsoir !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "greet Nex !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salamalec robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "mes salutions !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "tu es la intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonjour intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonsoir toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Greet toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "allo !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonjour bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Allo intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonjour"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonjour robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hallo toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salut bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonsoir robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Mes salutions robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salut"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "mes salutions toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "T'es la intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "mes salutions intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonsoir robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salam robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "heho toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Heho toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonsoir"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salut robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hallo robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Greet toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salam Nex !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "mes salutions robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salution intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Il y'a quelqu'un"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonsoir !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Mes salutions intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "il y'a quelqu'un"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonsoir bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Yo"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Allo robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salamalec"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hey bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Il y'a quelqu'un toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Greet intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "T'es la toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Greet intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salution"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salamalec toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salut intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "t'es la bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Yo Nex !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Greet"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonsoir Nex !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "greet intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hallo !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonjour bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonjour bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello Nex !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Tu es la"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "yo bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salut Nex !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "yo bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salut intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonjour Nex !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonjour bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "mes salutions robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hey"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hallo robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salution robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Tu es la bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonsoir robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salamalec robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonjour !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Tu es la intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Heho bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salam intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Tu es la toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Yo bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Greet robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "allo intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hallo Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonsoir Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonsoir toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonjour intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "yo"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salut !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salution Nex !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "mes salutions bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "allo bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "tu es la Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salamalec !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Yo intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Greet robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "heho toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonsoir bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "heho robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonjour toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salution bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonjour robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hello intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "greet robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Mes salutions bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonsoir"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hallo toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonjour bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Mes salutions !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonsoir toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonsoir Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Mes salutions bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Heho robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salution toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Heho bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Heho !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salamalec Nex !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hallo intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salam robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "t'es la robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "yo bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Il y'a quelqu'un Nex !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salam toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salamalec toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hallo intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salution !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonsoir"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hey bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Tu es la Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonsoir bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hello intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "t'es la intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hallo Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "allo Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Allo bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Yo toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "mes salutions bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonjour Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hey toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "tu es la Nex !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "greet robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salam intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Mes salutions intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonjour bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonsoir intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salution Nex !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hello robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "il y'a quelqu'un intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Il y'a quelqu'un intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "T'es la robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "yo toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hallo intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "t'es la"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Tu es la"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hello Nex !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "heho"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salam toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Allo toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "mes salutions"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonsoir robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salution"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Greet bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "greet toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hallo"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonsoir robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "t'es la intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salam intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "tu es la toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hallo bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hallo robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonsoir !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salution Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonjour intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salamalec toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonjour toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "t'es la Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hey"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Heho robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "T'es la robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Yo intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "il y'a quelqu'un bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salam Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonjour bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonjour toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salam toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonjour bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonjour robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonsoir intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "allo intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Allo"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Greet intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "il y'a quelqu'un intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Allo Nex !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hallo Nex !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hey !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Greet !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "t'es la !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salut intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonsoir"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "greet intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salution toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salam robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salamalec"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Yo Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hallo"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonjour !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "greet"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hey intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salut bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonsoir robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Mes salutions bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salamalec robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonjour robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hallo toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "mes salutions Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "il y'a quelqu'un Nex !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonjour intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Greet toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salam Nex !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "mes salutions intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "T'es la bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Tu es la Nex !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salut robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salamalec toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salam intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hello toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "T'es la intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "heho robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Greet Nex !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "il y'a quelqu'un toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonsoir bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "tu es la"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Mes salutions toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salut robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonsoir Nex !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salution toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "il y'a quelqu'un Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "T'es la Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hello robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "t'es la toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salam toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "il y'a quelqu'un !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Yo !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonsoir bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hello toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salution !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "heho robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hey bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "yo Nex !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Allo Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salamalec toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Yo bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonsoir robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "allo intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Mes salutions Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salamalec robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonsoir Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonsoir toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonsoir Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hey !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonsoir intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Allo robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "allo toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Mes salutions toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonjour intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hallo toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonjour Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salution Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salut Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hallo Nex !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salution Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Yo toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Greet bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salam intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Allo intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Il y'a quelqu'un !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Heho toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Mes salutions bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salamalec Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonjour robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salution Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Tu es la intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hey robot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonsoir Nex"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bonsoir !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "bien le bonsoir intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "heho toi !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salution bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonjour intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bonsoir !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "yo intelligence artificiel"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salamalec"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salamalec intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hallo intelligence artificiel !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "il y'a quelqu'un toi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "greet bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Greet bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Heho bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Bien le bonjour"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Salution bot !"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Heho intelligence artificiel"
       }
     ],
     "entity_synonyms": [],

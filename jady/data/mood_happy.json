@@ -1,0 +1,2509 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est incomparables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement sans pareils"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement succulents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement admirables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est parfaits"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement incomparables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est succulents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est épatants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Parfaits"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Formidables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement formidables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est singuliers"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est magistrals"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement singuliers"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement formidables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est admirables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Singuliers"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est incomparables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement excellents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Succulents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement excellents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement magistrals"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est superbes"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement incomparables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "épatants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement superbes"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est succulents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est formidables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est singuliers"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est succulents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est impeccables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est excellents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est formidables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Superbes"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement magistrals"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Épatants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Impeccables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est succulents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement magistrals"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement superbes"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est admirables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement parfaits"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "succulents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est épatants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est excellents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement sans pareils"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est sans pareils"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est épatants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement incomparables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est puissants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement admirables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement impeccables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement singuliers"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "magistrals"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est impeccables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est puissants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "singuliers"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est parfaits"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement succulents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est superbes"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est parfaits"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Puissants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement puissants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Sans pareils"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "excellents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est incomparables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "formidables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement superbes"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "admirables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est magistrals"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est superbes"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement sans pareils"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement magistrals"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement succulents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement puissants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement succulents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est parfaits"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement parfaits"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est superbes"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est impeccables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement parfaits"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Incomparables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement parfaits"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement admirables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement épatants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Excellents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement formidables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "sans pareils"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement sans pareils"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est magistrals"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement incomparables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement épatants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement singuliers"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "puissants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est puissants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est formidables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est formidables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est impeccables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement excellents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Admirables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est admirables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "superbes"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement admirables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement puissants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est épatants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "impeccables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement superbes"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement super"
+      }
+    ],
+    "entity_synonyms": [],
+    "lookup_tables": [],
+    "regex_features": []
+  }
+}

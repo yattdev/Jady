@@ -1,0 +1,109 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Comment bien s'habiler ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "combien donne 2+2"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Comment bien faire l'amour"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "comment bien s'habiler"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Tu as une copine ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Est tu un croyant"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Combien donne 2+2"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tu es de quel sexe ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "2 + 2 egale a combien"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tu es de quel genre ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "comment bien faire l'amour"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tu as un copin ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Est tu un croyant ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Combien donne 2+2 ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tu as une copine"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "c'est quoi 2 + 2 ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tu es de quel genre"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Comment bien s'habiler"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tu es de quel sexe"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tu as un copin"
+      }
+    ],
+    "entity_synonyms": [],
+    "lookup_tables": [],
+    "regex_features": []
+  }
+}

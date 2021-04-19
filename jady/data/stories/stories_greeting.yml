@@ -1,0 +1,33 @@
+version: "2.0"
+stories:
+- story: beginning of flow
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - checkpoint: check_asked_question
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+
+- story: beginning of flow
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - checkpoint: check_asked_bot_feeling
+
+- story: handle bot feeling
+  steps:
+  - checkpoint: check_asked_bot_feeling
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+
+- story: beginning of flow
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - checkpoint: check_asked_question
+
+- story: handle user question
+  steps:
+  - checkpoint: check_asked_question
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling

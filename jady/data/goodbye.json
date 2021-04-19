@@ -1,0 +1,229 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "a+"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "A+"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "au revoir"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "Au revoir"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "bay"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "Bay"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "bay bay"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "Bay bay"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "baye"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "Baye"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "baye baye"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "Baye baye"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "bye"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "Bye"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "bye bye"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "Bye bye"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "bye-bye"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "Bye-bye"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "ciao"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "Ciao"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "tchao"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "Tchao"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "a+"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "A+"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "au revoir"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "Au revoir"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "bay"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "Bay"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "bay bay"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "Bay bay"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "baye"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "Baye"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "baye baye"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "Baye baye"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "bye"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "Bye"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "bye bye"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "Bye bye"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "bye-bye"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "Bye-bye"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "ciao"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "Ciao"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "tchao"
+      },
+      {
+        "entities": [],
+        "intent": "goodbye",
+        "text": "Tchao"
+      }
+    ],
+    "entity_synonyms": [],
+    "lookup_tables": [],
+    "regex_features": []
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "entities": [],
+        "intent": "nlu_fallback",
+        "text": "Est ce que tu dort ?"
+      },
+      {
+        "entities": [],
+        "intent": "nlu_fallback",
+        "text": "Est ce que tu dort"
+      },
+      {
+        "entities": [],
+        "intent": "nlu_fallback",
+        "text": "est ce tu part au toilet ?"
+      },
+      {
+        "entities": [],
+        "intent": "nlu_fallback",
+        "text": "est ce tu part au toilet"
+      },
+      {
+        "entities": [],
+        "intent": "nlu_fallback",
+        "text": "Est ce que tu fait caca"
+      },
+      {
+        "entities": [],
+        "intent": "nlu_fallback",
+        "text": "est ce que tu dort"
+      },
+      {
+        "entities": [],
+        "intent": "nlu_fallback",
+        "text": "est ce que tu fait caca ?"
+      },
+      {
+        "entities": [],
+        "intent": "nlu_fallback",
+        "text": "Je te pardonne."
+      },
+      {
+        "entities": [],
+        "intent": "nlu_fallback",
+        "text": "je te pardonne."
+      }
+    ],
+    "entity_synonyms": [],
+    "lookup_tables": [],
+    "regex_features": []
+  }
+}

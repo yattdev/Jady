@@ -1,0 +1,109 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Comment drager un homme"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "comment être plus rapide"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "est ce que tu connais Cortana ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Est ce que tu connais Cortana"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Comment drager une fille"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Tu as été crée par qui ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "quelle est le nom de l'entreprise qui ta creer"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "comment etre plus intelligent"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Quelle est ta nationnalité"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Est ce que tu connais Alexa"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Tu as été crée par qui"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Quel âge as-tu ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Qui est ton createur"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "de quel paye vient tu ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "De quel paye vient tu ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Qui est ton createur ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "est ce que tu connais Bixby ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "est ce que tu connais Alexa ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Qui ta crée"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "comment drager un homme"
+      }
+    ],
+    "entity_synonyms": [],
+    "lookup_tables": [],
+    "regex_features": []
+  }
+}

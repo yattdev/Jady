@@ -3,92 +3,49 @@ session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true
 intents:
-- greet
+- ask_bot_feeling
 - L_énergie_:_le_carburant_de_l_excellence
-- Connaître_la_distinction_entre_les_gens_qui_reussissent_et_les_autres
-- to_learn
-- user_give_his_name
-- thankyou
-- affirm
-- mood_great
-- goodbye
-- deny
-- mood_unhappy
-- offend
-- ask_bot_possibility
-- satisfaction
-- status
-- ask_bot_name
-- ask_bot_identity
-- ask_bot_users
-entities:
-- bot_possibility
-- context
-- finance
 - greet
-- marketing
-- name
+- nlu_fallback
+- out_of_scope
+- Savoir_se_mettre_dans_un_état_donné
+- Établir_des_distinctions_:_les_méta-programmes
 - offend
-- question
-- selling
-- status
-- subject
-- user_name
-- value_creation
-slots:
-  assertion:
-    type: text
-    influence_conversation: true
-  context:
-    type: text
-    influence_conversation: true
-  finance:
-    type: text
-    influence_conversation: true
-  greet:
-    type: text
-    influence_conversation: true
-  learn_continuous:
-    type: bool
-    influence_conversation: true
-  marketing:
-    type: text
-    influence_conversation: true
-  question:
-    type: text
-    influence_conversation: true
-  satisfaction:
-    type: bool
-    influence_conversation: true
-  selling:
-    type: text
-    influence_conversation: true
-  status_entrepreneurial:
-    type: text
-    influence_conversation: true
-  subject:
-    type: text
-    influence_conversation: true
-  user_name:
-    type: text
-    influence_conversation: true
-  value_creation:
-    type: text
-    influence_conversation: true
-
+- scope_not_handle
+- bot_name
+- goodbye
+- mood_happy
+- thankyou
+- bot_possibility
+- need_help
+- Apprendre_excéllence_humaine
+- Connaître_la_distinction_entre_les_gens_qui_reussissent_et_les_autres
+- Quelles_sont_les_pourvoir_de_la_croyance
+- Les_sept_mensonges_du_succès
+- La_maîtrise_de_votre_esprit_ou_comment_faire_fonctionner_votre_cerveau
+- Physiologie_:_la_voie_royale_vers_l_excellence
+- La_formule_fondamentale_du_succès
+- Le_pouvoir_de_la_précision
+- La_magie_de_la_sympathie
+- Comment_venir_à_bout_des_résistances_et_résoudre_les_problèmes
+- Restructuration_des_schémas_:_le_pouvoir_de_la_perspective
+- Les_points_d_ancrage_de_la_réussite
+- Les_systèmes_de_valeurs_:_jugement_ultime_de_la_réussite
+- Les_cinq_clés_de_la_richesse_et_du_bonheur
+- Création_des_tendances_:_le_pouvoir_de_la_persuasion
 actions:
 - action_answer_question
-- utter_answer_offend
-- utter_ask_bot_possibility
-- utter_bot_give_his_name # TODO: Intent for utter_bot_give_his_name
-- utter_bot_present_itself # TODO: Intent for utter_bot_present_itself
+- utter_ask_bot_feeling
+- utter_ask_rephrase
+- utter_ask_user_name
+- utter_bot_name
+- utter_bot_possibility
 - utter_default
-- utter_goodbye # TODO: Intent for utter_goodbye
+- utter_goodbye
 - utter_greet
-- utter_happy # TODO: Intent for utter_happy
-- utter_return_thankyou # TODO: Intent for utter_bot_present_itself
+- utter_greet_again
+- utter_mood_happy
+- utter_offend
+- utter_out_of_scope
+- utter_scope_not_handle
 - utter_thankyou
-
-session_config:
-  session_expiration_time: 60
-  carry_over_slots_to_new_session: true
