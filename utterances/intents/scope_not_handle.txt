@@ -1,0 +1,18 @@
+// template fro scope_not_handle.txt
+// Intent: scope_not_handle
+%[&scope_not_handle](100)
+    Qui est ton createur [\??]
+    Quelle est le nom de l'entreprise qui ta creer [\??]
+    Quand as-tu été crée [\??]
+    tu as été crée par qui [\??]
+    Quelle est ta nationnalité [\??]
+    De quel paye vient tu [\??]
+    Comment être plus rapide [\??]
+    Quel âge as-tu [\??]
+    Quel âge tu as [\??]
+    Est ce que tu connais [Siri|Alexa|Cortana|Bixby|Neon] [\??]
+    Quel est ton [QI|quotient intellectuel] [\??]
+    tu va detuire le monde un jour [\??]
+    vas tu exterminer les etre humain un jour [\??]
+    tu fait caca [\??]
+    fait tu caca [\??]

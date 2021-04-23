@@ -1,0 +1,25 @@
+~[&comment]
+    comment
+    par quelle [moyen|travail|procédé|manière|façon|méthode|technique]
+
+~[&moyen]
+    par quelle [moyen|travail|procédé|manière|façon|méthode|technique] [peut-on|puis-je|pourrais-je?]
+    ~[&comment]
+
+~[&pourquoi]
+    pourquoi
+    pour quelle raison
+
+~[&pourquoi et comment]
+    ~[&pourquoi]
+    ~[&comment]
+
+~[raison]
+    pourquoi
+    dans quel but
+    dans quelle intention
+    à quoi bon
+    à quel [fin|motif]
+    pour quel [fin|motif]
+
+

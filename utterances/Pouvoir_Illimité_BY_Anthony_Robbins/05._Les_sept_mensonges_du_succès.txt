@@ -1,0 +1,117 @@
+// Template for chapter Les_sept_mensonges_du_succès
+// book: Pouvoir Illimite
+
+%[&Les_sept_mensonges_du_succès](1500)
+    [&S'il vous plaît?] ~[&Quelles sont?] les ~[croyances#plural] [des|aux] ~[leaders#plural] [\??]
+    [&S'il vous plaît?] ~[&Quelles sont?] les ~[croyances#plural] communes [des|aux] ~[leaders#plural] [\??]
+    [&S'il vous plaît?] ~[&Quelles sont?] les ~[croyances#plural] [des|aux] ~[leaders#plural] [\??]
+    [&S'il vous plaît?] ~[&Quelles sont?] les ~[croyances#plural] qui mènent à une vie ~[heureuse] [\??]
+    [&S'il vous plaît?] ~[&Quelles sont?] les ~[croyances#plural] de ~[bonheur] [\??]
+
+    // ########### Avec le {Je} ###############
+
+    ~[&Je veux?] ~[savoir] ~[Quelles sont?] les ~[croyances#plural] [des|aux] ~[leaders#plural] [\??]
+    ~[&Je veux?] ~[savoir] ~[Quelles sont?] les ~[croyances#plural] communes [des|aux] ~[leaders#plural] [\??]
+    ~[&Je veux?] ~[savoir] ~[Quelles sont?] les ~[croyances#plural] [des|aux] ~[leaders#plural] [\??]
+    ~[&Je veux?] ~[savoir] ~[Quelles sont?] les ~[croyances#plural] qui mènent à une vie ~[heureuse] [\??]
+    ~[&Je veux?] ~[savoir] ~[Quelles sont?] les ~[croyances#plural] de ~[bonheur] [\??]
+
+
+// Inclure le ~[&Je veux?]
+|../includes/je_veux.chatette
+
+
+// Inclure ~[savoir]
+|../includes/savoir.chatette
+
+~[Quelles sont]
+    [&Quelles] ~[sont]
+    [&Que] fûrent
+
+~[sont]
+    sont
+    etaient
+    fûrent
+
+~[meilleures]
+   meilleures
+   grandes
+   excellentes
+
+~[heureuse]
+    heureuse
+    de ~[bonheur]
+
+~[bonheur]
+    bonheur
+    success
+    joie
+    reussite
+    nirvana
+    félicité
+    contentement
+    ataraxie
+    bien-être
+    satisfaction
+    ravissement
+    aubaine
+    béatitude
+    prospérité
+    délice
+    l'excéllence
+    grâce
+    grandeur
+
+~[croyance#singular]
+    croyance
+    conviction
+    croyance commune
+    conviction commune
+
+~[croyances#plural]
+    croyances
+    convictions
+    croyances communes
+    convictions communes
+
+~[leaders#plural]
+    champions
+    entrepreneurs
+    chefs d'entreprise
+    bâtisseurs
+    fondateurs
+    créateurs
+    conquérants
+    pionniers
+    maîtres
+    meneurs
+    champions
+    dirigeants
+    virtuoses
+    chefs de bande
+    chefs de clan
+    chefs de gang
+    chefs de groupe
+    meneurs d'hommes
+    têtes d'affiche
+
+~[leader#singular]
+    champion
+    entrepreneur
+    chef d'entreprise
+    fondateur
+    créateur
+    conquérant
+    pionnier
+    maître
+    bâtisseur
+    meneur
+    champion
+    dirigeant
+    virtuose
+    chef de bande
+    chef de clan
+    chef de gang
+    chef de groupe
+    meneur d'hommes
+    tête d'affiche

@@ -1,0 +1,16 @@
+// Template for chapter Vivre_l_’_excellence_:_le_défi_humain
+// book: Pouvoir Illimite
+%[&Vivre_l_’_excellence_:_le_défi_humain](500)
+    [&S'il vous plaît?] ~[utterances] [\??]
+
+    // ########### Avec le {Je} ###############
+    ~[&Je veux?] ~[&savoir] ~[utterances] [\??]
+
+~[utterances]
+
+
+// Inclure le ~[&Je veux?]
+|../includes/je_veux.chatette
+
+// Inclure ~[savoir]
+|../includes/savoir.chatette

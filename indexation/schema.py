@@ -7,7 +7,7 @@ from whoosh.analysis import LanguageAnalyzer
 
 
 class BookSchema(SchemaClass):
-    """ 
+    """
         BookSchema is a custom schema From SchemaClass for index
         and search Ebook
     """
@@ -24,9 +24,7 @@ class BookSchema(SchemaClass):
     # Le context est une courte resumer de quoi ont par dans le chapitre
     context = TEXT(analyzer=LanguageAnalyzer(lang='fr'), phrase=True,
                    stored=True, field_boost=1.0, spelling=True)
-    #  Ce sont des tags comme les categories: Vente, Marketing, Dev-personnel, 
+    #  Ce sont des tags comme les categories: Vente, Marketing, Dev-personnel,
     #  Entrepreneuriat, Comedie etc.
     tags = KEYWORD(stored=True, lowercase=True, commas=True,
                    analyzer=LanguageAnalyzer(lang='fr'), sortable=True)
-
-

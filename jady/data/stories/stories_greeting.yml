@@ -4,9 +4,17 @@ stories:
   steps:
   - intent: greet
   - action: utter_greet
-  - checkpoint: check_asked_question
+
+- story: handle bot feeling
+  steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
+
+- story: beginning of flow
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - checkpoint: check_asked_question
 
 - story: beginning of flow
   steps:
@@ -31,3 +39,36 @@ stories:
   - checkpoint: check_asked_question
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
+
+- story: User greet and ask bot feeling
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+
+# Story with utter_greet_again
+- story: User greet and ask bot feeling
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: greet
+  - action: utter_greet_again
+
+- story: User greet and ask bot feeling
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: greet
+  - action: utter_greet_again
+  - intent: greet
+  - action: utter_greet_again
+
+- story: User greet and ask bot feeling
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: greet
+  - action: utter_greet_again

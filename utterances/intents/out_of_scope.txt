@@ -1,0 +1,16 @@
+// template fro out_of_scope.txt
+// Intent: out_of_scope
+%[&out_of_scope](100)
+    C'est quoi 2 + 2 [\??]
+    2 + 2 egale a combien
+    Combien donne 2+2 [\??]
+    Tu as une copine [\??]
+    Tu as un copin [\??]
+    Tu es de quel genre [\??]
+    Quel est ton sexe [\??]
+    est ce que tu est intelligent [\??]
+    Est tu un croyant [\??]
+    Comment bien s'habiler [\??]
+    Comment bien faire l'amour
+    Comment drager une fille [\??]
+    Comment drager un homme [\??]

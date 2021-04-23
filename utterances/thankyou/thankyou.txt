@@ -1,0 +1,11 @@
+// template fro thankyou.txt
+// Intent: thankyou
+%[&thankyou](1000)
+    [&merci]
+    [&merci] pour ton [service|travail|quartier]
+    [&merci] [beaucoup|énormement|infinément]
+    [&mes] remerciements
+    tkx you
+    thank you
+    thanx you
+    thank

@@ -1,0 +1,36 @@
+// template fro mood_happy.txt
+// Intent: mood_happy
+%[&mood_happy](1000)
+    [&C'est|Tout simplement?] ~[excellents#plural]
+    [&C'est|Tout simplement?] ~[excellent#singular]
+    [&Tu] es [tout simplement?] ~[excellent#singular]
+    [&Je] suis [très?] ~[joyeux]
+    Je t'aime
+    Je d'adore
+    Tu me rends heureux !
+    Je me sens absolument en sécurité avec toi
+    Je veux être avec toi toute ma vie.
+    Tu fais de moi une meilleure personne.
+    Plus je passe de temps avec toi, plus je t’aime d’un amour fort.
+    I love you
+    tu es un amour
+    tu es un compagnon ~[excellent#singular]
+    Merci ! c'etais sympa
+    Merci ! Tu es genial
+
+
+
+// Inclure ~[excellents#plural] ~[excellent#singular]
+|../includes/positive.chatette
+
+~[joyeux]
+    joyeux
+    content
+    satisfait
+    heureux
+    épaté
+    ébahi
+    étonné
+    stupéfait
+    éberlué
+    ahuri

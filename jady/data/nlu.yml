@@ -13,6 +13,3 @@ nlu:
     - J'espere que ca va ?
     - Comment tu va ?
     - Comment va tu ?
-- intent: L_énergie_:_le_carburant_de_l_excellence
-  examples: |
-    - Je veux savoir comment garder la super forme tout la journee

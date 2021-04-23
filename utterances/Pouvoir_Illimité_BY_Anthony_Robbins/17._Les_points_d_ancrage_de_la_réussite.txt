@@ -1,0 +1,107 @@
+// Template for chapter Les_points_d_ancrage_de_la_réussite
+// book: Pouvoir Illimite
+%[&Les_points_d_ancrage_de_la_réussite](1500)
+    [&Quels] sont Les points d’ancrage de la réussite
+    [&S'il vous plaît?] ~[&comment] ~[utterances] [\??]
+
+    // ########### Avec le {Je} ###############
+    ~[&Je veux?] ~[&savoir] ~[&comment] ~[utterances] [\??]
+
+~[utterances]
+    [mieux utiliser|utiliser aux mieux] [ses|nos|mes] ~[ressources#plural]
+    ~[se] mettre [en action|à agir] ~[immédiatement]
+    ~[se] creer des habitudes ~[excellents#plural]
+    ~[se] creer des ~[excellents#plural] habitudes
+    agir [immédiatement] [quand il le faut]
+    peut-on se donner les moyens d'agir a chaque instant [quand il le faut?]
+    ~[se] donner des habitudes qui [nous|me] font agir ~[immédiatement] [quand il le faut?]
+    eliminer ~[les mauvaises] habitudes
+    eliminer [les|des] habitudes ~[désagréables]
+    ~[se] creer des [nouveaux?] habitudes [positives?]
+    peut-on se mettre [en action|à agir] [quand il le faut?]
+    ~[se] creer un mécanisme constant de déclenchement
+    tirer le meilleur [parti possible?] de ce que nous avons
+    tirer le meilleur [parti possible?] de nos ~[ressources#plural]
+    ~[se] créent donc les points d’ancrage
+
+
+// Inclure le ~[&Je veux?]
+|../includes/je_veux.chatette
+
+// Inclure ~[savoir]
+|../includes/savoir.chatette
+
+// Inclure ~[&comment]
+|../includes/comment.chatette
+
+// Inclure ~[excellents#plural]
+|../includes/positive.chatette
+
+~[les mauvaises]
+    les mauvaises
+    des ~[désagréables]
+
+~[désagréables]
+    désagréables
+    exécrables
+    malsaines
+    nuisibles
+    répréhensibles
+    sales
+    sévères
+    vilaines
+    pitoyables
+    perfides
+    hostiles
+    fâcheux
+    détestables
+    dangereux
+    blâmables
+    déplaisants
+    foutu
+    ignobles
+    lamentables
+    misérables
+    néfastes
+    toxiques
+    préjudiciables
+    moches
+    pervers
+    déplorables
+
+~[immédiatement]
+    immédiatement
+    tout de suite
+    sans délai
+    soudain
+    vite
+    illico
+    sur-le-champ
+    instantanément
+    au plus vite
+    à bout portant
+    tout de go
+    tout de suite
+    à l'instant
+    à chaque instant
+
+
+~[ressources#plural]
+    facultés
+    capacités
+    moyens
+    possibilités
+    potentiels
+    pouvoirs
+    dons
+    habiletés
+    puissances
+    talents
+    aptitudes
+    forces
+    habilités
+
+~[se]
+    se
+    me
+    nous

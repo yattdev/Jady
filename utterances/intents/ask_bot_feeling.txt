@@ -1,0 +1,27 @@
+// template fro ask_bot_feeling.txt
+// Intent: ask_bot_feeling
+%[&ask_bot_feeling](1000)
+    [&Comment] ~[tu va] [ce matin|aujourd'hui?] [!?]
+    ~[&tout baigne] [ce matin|aujourd'hui?] [!?]
+    J'espere que ~[&tout baigne] [ce matin|aujourd'hui?] [!?]
+    La forme [ce matin|aujourd'hui?] [!?]
+    [&Comment] tu te porte [!?]
+    [&Comment] ~[tu va] [bot|robot|toi|intelligence artificiel?] [!?]
+    [&Est] ce que ~[tout baigne] [bot|robot|toi|intelligence artificiel?] [!?]
+
+
+~[tu va]
+    tu te sens
+    te sens tu
+    ca va
+    sa va
+    ça va
+    tu va
+    va tu
+
+~[&tout baigne]
+    tout baigne
+    ca va
+    sa va
+    ça va
+    tout va bien

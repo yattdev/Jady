@@ -16,7 +16,6 @@ main/test_update.py
 AlexaUtteranceGenerator/
 *output/train/*
 others/
-utterances/
 *result*
 *train_test*
 *.tar.gz

@@ -1,0 +1,82 @@
+// Template for chapter L_’_énergie_:_le_carburant_de_l_'_excellence
+// book: Pouvoir Illimite
+%[&L_’_énergie_:_le_carburant_de_l_'_excellence](1500)
+    [&S'il vous plaît?] ~[&comment] ~[faire pour?] avoir plus d'energie [\??]
+    [&S'il vous plaît?] ~[&comment] ~[faire pour?] ~[réaliser] des performance [maximales|optimales?] [\??]
+    [&S'il vous plaît?] ~[&comment] ~[faire pour?] être en ~[bonne santé] [\??]
+    [&S'il vous plaît?] ~[&comment] ~[garder] ~[bonne santé] [\??]
+    [&S'il vous plaît?] ~[&comment] ~[garder] super forme [\??]
+    [&S'il vous plaît?] [&Quelles] sont les ~[pratiques#plural] pour ~[garder] ~[bonne santé] [\??]
+    [&S'il vous plaît?] ~[&comment] ~[faire pour?] avoir une physiologie ~[puissante] [\??]
+    [&S'il vous plaît?] ~[&comment] [mieux?] faire fonctionner son corps [\??]
+
+    // ########### Avec le {Je} ###############
+    ~[&Je veux?] ~[savoir] ~[&comment] ~[faire pour?] avoir plus d'energie [\??]
+    ~[&Je veux?] ~[savoir] ~[&comment] ~[faire pour?] ~[réaliser] des performance [maximales|optimales?] [\??]
+    ~[&Je veux?] ~[savoir] ~[&comment] ~[faire pour?] être en ~[bonne santé] [\??]
+    ~[&Je veux?] ~[savoir] ~[&comment] ~[garder] ~[bonne santé] [\??]
+    ~[&Je veux?] ~[savoir] ~[&comment] ~[garder] [super|très bonne|meilleur|excéllente] forme [\??]
+    ~[&Je veux?] ~[savoir] ~[&comment] ~[faire pour?] avoir une physiologie ~[puissante] [\??]
+    ~[&Je veux?] ~[savoir] ~[&comment] [mieux?] faire fonctionner son corps [\??]
+    ~[&Je veux?] ~[savoir] [quelles sont?] les ~[pratiques#plural] pour ~[garder] ~[bonne santé] [\??]
+
+
+// Inclure ~[&comment?] and ~[&comment]
+|../includes/comment.chatette
+
+// Inclure ~[puissante]
+|../includes/pouvoir.chatette
+
+// Inclure ~[savoir]
+|../includes/savoir.chatette
+
+// Inclure ~[&Je veux?]
+|../includes/je_veux.chatette
+
+// Inclure ~[maintenir] et ~[garder]
+|../includes/maintenir.chatette
+
+~[bonne santé]
+    [bonne|très bonne|meilleur|excéllente] [santé|etat physique|forme]
+    [pliene?] forme
+
+~[faire pour]
+    peut-on
+    je fais
+    nous faisons
+    faisons nous
+
+~[pratiques#plural]
+    pratiques
+    actes
+    actions
+    astuces
+    exercices
+    façons d'agir
+    habitudes
+    méthode
+    procédés
+    routines
+    techniques
+    trucs
+    outils
+    principes
+    règles
+
+~[réaliser]
+    réaliser
+    accomplir
+    être
+    atteindre
+    créer
+    effectuer
+    engendre
+    faire
+    opérer
+    aboutir à
+    accéder à
+    arriver à
+    parvenir à
+    retrouver
+    toucher
+    s'élever à

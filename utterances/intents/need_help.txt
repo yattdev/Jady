@@ -1,0 +1,51 @@
+// template fro need_help.txt
+// Intent: need_help
+%[&need_help](1000)
+    [&S'il vous plaît?] ~[utterances] [\??]
+    [&S'il vous plaît?] j'ai besoin d'aide pour ~[t'utiliser] [\??]
+
+    // ########### Avec le {Je} ###############
+    ~[&Je veux?] ~[&savoir] ~[utterances] [\??]
+
+
+~[&utterances]
+    ~[comment] est ce qu'on ~[t'utilise]
+    [quels|quelles] sont tes fonctions
+    ~[comment] je [peux mieux|suis [cencé|sensé]] ~[t'utiliser] tes capacites
+    ~[comment] [je [peux|pourrais]|pourrai-je] ~[bénéficier] de toi
+    quel est ton mode d'emploi
+
+
+
+~[t'utilise]
+    t'utilise
+    t'exploite
+    te manie
+    te manipule
+
+~[t'utiliser]
+    t'utiliser
+    t'exploiter
+    te manier
+    te manipuler
+
+~[bénéficier]
+    retirer
+    tirer parti
+    tirer profit
+    exploiter
+    profiter
+    gagner
+    obtenir
+    jouir
+    avoir
+    gagner
+
+// Inclure le ~[&Je veux?]
+|../includes/je_veux.chatette
+
+// Inclure ~[savoir]
+|../includes/savoir.chatette
+
+// Inclure ~[&comment]
+|../includes/comment.chatette

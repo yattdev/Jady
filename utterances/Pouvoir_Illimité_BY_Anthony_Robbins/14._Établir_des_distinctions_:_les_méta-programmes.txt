@@ -1,0 +1,217 @@
+// This template defines Établir_des_distinctions_:_les_méta-programmes
+// Book: Pouvoir Illimité
+%[Établir_des_distinctions_:_les_méta-programmes](1500)
+    [&S'il vous plaît?] [&pourquoi et comment] ~[les gens?] réagissent [ils si?] ~[différemment] à des ~[messages#plural] ~[identiques#plural] [\??]
+    [&S'il vous plaît?] [&pourquoi et comment] les ~[réactions#plural] [des ~[personnes#plural]?] sont [si?] ~[différents#plural] aux [mêmes ~[messages#plural]|~[messages#plural] ~[identiques#plural]] [\??]
+    [&S'il vous plaît?] [&Qu'est ce qui|C'est quoi qui] ~[distingues#plural] les ~[réactions#plural] [des ~[personnes#plural]?] aux [mêmes ~[messages#plural]|~[messages#plural] ~[identiques#plural]] [\??]
+    [&S'il vous plaît?] [&Qu'est ce qui|C'est quoi qui] fait que nous nous sentons ~[motivé] par ~[message#singular] qui ~[n'évoquera] rien pour ~[notre voisin] [\??]
+    [&S'il vous plaît?] [&pourquoi et comment] nous nous sentons ~[motivé] par ~[message#singular] qui ~[n'évoquera] rien pour ~[notre voisin] [\??]
+    [&S'il vous plaît?] [&pourquoi et comment] je me sens ~[motivé] par ~[message#singular] qui ~[n'évoquera] rien pour ~[notre voisin] [\??]
+    [&S'il vous plaît?] [&pourquoi et comment] certaines ~[personnes#plural?] ce sentent ~[motivé] par ~[message#singular] qui ~[n'évoquera] rien pour ~[notre voisin] [\??]
+    [&S'il vous plaît?] [&comment] [être|devenir] ~[grand orateur] [\??]
+    [&S'il vous plaît?] [&comment] [être|devenir] ~[grand orateur] [\??]
+    [&S'il vous plaît?] [&comment] un individu forme ses représentations internes [et diriger son comportement?] [\??]
+    [&S'il vous plaît?] [&comment] forme t-on ses représentations internes [et diriger son comportement?] [\??]
+    [&S'il vous plaît?] [&Qu'est] ce qu'est ce qu'un méta-programmes [\??]
+
+    // ########### Avec le {Je} ###############
+    ~[&Je veux?] ~[savoir] ~[&pourquoi et comment] ~[les gens?] réagissent-[ils si?] ~[différemment] à des ~[messages#plural] ~[identiques#plural] [\??]
+    ~[&Je veux?] ~[savoir] ~[&pourquoi et comment] les ~[réactions#plural] [des ~[personnes#plural]?] sont [si?] ~[différents#plural] aux [mêmes ~[messages#plural]|~[messages#plural] ~[identiques#plural]] [\??]
+    ~[&Je veux?] ~[savoir] [&Qu'est ce qui|C'est quoi qui] ~[distingues#plural] les ~[réactions#plural] [des ~[personnes#plural]?] aux [mêmes ~[messages#plural]|~[messages#plural] ~[identiques#plural]] [\??]
+    ~[&Je veux?] ~[savoir] [&Qu'est ce qui|C'est quoi qui] fait que nous nous sentons ~[motivé] par ~[message#singular] qui ~[n'évoquera] rien pour ~[notre voisin] [\??]
+    ~[&Je veux?] ~[savoir] ~[&pourquoi et comment] nous nous sentons ~[motivé] par ~[message#singular] qui ~[n'évoquera] rien pour ~[notre voisin] [\??]
+    ~[&Je veux?] ~[savoir] ~[&pourquoi et comment] je me sens ~[motivé] par ~[message#singular] qui ~[n'évoquera] rien pour d'autre perso,gens,certains... [\??]
+    ~[&Je veux?] ~[savoir] ~[&pourquoi et comment] certaines ~[personnes#plural?] ce sentent ~[motivé] par ~[message#singular] qui ~[n'évoquera] rien pour  ~[notre voisin] [\??]
+    ~[&Je veux?] ~[savoir] ~[&comment] [être|devenir] ~[grand orateur] [\??]
+    ~[&Je veux?] ~[savoir] ~[&comment] [être|devenir] ~[grand orateur] [\??]
+    ~[&Je veux?] ~[savoir] ~[&comment] ~[un individu] forme ses représentations internes [et diriger son comportement?] [\??]
+    ~[&Je veux?] ~[savoir] ~[&comment] forme t-on ses représentations internes [et diriger son comportement?] [\??]
+    ~[&Je veux?] ~[savoir] [&Qu'est] ce qu'est ce qu'un méta-programmes [\??]
+
+
+~[un individu]
+    un individu
+    une personne
+    un entrepreneur
+    un être humain
+    un être
+    un individu
+    un mortel
+    un homme
+    une femme
+    un humain
+    des ~[personnes#plural]
+
+~[distingues#plural]
+    distingues
+    différencient
+    individualises
+
+// Inclure le ~[personnes#plural] & ~[les gens]
+|../includes/personne.chatette
+
+// Inclure ~[&comment?] and ~[&comment]
+|../includes/comment.chatette
+
+// Inclure ~[&Je veux?]
+|../includes/je_veux.chatette
+
+// Inclure ~[savoir]
+|../includes/savoir.chatette
+
+~[grand orateur]
+    un ~[grand] ~[orateur]
+    une ~[grande] ~[oratrice]
+
+~[orateur]
+    orateur
+    débatteur
+    speaker
+    communicateur
+    parleur
+    conférencière
+    discoureur
+
+~[oratrice]
+    débattrice
+    speaker
+    communicatrice
+    parleur
+    conférencière
+    discoureur
+
+~[grand]
+    grand
+    adroit
+    extraordinaire
+    excéllent
+    fabuleux
+    formidable
+    sensationnel
+    super
+
+~[grande]
+    grande
+    adroite
+    extraordinaire
+    excéllente
+    fabuleuse
+    formidable
+    sensationnelle
+    superbe
+
+~[motivé]
+    intéressé, stimulé, motivé
+    intéressé, stimulé
+    stimulé, motivé
+    intéressé, motivé
+    intéressé
+    stimulé
+    motivé
+
+~[réactions#plural]
+    réactions
+    reponses
+    actions
+    effets
+    attitudes
+    répercussions
+    comportements
+    réponse
+
+~[message#singular]
+    une [communication|annoce|avis|déclaration|information]
+    un [message|propos|communiqué|discours|mot]
+
+~[messages#plural]
+    communications
+    messages
+    annonces
+    avis
+    propos
+    déclarations
+    communiqués
+    discours
+    mots
+    informations
+
+~[différents#plural]
+    différents
+    éloignés
+    disjointes
+    divergentes
+    inhabituelles
+    contradictoires
+    variés
+    contraires
+    disproportionnés
+    hétérogènes
+    opposés
+    distants
+    inégals
+    multiples
+    séparés
+    distincts
+    diverts
+
+~[différemment]
+    différemment
+    distinctement
+    diversement
+    autrement
+    inégalement
+
+~[identiques#plural]
+    identiques
+    égals
+    équivalents
+    inchangés
+    communs
+    comparables
+    ressemblants
+    semblables
+    conformes
+    uniques
+    similaires
+
+~[notre voisin]
+    notre ~[voisin]
+    d'autre ~[personne#singular]
+
+~[voisin]
+    voisin
+    amie
+    ami
+    camarade
+
+~[n'évoquera]
+    n'~[éveillera]
+    ne représentera
+    ne représente
+    ne citera
+    ne cite
+    ne figure
+    ne figurera
+    ne mentionnera
+    ne mentionne
+    ne révélera
+    ne révéle
+    ne revivrera
+    ne revive
+    ne décrira
+    ne décrit
+    ne suggérera
+    ne suggére
+    ne suscitera
+    ne suscite
+
+~[éveillera]
+    invoquera
+    invoque
+    appel
+    appelera
+    interpellera
+    interpelle
+
+// Inclure ~[définit#singular] & ~[défini#plural]
+|../includes/défini.chatette

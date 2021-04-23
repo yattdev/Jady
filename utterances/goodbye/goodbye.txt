@@ -1,0 +1,14 @@
+// template fro goodbye.txt
+// Intent: goodbye
+%[&goodbye](1000)
+    [&bye]
+    [&bay]
+    [&baye]
+    [&a][ ?]+
+    [&bye] bye
+    [&baye] baye
+    [&bay] bay
+    [&bye-bye]
+    [&au] revoir
+    [&ciao]
+    [&Tchao]
