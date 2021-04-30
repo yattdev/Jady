@@ -3,12 +3,11 @@ session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true
 intents:
-- L_’_énergie_:_le_carburant_de_l_'_excellence
-- Connaître_la_distinction_entre_les_gens_qui_reussissent_et_les_autres
+- greet
+- call_nex
+- mood_happy
 - ask_bot_feeling
 - L_énergie_:_le_carburant_de_l_excellence
-- greet
-- nlu_fallback
 - out_of_scope
 - Savoir_se_mettre_dans_un_état_donné
 - Établir_des_distinctions_:_les_méta-programmes
@@ -16,11 +15,11 @@ intents:
 - scope_not_handle
 - bot_name
 - goodbye
-- mood_happy
 - thankyou
 - bot_possibility
 - need_help
 - Apprendre_excéllence_humaine
+- Connaître_la_distinction_entre_les_gens_qui_reussissent_et_les_autres
 - Quelles_sont_les_pourvoir_de_la_croyance
 - Les_sept_mensonges_du_succès
 - La_maîtrise_de_votre_esprit_ou_comment_faire_fonctionner_votre_cerveau
@@ -37,10 +36,12 @@ intents:
 actions:
 - action_answer_question
 - utter_ask_bot_feeling
+- utter_call_nex
 - utter_ask_rephrase
 - utter_ask_user_name
 - utter_bot_name
 - utter_bot_possibility
+- utter_need_help
 - utter_default
 - utter_goodbye
 - utter_greet

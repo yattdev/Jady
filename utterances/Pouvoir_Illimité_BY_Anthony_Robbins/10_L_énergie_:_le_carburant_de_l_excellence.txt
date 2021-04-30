@@ -1,6 +1,6 @@
-// Template for chapter L_’_énergie_:_le_carburant_de_l_'_excellence
+// Template for chapter L_énergie_:_le_carburant_de_l_excellence
 // book: Pouvoir Illimite
-%[&L_’_énergie_:_le_carburant_de_l_'_excellence](1500)
+%[&L_énergie_:_le_carburant_de_l_excellence](1500)
     [&S'il vous plaît?] ~[&comment] ~[faire pour?] avoir plus d'energie [\??]
     [&S'il vous plaît?] ~[&comment] ~[faire pour?] ~[réaliser] des performance [maximales|optimales?] [\??]
     [&S'il vous plaît?] ~[&comment] ~[faire pour?] être en ~[bonne santé] [\??]

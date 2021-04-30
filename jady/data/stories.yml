@@ -30,3 +30,63 @@ stories:
   - action: utter_greet
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
+
+- story: interactive_story_1
+  steps:
+  - intent: Restructuration_des_schémas_:_le_pouvoir_de_la_perspective
+  - action: action_answer_question
+
+- story: interactive_story_1
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: greet
+  - action: utter_greet_again
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: mood_happy
+  - action: utter_mood_happy
+
+- story: interactive_story_2
+  steps:
+  - intent: greet
+  - action: utter_greet
+
+- story: interactive_story_1
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: bot_name
+  - action: utter_bot_name
+  - intent: call_nex
+  - action: utter_call_nex
+
+- story: interactive_story_1
+  steps:
+  - intent: call_nex
+  - action: utter_call_nex
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: bot_possibility
+  - action: utter_bot_possibility
+  - intent: mood_happy
+  - action: utter_mood_happy
+  - intent: need_help
+  - action: utter_need_help
+
+- story: interactive_story_1
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: greet
+  - action: utter_greet_again
+  - intent: bot_possibility
+  - action: utter_bot_possibility
+  - intent: scope_not_handle
+  - action: utter_scope_not_handle
+  - intent: goodbye
+  - action: utter_goodbye

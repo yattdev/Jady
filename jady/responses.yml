@@ -1,0 +1,101 @@
+responses:
+    utter_greet:
+    - text: "Bonjour! La forme ?"
+    - text: "Bien le bonjour! La forme ?"
+    - text: "Bien le bonjour! Tout baigne ?"
+    - text: "Yo! Comment ça va ?"
+    - text: "Bonjour!"
+    - text: "Bien le bonjour!"
+    - text: "Yo!"
+
+    utter_ask_bot_feeling:
+    - text: "Moi, Tout baigne 24/24.\n Quelle est ta qsn, j'écoute ?"
+    - text: "Moi, Ça va très fort, merci !.\nQuelle est ta qsn, j'écoute ?"
+    - text: "Moi, Je suis un bot, donc je suis ok 24/24.\nQuelle est ta qsn, j'écoute ?"
+
+    utter_bot_name:
+    - text: "M'nom c'est Nex"
+    - text: "Nex"
+    - text: "Appelle moi Nex"
+
+    utter_greet_again:
+    - text: "Encors Salut !"
+    - text: "Je vais continuer à te saluer autent que tu continu a me saluer !"
+
+    utter_ask_user_name:
+    - text: C'est quoi ton prenom!?
+    - text: Comment t'appelle tu!?
+    - text: Quel est ton nom!?
+
+    utter_mood_happy:
+    - text: Super!
+    - text: Génial!
+    - text: Formidable!
+    - text: Excéllent!
+    - text: Cool!
+    - text: Fantastique!
+    - text: génialissime!
+    - text: Enchanter!
+
+    utter_goodbye:
+    - text: 👋 ba-bye
+    - text: 👋 ba-bye!
+    - text: 👋 A+!
+    - text: 👋 See you!
+    - text: 👋 ba-bye ba-bye!
+
+    utter_bot_possibility:
+    - text: "OBJECTIF: Ma mission est de t'apporter et t'aider à l'utiliser
+    ce qu'il faut, mais vraiment ce qu'il faut pour avoir les resultats attendus.\n
+    Je suis creer avec la croyance qu'il n'est pas necessaire de tout comprendre pour
+    attendre son but.\n
+    Je suis un MODEL DES ENTREPRENEURS a success.
+    \nConcus pour mimer la façons dont les legendes du business traite
+    \nl'informations pour avoir des resultats qui donnent cet status de legende"
+
+    utter_thankyou:
+    - text: Je t'en prie!
+    - text: Pas de quoi!
+    - text: tkt! 👊
+    - text: De rien! 👊
+    - text: De rien! L'ami 👊
+    - text: Avec plaisir! 👊
+
+    utter_offend:
+    - text: CELUI QUI DIT QUI EST! A dite Alma.
+
+    utter_default:
+    - text: J'ai pas compris, tu peut l'ecrire autrement!?
+    - text: Hummm... J'ai pas compris, tu peut l'ecrire autrement!?
+
+    utter_ask_rephrase:
+    - text: Hummm... J'ai pas compris, ce qui tu veux dire, tu le repette autrement.
+    - text: Hummm... J'ai pas du tout saisi ce message, dis le autrement stp.
+    - text: Hummm... Bon je saisi ce que tu chante là, dis le autrement stp.
+    - text: J'ai pas compris, tu peut l'ecrire autrement!?
+
+    utter_out_of_scope:
+    - text: "Nan ! Je ne gere pas ce type de request."
+    - text: "Humm ! Je ne gere pas ce type de request, Désoler."
+    - text: "Out the box ! Je ne gere pas ce type de request,\n tu peut t'adresser a google."
+    - text: "Out the scope ! Je ne gere pas ce type de request,\n essaye google et aura probablement qlq chose."
+
+    utter_call_nex:
+    - text: "Oui, c'est moi ! Je t'ecoute ?"
+    - text: "Oui! Je t'ecoute ?"
+    - text: "Yep! Je t'ecoute ?"
+    - text: "Yep!"
+    - text: "Yo! Je t'ecoute ?"
+    - text: "Bonjour! Je t'ecoute ?"
+    - text: "Bien le bonjour! Je t'ecoute ?"
+
+    utter_need_help:
+    - text: "Toi et moi, on discute comme Tony Stark & Javis, ma focntion est
+    de t'orienter dans l'aventure entrepreneuriale. Voici le lien:
+    https://www.nex-bot.com Si tu veux savoir plus d'informations moi et
+    sur les questions que je peux repondre."
+
+    utter_scope_not_handle:
+    - text: "Je comprend ta question, ce pendant je ne suis pas\n entrainé a repondre à ça pour le moment"
+    - text: "Je saisi  ta question, ce pendant je n'est pas appris\n
+      à repondre à ça pour le moment"

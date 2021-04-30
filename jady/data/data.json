@@ -43,51 +43,15 @@
       },
       {
         "text": "Q'est ce que tu peut faire",
-        "intent": "bot_possibility",
-        "entities": [
-          {
-            "start": 0,
-            "end": 26,
-            "value": "Q'est ce que tu peut faire",
-            "entity": "bot_possibility"
-          },
-          {
-            "start": 13,
-            "end": 26,
-            "value": "tu peut faire",
-            "entity": "bot_possibility"
-          }
-        ]
+        "intent": "bot_possibility"
       },
       {
         "text": "Qu'est ce que tu peut faire",
-        "intent": "bot_possibility",
-        "entities": [
-          {
-            "start": 0,
-            "end": 27,
-            "value": "Qu'est ce que tu peut faire",
-            "entity": "bot_possibility"
-          }
-        ]
+        "intent": "bot_possibility"
       },
       {
         "text": "Comment est-tu cense m'aider",
-        "intent": "bot_possibility",
-        "entities": [
-          {
-            "start": 0,
-            "end": 28,
-            "value": "Comment est-tu cense m'aider",
-            "entity": "bot_possibility"
-          },
-          {
-            "start": 21,
-            "end": 28,
-            "value": "m'aider",
-            "entity": "bot_possibility"
-          }
-        ]
+        "intent": "bot_possibility"
       },
       {
         "text": "Tu es null",

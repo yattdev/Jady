@@ -6,41 +6,35 @@ stories:
   - intent: bot_name
   - action: utter_bot_name
 
-- story: Executer 'utter_mood_happy' a tout moment quand l'user envoi un msg avec cet intent  
+- story: Executer 'utter_mood_happy' a tout moment quand l'user envoi un msg avec cet intent
   steps:
   - intent: mood_happy
   - action: utter_mood_happy
 
-- story: Executer 'utter_offend' a tout moment quand l'user envoi un msg avec cet intent  
+- story: Executer 'utter_offend' a tout moment quand l'user envoi un msg avec cet intent
   steps:
   - intent: offend
   - action: utter_offend
 
-- story: Executer 'utter_thankyou' a tout moment quand l'user envoi un msg avec cet intent  
+- story: Executer 'utter_thankyou' a tout moment quand l'user envoi un msg avec cet intent
   steps:
   - intent: thankyou
   - action: utter_thankyou
 
-- story: Executer 'utter_goodbye' a tout moment quand l'user envoi un msg avec cet intent  
+- story: Executer 'utter_goodbye' a tout moment quand l'user envoi un msg avec cet intent
   steps:
   - intent: goodbye
   - action: utter_goodbye
 
-- story: Executer 'utter_bot_possibility' a tout moment quand l'user envoi un msg avec cet intent  
+- story: Executer 'utter_bot_possibility' a tout moment quand l'user envoi un msg avec cet intent
   steps:
   - intent: bot_possibility
   - action: utter_bot_possibility
 
-- story: Executer 'utter_bot_possibility' a tout moment quand l'user envoi un msg avec cet intent  
+- story: Executer 'utter_bot_possibility' a tout moment quand l'user envoi un msg avec cet intent
   steps:
   - intent: need_help
-  - action: utter_bot_possibility
-
-- story: Ask the user to rephrase in case of low NLU confidence
-  steps:
-  - intent: nlu_fallback
-  - action: utter_default
-  # - active_loop: action_two_stage_fallback
+  - action: utter_need_help
 
 - story: out_of_scope
   steps:
@@ -51,5 +45,3 @@ stories:
   steps:
   - intent: scope_not_handle
   - action: utter_scope_not_handle
-
-

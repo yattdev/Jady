@@ -1,6 +1,14 @@
 // template fro scope_not_handle.txt
 // Intent: scope_not_handle
-%[&scope_not_handle](100)
+%[&scope_not_handle](700)
+    C'est quoi 2 + 2 [\??]
+    2 + 2 egale a combien
+    Combien donne 2+2 [\??]
+    C'est quoi la signfication de [&Nex] [\??]
+    Que signifie [&Nex] [\??]
+    C'est quoi le sens de [&Nex] [\??]
+    Pourquoi [ce nom?] [&Nex] [\??]
+    Qui choisie cet nom [&Nex] [\??]
     Qui est ton createur [\??]
     Quelle est le nom de l'entreprise qui ta creer [\??]
     Quand as-tu été crée [\??]
@@ -16,3 +24,9 @@
     vas tu exterminer les etre humain un jour [\??]
     tu fait caca [\??]
     fait tu caca [\??]
+    Je te pardonne.
+    tu n'est pas tres intelligent en faite
+    tu es quoi au juste [\??]
+    tu part au toilet [\??]
+    Est tu mechant [\??]
+    du n'importe quoi [\??]

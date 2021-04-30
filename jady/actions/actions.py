@@ -80,10 +80,10 @@ class ActionAnswerQuestion(Action):
         print('INTENT SEARCHING: '+intent)
         print('############################ ANSWER ###################')
         # Le subjet n'exist plus dans les slot
-        #  subject = tracker.get_slot('subject') # Get subject for user question
-        ####### Call Database OR API #########
+        #  subject = tracker.get_slot('subject') Get subject for user question
+        # ###### Call Database OR API #########
         responses = "Search result:\n"
-        if intent: # if User asked qns
+        if intent:  # if User asked qns
             """ Search qsn in index """
             try:
                 index = IndexBook.get_index(bookSchema=BookSchema())
@@ -152,4 +152,3 @@ class ActionPresentModels(Action):
 if __name__ == '__main__':
     print('Je suis jady et je bouffe du code humhum !')
     ActionAnswerQuestion.search_test()
-

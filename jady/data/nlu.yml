@@ -4,6 +4,8 @@ nlu:
   examples: |
     - BIen le bonjour
     - bonjour
+    - Bonjour
+    - slut
 - intent: ask_bot_feeling
   examples: |
     - Comment cava
@@ -13,3 +15,39 @@ nlu:
     - J'espere que ca va ?
     - Comment tu va ?
     - Comment va tu ?
+    - Tout baigne ?
+    - Comment sa va
+    - Oui tout va bien et toi ?
+- intent: Restructuration_des_schémas_:_le_pouvoir_de_la_perspective
+  examples: |
+    - dis moi. comment changer sa maniere de voir les choses ou le monde
+- intent: mood_happy
+  examples: |
+    - Je suis super content !
+    - genial
+- intent: bot_name
+  examples: |
+    - dis moi. c'est quoi ton nom
+- intent: call_nex
+  examples: |
+    - Nex
+    - dis moi Nex
+- intent: bot_possibility
+  examples: |
+    - Qu'est ce que tu peut faire pour moi ?
+    - Dis moi quel genre de question est ce que je dois te poser
+- intent: need_help
+  examples: |
+    - J'ai besoin d'aide pour t'utiliser
+- intent: scope_not_handle
+  examples: |
+    - 2+0
+- intent: goodbye
+  examples: |
+    - au revoir !
+- intent: Connaître_la_distinction_entre_les_gens_qui_reussissent_et_les_autres
+  examples: |
+    - C'est quoi la difference entre les riches et les pauvres
+- intent: L_’_énergie_:_le_carburant_de_l_'_excellence
+  examples: |
+    - Comment avoir la forme

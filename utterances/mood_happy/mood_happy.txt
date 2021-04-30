@@ -4,9 +4,13 @@
     [&C'est|Tout simplement?] ~[excellents#plural]
     [&C'est|Tout simplement?] ~[excellent#singular]
     [&Tu] es [tout simplement?] ~[excellent#singular]
-    [&Je] suis [très?] ~[joyeux]
+    [&Je] suis [très|tout|super|incroyablement|fortement?] ~[joyeux]
+    Je suis en pliene forme
+    Je vais [très|tout|super|incroyablement|fortement?] bien
     Je t'aime
     Je d'adore
+    [ça|sa] va [très|tout|super|incroyablement|fortement?] [bien?]
+    [cava|çava|ça va ça va|sava|sa va sa va]
     Tu me rends heureux !
     Je me sens absolument en sécurité avec toi
     Je veux être avec toi toute ma vie.
@@ -34,3 +38,4 @@
     stupéfait
     éberlué
     ahuri
+    content

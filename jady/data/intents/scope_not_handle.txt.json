@@ -1,0 +1,794 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "2 + 2 egale a combien"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "c'est quoi 2 + 2"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "C'est quoi 2 + 2"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "c'est quoi 2 + 2 ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "C'est quoi 2 + 2 ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "c'est quoi la signfication de Nex"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "C'est quoi la signfication de Nex"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "c'est quoi la signfication de Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "C'est quoi la signfication de Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "c'est quoi la signfication de nex"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "C'est quoi la signfication de nex"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "c'est quoi la signfication de nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "C'est quoi la signfication de nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "c'est quoi le sens de Nex"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "C'est quoi le sens de Nex"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "c'est quoi le sens de Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "C'est quoi le sens de Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "c'est quoi le sens de nex"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "C'est quoi le sens de nex"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "c'est quoi le sens de nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "C'est quoi le sens de nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "combien donne 2+2"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Combien donne 2+2"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "combien donne 2+2 ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Combien donne 2+2 ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "comment être plus rapide"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Comment être plus rapide"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "comment être plus rapide ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Comment être plus rapide ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "de quel paye vient tu"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "De quel paye vient tu"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "de quel paye vient tu ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "De quel paye vient tu ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "est ce que tu connais Alexa"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Est ce que tu connais Alexa"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "est ce que tu connais Alexa ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Est ce que tu connais Alexa ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "est ce que tu connais Bixby"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Est ce que tu connais Bixby"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "est ce que tu connais Bixby ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Est ce que tu connais Bixby ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "est ce que tu connais Cortana"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Est ce que tu connais Cortana"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "est ce que tu connais Cortana ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Est ce que tu connais Cortana ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "est ce que tu connais Neon"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Est ce que tu connais Neon"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "est ce que tu connais Neon ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Est ce que tu connais Neon ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "est ce que tu connais Siri"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Est ce que tu connais Siri"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "est ce que tu connais Siri ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Est ce que tu connais Siri ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "est tu mechant"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Est tu mechant"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "est tu mechant ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Est tu mechant ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "je te pardonne."
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Je te pardonne."
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "pourquoi Nex"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Pourquoi Nex"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "pourquoi Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Pourquoi Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "pourquoi ce nom Nex"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Pourquoi ce nom Nex"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "pourquoi ce nom Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Pourquoi ce nom Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "pourquoi ce nom nex"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Pourquoi ce nom nex"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "pourquoi ce nom nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Pourquoi ce nom nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "pourquoi nex"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Pourquoi nex"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "pourquoi nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Pourquoi nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "quand as-tu été crée"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Quand as-tu été crée"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "quand as-tu été crée ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Quand as-tu été crée ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "que signifie Nex"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Que signifie Nex"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "que signifie Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Que signifie Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "que signifie nex"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Que signifie nex"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "que signifie nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Que signifie nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "quel est ton QI"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Quel est ton QI"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "quel est ton QI ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Quel est ton QI ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "quel est ton quotient intellectuel"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Quel est ton quotient intellectuel"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "quel est ton quotient intellectuel ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Quel est ton quotient intellectuel ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "quel âge as-tu"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Quel âge as-tu"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "quel âge as-tu ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Quel âge as-tu ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "quel âge tu as"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Quel âge tu as"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "quel âge tu as ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Quel âge tu as ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "quelle est le nom de l'entreprise qui ta creer"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Quelle est le nom de l'entreprise qui ta creer"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "quelle est le nom de l'entreprise qui ta creer ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Quelle est le nom de l'entreprise qui ta creer ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "quelle est ta nationnalité"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Quelle est ta nationnalité"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "quelle est ta nationnalité ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Quelle est ta nationnalité ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "qui choisie cet nom Nex"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Qui choisie cet nom Nex"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "qui choisie cet nom Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Qui choisie cet nom Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "qui choisie cet nom nex"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Qui choisie cet nom nex"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "qui choisie cet nom nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Qui choisie cet nom nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "qui est ton createur"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Qui est ton createur"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "qui est ton createur ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Qui est ton createur ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "du n'importe quoi"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Du n'importe quoi"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "du n'importe quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Du n'importe quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "fait tu caca"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Fait tu caca"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "fait tu caca ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Fait tu caca ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "tu as été crée par qui"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Tu as été crée par qui"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "tu as été crée par qui ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Tu as été crée par qui ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "tu es quoi au juste"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Tu es quoi au juste"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "tu es quoi au juste ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Tu es quoi au juste ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "tu fait caca"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Tu fait caca"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "tu fait caca ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Tu fait caca ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "tu n'est pas tres intelligent en faite"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Tu n'est pas tres intelligent en faite"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "tu part au toilet"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Tu part au toilet"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "tu part au toilet ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Tu part au toilet ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "tu va detuire le monde un jour"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Tu va detuire le monde un jour"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "tu va detuire le monde un jour ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Tu va detuire le monde un jour ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "vas tu exterminer les etre humain un jour"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Vas tu exterminer les etre humain un jour"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "vas tu exterminer les etre humain un jour ?"
+      },
+      {
+        "entities": [],
+        "intent": "scope_not_handle",
+        "text": "Vas tu exterminer les etre humain un jour ?"
+      }
+    ],
+    "entity_synonyms": [],
+    "lookup_tables": [],
+    "regex_features": []
+  }
+}

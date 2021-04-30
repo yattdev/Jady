@@ -1,0 +1,5009 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Comment m'aide tu"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Comment m'aidera tu"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Comment peut-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Comment pourrai-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Comment pourrai-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Comment tu es cencé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Comment tu es sensé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Comment tu m'aide"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Comment tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Comprendre De quoi est tu cencé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Comprendre Par quelle méthode peut-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Comprendre Par quelle technique tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Comprendre Pourquoi je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Comprendre Qu'apporte tu dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Comprendre Qu'est ce que tu peut m'apporte dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Comprendre Qu'est ce que tu peut m'apporte de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Comprendre Que peut-tu m'apporter dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Comprendre Que peut-tu m'apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Comprendre Tu a été fabriquer à quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Comprendre comment peut-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Comprendre comment pourrai-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Comprendre de quoi tu es cencé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Comprendre qu'est ce que tu m'apporte dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Comprendre que peut-tu m'apporter dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Comprendre que peut-tu m'apporter dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Comprendre quelles sont tes possibilités ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Comprendre à quoi bon ils t-on ériger"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Comprendre à quoi bon je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Connaitre Comment peut-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Connaitre De quoi est tu cencé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Connaitre On ta créer dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Connaitre Par quelle moyen peut-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Connaitre Qu'est ce que tu peut m'apporte dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Connaitre Que peut-tu m'apporter dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Connaitre Que peut-tu m'apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Connaitre Quel est ton pouvoir"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Connaitre Quelles sont tes avantages"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Connaitre Quels sont tes moyen"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Connaitre comment tu es cencé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Connaitre dans quel but on ta construit ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Connaitre en quoi tu génial ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Connaitre en quoi tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Connaitre par quelle moyen peut-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Connaitre par quelle technique tu es cencé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Connaitre pourquoi je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Connaitre qu'es tu sensé m'apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Connaitre qu'est ce que tu es apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Connaitre qu'est ce que tu es cencé apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Connaitre qu'est ce que tu est cencé m'apporter"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Connaitre qu'est ce que tu m'apporte dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Connaitre qu'est ce que tu peut m'apporte dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Connaitre qu'est ce que tu peut m'apporte dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Connaitre quelle est ton potentiel"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Dans quelle intention je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Dans quelle intention on ta préparer ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "De quoi est tu cencé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "De quoi est tu cencé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "De quoi est tu sensé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "De quoi est tu sensé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "De quoi tu es cencé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "De quoi tu es sensé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "En quoi tu es important"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "En quoi tu génialissime ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "En quoi tu m'aide"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "En quoi tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "En quoi tu remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Est ce que je peux Saisir Quelles sont tes facultés"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Est ce que je peux saisir À quel motif je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Est ce que je peux savoir Qu'es tu sensé m'apporter dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Est tu cencé m'aider en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Est tu cencé m'aider en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Est tu sensé m'aider en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Est tu sensé m'aider en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "J'ai besion de Savoir Comment pourrai-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "J'ai besion de Savoir que peut-tu m'apporter dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "J'ai besion de comprendre Tu a été créer à quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "J'ai besion de savoir Quel est ta capacité ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "J'ai envie de Connaitre En quoi tu succulent ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "J'ai envie de Saisir tu a été inventer pour quel fin ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "J'ai envie de savoir Qu'est ce que tu est sensé m'apporter"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "J'aime Trouver Comment tu es sensé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "J'aime Trouver Que peut-tu m'apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "J'aime connaitre Que peut-tu m'apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "J'aime saisir Par quelle manière pourrai-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "J'aimerais trouver de quoi tu es cencé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "J'aspire à savoir Comment tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "J'exige de comprendre Dans quel but je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "J'exige de saisir Qu'est ce que tu m'apporte dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "J'exige de trouver Par quelle méthode tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "J'implore de Comprendre quelle est ton pouvoir"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Je peux Savoir qu'apporte tu dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Je peux Trouver Qu'apporte tu dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Je peux trouver comment m'aide tu"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Je réclame de Trouver Que peut-tu m'apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Je suis intérêssé de trouver Quel est ton potentiel"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Je voudrais Savoir Qu'apporte tu dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Je voudrais comprendre Qu'est ce que tu est cencé m'apporter ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Je voudrais connaitre Comment pourrai-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Je voudrais savoir Qu'est ce que tu peut m'apporte de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Nous voulons Connaitre de quoi tu es cencé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Nous voulons Saisir comment m'aidera tu"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Nous voulons savoir Par quelle technique m'aide tu"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "On ta bâti à quel fin ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Par quelle manière m'aidera tu"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Par quelle manière pourrai-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Par quelle manière tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Par quelle moyen pourrai-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Par quelle méthode m'aide tu"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Par quelle méthode tu m'aide"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Par quelle méthode tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Par quelle procédé pourrai-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Par quelle technique tu es sensé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Par quelle travail m'aide tu ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Peut-on trouver à quel motif ils t-on établir ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Pour quel fin je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Pourquoi je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Pourquoi je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Pourquoi on ta fabriquer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Pourquoi on ta ériger"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Pourquoi tu a été imaginer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Pourquoi tu a été produire"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Pourrais-je Connaitre Comment m'aide tu ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Pourrais-je Connaitre Par quelle façon pourrai-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Pourrais-je savoir Qu'es tu sensé m'apporter dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Puis-je Comprendre par quelle moyen tu es sensé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Puis-je Saisir de quoi est tu cencé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Puis-je connaitre de quoi tu es cencé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Puis-je savoir qu'est ce que tu es apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Qu'apporte tu dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Qu'apporte tu dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Qu'apporte tu de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Qu'apporte tu de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Qu'es tu cencé m'apporter dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Qu'es tu cencé m'apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Qu'es tu cencé m'apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Qu'es tu sensé m'apporter dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Qu'est ce que tu es apporter dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Qu'est ce que tu es cencé apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Qu'est ce que tu est cencé m'apporter ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Qu'est ce que tu est sensé m'apporter ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Qu'est ce que tu m'apporte dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Qu'est ce que tu peut m'apporte dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Qu'est ce que tu peut m'apporte dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Qu'est ce que tu peut m'apporte de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Que peut-tu m'apporter dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Que peut-tu m'apporter dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Quel est ta capacité"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Quel est ta valeur ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Quel est ton pouvoir"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Quel est ton pouvoir ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Quel est ton savoir"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Quel est ton savoir ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Quelle est ta capacité"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Quelle est ta valeur"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Quelle est ta valeur ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Quelle est ton pouvoir ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Quelle est ton savoir ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Quelles sont tes capacités"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Quelles sont tes compétences"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Quelles sont tes facultés ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Quels sont tes compétences"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Quels sont tes moyen"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît Est ce que je peux Connaitre Qu'es tu sensé m'apporter dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît J'ai envie de Comprendre Quel est ton potentiel"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît J'ai envie de Comprendre par quelle travail pourrai-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît J'ai envie de Savoir par quelle méthode peut-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît J'ai envie de Savoir quels sont tes possibilités ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît J'aime Connaitre Par quelle façon peut-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît J'aspire à Trouver par quelle manière pourrai-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît J'exige de Savoir Qu'est ce que tu peut m'apporte dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît J'exige de connaitre Quels sont tes compétences ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît J'exige de savoir On ta fonder à quel fin ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît Je peux Connaitre Par quelle travail pourrai-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît Je suis intérêssé de Trouver en quoi tu es important"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît Nous voulons Trouver qu'apporte tu de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît Pourrais-je trouver Dans quel but ils t-on fait ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît est ce que je peux Savoir qu'est ce que tu es apporter dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît est ce que je peux trouver En quoi tu m'aide"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît j'ai besion de Comprendre par quelle technique pourrai-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît j'ai besion de comprendre qu'est ce que tu peut m'apporte de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît j'ai besion de trouver en quoi tu es important ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît j'ai envie de Connaitre comment m'aide tu"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît j'ai envie de trouver Qu'es tu cencé m'apporter dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît j'aime Saisir Qu'est ce que tu est cencé m'apporter"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît j'aime saisir Qu'est ce que tu m'apporte dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît j'aimerais savoir qu'est ce que tu m'apporte dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît j'aimerais trouver À quoi bon on ta implémenter"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît j'aspire à connaitre de quoi est tu sensé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît j'implore de Trouver Qu'est ce que tu es apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît je peux savoir Dans quel but je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît je peux trouver En quoi tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît je sollicite de Saisir comment tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît je suis intérêssé de Saisir En quoi tu singulier ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît je voudrais Trouver à quoi bon on ta préparer ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît peut-on Connaitre de quoi tu es cencé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît peut-on Trouver Qu'apporte tu dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît pourrais-je Trouver On ta inventer à quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît pourrais-je saisir par quelle méthode pourrai-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il te plaît puis-je Connaitre Comment tu m'aide"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Comment m'aidera tu ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Comment pourrai-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Dans quel but ils t-on établir ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Dans quelle intention ils t-on assembler"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Dans quelle intention je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît De quoi est tu cencé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît De quoi est tu sensé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît De quoi tu es sensé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît En quoi tu es important"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît En quoi tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Est tu cencé m'aider en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Est tu cencé m'aider en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Est tu sensé m'aider en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Est tu sensé m'aider en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Ils t-on produire dans quel but"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Ils t-on préparer dans quel but"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît J'ai besion de savoir par quelle procédé peut-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît J'ai besion de trouver Qu'est ce que tu est cencé m'apporter ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît J'ai envie de Savoir en quoi tu es important ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît J'ai envie de comprendre Quels sont tes capacités"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît J'aime Connaitre Quelle est ton savoir"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît J'aspire à saisir ils t-on construit pourquoi ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît J'implore de Trouver Qu'est ce que tu est sensé m'apporter ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Je peux savoir par quelle manière tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Je vise à Savoir Qu'es tu sensé m'apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Je voudrais Saisir qu'est ce que tu es apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Nous voulons Savoir comment pourrai-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Par quelle moyen m'aide tu ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Par quelle procédé m'aidera tu"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Par quelle procédé peut-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Par quelle technique pourrai-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Peut-on Trouver Comment peut-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Peut-on connaitre par quelle travail tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Pourquoi on ta fabriquer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Pourrais-je Savoir Comment pourrai-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Puis-je Trouver De quoi tu es sensé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Puis-je trouver par quelle méthode tu es sensé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Qu'apporte tu dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Qu'apporte tu de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Qu'apporte tu de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Qu'est ce que tu es apporter dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Qu'est ce que tu est cencé m'apporter"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Qu'est ce que tu est sensé m'apporter"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Qu'est ce que tu est sensé m'apporter ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Qu'est ce que tu m'apporte dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Qu'est ce que tu peut m'apporte dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Qu'est ce que tu peut m'apporte de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Qu'est ce que tu peut m'apporte de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Que peut-tu m'apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Que peut-tu m'apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Quel est ton potentiel"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Quel est ton potentiel ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Quel est ton pouvoir"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Quelles sont tes moyen"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Quelles sont tes métier"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Quels sont tes habiletés ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Tu a été constituer à quel fin"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Tu cool a faire quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Tu es cencé es important en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Tu es cencé génial en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Tu es cencé remarquable en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Tu es cencé succulent en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Tu es cencé super en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Tu es important a faire quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Tu es important en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Tu es important en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Tu es sensé cool en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Tu es sensé m'aide en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Tu incomparable en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Tu m'aide a etre quoi dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Tu m'aide a etre quoi dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Tu m'aide a etre quoi de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Tu m'aide a etre quoi de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Tu m'aide a faire quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Tu m'aide a faire quoi dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Tu m'aide a faire quoi dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Tu m'aide a faire quoi de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Tu m'aide a faire quoi de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Tu peut m'aider a faire quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît Tu peut m'aider a faire quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît comment m'aide tu"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît comment pourrai-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît comment tu es sensé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît de quoi est tu cencé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît de quoi est tu sensé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît de quoi tu es cencé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît de quoi tu es sensé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît de quoi tu es sensé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît en quoi tu es important"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît en quoi tu m'aide"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît en quoi tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît est ce que je peux Savoir Qu'est ce que tu est cencé m'apporter ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît est ce que je peux saisir De quoi tu es sensé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît est tu cencé m'aider en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît est tu cencé m'aider en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît est tu sensé m'aider en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît est tu sensé m'aider en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît j'ai besion de Comprendre quelles sont tes portées"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît j'ai besion de Savoir Qu'est ce que tu peut m'apporte de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît j'aime Saisir Qu'es tu sensé m'apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît j'aimerais connaitre Que peut-tu m'apporter dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît j'aspire à comprendre de quoi tu es sensé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît j'aspire à connaitre de quoi est tu cencé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît j'aspire à saisir par quelle façon tu es sensé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît j'aspire à saisir qu'est ce que tu es cencé apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît j'exige de Comprendre De quoi tu es cencé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît j'exige de Connaitre qu'es tu cencé m'apporter dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît j'exige de saisir Comment peut-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît j'implore de connaitre Qu'est ce que tu es apporter dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît je peux savoir Qu'est ce que tu es apporter dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît je sollicite de Savoir par quelle moyen tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît nous voulons Savoir Qu'apporte tu dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît on ta fonder dans quelle intention ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît par quelle façon tu m'aide"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît par quelle manière pourrai-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît par quelle méthode tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît par quelle travail pourrai-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît peut-on Savoir Tu a été forger à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît peut-on comprendre qu'es tu cencé m'apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît peut-on connaitre de quoi est tu cencé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît peut-on savoir à quoi bon on ta fait ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît pour quel motif je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît puis-je comprendre qu'apporte tu dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît qu'es tu sensé m'apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît qu'est ce que tu es apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît qu'est ce que tu es cencé apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît qu'est ce que tu es sensé apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît qu'est ce que tu est cencé m'apporter"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît qu'est ce que tu m'apporte de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît qu'est ce que tu peut m'apporte dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît qu'est ce que tu peut m'apporte de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît qu'est ce que tu peut m'apporte de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît que peut-tu m'apporter dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît que peut-tu m'apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît quel est ta capacité ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît quel est ton savoir"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît quelle est ta capacité"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît quelle est ton potentiel"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît quelles sont tes métier"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît quelles sont tes portées"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît tu es cencé délicieux en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît tu es cencé es important en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît tu es cencé incomparable en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît tu es cencé m'aide en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît tu es important a faire quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît tu es important en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît tu es sensé délicieux en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît tu m'aide a etre quoi dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît tu m'aide a etre quoi dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît tu m'aide a etre quoi de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît tu m'aide a etre quoi de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît tu m'aide a faire quoi dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît tu m'aide a faire quoi de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît tu m'aide a faire quoi de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît tu m'aide en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît tu parfait a faire quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît tu peut m'aider a faire quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît tu peut m'aider a faire quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît À quel motif ils t-on fait ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît À quoi bon ils t-on inventer ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "S'il vous plaît à quoi bon je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Saisir Comment peut-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Saisir De quoi tu es cencé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Saisir Par quelle méthode tu es sensé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Saisir Pourquoi je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Saisir Qu'apporte tu de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Saisir Qu'est ce que tu est cencé m'apporter"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Saisir Qu'est ce que tu est sensé m'apporter ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Saisir Qu'est ce que tu m'apporte dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Saisir Que peut-tu m'apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Saisir Quelles sont tes fonctionnalités ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Saisir comment peut-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Saisir comment pourrai-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Saisir de quoi tu es sensé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Saisir ils t-on fonder dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Saisir par quelle technique peut-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Saisir pourquoi ils t-on créer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Saisir qu'es tu cencé m'apporter dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Saisir qu'est ce que tu m'apporte dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Saisir qu'est ce que tu m'apporte de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Saisir À quel motif je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Savoir De quoi tu es sensé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Savoir En quoi tu es important ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Savoir Qu'es tu cencé m'apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Savoir Qu'es tu sensé m'apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Savoir Qu'est ce que tu es apporter dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Savoir Qu'est ce que tu es apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Savoir Qu'est ce que tu est cencé m'apporter"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Savoir Quels sont tes portées ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Savoir comment m'aide tu ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Savoir comment m'aidera tu ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Savoir comment peut-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Savoir comment peut-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Savoir comment tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Savoir pourquoi je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Savoir qu'apporte tu de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Savoir qu'es tu sensé m'apporter dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Savoir qu'est ce que tu es sensé apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Savoir qu'est ce que tu est cencé m'apporter"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Savoir qu'est ce que tu m'apporte de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Savoir que peut-tu m'apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Savoir quelle est ton savoir"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Trouver Comment pourrai-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Trouver Comment tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Trouver Par quelle façon tu m'aide"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Trouver Par quelle méthode peut-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Trouver Pourquoi ils t-on préparer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Trouver Qu'apporte tu dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Trouver Qu'est ce que tu es apporter dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Trouver Qu'est ce que tu est sensé m'apporter"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Trouver Qu'est ce que tu m'apporte dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Trouver Qu'est ce que tu peut m'apporte dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Trouver Qu'est ce que tu peut m'apporte de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Trouver Que peut-tu m'apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Trouver Que peut-tu m'apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Trouver Quel est ton savoir"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Trouver Quelle est ton savoir ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Trouver dans quel but je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Trouver de quoi tu es cencé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Trouver ils t-on fabriquer dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Trouver qu'apporte tu de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Trouver qu'es tu cencé m'apporter dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Trouver qu'est ce que tu peut m'apporte dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Trouver que peut-tu m'apporter dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Trouver que peut-tu m'apporter dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Trouver quel est ton potentiel ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Trouver quelle est ta capacité ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Trouver quels sont tes facultés ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Trouver tu a été constituer pour quel motif"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu a été créer pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu a été fait dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu a été imaginer dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu a été imaginer à quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu a été ériger à quel fin ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu délicieux a faire quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu es cencé admirable en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu es cencé admirable en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu es cencé es important en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu es cencé es important en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu es cencé m'aide en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu es cencé m'aide en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu es cencé merveilleux en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu es cencé parfait en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu es important a faire quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu es important a faire quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu es sensé es important en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu es sensé es important en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu es sensé extra en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu es sensé génial en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu es sensé m'aide en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu es sensé puissant en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu es sensé super en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu formidable a faire quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu m'aide a etre quoi dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu m'aide a etre quoi dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu m'aide a etre quoi de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu m'aide a etre quoi de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu m'aide a faire quoi dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu m'aide a faire quoi dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu m'aide a faire quoi de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu m'aide a faire quoi de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu m'aide en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu m'aide en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu magistral en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu merveilleux en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu peut m'aider a faire quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu peut m'aider a faire quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu remarquable en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "Tu singulier en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comment m'aide tu ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comment m'aidera tu ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comment peut-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comment peut-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comment pourrai-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comment tu es cencé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comment tu es cencé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comment tu es sensé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comment tu es sensé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comment tu m'aide"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comment tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comprendre Comment m'aidera tu ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comprendre Comment pourrai-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comprendre Par quelle façon tu m'aide"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comprendre Qu'est ce que tu es apporter dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comprendre Qu'est ce que tu est cencé m'apporter"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comprendre Qu'est ce que tu est cencé m'apporter ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comprendre Qu'est ce que tu m'apporte dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comprendre Que peut-tu m'apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comprendre Quelle est ton savoir"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comprendre Quels sont tes avantages"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comprendre comment tu es cencé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comprendre dans quel but je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comprendre de quoi est tu cencé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comprendre de quoi tu es cencé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comprendre en quoi tu remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comprendre par quelle technique m'aidera tu ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comprendre par quelle technique peut-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comprendre par quelle technique tu es cencé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comprendre par quelle travail tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comprendre pour quel fin tu a été constituer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comprendre qu'es tu cencé m'apporter dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comprendre qu'est ce que tu es apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comprendre qu'est ce que tu est sensé m'apporter ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comprendre qu'est ce que tu m'apporte dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comprendre que peut-tu m'apporter dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comprendre que peut-tu m'apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comprendre quel est ton pouvoir ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "comprendre à quoi bon je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "connaitre Comment peut-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "connaitre Dans quelle intention on ta fait ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "connaitre On ta constituer dans quel but ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "connaitre Pourquoi je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "connaitre Qu'es tu cencé m'apporter dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "connaitre Qu'est ce que tu es apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "connaitre Qu'est ce que tu est sensé m'apporter ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "connaitre Qu'est ce que tu peut m'apporte dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "connaitre Qu'est ce que tu peut m'apporte de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "connaitre Quelles sont tes possibilités"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "connaitre Tu a été élaborer à quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "connaitre comment tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "connaitre de quoi est tu cencé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "connaitre en quoi tu es important"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "connaitre par quelle façon tu es cencé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "connaitre par quelle moyen tu es sensé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "connaitre pour quel motif je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "connaitre qu'apporte tu dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "connaitre qu'es tu cencé m'apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "connaitre qu'est ce que tu est cencé m'apporter ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "connaitre qu'est ce que tu peut m'apporte de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "connaitre quelle est ta valeur"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "connaitre tu a été réaliser dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "connaitre tu a été établir pour quel fin ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "dans quel but on ta constituer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "dans quel but tu a été fabriquer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "dans quel but tu a été forger"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "de quoi est tu cencé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "de quoi est tu cencé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "de quoi est tu sensé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "de quoi est tu sensé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "de quoi tu es cencé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "de quoi tu es cencé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "de quoi tu es sensé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "de quoi tu es sensé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "en quoi tu es important"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "en quoi tu m'aide"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "en quoi tu singulier ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "est ce que je peux Comprendre que peut-tu m'apporter dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "est ce que je peux Connaitre Comment tu m'aide"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "est ce que je peux Saisir à quel motif je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "est tu cencé m'aider en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "est tu cencé m'aider en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "est tu sensé m'aider en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "est tu sensé m'aider en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "ils t-on préparer à quoi bon"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "j'ai besion de comprendre en quoi tu m'aide"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "j'ai envie de Trouver pour quel fin tu a été constituer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "j'ai envie de comprendre Par quelle manière m'aidera tu"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "j'aime Comprendre qu'est ce que tu peut m'apporte de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "j'aime Savoir qu'est ce que tu est cencé m'apporter"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "j'aime Trouver Qu'est ce que tu est cencé m'apporter ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "j'aime connaitre Dans quelle intention je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "j'aime connaitre Quels sont tes compétences ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "j'aime connaitre à quoi bon je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "j'aime savoir qu'apporte tu dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "j'aimerais connaitre Par quelle travail peut-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "j'aimerais trouver de quoi est tu cencé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "j'exige de Saisir Par quelle technique m'aidera tu"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "j'exige de comprendre quel est ton pouvoir"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "je cherche à Trouver Dans quelle intention je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "je désire Saisir qu'es tu cencé m'apporter dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "je peux Trouver Qu'es tu cencé m'apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "je souhaite comprendre comment pourrai-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "je voudrais connaitre Qu'est ce que tu peut m'apporte dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "je voudrais trouver Qu'est ce que tu est cencé m'apporter ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "nous voulons Connaitre comment tu m'aide"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "nous voulons savoir que peut-tu m'apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "on ta construit dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "on ta créer pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "on ta imaginer pour quel fin"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "par quelle façon peut-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "par quelle façon pourrai-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "par quelle façon tu es sensé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "par quelle façon tu es sensé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "par quelle manière m'aide tu"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "par quelle manière peut-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "par quelle manière tu es sensé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "par quelle moyen m'aidera tu"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "par quelle moyen tu es sensé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "par quelle méthode tu es sensé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "par quelle procédé m'aidera tu ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "par quelle procédé peut-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "par quelle procédé pourrai-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "par quelle procédé tu es sensé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "par quelle procédé tu m'aide"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "par quelle procédé tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "par quelle technique tu es sensé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "par quelle travail tu m'aide"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "par quelle travail tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "peut-on Comprendre Comment m'aide tu ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "peut-on saisir Que peut-tu m'apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "pour quel fin on ta constituer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "pour quel fin tu a été bâti ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "pourquoi je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "pourrais-je Connaitre Par quelle méthode pourrai-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "pourrais-je Trouver en quoi tu génialissime ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "pourrais-je Trouver par quelle technique peut-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "pourrais-je comprendre Quel est ta valeur"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "pourrais-je saisir Que peut-tu m'apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "puis-je Trouver Qu'es tu cencé m'apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "qu'apporte tu dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "qu'apporte tu dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "qu'apporte tu de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "qu'apporte tu de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "qu'es tu cencé m'apporter dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "qu'es tu cencé m'apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "qu'es tu sensé m'apporter dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "qu'es tu sensé m'apporter dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "qu'est ce que tu es apporter dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "qu'est ce que tu es apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "qu'est ce que tu es cencé apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "qu'est ce que tu es sensé apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "qu'est ce que tu es sensé apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "qu'est ce que tu est cencé m'apporter"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "qu'est ce que tu est cencé m'apporter ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "qu'est ce que tu est sensé m'apporter ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "qu'est ce que tu m'apporte dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "qu'est ce que tu m'apporte dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "qu'est ce que tu m'apporte de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "qu'est ce que tu m'apporte de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "qu'est ce que tu peut m'apporte dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "qu'est ce que tu peut m'apporte dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "qu'est ce que tu peut m'apporte de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "que peut-tu m'apporter dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "que peut-tu m'apporter dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "que peut-tu m'apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "que peut-tu m'apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "quel est ta valeur ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "quel est ton pouvoir ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "quelle est ton potentiel"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "quelles sont tes fonctionnalités"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "quelles sont tes habiletés"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "quelles sont tes possibilités"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît Est ce que je peux comprendre En quoi tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît J'ai envie de trouver qu'est ce que tu est cencé m'apporter ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît J'aime Comprendre qu'est ce que tu es sensé apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît J'aime Trouver qu'apporte tu dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît J'aime comprendre de quoi est tu cencé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît J'aimerais Savoir Qu'est ce que tu m'apporte de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît J'aspire à comprendre De quoi est tu cencé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît J'aspire à connaitre de quoi tu es cencé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît J'exige de Savoir De quoi est tu sensé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît J'implore de Trouver comment m'aidera tu ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît J'implore de comprendre de quoi est tu cencé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît J'implore de connaitre ils t-on bâti pourquoi ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît Je demande à savoir Qu'est ce que tu est cencé m'apporter"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît Je ordonne de Savoir Qu'est ce que tu es sensé apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît Je peux Trouver qu'apporte tu dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît Je peux saisir Qu'est ce que tu est sensé m'apporter"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît Je voudrais Saisir Qu'apporte tu dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît Je voudrais connaitre Qu'apporte tu dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît Je voudrais trouver Qu'est ce que tu es apporter dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît Nous voulons connaitre comment pourrai-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît Nous voulons saisir qu'est ce que tu es sensé apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît Nous voulons trouver Qu'est ce que tu est cencé m'apporter ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît Peut-on saisir Comment peut-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît Pourrais-je Comprendre Qu'est ce que tu peut m'apporte dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît Pourrais-je saisir quel est ton pouvoir"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît Puis-je Trouver comment m'aide tu ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît Puis-je savoir Par quelle technique m'aidera tu"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît j'ai besion de Connaitre On ta construit dans quelle intention ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît j'ai envie de Connaitre comment peut-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît j'aime connaitre Qu'est ce que tu est cencé m'apporter ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît je cherche à Savoir comment tu es cencé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît je demande à Trouver Que peut-tu m'apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît je peux Comprendre qu'est ce que tu est cencé m'apporter"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît je peux Saisir Qu'est ce que tu est sensé m'apporter"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît je peux Saisir comment peut-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît je vise à Connaitre dans quel but ils t-on constituer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît je voudrais connaitre comment m'aide tu"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît je voudrais saisir Qu'est ce que tu m'apporte de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît je voudrais trouver Comment tu es sensé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît nous voulons Comprendre Dans quelle intention je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît nous voulons Comprendre que peut-tu m'apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît nous voulons Savoir qu'es tu sensé m'apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît peut-on comprendre Ils t-on ériger à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît peut-on saisir à quoi bon je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît pourrais-je Connaitre De quoi est tu sensé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît pourrais-je Connaitre qu'est ce que tu es apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît puis-je Comprendre qu'est ce que tu es apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il te plaît puis-je Connaitre qu'est ce que tu peut m'apporte de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Comment m'aide tu"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Comment m'aide tu ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Comment m'aidera tu ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Comment pourrai-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Comment pourrai-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Comment tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Dans quel but je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Dans quel but tu a été fait ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Dans quelle intention ils t-on élaborer ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Dans quelle intention tu a été produire"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît De quoi est tu cencé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît De quoi est tu sensé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît De quoi tu es cencé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît De quoi tu es cencé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît De quoi tu es sensé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît En quoi tu cool ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît En quoi tu es important"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît En quoi tu es important ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît En quoi tu fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Est tu cencé m'aider en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Est tu cencé m'aider en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Est tu sensé m'aider en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Est tu sensé m'aider en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Ils t-on produire pour quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît J'ai envie de savoir Qu'est ce que tu m'apporte dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît J'aime connaitre quels sont tes capacités"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît J'aimerais Connaitre qu'est ce que tu es apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît J'aimerais trouver Qu'apporte tu dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît J'aspire à Connaitre Qu'est ce que tu es sensé apporter dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît J'aspire à savoir Ils t-on former dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît J'exige de Comprendre Qu'es tu sensé m'apporter dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît J'exige de savoir Dans quel but je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît J'exige de trouver quelle est ta capacité ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît J'implore de Saisir quels sont tes avantages"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît J'implore de savoir Par quelle technique m'aidera tu ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît J'implore de trouver comment tu es cencé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Je désire connaitre De quoi tu es sensé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Je ordonne de Savoir Qu'est ce que tu es sensé apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Je réclame de trouver quelles sont tes facultés ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Je veux connaitre En quoi tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Je voudrais savoir De quoi est tu cencé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Je voudrais trouver Par quelle moyen pourrai-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Nous voulons Trouver Qu'es tu sensé m'apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît On ta ériger à quoi bon ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Par quelle façon tu es cencé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Par quelle façon tu m'aide"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Par quelle façon tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Par quelle manière peut-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Par quelle manière peut-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Par quelle moyen peut-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Par quelle procédé tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Par quelle technique tu es sensé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Par quelle travail pourrai-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Peut-on Saisir par quelle méthode tu m'aide"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Peut-on connaitre Qu'est ce que tu es cencé apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Pourrais-je connaitre comment pourrai-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Puis-je Comprendre par quelle méthode peut-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Qu'apporte tu dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Qu'apporte tu de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Qu'es tu cencé m'apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Qu'es tu sensé m'apporter dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Qu'es tu sensé m'apporter dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Qu'est ce que tu es apporter dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Qu'est ce que tu es cencé apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Qu'est ce que tu m'apporte dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Qu'est ce que tu m'apporte de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Qu'est ce que tu peut m'apporte dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Que peut-tu m'apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Que peut-tu m'apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Quel est ta capacité ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Quel est ta valeur"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Quel est ton potentiel"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Quelle est ta valeur ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Quelles sont tes portées"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Tu a été ériger à quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Tu a été établir à quel fin ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Tu délicieux a faire quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Tu es cencé es important en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Tu es cencé es important en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Tu es cencé m'aide en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Tu es sensé es important en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Tu es sensé m'aide en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Tu extra en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Tu extra en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Tu impeccable en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Tu m'aide a etre quoi dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Tu m'aide a etre quoi de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Tu m'aide a etre quoi de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Tu m'aide a faire quoi dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Tu m'aide a faire quoi de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Tu m'aide a faire quoi de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Tu m'aide en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Tu peut m'aider a faire quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît Tu peut m'aider a faire quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît comment m'aide tu"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît comment peut-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît comment pourrai-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît comment tu m'aide"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît comment tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît dans quelle intention je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît de quoi est tu cencé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît de quoi tu es sensé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît en quoi tu es important"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît en quoi tu incomparable ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît en quoi tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît en quoi tu succulent"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît est tu cencé m'aider en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît est tu cencé m'aider en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît est tu sensé m'aider en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît est tu sensé m'aider en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît ils t-on imaginer pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît ils t-on produire à quoi bon ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît ils t-on réaliser pourquoi ? ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît j'ai besion de Connaitre par quelle façon pourrai-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît j'aime Comprendre Pourquoi je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît j'aime comprendre Qu'est ce que tu est sensé m'apporter ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît j'aimerais Trouver Quelles sont tes forces ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît j'aimerais connaitre à quel fin je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît j'aspire à Comprendre par quelle façon tu es sensé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît j'aspire à Savoir comment tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît j'aspire à Trouver Ils t-on élaborer à quoi bon ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît je ordonne de Connaitre pourquoi on ta forger"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît je ordonne de Saisir pour quel fin tu a été inventer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît je peux Connaitre Qu'est ce que tu est sensé m'apporter"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît je vise à Savoir Qu'est ce que tu es cencé apporter dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît je voudrais Connaitre De quoi est tu sensé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît je voudrais savoir Qu'est ce que tu peut m'apporte de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît nous voulons trouver Dans quelle intention je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît par quelle façon pourrai-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît par quelle technique tu es sensé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît par quelle technique tu m'aide"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît par quelle travail pourrai-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît peut-on savoir qu'est ce que tu peut m'apporte dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît pour quel motif je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît pourquoi je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît pourrais-je Connaitre qu'est ce que tu peut m'apporte de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît puis-je Saisir Qu'es tu sensé m'apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît puis-je saisir qu'est ce que tu m'apporte dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît qu'apporte tu de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît qu'apporte tu de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît qu'es tu cencé m'apporter dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît qu'es tu sensé m'apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît qu'est ce que tu es apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît qu'est ce que tu es cencé apporter dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît qu'est ce que tu es sensé apporter dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît qu'est ce que tu est cencé m'apporter"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît qu'est ce que tu m'apporte dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît qu'est ce que tu peut m'apporte dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît qu'est ce que tu peut m'apporte de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît qu'est ce que tu peut m'apporte de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît que peut-tu m'apporter dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît que peut-tu m'apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît quel est ton pouvoir"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît quelle est ta capacité"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît quelle est ta valeur ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît quelle est ton potentiel"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît quelles sont tes avantages"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît quels sont tes avantages ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît quels sont tes métier"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît quels sont tes possibilités ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît tu es cencé es important en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît tu es cencé m'aide en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît tu es cencé m'aide en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît tu es important a faire quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît tu es important a faire quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît tu es important en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît tu es sensé es important en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît tu es sensé m'aide en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît tu es sensé épatant en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît tu impeccable en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît tu incomparable a faire quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît tu m'aide a etre quoi dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît tu m'aide a etre quoi dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît tu m'aide a etre quoi de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît tu m'aide a etre quoi de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît tu m'aide a faire quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît tu m'aide a faire quoi dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît tu m'aide a faire quoi dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît tu m'aide a faire quoi de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît tu m'aide a faire quoi de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît tu m'aide en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît tu m'aide en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît tu magistral en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît tu peut m'aider a faire quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît tu peut m'aider a faire quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît À quel motif tu a été ériger"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît à quel fin ils t-on préparer ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît à quel fin je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "s'il vous plaît à quel motif on ta établir ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "saisir Comment pourrai-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "saisir De quoi est tu cencé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "saisir De quoi tu es sensé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "saisir En quoi tu cool"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "saisir En quoi tu m'aide"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "saisir Qu'est ce que tu est cencé m'apporter ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "saisir Qu'est ce que tu peut m'apporte dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "saisir Que peut-tu m'apporter dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "saisir comment tu es sensé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "saisir dans quel but on ta fabriquer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "saisir de quoi est tu sensé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "saisir en quoi tu magistral"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "saisir ils t-on construit à quel motif ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "saisir ils t-on établir à quel motif"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "saisir par quelle méthode tu es cencé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "saisir pourquoi on ta élaborer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "saisir que peut-tu m'apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "saisir À quoi bon on ta inventer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "saisir à quel fin je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "saisir à quoi bon je devrais utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "saisir à quoi bon on ta fait"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "savoir Comment tu m'aide"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "savoir De quoi tu es cencé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "savoir En quoi tu délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "savoir Pourquoi on ta ériger ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "savoir Qu'apporte tu dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "savoir Qu'es tu cencé m'apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "savoir Qu'es tu sensé m'apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "savoir Qu'est ce que tu es sensé apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "savoir Qu'est ce que tu est sensé m'apporter"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "savoir Qu'est ce que tu est sensé m'apporter ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "savoir Qu'est ce que tu peut m'apporte dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "savoir Qu'est ce que tu peut m'apporte de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "savoir Quelle est ton pouvoir ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "savoir Quelles sont tes possibilités ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "savoir Quels sont tes facultés"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "savoir comment m'aide tu"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "savoir comment peut-tu m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "savoir de quoi est tu sensé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "savoir en quoi tu excellent ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "savoir ils t-on imaginer dans quel but ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "savoir par quelle moyen peut-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "savoir pour quel fin je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "savoir pourquoi je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "savoir pourquoi tu a été construit"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "savoir qu'es tu sensé m'apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "savoir qu'est ce que tu est sensé m'apporter ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "savoir qu'est ce que tu m'apporte dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "savoir quel est ton potentiel"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "savoir quelles sont tes capacités"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "savoir quels sont tes moyen"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "savoir À quel fin je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "trouver De quoi est tu cencé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "trouver Par quelle façon m'aidera tu ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "trouver Par quelle façon tu m'aide"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "trouver Par quelle méthode peut-tu m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "trouver Pourquoi je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "trouver Qu'apporte tu de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "trouver Qu'es tu sensé m'apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "trouver Qu'est ce que tu es cencé apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "trouver Qu'est ce que tu es sensé apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "trouver Qu'est ce que tu est cencé m'apporter"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "trouver Qu'est ce que tu est sensé m'apporter ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "trouver Que peut-tu m'apporter de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "trouver Que peut-tu m'apporter de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "trouver de quoi est tu cencé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "trouver de quoi tu es cencé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "trouver de quoi tu es sensé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "trouver de quoi tu es sensé m'aider ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "trouver en quoi tu m'aide"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "trouver en quoi tu m'aide ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "trouver par quelle procédé tu es sensé m'aider"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "trouver qu'apporte tu de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "trouver qu'est ce que tu es cencé apporter dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "trouver qu'est ce que tu est cencé m'apporter ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "trouver qu'est ce que tu m'apporte de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "trouver que peut-tu m'apporter dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "trouver quel est ta valeur ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "trouver tu a été construit pourquoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "trouver à quel motif tu a été fait ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu a été forger dans quelle intention ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu a été réaliser à quoi bon"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu admirable a faire quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu es cencé es important en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu es cencé es important en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu es cencé extra en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu es cencé m'aide en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu es cencé m'aide en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu es important a faire quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu es sensé es important en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu es sensé fantastisque en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu es sensé m'aide en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu es sensé singulier en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu es sensé super en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu extra en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu fantastisque en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu incomparable en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu m'aide a etre quoi dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu m'aide a etre quoi dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu m'aide a etre quoi de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu m'aide a etre quoi de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu m'aide a faire quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu m'aide a faire quoi dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu m'aide a faire quoi dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu m'aide a faire quoi de plus dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu m'aide a faire quoi de plus dans ma vie ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu m'aide en quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu m'aide en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu peut m'aider a faire quoi"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu peut m'aider a faire quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu puissant en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "tu épatant en quoi ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "À quoi bon ils t-on fait ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "À quoi bon ils t-on former ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "À quoi bon ils t-on établir"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "À quoi bon je devrais utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "à quel fin je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "à quel fin je dois utiliser ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "à quel fin tu a été constituer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "à quoi bon ils t-on construit ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "à quoi bon je dois utiliser"
+      },
+      {
+        "entities": [],
+        "intent": "bot_possibility",
+        "text": "à quoi bon tu a été implémenter ?"
+      }
+    ],
+    "entity_synonyms": [],
+    "lookup_tables": [],
+    "regex_features": []
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Comment bien s'habiler ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "est ce que tu est intelligent"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Comment drager une fille"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Est ce que tu est intelligent ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "est tu un croyant ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "est tu un croyant"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "comment drager une fille ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tu as un copin ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Est ce que tu est intelligent"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Comment bien faire l'amour"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "comment drager une fille"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "quel est ton sexe"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "comment bien s'habiler"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tu es de quel genre ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Tu es de quel genre"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tu as une copine ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Tu as une copine"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Tu es de quel genre ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Est tu un croyant ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tu as un copin"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tu es de quel genre"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Comment drager une fille ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Comment drager un homme"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Comment drager un homme ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Tu as un copin"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Tu as un copin ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "comment bien s'habiler ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "comment drager un homme ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Tu as une copine ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Quel est ton sexe ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Est tu un croyant"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tu as une copine"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "est ce que tu est intelligent ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Quel est ton sexe"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "comment bien faire l'amour"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "comment drager un homme"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Comment bien s'habiler"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "quel est ton sexe ?"
+      }
+    ],
+    "entity_synonyms": [],
+    "lookup_tables": [],
+    "regex_features": []
+  }
+}

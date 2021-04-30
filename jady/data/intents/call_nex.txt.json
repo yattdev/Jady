@@ -1,0 +1,409 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "tu t'appelle Nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Ton nom c'est nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "T'es la Nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Ton nom nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Ton nom c'est Nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "je t'appelle nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Est ce que tu la nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "donc tu est nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "ton nom Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "ton nom nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "dis Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Dis Nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "donc tu est nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "dis moi Nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "tu es la nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "tu t'appelle Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "t'es la nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Tu t'appelle nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "T'es la Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "ton nom Nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Je t'appelle nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Je t'appelle nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "est ce que tu la Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Est ce que tu la Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "est ce que tu la nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Tu es la nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Tu t'appelle Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Ton nom Nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "tu es la Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Est ce que tu la nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "ton nom c'est nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Tu es la nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Donc tu est Nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Ton nom nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "t'es la nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "je t'appelle Nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Tu es la Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Est ce que tu la Nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Ton nom c'est Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Donc tu est Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "t'es la Nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Dis moi Nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Je t'appelle Nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Ton nom c'est nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "dis moi Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "ton nom nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Donc tu est nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "donc tu est Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "tu es la nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "je t'appelle nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Dis moi nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "est ce que tu la Nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Dis moi nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Tu t'appelle nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "dis nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Dis nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "dis moi nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "ton nom c'est nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Tu es la Nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Dis moi Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "ton nom c'est Nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Donc tu est nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "t'es la Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "dis Nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "tu t'appelle nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Ton nom Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "donc tu est Nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "T'es la nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "est ce que tu la nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "tu es la Nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "tu t'appelle nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Je t'appelle Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "je t'appelle Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "T'es la nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "ton nom c'est Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Dis Nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Dis nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "Tu t'appelle Nex"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "dis moi nex ?"
+      },
+      {
+        "entities": [],
+        "intent": "call_nex",
+        "text": "dis nex ?"
+      }
+    ],
+    "entity_synonyms": [],
+    "lookup_tables": [],
+    "regex_features": []
+  }
+}
