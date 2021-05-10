@@ -315,7 +315,6 @@
     Moudlabite
     Moule à Gauffre
     Mouton De Panurge
-    Méchant.
     Nabot
     Nain De Jardin
     Nanar
@@ -428,7 +427,6 @@
     Sacripan
     Sagouin
     Salaud
-    Saleté
     Saligaud
     Salopard
     Salope
@@ -439,6 +437,9 @@
     Saperlotte
     Sauvage
     Scaphandrier D’eau De Vaiselle
+    tu es méchant
+    Méchant.
+    Méchant
     Scatophile
     Scelerat
     Schnock

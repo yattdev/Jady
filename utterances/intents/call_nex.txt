@@ -1,7 +1,7 @@
 // template fro call_nex.txt
 // Intent: call_nex
 %[&call_nex](100)
-    ~[utterrance] [&Nex] [\??]
+    ~[utterrance] [&Jady] [\??]
 
 ~[utterrance]
     ton nom c'est

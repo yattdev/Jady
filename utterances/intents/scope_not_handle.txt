@@ -1,19 +1,24 @@
 // template fro scope_not_handle.txt
 // Intent: scope_not_handle
-%[&scope_not_handle](700)
-    C'est quoi 2 + 2 [\??]
-    2 + 2 egale a combien
-    Combien donne 2+2 [\??]
+%[&scope_not_handle](2000)
+    C'est quoi ~[arithmetique] [\??]
+    ~[arithmetique] egale a combien [\??]
+    how much is 10 + 89 ?
+    4 + 2 = ?
+    how much is 10 + 89
+    combien font ~[arithmetique] [\??]
+    what's ~[arithmetique] [\??]
+    Combien donne ~[arithmetique] [\??]
     C'est quoi la signfication de [&Nex] [\??]
     Que signifie [&Nex] [\??]
     C'est quoi le sens de [&Nex] [\??]
     Pourquoi [ce nom?] [&Nex] [\??]
     Qui choisie cet nom [&Nex] [\??]
     Qui est ton createur [\??]
-    Quelle est le nom de l'entreprise qui ta creer [\??]
+    Quelle entreprise qui ta creer [\??]
     Quand as-tu été crée [\??]
     tu as été crée par qui [\??]
-    Quelle est ta nationnalité [\??]
+    c'est quoi ta nationnalité [\??]
     De quel paye vient tu [\??]
     Comment être plus rapide [\??]
     Quel âge as-tu [\??]
@@ -30,3 +35,128 @@
     tu part au toilet [\??]
     Est tu mechant [\??]
     du n'importe quoi [\??]
+    Puis-je parler à quelqu'un qui peut vraiment m'aider?
+    Puis-je parler à Tyrone King
+    Je ne veux pas parler à un robot
+    Je n'aime pas parler à une machine
+    ~[&Je veux?] parler à un humain
+    ~[&Je veux?] parler aux fondateurs
+    y a-t-il aussi des humains qui travaillent pour votre entreprise?
+    puis-je parler à une personne?
+    puis-je s'il vous plaît parler à un humain?
+    pouvez-vous me transmettre à votre équipe
+    pouvez-vous s'il vous plaît me connecter à un vrai employé de Jady?
+    pouvez-vous me mettre en contact avec un humain?
+    avez-vous un soutien humain?
+    donne-moi un bon humain
+    donne moi un humain
+    donne-moi un humain maintenant
+    transfert humain
+    je ne veux pas parler à un robot
+    ~[&Je veux?] parler à un manager
+    ~[&Je veux?] parler à une vraie personne
+    ~[&Je veux?] parler au service client
+    ~[&Je veux?] parler à un humain
+    ~[&Je veux?] parler à une personne
+    ~[&Je veux?] parler à un humain
+    ~[&Je veux?] parler à quelqu'un de Jady
+    ~[&Je veux?] parler à quelqu'un d'autre
+    ~[&Je veux?] parler à quelqu'un de plus intelligent que toi
+    je préfère parler avec un vrai employé de Jady
+    j'aime parler à un vrai employé de Jady
+    laissez-moi parler avec une vraie personne s'il vous plaît
+    laisse-moi parler à un humain
+    laisse-moi parler à une vraie personne
+    donnez-moi s'il vous plaît un humain
+    agent de service
+    quelqu'un du service client
+    parler à une vraie personne
+    parler à un robot est stupide
+    c'est ennuyeux, j'aimerais parler à quelqu'un de réel
+    ça n'aide pas, puis-je parler à un humain?
+    faux je veux parler à un humain
+    puis-je parler à un humain
+    puis-je parler à votre humain
+    je veux discuter avec un humain
+    Comment parler à un humain
+    parler avec un humain
+    Puis-je parler à un humain à la place
+    tant pis ... tu n'es pas humain ... j'ai besoin de parler à une personne vivante
+    Pouvez-vous demander à un humain de m'aider?
+    Puis-je parler à un humain?
+    Puis-je parler à un humain
+    Puis-je parler à un humain?
+    puis-je parler à un humain
+    non, je veux parler à un humain
+    pouvez-vous confier une conversation à un humain?
+    puis-je parler à un humain?
+    puis-je parler à un humain
+    parler à un humain
+    je veux un humain :(
+    puis-je parler à un humain
+    je veux parler à un humain \
+    je veux parler à un humain
+    puis-je parler à une personne réelle?
+    me connecter à une vraie personne
+    J'ai besoin d'une vraie personne
+    puis-je prendre avec une vraie personne
+    laissez-moi parler à une vraie personne
+    laissez-moi parler à une vraie personne s'il vous plaît
+    je veux parler à une vraie personne
+
+~[arithmetique]
+    1 + ~[chiffre]
+    2 + ~[chiffre]
+    3 + ~[chiffre]
+    4 + ~[chiffre]
+    5 + ~[chiffre]
+    6 + ~[chiffre]
+    7 + ~[chiffre]
+    8 + ~[chiffre]
+    9 + ~[chiffre]
+    0 + ~[chiffre]
+    1 - ~[chiffre]
+    2 - ~[chiffre]
+    3 - ~[chiffre]
+    4 - ~[chiffre]
+    5 - ~[chiffre]
+    6 - ~[chiffre]
+    7 - ~[chiffre]
+    8 - ~[chiffre]
+    9 - ~[chiffre]
+    0 - ~[chiffre]
+    1 * ~[chiffre]
+    2 * ~[chiffre]
+    3 * ~[chiffre]
+    4 * ~[chiffre]
+    5 * ~[chiffre]
+    6 * ~[chiffre]
+    7 * ~[chiffre]
+    8 * ~[chiffre]
+    9 * ~[chiffre]
+    0 * ~[chiffre]
+    1 / ~[chiffre]
+    2 / ~[chiffre]
+    3 / ~[chiffre]
+    4 / ~[chiffre]
+    5 / ~[chiffre]
+    6 / ~[chiffre]
+    7 / ~[chiffre]
+    8 / ~[chiffre]
+    9 / ~[chiffre]
+    0 / ~[chiffre]
+
+~[chiffre]
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    0
+
+// Inclure le ~[&Je veux?]
+|../includes/je_veux.chatette

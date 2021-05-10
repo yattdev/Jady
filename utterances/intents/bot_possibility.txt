@@ -1,6 +1,6 @@
 // template fro bot_possibility.txt
 // Intent: bot_possibility
-%[&bot_possibility](1000)
+%[&bot_possibility](2000)
     [&S'il vous plaît?] ~[utterances] [\??]
     [&S'il vous plaît?] ~[utterancesB] [\??]
 

@@ -6,6 +6,13 @@ nlu:
     - bonjour
     - Bonjour
     - slut
+    - salut
+    - Bien le bonjour
+    - Yo
+    - Hello
+    - Salut Nex
+    - Bonjour !
+    - allo
 - intent: ask_bot_feeling
   examples: |
     - Comment cava
@@ -18,16 +25,23 @@ nlu:
     - Tout baigne ?
     - Comment sa va
     - Oui tout va bien et toi ?
-- intent: Restructuration_des_schémas_:_le_pouvoir_de_la_perspective
-  examples: |
-    - dis moi. comment changer sa maniere de voir les choses ou le monde
+    - Comment tu vas ?
+    - Comment tu vas
+    - Comment tu vas aujourd'hui ?
 - intent: mood_happy
   examples: |
     - Je suis super content !
     - genial
+    - Super
+    - Tu es genial
+    - Tu es vraiment super
+    - Formidable !
 - intent: bot_name
   examples: |
     - dis moi. c'est quoi ton nom
+    - Comment tu t'appel
+    - Comment je dois t'appler ?
+    - C'est quoi ton prenom
 - intent: call_nex
   examples: |
     - Nex
@@ -36,18 +50,75 @@ nlu:
   examples: |
     - Qu'est ce que tu peut faire pour moi ?
     - Dis moi quel genre de question est ce que je dois te poser
+    - rappelle moi comment tu peut m'aider ?
+    - Qu'est ce que tu fait comme travail ?
 - intent: need_help
   examples: |
     - J'ai besoin d'aide pour t'utiliser
 - intent: scope_not_handle
   examples: |
     - 2+0
+    - Je voudrais t'appeler mon robot
 - intent: goodbye
   examples: |
     - au revoir !
-- intent: Connaître_la_distinction_entre_les_gens_qui_reussissent_et_les_autres
+- intent: user_give_its_name
   examples: |
-    - C'est quoi la difference entre les riches et les pauvres
-- intent: L_’_énergie_:_le_carburant_de_l_'_excellence
+    - D'accord tu peut m'appeler Alassane
+    - Appeller moi yattara
+    - Mon je m'appelle Alassane
+- intent: affirm
   examples: |
-    - Comment avoir la forme
+    - J'ai une question pour toi
+    - c'est bon
+    - Oui je vais tres bien et toi ?
+- intent: deny
+  examples: |
+    - Je n'est pas de question
+    - Je n'ai rien a dire
+- intent: ask_user_feeling
+  examples: |
+    - tu ne demande pas si je vais bien ?
+    - tu ne demande pas si je vais bien
+    - tu ne demande pas si sa va ?
+    - tu ne demande pas si sa va
+    - tu ne demande pas si ca va ?
+    - tu ne demande pas si ca va
+    - tu ne demande pas si ça va ?
+    - tu ne demande pas si ça va
+    - Je veux que tu me demande pas si sa va ?
+    - Je veux que tu me demande pas si sa va
+    - Je veux que tu me demande pas si ca va ?
+    - Je veux que tu me demande pas si ca va
+    - Je veux que tu me demande pas si ça va ?
+    - Je veux que tu me demande pas si ça va
+    - Je veux que tu me demande si je vais bien ?
+    - Je veux que tu me demande si je vais bien
+    - tu demande pas si je vais bien ou pas ?
+    - tu demande pas si je vais bien ou pas
+    - demande moi si je suis en forme
+    - demande moi si je suis en forme ?
+    - demande moi si je suis en bonne santé
+    - demande moi si je suis en bonne santé ?
+    - demande moi si tout baigne
+    - demande moi si tout baigne ?
+    - Comment je me sens selon toi
+    - Comment je me sens selon toi ?
+    - Comment je me porte selon toi ?
+    - Comment je me porte selon toi
+    - Sais tu comment je me porte ?
+    - Sais tu comment je me porte
+    - Sais tu comment je me sens
+    - Sais tu comment je me sens ?
+    - tu ne demande pas comment je me sens
+- intent: mood_unhappy
+  examples: |
+    - Je vais pas bien
+    - Je dis que je vais pas bien
+    - tu ne demande pas mon nom ?
+- intent: offend
+  examples: |
+    - tu es null
+- intent: forgive
+  examples: |
+    - desoler

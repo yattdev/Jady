@@ -4,6 +4,7 @@ version: "2.0"
 stories:
     #--------------------------------------------------------------------------
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -11,6 +12,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -20,6 +22,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -29,6 +32,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -40,6 +44,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -49,6 +54,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -56,6 +62,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: Apprendre_excéllence_humaine
   - action: action_answer_question
@@ -63,11 +70,13 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: Apprendre_excéllence_humaine
   - action: action_answer_question
     #--------------------------------------------------------------------------
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -75,6 +84,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -84,6 +94,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -91,12 +102,14 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: Connaître_la_distinction_entre_les_gens_qui_reussissent_et_les_autres
   - action: action_answer_question
 
     ############## Avec greet again ##############
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -106,6 +119,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -117,6 +131,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -126,6 +141,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: Connaître_la_distinction_entre_les_gens_qui_reussissent_et_les_autres
   - action: action_answer_question
@@ -133,6 +149,7 @@ stories:
   - action: utter_greet_again
     #--------------------------------------------------------------------------
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -140,6 +157,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -149,6 +167,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -156,12 +175,14 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: Savoir_se_mettre_dans_un_état_donné
   - action: action_answer_question
 
     ############## Avec greet again ##############
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -171,6 +192,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -182,6 +204,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -191,6 +214,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: Savoir_se_mettre_dans_un_état_donné
   - action: action_answer_question
@@ -198,6 +222,7 @@ stories:
   - action: utter_greet_again
     #--------------------------------------------------------------------------
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -205,6 +230,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -214,6 +240,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -221,12 +248,14 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: Quelles_sont_les_pourvoir_de_la_croyance
   - action: action_answer_question
 
     ############## Avec greet again ##############
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -236,6 +265,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -247,6 +277,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -256,6 +287,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: Quelles_sont_les_pourvoir_de_la_croyance
   - action: action_answer_question
@@ -263,6 +295,7 @@ stories:
   - action: utter_greet_again
     #--------------------------------------------------------------------------
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -270,6 +303,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -279,6 +313,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -286,12 +321,14 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: Les_sept_mensonges_du_succès
   - action: action_answer_question
 
     ############## Avec greet again ##############
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -301,6 +338,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -312,6 +350,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -321,6 +360,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: Les_sept_mensonges_du_succès
   - action: action_answer_question
@@ -328,6 +368,7 @@ stories:
   - action: utter_greet_again
     #--------------------------------------------------------------------------
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -335,6 +376,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -344,6 +386,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -351,11 +394,13 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: La_maîtrise_de_votre_esprit_ou_comment_faire_fonctionner_votre_cerveau
   - action: action_answer_question
     # Avec utter_greet_again
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -365,6 +410,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -376,6 +422,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -385,6 +432,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: La_maîtrise_de_votre_esprit_ou_comment_faire_fonctionner_votre_cerveau
   - action: action_answer_question
@@ -393,6 +441,7 @@ stories:
 
     #--------------------------------------------------------------------------
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -402,6 +451,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -409,27 +459,10 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
-  - intent: ask_bot_feeling
-  - action: utter_ask_bot_feeling
-  - intent: Physiologie_:_la_voie_royale_vers_l_excellence
-  - action: action_answer_question
-  - intent: greet
-  - action: utter_greet_again
-
-- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
-  steps:
-  - intent: greet
-  - action: utter_greet
-  - intent: ask_bot_feeling
-  - action: utter_ask_bot_feeling
-  - intent: Physiologie_:_la_voie_royale_vers_l_excellence
-  - action: action_answer_question
-
-- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
-  steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
   - intent: Physiologie_:_la_voie_royale_vers_l_excellence
@@ -438,6 +471,27 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Physiologie_:_la_voie_royale_vers_l_excellence
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Physiologie_:_la_voie_royale_vers_l_excellence
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -445,6 +499,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: Physiologie_:_la_voie_royale_vers_l_excellence
   - action: action_answer_question
@@ -452,11 +507,13 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: Physiologie_:_la_voie_royale_vers_l_excellence
   - action: action_answer_question
     #--------------------------------------------------------------------------
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -466,6 +523,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -473,27 +531,10 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
-  - intent: ask_bot_feeling
-  - action: utter_ask_bot_feeling
-  - intent: L_énergie_:_le_carburant_de_l_excellence
-  - action: action_answer_question
-  - intent: greet
-  - action: utter_greet_again
-
-- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
-  steps:
-  - intent: greet
-  - action: utter_greet
-  - intent: ask_bot_feeling
-  - action: utter_ask_bot_feeling
-  - intent: L_énergie_:_le_carburant_de_l_excellence
-  - action: action_answer_question
-
-- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
-  steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
   - intent: L_énergie_:_le_carburant_de_l_excellence
@@ -502,6 +543,27 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: L_énergie_:_le_carburant_de_l_excellence
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: L_énergie_:_le_carburant_de_l_excellence
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -509,6 +571,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: L_énergie_:_le_carburant_de_l_excellence
   - action: action_answer_question
@@ -516,11 +579,13 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: L_énergie_:_le_carburant_de_l_excellence
   - action: action_answer_question
     #--------------------------------------------------------------------------
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -530,6 +595,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -537,27 +603,10 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
-  - intent: ask_bot_feeling
-  - action: utter_ask_bot_feeling
-  - intent: La_formule_fondamentale_du_succès
-  - action: action_answer_question
-  - intent: greet
-  - action: utter_greet_again
-
-- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
-  steps:
-  - intent: greet
-  - action: utter_greet
-  - intent: ask_bot_feeling
-  - action: utter_ask_bot_feeling
-  - intent: La_formule_fondamentale_du_succès
-  - action: action_answer_question
-
-- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
-  steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
   - intent: La_formule_fondamentale_du_succès
@@ -566,6 +615,27 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: La_formule_fondamentale_du_succès
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: La_formule_fondamentale_du_succès
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -573,6 +643,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: La_formule_fondamentale_du_succès
   - action: action_answer_question
@@ -580,11 +651,13 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: La_formule_fondamentale_du_succès
   - action: action_answer_question
     #--------------------------------------------------------------------------
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -594,6 +667,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -601,27 +675,10 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
-  - intent: ask_bot_feeling
-  - action: utter_ask_bot_feeling
-  - intent: Le_pouvoir_de_la_précision
-  - action: action_answer_question
-  - intent: greet
-  - action: utter_greet_again
-
-- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
-  steps:
-  - intent: greet
-  - action: utter_greet
-  - intent: ask_bot_feeling
-  - action: utter_ask_bot_feeling
-  - intent: Le_pouvoir_de_la_précision
-  - action: action_answer_question
-
-- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
-  steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
   - intent: Le_pouvoir_de_la_précision
@@ -630,6 +687,27 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Le_pouvoir_de_la_précision
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Le_pouvoir_de_la_précision
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -637,6 +715,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: Le_pouvoir_de_la_précision
   - action: action_answer_question
@@ -644,11 +723,13 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: Le_pouvoir_de_la_précision
   - action: action_answer_question
     #--------------------------------------------------------------------------
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -658,6 +739,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -665,6 +747,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -676,6 +759,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -685,6 +769,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -694,6 +779,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -701,6 +787,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: La_magie_de_la_sympathie
   - action: action_answer_question
@@ -708,11 +795,13 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: La_magie_de_la_sympathie
   - action: action_answer_question
     #--------------------------------------------------------------------------
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -722,6 +811,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -729,6 +819,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -740,6 +831,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -749,6 +841,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -758,6 +851,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -765,6 +859,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: Établir_des_distinctions_:_les_méta-programmes
   - action: action_answer_question
@@ -772,11 +867,13 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: Établir_des_distinctions_:_les_méta-programmes
   - action: action_answer_question
     #--------------------------------------------------------------------------
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -786,6 +883,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -793,6 +891,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -804,6 +903,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -813,6 +913,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -822,6 +923,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -829,6 +931,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: Comment_venir_à_bout_des_résistances_et_résoudre_les_problèmes
   - action: action_answer_question
@@ -836,11 +939,13 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: Comment_venir_à_bout_des_résistances_et_résoudre_les_problèmes
   - action: action_answer_question
     #--------------------------------------------------------------------------
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -850,6 +955,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -857,6 +963,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -868,6 +975,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -877,6 +985,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -886,6 +995,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -893,6 +1003,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: Restructuration_des_schémas_:_le_pouvoir_de_la_perspective
   - action: action_answer_question
@@ -900,11 +1011,13 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: Restructuration_des_schémas_:_le_pouvoir_de_la_perspective
   - action: action_answer_question
     #--------------------------------------------------------------------------
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -914,6 +1027,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -921,6 +1035,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -932,6 +1047,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -941,6 +1057,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -950,6 +1067,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -957,6 +1075,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: Les_points_d_ancrage_de_la_réussite
   - action: action_answer_question
@@ -964,11 +1083,13 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: Les_points_d_ancrage_de_la_réussite
   - action: action_answer_question
     #--------------------------------------------------------------------------
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -978,6 +1099,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -985,6 +1107,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -996,6 +1119,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -1005,6 +1129,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -1014,6 +1139,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -1021,6 +1147,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: Les_systèmes_de_valeurs_:_jugement_ultime_de_la_réussite
   - action: action_answer_question
@@ -1028,11 +1155,13 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: Les_systèmes_de_valeurs_:_jugement_ultime_de_la_réussite
   - action: action_answer_question
     #--------------------------------------------------------------------------
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -1042,6 +1171,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -1049,6 +1179,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -1060,6 +1191,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -1069,6 +1201,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -1078,6 +1211,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -1085,6 +1219,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: Les_cinq_clés_de_la_richesse_et_du_bonheur
   - action: action_answer_question
@@ -1092,11 +1227,13 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: Les_cinq_clés_de_la_richesse_et_du_bonheur
   - action: action_answer_question
     #--------------------------------------------------------------------------
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -1106,6 +1243,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -1113,6 +1251,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -1124,6 +1263,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: greet
   - action: utter_greet
@@ -1133,6 +1273,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -1142,6 +1283,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
@@ -1149,6 +1291,7 @@ stories:
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: Création_des_tendances_:_le_pouvoir_de_la_persuasion
   - action: action_answer_question
@@ -1156,6 +1299,7 @@ stories:
   - action: utter_greet_again
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
   steps:
   - intent: Création_des_tendances_:_le_pouvoir_de_la_persuasion
   - action: action_answer_question

@@ -1,6 +1,6 @@
 // template fro mood_happy.txt
 // Intent: mood_happy
-%[&mood_happy](1000)
+%[&mood_happy](2000)
     [&C'est|Tout simplement?] ~[excellents#plural]
     [&C'est|Tout simplement?] ~[excellent#singular]
     [&Tu] es [tout simplement?] ~[excellent#singular]
@@ -9,18 +9,18 @@
     Je vais [très|tout|super|incroyablement|fortement?] bien
     Je t'aime
     Je d'adore
-    [ça|sa] va [très|tout|super|incroyablement|fortement?] [bien?]
-    [cava|çava|ça va ça va|sava|sa va sa va]
     Tu me rends heureux !
     Je me sens absolument en sécurité avec toi
     Je veux être avec toi toute ma vie.
     Tu fais de moi une meilleure personne.
     Plus je passe de temps avec toi, plus je t’aime d’un amour fort.
     I love you
+    ~[react_positive_intent]
     tu es un amour
     tu es un compagnon ~[excellent#singular]
-    Merci ! c'etais sympa
-    Merci ! Tu es genial
+    hm, j'aimerais ça
+    hm, i'd like that
+
 
 
 
@@ -39,3 +39,113 @@
     éberlué
     ahuri
     content
+
+~[&react_positive_intent]
+    oh génial!
+    c'est génial
+    génial
+    Ce serait génial
+    cool beans
+    sweet
+    Cool
+    cool
+    cool :)
+    cool!
+    coolio
+    très bien cool
+    Okay cool
+    yes, cool
+    yes cool
+    yep thats cool
+    ya thats cool
+    ya cool
+    that is cool
+    okay cool
+    ok cool
+    oh cool
+    ja cool
+    alright, cool
+    cool story bro
+    Ok cool
+    Oui cool
+    Oui cool
+    ouais c'est cool
+    c'est cool
+    tu es cool
+    c'est cool
+    ok cool
+    OK cool
+    Oh cool
+    ja cool
+    :)
+    :D
+    HAHA
+    I am happy
+    lOL lol
+    lol thats funny
+    Looks nice
+    WOW
+    Wow
+    You are great
+    great
+    that's great
+    thats great
+    great!
+    You're cute.
+    You're nice.
+    You're really cool
+    hAHAHA
+    ha ha
+    haha
+    hahah
+    hahaha
+    happy
+    i am feeling happy
+    i am happy
+    i am happy today
+    i am very happy with your response
+    i love you
+    it's pretty cool
+    love you
+    okay Jadybot, you're cool
+    jady is awesome
+    such a great demo
+    that is funny
+    that was a great interaction
+    thats funny
+    today was a nice day
+    wow
+    you are a badass bot!
+    you are awesome
+    you are cool
+    you are cool man
+    you are doin great
+    you are funny
+    you are great
+    you are my new bestfriend
+    you seem pretty cool :D
+    I like you
+    I love you
+    you are realy intelligent
+    I like jady
+    hèhè
+    like u
+    you are so smart
+    That's awesome.
+    Got it
+    you good
+    Great information
+    I mean to say that I liked the explanation
+    Super! I love jady
+    oh super
+    going super well
+    Oui c'est super
+    Oui Super
+    c'est super
+    D'accord, super
+    Oh super !!
+    oh super
+    va super bien
+    super laisse faire ça
+    c'est super
+    Sweet

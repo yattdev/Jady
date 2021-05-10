@@ -1,0 +1,139 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "entities": [],
+        "intent": "why_this_answer",
+        "text": "pourquoi tu as donné cett reponse"
+      },
+      {
+        "entities": [],
+        "intent": "why_this_answer",
+        "text": "Pourquoi cette reponse"
+      },
+      {
+        "entities": [],
+        "intent": "why_this_answer",
+        "text": "Pourquoi est ce que tu me donne cette reponses"
+      },
+      {
+        "entities": [],
+        "intent": "why_this_answer",
+        "text": "j'aimerais savoir pourquoi cette reponse"
+      },
+      {
+        "entities": [],
+        "intent": "why_this_answer",
+        "text": "Pourquoi"
+      },
+      {
+        "entities": [],
+        "intent": "why_this_answer",
+        "text": "Dis moi, pourquoi cette reponse"
+      },
+      {
+        "entities": [],
+        "intent": "why_this_answer",
+        "text": "Dis moi, pourquoi ces reponses"
+      },
+      {
+        "entities": [],
+        "intent": "why_this_answer",
+        "text": "Pourquoi tu as donne cett reponse"
+      },
+      {
+        "entities": [],
+        "intent": "why_this_answer",
+        "text": "pourquoi cette reponse"
+      },
+      {
+        "entities": [],
+        "intent": "why_this_answer",
+        "text": "J'aimerais savoir pourquoi ces reponses"
+      },
+      {
+        "entities": [],
+        "intent": "why_this_answer",
+        "text": "dis moi, pourquoi cette reponse"
+      },
+      {
+        "entities": [],
+        "intent": "why_this_answer",
+        "text": "pourquoi ces reponses"
+      },
+      {
+        "entities": [],
+        "intent": "why_this_answer",
+        "text": "j'aimerais savoir pourquoi ces reponses"
+      },
+      {
+        "entities": [],
+        "intent": "why_this_answer",
+        "text": "Pourquoi tu as donné cett reponse"
+      },
+      {
+        "entities": [],
+        "intent": "why_this_answer",
+        "text": "je veux savoir pourquoi cette reponses"
+      },
+      {
+        "entities": [],
+        "intent": "why_this_answer",
+        "text": "pourquoi"
+      },
+      {
+        "entities": [],
+        "intent": "why_this_answer",
+        "text": "Je veux savoir pourquoi cette reponses"
+      },
+      {
+        "entities": [],
+        "intent": "why_this_answer",
+        "text": "Qu'est qui ta pousser a donner cette reponse"
+      },
+      {
+        "entities": [],
+        "intent": "why_this_answer",
+        "text": "pourquoi est ce que tu me donne cette reponses"
+      },
+      {
+        "entities": [],
+        "intent": "why_this_answer",
+        "text": "pourquoi est ce que tu me donne ces reponses"
+      },
+      {
+        "entities": [],
+        "intent": "why_this_answer",
+        "text": "Pourquoi ces reponses"
+      },
+      {
+        "entities": [],
+        "intent": "why_this_answer",
+        "text": "Pourquoi est ce que tu me donne ces reponses"
+      },
+      {
+        "entities": [],
+        "intent": "why_this_answer",
+        "text": "J'aimerais savoir pourquoi cette reponse"
+      },
+      {
+        "entities": [],
+        "intent": "why_this_answer",
+        "text": "dis moi, pourquoi ces reponses"
+      },
+      {
+        "entities": [],
+        "intent": "why_this_answer",
+        "text": "qu'est qui ta pousser a donner cette reponse"
+      },
+      {
+        "entities": [],
+        "intent": "why_this_answer",
+        "text": "pourquoi tu as donne cett reponse"
+      }
+    ],
+    "entity_synonyms": [],
+    "lookup_tables": [],
+    "regex_features": []
+  }
+}

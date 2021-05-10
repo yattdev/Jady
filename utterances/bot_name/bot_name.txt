@@ -1,13 +1,15 @@
 // template fro bot_name.txt
 // Intent: bot_name
 %[&bot_name](1000)
-    [&au] fait, quel est ton nom [déjà?] [stp|svp?] [!?]
-    [&quel] est ton nom [déjà?] [stp|svp?] [!?]
-    [&c]'est quoi ton nom [déjà?] [stp|svp?] [!?]
-    [&Tu] peut me dire ton nom [déjà?] [stp|svp?] [!?]
-    [&Tu] me dis ton nom [déjà?] [stp|svp?] [!?]
-    [&Je] [peut|veux] [savoir|connaître] ton nom [déjà?] [stp|svp?] [!?]
-    [&Comment] [on|il] [t'appelle|ta nommé] [!?]
-    [&quel] nom on ta donnée
-    [&Dis] moi ton nom
-    [&puis-je] savoir ton nom [déjà?] [stp|svp?] [!?]
+    [&au] fait, quel est ton [nom preferer|nom de famille|surnom|nom|prenom] [déjà?] [stp|svp?] [\??]
+    [&quel] est ton [nom preferer|nom de famille|surnom|nom|prenom] [déjà?] [stp|svp?] [\??]
+    [&c]'est quoi ton [nom preferer|nom de famille|surnom|nom|prenom] [déjà?] [stp|svp?] [\??]
+    [&Tu] peut me dire ton [nom preferer|nom de famille|surnom|nom|prenom] [déjà?] [stp|svp?] [\??]
+    [&Tu] me dis ton [nom preferer|nom de famille|surnom|nom|prenom] [déjà?] [stp|svp?] [\??]
+    [&Je] [peut|veux] [savoir|connaître] ton [nom preferer|nom de famille|surnom|nom|prenom] [déjà?] [stp|svp?] [\??]
+    [&Comment] [on|il] [t'appelle|ta nommé] [\??]
+    [&Comment] tu t'appelle [\??]
+    [&Comment] je [suis sensé|dois] t'appler
+    [&quel] [nom preferer|nom de famille|surnom|nom|prenom] on ta donnée
+    [&Dis] moi ton [nom preferer|nom de famille|surnom|nom|prenom]
+    [&puis-je] savoir ton [nom preferer|nom de famille|surnom|nom|prenom] [déjà?] [stp|svp?] [\??]

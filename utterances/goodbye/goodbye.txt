@@ -1,14 +1,26 @@
 // template fro goodbye.txt
 // Intent: goodbye
 %[&goodbye](1000)
-    [&bye]
-    [&bay]
-    [&baye]
-    [&a][ ?]+
-    [&bye] bye
-    [&baye] baye
-    [&bay] bay
+    ~[&bye]
     [&bye-bye]
-    [&au] revoir
-    [&ciao]
-    [&Tchao]
+    ~[&bye] [dans la [journée|soirée]?]
+    [&Je] te fera signe ~[&bye]
+    [&Je] suis occuper ~[&bye]
+
+
+~[&bye]
+    a[ ?]+
+    ciao
+    see you
+    bye
+    bay
+    baye
+    au revoir
+    on se vera
+    a plutard
+    tchao
+    bye bye
+    bay bay
+    baye baye
+    a demain
+    on se vera plutard

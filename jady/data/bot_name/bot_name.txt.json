@@ -4,517 +4,32 @@
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Tu peut me dire ton nom déjà stp"
+        "text": "Puis-je savoir ton prenom stp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Tu me dis ton nom stp"
+        "text": "c'est quoi ton prenom déjà"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Je peut savoir ton nom déjà !"
+        "text": "Au fait, quel est ton nom preferer stp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Au fait, quel est ton nom !"
+        "text": "quel est ton prenom déjà ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Au fait, quel est ton nom svp !"
+        "text": "je veux savoir ton nom déjà svp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "c'est quoi ton nom stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "quel est ton nom !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Puis-je savoir ton nom svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Tu peut me dire ton nom !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Quel est ton nom déjà !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Comment il t'appelle"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "C'est quoi ton nom stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "quel est ton nom svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Puis-je savoir ton nom svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je veux savoir ton nom !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "au fait, quel est ton nom déjà stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je veux savoir ton nom déjà stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut connaître ton nom stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "c'est quoi ton nom stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Puis-je savoir ton nom"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "au fait, quel est ton nom svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "c'est quoi ton nom stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut connaître ton nom déjà stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Puis-je savoir ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux savoir ton nom"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut savoir ton nom stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu peut me dire ton nom"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "quel est ton nom svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "comment on t'appelle"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu me dis ton nom stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "quel est ton nom svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Tu peut me dire ton nom"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Tu me dis ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut savoir ton nom déjà svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Quel est ton nom stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je veux connaître ton nom !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "puis-je savoir ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je veux connaître ton nom déjà svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut savoir ton nom stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "C'est quoi ton nom déjà"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Comment on t'appelle"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Quel est ton nom !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Comment il ta nommé"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux savoir ton nom déjà stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Au fait, quel est ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Tu me dis ton nom déjà !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Tu me dis ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut savoir ton nom"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "comment on ta nommé"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu me dis ton nom !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Quel est ton nom svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je veux savoir ton nom déjà svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux connaître ton nom stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "C'est quoi ton nom !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je veux savoir ton nom stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "quel est ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Au fait, quel est ton nom déjà stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Tu peut me dire ton nom déjà"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "quel est ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je veux connaître ton nom svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "puis-je savoir ton nom stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "quel est ton nom stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut savoir ton nom déjà svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Dis moi ton nom"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu peut me dire ton nom déjà stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Tu peut me dire ton nom déjà stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "au fait, quel est ton nom déjà svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "comment on ta nommé !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Quel est ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "comment il ta nommé"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Au fait, quel est ton nom déjà svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut connaître ton nom svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Au fait, quel est ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "quel nom on ta donnée"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Quel est ton nom !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Au fait, quel est ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Au fait, quel est ton nom déjà !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut savoir ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut connaître ton nom déjà"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "au fait, quel est ton nom déjà stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "C'est quoi ton nom stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "comment il t'appelle !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je veux connaître ton nom déjà stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut connaître ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "comment il t'appelle !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Comment on t'appelle !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut savoir ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Comment on t'appelle !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Quel est ton nom déjà stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut connaître ton nom déjà !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux savoir ton nom svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut connaître ton nom déjà"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux connaître ton nom svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "quel est ton nom stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Au fait, quel est ton nom svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut connaître ton nom déjà svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Tu peut me dire ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu me dis ton nom"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut savoir ton nom svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu peut me dire ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "au fait, quel est ton nom"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut connaître ton nom stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Au fait, quel est ton nom déjà svp"
+        "text": "Je peut connaître ton prenom ?"
       },
       {
         "entities": [],
@@ -524,887 +39,37 @@
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "tu me dis ton nom svp !"
+        "text": "comment on t'appelle"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "C'est quoi ton nom déjà stp"
+        "text": "tu me dis ton nom preferer déjà ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "C'est quoi ton nom déjà svp !"
+        "text": "je peut savoir ton prenom stp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "puis-je savoir ton nom déjà svp"
+        "text": "au fait, quel est ton nom de famille svp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "c'est quoi ton nom déjà stp !"
+        "text": "tu peut me dire ton nom stp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Je veux savoir ton nom svp"
+        "text": "quel est ton prenom svp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Quel nom on ta donnée"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "au fait, quel est ton nom stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Puis-je savoir ton nom déjà"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "quel est ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux connaître ton nom !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut connaître ton nom déjà stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "C'est quoi ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "au fait, quel est ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut connaître ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut savoir ton nom déjà svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Quel est ton nom stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "c'est quoi ton nom svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Tu me dis ton nom déjà stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut connaître ton nom déjà !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "quel est ton nom déjà svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Quel est ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut savoir ton nom !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je veux savoir ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "C'est quoi ton nom déjà stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "au fait, quel est ton nom svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux connaître ton nom svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut savoir ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut connaître ton nom !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu peut me dire ton nom"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "puis-je savoir ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux connaître ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut savoir ton nom svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Quel est ton nom déjà"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu peut me dire ton nom déjà !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut savoir ton nom déjà !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Puis-je savoir ton nom svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "c'est quoi ton nom svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Puis-je savoir ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Tu peut me dire ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut savoir ton nom déjà stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Quel est ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Tu me dis ton nom stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je veux savoir ton nom stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux connaître ton nom svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu me dis ton nom svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut savoir ton nom !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu me dis ton nom déjà stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux connaître ton nom déjà stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "au fait, quel est ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Puis-je savoir ton nom !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut savoir ton nom stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut connaître ton nom déjà stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Au fait, quel est ton nom !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut savoir ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut savoir ton nom svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut savoir ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut connaître ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "comment on t'appelle !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Puis-je savoir ton nom !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Puis-je savoir ton nom déjà"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu me dis ton nom déjà !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "comment il ta nommé"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je veux connaître ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut connaître ton nom !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je veux connaître ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Tu peut me dire ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux savoir ton nom déjà"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Tu peut me dire ton nom svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Tu me dis ton nom svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "quel est ton nom déjà stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "C'est quoi ton nom déjà svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux savoir ton nom !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Comment on ta nommé"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Au fait, quel est ton nom déjà"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je veux connaître ton nom svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "puis-je savoir ton nom stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Quel nom on ta donnée"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut savoir ton nom déjà stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu peut me dire ton nom stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "puis-je savoir ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "C'est quoi ton nom"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "c'est quoi ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut connaître ton nom déjà svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "quel est ton nom"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Puis-je savoir ton nom déjà stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je veux savoir ton nom déjà svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "puis-je savoir ton nom svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu peut me dire ton nom déjà"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Au fait, quel est ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut savoir ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux savoir ton nom déjà !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut connaître ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut savoir ton nom svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Puis-je savoir ton nom stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut connaître ton nom déjà svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je veux connaître ton nom déjà !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je veux savoir ton nom stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux savoir ton nom !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "C'est quoi ton nom"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu peut me dire ton nom svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "C'est quoi ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Quel est ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu peut me dire ton nom !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut connaître ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Tu me dis ton nom !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu me dis ton nom déjà svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Au fait, quel est ton nom déjà"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "puis-je savoir ton nom !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je veux savoir ton nom !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "c'est quoi ton nom"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Comment on ta nommé !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Tu me dis ton nom svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je veux connaître ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut savoir ton nom svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "C'est quoi ton nom svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "c'est quoi ton nom stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "c'est quoi ton nom"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je veux savoir ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut connaître ton nom stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut connaître ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux savoir ton nom stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut connaître ton nom déjà"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut connaître ton nom svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "puis-je savoir ton nom déjà stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "puis-je savoir ton nom svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "au fait, quel est ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux connaître ton nom déjà"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "comment il ta nommé !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "au fait, quel est ton nom stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "c'est quoi ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "c'est quoi ton nom !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut connaître ton nom svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "puis-je savoir ton nom déjà"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Comment il t'appelle !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je veux connaître ton nom déjà svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut savoir ton nom déjà"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Tu me dis ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu me dis ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu me dis ton nom déjà"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut connaître ton nom !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu peut me dire ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je veux savoir ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Quel est ton nom déjà svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Quel est ton nom déjà svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je veux savoir ton nom"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je veux savoir ton nom stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je veux connaître ton nom svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "au fait, quel est ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "C'est quoi ton nom stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut savoir ton nom svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu me dis ton nom stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut savoir ton nom"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Puis-je savoir ton nom stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut savoir ton nom svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "c'est quoi ton nom déjà svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux savoir ton nom svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "C'est quoi ton nom déjà svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux savoir ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "C'est quoi ton nom svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "au fait, quel est ton nom svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut savoir ton nom stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "C'est quoi ton nom stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux connaître ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut connaître ton nom stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Tu peut me dire ton nom stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Puis-je savoir ton nom"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux connaître ton nom stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Tu peut me dire ton nom déjà !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux savoir ton nom svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "C'est quoi ton nom déjà !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "quel est ton nom déjà !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Puis-je savoir ton nom svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "comment on ta nommé !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "comment il t'appelle"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Tu me dis ton nom stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Tu peut me dire ton nom déjà svp !"
+        "text": "je peut connaître ton surnom déjà"
       },
       {
         "entities": [],
@@ -1414,242 +79,127 @@
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "tu peut me dire ton nom stp"
+        "text": "Au fait, quel est ton nom de famille déjà svp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "je veux connaître ton nom stp"
+        "text": "Puis-je savoir ton nom de famille déjà svp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "c'est quoi ton nom déjà"
+        "text": "Je veux connaître ton nom"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Je veux savoir ton nom déjà svp !"
+        "text": "je peut savoir ton nom de famille svp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "puis-je savoir ton nom !"
+        "text": "quel est ton nom svp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Au fait, quel est ton nom déjà !"
+        "text": "Je veux savoir ton prenom ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Je veux connaître ton nom déjà !"
+        "text": "Je peut connaître ton surnom déjà svp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "je peut connaître ton nom"
+        "text": "Je peut connaître ton nom de famille"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "je peut connaître ton nom déjà stp !"
+        "text": "puis-je savoir ton prenom svp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "puis-je savoir ton nom svp !"
+        "text": "je peut connaître ton surnom stp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "je peut savoir ton nom svp !"
+        "text": "dis moi ton nom preferer"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "je peut savoir ton nom stp !"
+        "text": "je veux savoir ton surnom déjà"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "je peut savoir ton nom"
+        "text": "Puis-je savoir ton surnom ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Au fait, quel est ton nom stp"
+        "text": "Quel est ton prenom déjà svp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Tu me dis ton nom !"
+        "text": "je veux savoir ton surnom déjà svp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Je peut connaître ton nom svp !"
+        "text": "C'est quoi ton nom de famille déjà stp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "je veux savoir ton nom svp"
+        "text": "je peut savoir ton prenom svp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "quel est ton nom !"
+        "text": "Je veux connaître ton nom de famille déjà stp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "au fait, quel est ton nom"
+        "text": "quel est ton nom de famille"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "comment il ta nommé !"
+        "text": "tu peut me dire ton nom preferer stp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "tu me dis ton nom svp"
+        "text": "comment on ta nommé ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "puis-je savoir ton nom déjà svp"
+        "text": "c'est quoi ton nom de famille stp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "quel est ton nom déjà svp !"
+        "text": "Puis-je savoir ton surnom"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "comment on ta nommé"
+        "text": "je peut savoir ton nom de famille stp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Je peut savoir ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "au fait, quel est ton nom !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Quel est ton nom stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu peut me dire ton nom stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "au fait, quel est ton nom svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut savoir ton nom"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "au fait, quel est ton nom stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "quel est ton nom déjà"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut savoir ton nom stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Tu me dis ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Puis-je savoir ton nom déjà svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je veux connaître ton nom stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Quel est ton nom déjà"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Tu me dis ton nom stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux savoir ton nom déjà"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux savoir ton nom déjà svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "c'est quoi ton nom déjà"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut connaître ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Tu peut me dire ton nom svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut connaître ton nom"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu peut me dire ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu me dis ton nom stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "puis-je savoir ton nom stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu me dis ton nom déjà svp !"
+        "text": "c'est quoi ton nom de famille stp"
       },
       {
         "entities": [],
@@ -1659,287 +209,107 @@
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Comment on t'appelle"
+        "text": "Je veux connaître ton prenom stp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Tu peut me dire ton nom !"
+        "text": "tu peut me dire ton surnom déjà stp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "je veux savoir ton nom svp"
+        "text": "tu peut me dire ton prenom"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "je veux connaître ton nom stp"
+        "text": "Tu me dis ton prenom stp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Tu me dis ton nom"
+        "text": "Je peut connaître ton prenom déjà"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "je peut savoir ton nom !"
+        "text": "je peut savoir ton surnom svp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Je veux connaître ton nom stp !"
+        "text": "Je veux savoir ton nom preferer déjà ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "tu me dis ton nom déjà stp"
+        "text": "tu peut me dire ton nom"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "tu me dis ton nom !"
+        "text": "Tu me dis ton nom preferer déjà stp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "puis-je savoir ton nom"
+        "text": "Je veux connaître ton prenom svp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "tu me dis ton nom"
+        "text": "Puis-je savoir ton surnom svp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "je veux connaître ton nom"
+        "text": "je veux connaître ton prenom déjà stp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Tu peut me dire ton nom stp !"
+        "text": "Je peut savoir ton surnom déjà stp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Je veux savoir ton nom déjà svp !"
+        "text": "puis-je savoir ton prenom stp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Je veux connaître ton nom déjà stp !"
+        "text": "je peut savoir ton surnom déjà"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Puis-je savoir ton nom déjà svp !"
+        "text": "tu me dis ton nom de famille"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "je veux connaître ton nom déjà stp"
+        "text": "tu me dis ton surnom svp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Je peut savoir ton nom déjà"
+        "text": "je peut connaître ton nom preferer déjà svp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "quel est ton nom"
+        "text": "c'est quoi ton surnom déjà ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "c'est quoi ton nom svp"
+        "text": "au fait, quel est ton nom de famille déjà"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Tu peut me dire ton nom stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Comment il t'appelle !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu peut me dire ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux savoir ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "c'est quoi ton nom déjà stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux savoir ton nom déjà svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "C'est quoi ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "au fait, quel est ton nom stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "puis-je savoir ton nom déjà !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je veux connaître ton nom déjà"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "puis-je savoir ton nom déjà stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Puis-je savoir ton nom déjà !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "c'est quoi ton nom déjà !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Tu me dis ton nom déjà stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux connaître ton nom déjà stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "quel nom on ta donnée"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "au fait, quel est ton nom déjà !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "quel est ton nom déjà !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Au fait, quel est ton nom stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Quel est ton nom"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux connaître ton nom stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut connaître ton nom svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Au fait, quel est ton nom"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux connaître ton nom déjà svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu me dis ton nom svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu me dis ton nom déjà svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut connaître ton nom"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux savoir ton nom stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Quel est ton nom svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Puis-je savoir ton nom déjà !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu peut me dire ton nom déjà !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut savoir ton nom déjà !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux savoir ton nom stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Tu peut me dire ton nom déjà svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je veux connaître ton nom !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Tu peut me dire ton nom stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "c'est quoi ton nom svp"
+        "text": "Comment on ta nommé ?"
       },
       {
         "entities": [],
@@ -1949,7 +319,42 @@
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "au fait, quel est ton nom !"
+        "text": "quel est ton surnom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton nom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton prenom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton prenom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton nom preferer svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton nom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton nom de famille déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton nom preferer déjà stp ?"
       },
       {
         "entities": [],
@@ -1959,7 +364,102 @@
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Dis moi ton nom"
+        "text": "Quel est ton nom de famille déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton nom preferer ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton prenom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton prenom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton surnom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton nom de famille"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton surnom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton prenom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton prenom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton nom preferer stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom de famille ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton nom preferer svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton nom de famille svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton surnom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom preferer svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton prenom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton nom de famille svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Comment on t'appelle ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton nom preferer svp"
       },
       {
         "entities": [],
@@ -1969,407 +469,222 @@
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Comment il ta nommé !"
+        "text": "Quel est ton nom de famille ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Je veux savoir ton nom déjà stp"
+        "text": "Au fait, quel est ton prenom stp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "tu peut me dire ton nom svp !"
+        "text": "au fait, quel est ton nom stp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "c'est quoi ton nom !"
+        "text": "je peut savoir ton nom ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "au fait, quel est ton nom déjà"
+        "text": "je peut connaître ton surnom déjà"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Quel est ton nom svp"
+        "text": "C'est quoi ton prenom stp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "tu me dis ton nom déjà svp"
+        "text": "c'est quoi ton nom de famille déjà svp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Tu peut me dire ton nom déjà svp"
+        "text": "Quel est ton nom preferer ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Comment on ta nommé"
+        "text": "je peut savoir ton nom de famille déjà"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "comment on t'appelle"
+        "text": "Quel est ton prenom déjà stp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Je veux savoir ton nom"
+        "text": "quel est ton nom preferer stp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "C'est quoi ton nom déjà"
+        "text": "Je peut connaître ton surnom ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "tu peut me dire ton nom !"
+        "text": "au fait, quel est ton nom de famille"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "tu peut me dire ton nom stp"
+        "text": "Tu me dis ton prenom svp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "C'est quoi ton nom déjà !"
+        "text": "C'est quoi ton surnom déjà svp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "je peut connaître ton nom stp !"
+        "text": "Quel est ton nom de famille déjà ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Tu me dis ton nom déjà"
+        "text": "je peut savoir ton nom preferer déjà svp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "je veux savoir ton nom svp !"
+        "text": "quel est ton nom de famille ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "je veux savoir ton nom"
+        "text": "C'est quoi ton nom preferer déjà stp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Je veux connaître ton nom déjà"
+        "text": "Je veux savoir ton nom de famille déjà stp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Je peut savoir ton nom !"
+        "text": "Au fait, quel est ton prenom déjà ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Tu peut me dire ton nom svp !"
+        "text": "Je peut connaître ton surnom stp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Je veux connaître ton nom déjà !"
+        "text": "Je veux connaître ton nom déjà svp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "C'est quoi ton nom svp !"
+        "text": "Je veux savoir ton prenom déjà svp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Au fait, quel est ton nom svp"
+        "text": "je veux savoir ton prenom ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Puis-je savoir ton nom stp !"
+        "text": "Je peut connaître ton surnom déjà stp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "puis-je savoir ton nom stp"
+        "text": "je veux savoir ton surnom déjà svp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "au fait, quel est ton nom déjà svp"
+        "text": "tu peut me dire ton nom de famille"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Au fait, quel est ton nom stp !"
+        "text": "je veux savoir ton nom de famille déjà"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "c'est quoi ton nom déjà svp"
+        "text": "Quel est ton prenom déjà"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "comment il t'appelle"
+        "text": "je peut savoir ton nom de famille stp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "je veux savoir ton nom déjà"
+        "text": "au fait, quel est ton nom de famille déjà"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "quel est ton nom stp !"
+        "text": "c'est quoi ton surnom déjà stp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "quel est ton nom stp"
+        "text": "Tu me dis ton nom preferer déjà stp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Quel est ton nom"
+        "text": "au fait, quel est ton prenom stp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Comment il ta nommé"
+        "text": "Au fait, quel est ton nom déjà ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "c'est quoi ton nom déjà stp !"
+        "text": "je veux savoir ton nom preferer"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Je peut connaître ton nom déjà stp"
+        "text": "au fait, quel est ton surnom"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Je veux savoir ton nom déjà !"
+        "text": "Je veux savoir ton nom svp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "je veux connaître ton nom déjà"
+        "text": "Je peut savoir ton nom preferer déjà stp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "puis-je savoir ton nom svp"
+        "text": "Tu peut me dire ton prenom svp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Je veux connaître ton nom déjà svp"
+        "text": "Je veux connaître ton nom de famille svp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "je peut connaître ton nom déjà !"
+        "text": "je peut connaître ton surnom déjà svp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "tu me dis ton nom déjà !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Au fait, quel est ton nom"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut connaître ton nom stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux savoir ton nom stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "c'est quoi ton nom déjà !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu peut me dire ton nom déjà svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut savoir ton nom déjà svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux connaître ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Tu peut me dire ton nom"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Tu me dis ton nom déjà"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je veux savoir ton nom déjà"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut connaître ton nom stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Puis-je savoir ton nom déjà svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Au fait, quel est ton nom stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Tu me dis ton nom déjà !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "dis moi ton nom"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut savoir ton nom déjà !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "C'est quoi ton nom svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Puis-je savoir ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu me dis ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu peut me dire ton nom déjà"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux connaître ton nom svp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je veux connaître ton nom stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux connaître ton nom !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut savoir ton nom déjà stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu me dis ton nom déjà"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Tu me dis ton nom déjà svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je veux savoir ton nom déjà !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "comment on t'appelle !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je peut savoir ton nom déjà"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Quel est ton nom svp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Au fait, quel est ton nom déjà stp"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "tu me dis ton nom stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "Je veux connaître ton nom"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut savoir ton nom stp !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je peut savoir ton nom déjà"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "je veux connaître ton nom déjà !"
-      },
-      {
-        "entities": [],
-        "intent": "bot_name",
-        "text": "c'est quoi ton nom déjà stp"
+        "text": "Je peut connaître ton nom de famille svp ?"
       },
       {
         "entities": [],
@@ -2379,72 +694,352 @@
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "tu peut me dire ton nom déjà stp"
+        "text": "Je peut savoir ton nom déjà svp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Je peut connaître ton nom svp !"
+        "text": "je peut connaître ton nom déjà stp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "je peut connaître ton nom déjà"
+        "text": "Au fait, quel est ton prenom stp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Tu peut me dire ton nom déjà !"
+        "text": "tu me dis ton nom preferer stp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "puis-je savoir ton nom déjà"
+        "text": "Tu peut me dire ton nom déjà stp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "puis-je savoir ton nom déjà !"
+        "text": "tu me dis ton nom preferer stp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Tu peut me dire ton nom déjà"
+        "text": "au fait, quel est ton nom déjà svp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Je veux connaître ton nom"
+        "text": "Je veux savoir ton nom de famille ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Tu peut me dire ton nom svp"
+        "text": "tu me dis ton surnom svp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Je peut connaître ton nom !"
+        "text": "tu me dis ton prenom svp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "quel est ton nom déjà stp"
+        "text": "Je veux connaître ton surnom svp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Tu me dis ton nom"
+        "text": "c'est quoi ton prenom déjà svp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "dis moi ton nom"
+        "text": "je veux savoir ton nom svp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "je veux savoir ton nom déjà stp !"
+        "text": "Puis-je savoir ton prenom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton nom de famille svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton prenom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton prenom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton nom de famille déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton nom de famille déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton nom preferer stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton surnom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton surnom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton nom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton nom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton surnom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton surnom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton prenom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Comment tu t'appelle ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton nom de famille"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton nom de famille svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton nom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom de famille svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton surnom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton nom de famille déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton nom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom de famille déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton prenom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "comment on ta nommé ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton nom de famille svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton nom de famille déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton prenom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton nom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton nom preferer svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton nom preferer svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton nom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton prenom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton nom preferer ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton nom preferer déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom de famille ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu me dis ton nom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton nom preferer stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton surnom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton nom preferer stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton nom de famille"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton nom de famille déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton nom preferer svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton nom preferer svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton prenom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton surnom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton nom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton nom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton surnom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton surnom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton nom preferer svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton nom de famille svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton nom de famille stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton nom de famille déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton prenom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton prenom ?"
       },
       {
         "entities": [],
@@ -2454,27 +1049,592 @@
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "C'est quoi ton nom !"
+        "text": "Quel est ton nom preferer svp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Puis-je savoir ton nom stp !"
+        "text": "je peut connaître ton prenom déjà ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "je veux connaître ton nom déjà stp !"
+        "text": "Quel est ton surnom svp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "je peut connaître ton nom déjà svp"
+        "text": "c'est quoi ton prenom déjà stp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Comment il ta nommé !"
+        "text": "quel est ton nom preferer déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton surnom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton nom preferer déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom de famille stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton nom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton nom de famille déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton nom preferer déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton nom de famille déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton nom de famille déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton surnom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton nom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton surnom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton nom preferer svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton prenom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton nom de famille déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton surnom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton nom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton nom preferer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton nom de famille ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton nom de famille stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton nom preferer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu me dis ton nom preferer déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu me dis ton nom preferer déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton surnom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton prenom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton nom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton prenom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton nom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu me dis ton surnom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton prenom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton surnom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton surnom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton nom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton surnom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton prenom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton prenom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton prenom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton surnom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton nom de famille stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton prenom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton prenom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton prenom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton surnom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton nom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton nom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton surnom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton nom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton prenom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton nom de famille déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton nom de famille ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton nom de famille svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton nom preferer ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton prenom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton surnom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton nom de famille"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton prenom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton nom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton prenom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton nom preferer stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton nom de famille stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton nom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton nom de famille svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton prenom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton nom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Comment il ta nommé"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton nom preferer déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton prenom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton nom preferer déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton nom de famille stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton nom de famille déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton nom de famille déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton nom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton nom de famille stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton surnom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu me dis ton nom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton prenom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton nom preferer déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton nom de famille svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton prenom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton nom de famille stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu me dis ton nom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton nom preferer déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom de famille déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton surnom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton nom preferer déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton nom preferer déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton nom de famille déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton nom preferer ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton nom preferer svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton nom de famille déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton prenom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "comment on ta nommé"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton surnom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton nom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton nom de famille déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton nom preferer déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton nom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton prenom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton surnom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton nom preferer déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton prenom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton nom preferer déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom de famille stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton prenom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton surnom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton nom de famille déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton nom de famille déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton nom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton nom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton surnom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom de famille déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Dis moi ton nom"
       },
       {
         "entities": [],
@@ -2484,112 +1644,217 @@
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "je veux savoir ton nom déjà !"
+        "text": "Tu peut me dire ton nom preferer"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "je veux savoir ton nom svp !"
+        "text": "Je peut savoir ton nom stp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "tu peut me dire ton nom svp"
+        "text": "Tu peut me dire ton prenom déjà ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Je peut savoir ton nom déjà stp"
+        "text": "Je veux connaître ton surnom stp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "tu peut me dire ton nom svp"
+        "text": "Je peut connaître ton nom de famille déjà ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "puis-je savoir ton nom déjà svp !"
+        "text": "Puis-je savoir ton nom preferer déjà stp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Quel est ton nom déjà !"
+        "text": "comment tu t'appelle"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "quel est ton nom déjà"
+        "text": "je peut savoir ton nom preferer svp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Puis-je savoir ton nom déjà stp"
+        "text": "comment tu t'appelle"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "je peut connaître ton nom"
+        "text": "je veux savoir ton surnom déjà ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "je peut connaître ton nom svp !"
+        "text": "Tu me dis ton surnom déjà svp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Tu me dis ton nom svp"
+        "text": "Je veux savoir ton nom preferer déjà stp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Comment on ta nommé !"
+        "text": "je peut connaître ton nom stp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "je peut connaître ton nom stp !"
+        "text": "Je veux connaître ton nom déjà"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "puis-je savoir ton nom"
+        "text": "Je peut savoir ton nom de famille svp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "je peut savoir ton nom déjà stp"
+        "text": "je veux savoir ton prenom déjà stp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "je peut savoir ton nom stp"
+        "text": "tu peut me dire ton nom de famille svp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Tu me dis ton nom svp !"
+        "text": "Tu peut me dire ton surnom stp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "quel est ton nom svp !"
+        "text": "Au fait, quel est ton nom de famille svp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "au fait, quel est ton nom déjà !"
+        "text": "je veux savoir ton nom preferer stp"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Je peut connaître ton nom déjà !"
+        "text": "quel est ton nom svp ?"
       },
       {
         "entities": [],
         "intent": "bot_name",
-        "text": "Au fait, quel est ton nom svp !"
+        "text": "tu peut me dire ton surnom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton nom de famille déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton nom de famille déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton nom de famille déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton nom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton surnom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton surnom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "dis moi ton surnom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton surnom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton surnom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton prenom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton nom preferer svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton surnom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton surnom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton nom preferer ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton prenom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton nom de famille ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton surnom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton prenom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton surnom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu me dis ton prenom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton prenom ?"
       },
       {
         "entities": [],
@@ -2599,7 +1864,3142 @@
       {
         "entities": [],
         "intent": "bot_name",
+        "text": "C'est quoi ton nom preferer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton nom preferer ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton nom de famille ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton surnom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton nom de famille déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton prenom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton nom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton surnom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu me dis ton surnom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton nom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton prenom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton surnom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton surnom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton nom preferer déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "dis moi ton prenom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton prenom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton nom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton surnom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton nom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton surnom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton nom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu me dis ton nom de famille stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton prenom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton nom de famille stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton nom de famille stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton nom preferer déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom preferer déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel nom preferer on ta donnée"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton surnom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton nom preferer déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Comment on t'appelle ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Dis moi ton nom preferer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton surnom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton prenom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu me dis ton surnom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton nom de famille déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton nom preferer ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton nom preferer ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton surnom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton prenom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton nom de famille"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton nom de famille ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton surnom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton surnom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "comment il t'appelle"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Comment on ta nommé"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom preferer déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Comment on t'appelle"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton nom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton surnom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton prenom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton nom de famille ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton nom preferer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton nom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton prenom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton nom de famille"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton nom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton surnom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton prenom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom preferer svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton nom preferer déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton nom de famille déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton nom preferer stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton nom preferer stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton nom de famille"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton nom preferer déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton nom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton nom de famille déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton nom preferer déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton prenom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton surnom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton prenom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton surnom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton nom de famille stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton prenom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton surnom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton surnom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton nom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton nom de famille svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton nom preferer déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton prenom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton prenom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton nom preferer déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu me dis ton prenom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton nom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton nom de famille déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom preferer svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton prenom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton prenom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton nom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton nom preferer déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton nom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton nom de famille ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton nom de famille stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton nom de famille déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel nom on ta donnée"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton nom de famille déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton nom preferer déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom preferer déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton nom de famille déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom de famille déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton prenom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton prenom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton surnom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton nom de famille déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton nom preferer stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton nom preferer déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton nom de famille svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton nom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton nom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom preferer déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton surnom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton nom preferer ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton nom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton nom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton nom preferer déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton surnom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton prenom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton nom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton nom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton nom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton nom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton nom preferer stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton prenom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton nom preferer svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton nom de famille déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton surnom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton prenom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton prenom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton surnom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton surnom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton prenom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton nom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton prenom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton nom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton nom de famille stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel nom de famille on ta donnée"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton nom preferer déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton surnom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton prenom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton nom de famille stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton nom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton nom de famille déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton nom preferer déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton nom preferer déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton nom de famille stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton nom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton nom preferer déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton nom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton nom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton nom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "dis moi ton nom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton prenom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton prenom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Dis moi ton nom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton nom preferer ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu me dis ton prenom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton nom preferer stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton nom preferer svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton nom de famille déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton nom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton nom preferer ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton nom de famille stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton prenom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton surnom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton surnom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton surnom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton nom de famille déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom de famille déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton surnom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton nom preferer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton nom de famille stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton prenom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton nom de famille déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton surnom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton surnom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton nom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton surnom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Comment il ta nommé"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton prenom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton nom de famille stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton surnom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton surnom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton prenom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom preferer déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton nom de famille svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton nom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton surnom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton nom preferer svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton nom preferer déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton nom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton prenom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton surnom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton nom de famille déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton nom preferer déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton nom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton surnom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton nom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton nom de famille svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton nom de famille svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton nom preferer stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton nom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton surnom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton surnom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton surnom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton surnom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom de famille"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton nom preferer déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton nom preferer déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton prenom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton nom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton nom de famille déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton surnom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton nom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton nom de famille svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom de famille ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton nom de famille svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton nom de famille ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton prenom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton nom de famille"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton surnom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton surnom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton prenom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton nom preferer svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton prenom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton surnom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton prenom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton nom de famille déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton nom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton surnom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton prenom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton nom preferer déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton nom preferer déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton nom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton prenom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton prenom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton nom preferer déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton nom preferer déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton surnom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton surnom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton nom preferer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton surnom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton prenom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton surnom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton nom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton nom preferer svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton surnom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton nom preferer ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton surnom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton surnom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton nom de famille déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton nom preferer déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton nom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton nom de famille ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom de famille déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton nom de famille déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu me dis ton surnom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton nom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton prenom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton nom preferer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton prenom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton surnom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton nom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton nom preferer déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton nom de famille déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton prenom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton nom preferer déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton prenom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton nom preferer svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton surnom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton nom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom de famille stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton nom de famille stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton nom de famille svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton prenom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton nom de famille déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton nom de famille déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton nom preferer déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton nom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton nom de famille stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton nom preferer déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton nom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton nom preferer déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton surnom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton prenom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton nom de famille déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton nom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton prenom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton prenom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton nom de famille déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton surnom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton surnom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton surnom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton nom de famille déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton prenom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton nom de famille déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton nom preferer svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton nom de famille déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton prenom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton nom de famille svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton nom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton nom preferer svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton nom de famille déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton nom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton surnom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom preferer déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton nom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton nom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton nom preferer déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu me dis ton nom de famille déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton surnom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton prenom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton prenom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton nom preferer stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton nom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton prenom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton nom preferer déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom preferer svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton nom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton nom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton nom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton surnom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom de famille déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton nom preferer svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton surnom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom de famille déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton surnom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton nom preferer svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton surnom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton prenom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton nom de famille stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton surnom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton nom preferer svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton nom preferer stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton nom de famille déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton nom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton nom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "comment on ta nommé"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton nom de famille svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton nom preferer ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton prenom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton prenom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom preferer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton prenom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton surnom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton nom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton nom preferer svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton prenom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton nom de famille déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton prenom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton nom de famille svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton prenom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton nom de famille déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu me dis ton surnom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton nom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton prenom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton nom de famille svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton nom preferer déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom preferer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton nom preferer déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom de famille stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton nom de famille ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton prenom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton prenom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton nom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton surnom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton nom preferer stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton prenom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "comment je suis sensé t'appler"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu me dis ton nom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton nom de famille déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton nom de famille"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton surnom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton nom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton nom preferer svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu me dis ton nom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton nom preferer déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton prenom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton nom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton surnom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom preferer stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton nom de famille déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton prenom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton nom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton prenom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton nom preferer stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton prenom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton nom preferer stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom de famille svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton nom de famille ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton nom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton surnom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom preferer stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton surnom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "dis moi ton prenom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton nom preferer déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton nom de famille ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu me dis ton prenom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton surnom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton prenom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton nom preferer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton nom preferer déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton nom preferer svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton nom de famille déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton nom de famille déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton nom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "comment tu t'appelle ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton nom preferer stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton prenom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton prenom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton nom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton nom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton nom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton nom preferer déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton nom de famille stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton nom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton nom preferer déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton nom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
         "text": "Comment il t'appelle"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton surnom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton nom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel nom de famille on ta donnée"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton nom de famille"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton surnom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton nom preferer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton nom de famille déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton surnom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton surnom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton nom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton nom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton surnom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton nom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton nom de famille déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton nom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton nom de famille stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton nom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton surnom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton nom preferer déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton nom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton prenom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton surnom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton nom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton nom preferer stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton nom de famille"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton nom preferer déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom de famille"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom preferer déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton nom preferer svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton surnom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton nom de famille déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton surnom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton surnom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton prenom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton nom preferer déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton prenom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton surnom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton prenom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton prenom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton nom preferer déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu me dis ton nom preferer stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton prenom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton nom de famille déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton prenom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton nom de famille svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton prenom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu me dis ton nom de famille svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton nom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton nom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton nom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton nom de famille"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "comment il ta nommé"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu me dis ton nom preferer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton nom preferer déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton surnom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton surnom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton nom de famille déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton nom de famille déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton nom de famille déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu me dis ton nom preferer déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom preferer déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton nom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton nom preferer déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton nom de famille svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton nom de famille déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton nom preferer déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom de famille déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton surnom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton nom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton prenom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton nom preferer déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton prenom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton nom preferer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Comment je dois t'appler"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton nom de famille déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton surnom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton nom de famille ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton nom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton nom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton nom preferer déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton prenom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton prenom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu me dis ton nom de famille svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton nom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton surnom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton nom preferer svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton nom preferer déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton nom de famille"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton surnom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Puis-je savoir ton nom preferer déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton prenom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton nom preferer déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton nom de famille"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton prenom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton surnom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton nom preferer déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton nom preferer svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu me dis ton nom de famille déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton prenom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton prenom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom de famille déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton nom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton surnom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton prenom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton nom de famille déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu me dis ton nom preferer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton nom de famille ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton nom preferer déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton surnom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton nom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton surnom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton nom preferer stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton nom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton nom de famille stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton nom de famille stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton surnom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom preferer déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Comment il ta nommé ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom de famille déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu me dis ton nom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton surnom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom de famille stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton prenom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton nom déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton nom de famille"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton nom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton prenom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton nom de famille déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton nom preferer stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "dis moi ton surnom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton surnom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton nom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton prenom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton surnom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton prenom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton prenom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton nom preferer stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton prenom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton nom de famille ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton nom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu me dis ton nom preferer ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton prenom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton nom preferer déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom de famille stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton nom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton nom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton prenom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton surnom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton surnom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton nom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton nom preferer stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton surnom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton nom de famille déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton surnom svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux savoir ton surnom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton prenom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton nom de famille déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "quel est ton nom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton surnom déjà"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton nom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton nom preferer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton nom stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux savoir ton surnom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton nom preferer svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut connaître ton nom preferer"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut savoir ton surnom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton nom preferer déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton prenom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je veux connaître ton nom déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton prenom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton nom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton nom preferer déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Je peut connaître ton nom de famille déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu peut me dire ton nom de famille svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu me dis ton surnom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton surnom svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "puis-je savoir ton nom preferer stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "C'est quoi ton nom de famille ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "tu peut me dire ton nom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu me dis ton nom ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je veux connaître ton nom déjà stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "c'est quoi ton nom de famille déjà ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Dis moi ton prenom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Quel est ton surnom déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton nom stp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "au fait, quel est ton prenom déjà svp ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "je peut savoir ton nom de famille déjà stp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Tu me dis ton prenom"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Comment tu t'appelle ?"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton nom de famille déjà svp"
+      },
+      {
+        "entities": [],
+        "intent": "bot_name",
+        "text": "Au fait, quel est ton nom de famille déjà svp ?"
       }
     ],
     "entity_synonyms": [],

@@ -7,6 +7,26 @@ rules:
   - intent: greet
   - action: utter_greet
 
+- rule: Dire 'Je vais ...' quand l'user salut encors le bot
+  steps:
+  - intent: greet
+  - action: utter_greet_again
+
+- rule: executer l'intent 'utter_mood_happy' quand user affirm/agree
+  steps:
+  - intent: affirm
+  - action: utter_mood_happy
+
+- rule: executer l'intent 'utter_mood_unhappy' quand user is unhappy
+  steps:
+  - intent: mood_unhappy
+  - action: utter_mood_unhappy
+
+- rule: executer l'intent 'utter_deny' quand user deny
+  steps:
+  - intent: deny
+  - action: utter_deny
+
 - rule: Dire 'Bonjour' quand l'user commance la conversation l'intent 'greet'
   conversation_start: true
   steps:
@@ -46,7 +66,27 @@ rules:
 - rule: Executer 'utter_bot_possibility' a tout moment quand l'user envoi un msg avec cet intent
   steps:
   - intent: need_help
-  - action: utter_need_help
+  - action: utter_bot_possibility
+
+- rule: Executer 'utter_ask_user_feeling' a tout moment quand l'user envoi un msg avec cet intent
+  steps:
+  - intent: ask_user_feeling
+  - action: utter_ask_user_feeling
+
+- rule: Executer 'utter_forgive' a tout moment quand l'user envoi un msg avec cet intent
+  steps:
+  - intent: forgive
+  - action: utter_forgive
+
+- rule: Executer 'utter_call_nex' a tout moment quand l'user envoi un msg avec cet intent
+  steps:
+  - intent: call_nex
+  - action: utter_call_nex
+
+- rule: Executer 'utter_why_this_answer' a tout moment quand l'user envoi un msg avec cet intent
+  steps:
+  - intent: why_this_answer
+  - action: utter_why_this_answer
 
 - rule: out_of_scope
   steps:

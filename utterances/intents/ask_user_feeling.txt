@@ -1,0 +1,39 @@
+// template fro ask_user_feeling.txt
+// Intent: ask_user_feeling
+%[&ask_user_feeling](1000)
+    [&tu ne demande|vous ne demandez] pas si je vais bien ?
+    [&tu ne demande|vous ne demandez] pas si je vais bien
+    [&tu ne demande|vous ne demandez] pas si sa va ?
+    [&tu ne demande|vous ne demandez] pas si sa va
+    [&tu ne demande|vous ne demandez] pas si ca va ?
+    [&tu ne demande|vous ne demandez] pas si ca va
+    [&tu ne demande|vous ne demandez] pas si ça va ?
+    [&tu ne demande|vous ne demandez] pas si ça va
+    Je veux que [&tu me demande|vous me demandez] pas si sa va ?
+    Je veux que [&tu me demande|vous me demandez] pas si sa va
+    Je veux que [&tu me demande|vous me demandez] pas si ca va ?
+    Je veux que [&tu me demande|vous me demandez] pas si ca va
+    Je veux que [&tu me demande|vous me demandez] pas si ça va ?
+    Je veux que [&tu me demande|vous me demandez] pas si ça va
+    Je veux que [&tu me demande|vous me demandez] si je vais bien ?
+    Je veux que [&tu me demande|vous me demandez] si je vais bien
+    [&tu me demande|vous me demandez] si je vais bien ou pas ?
+    [&tu me demande|vous me demandez] si je vais bien ou pas
+    demand[e|ez] moi si je suis en forme
+    demand[e|ez] moi si je suis en forme ?
+    demand[e|ez] moi si je suis en bonne santé
+    demand[e|ez] moi si je suis en bonne santé ?
+    demand[e|ez] moi si tout baigne
+    demande moi si tout baigne ?
+    Comment je me sens selon toi
+    Comment je me sens selon toi ?
+    Comment je me porte selon toi ?
+    Comment je me porte selon toi
+    Sais tu comment je me porte ?
+    Sais tu comment je me porte
+    Sais tu comment je me sens
+    Sais tu comment je me sens ?
+    Je veux que [&tu sache|vous sachez|vous saisissez|tu sais|te faire savoir|vous faire savoir] comment je me sens [\??]
+    [&Pourquoi] [&tu veux|vous voulez] pas savoir comment je me [sens|porte] [\??]
+    [&Pourquoi] [&tu veux|vous voulez] pas savoir comment si [sa|ca|ça] va [\??]
+    [&Pourquoi] [&tu me demande|vous me demandez] si je vais bien [\??]

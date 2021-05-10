@@ -1,52 +1,110 @@
 version: '2.0'
+config:
+  store_entities_as_slots: true
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true
 intents:
-- L_’_énergie_:_le_carburant_de_l_'_excellence
-- Connaître_la_distinction_entre_les_gens_qui_reussissent_et_les_autres
-- ask_bot_feeling
-- L_énergie_:_le_carburant_de_l_excellence
-- greet
-- nlu_fallback
-- out_of_scope
-- Savoir_se_mettre_dans_un_état_donné
-- Établir_des_distinctions_:_les_méta-programmes
-- offend
-- scope_not_handle
-- bot_name
-- goodbye
-- mood_happy
-- thankyou
-- bot_possibility
-- need_help
-- Apprendre_excéllence_humaine
-- Quelles_sont_les_pourvoir_de_la_croyance
-- Les_sept_mensonges_du_succès
-- La_maîtrise_de_votre_esprit_ou_comment_faire_fonctionner_votre_cerveau
-- Physiologie_:_la_voie_royale_vers_l_excellence
-- La_formule_fondamentale_du_succès
-- Le_pouvoir_de_la_précision
-- La_magie_de_la_sympathie
-- Comment_venir_à_bout_des_résistances_et_résoudre_les_problèmes
-- Restructuration_des_schémas_:_le_pouvoir_de_la_perspective
-- Les_points_d_ancrage_de_la_réussite
-- Les_systèmes_de_valeurs_:_jugement_ultime_de_la_réussite
-- Les_cinq_clés_de_la_richesse_et_du_bonheur
-- Création_des_tendances_:_le_pouvoir_de_la_persuasion
+- greet:
+    use_entities: true
+- ask_bot_feeling:
+    use_entities: true
+- affirm:
+    use_entities: true
+- ask_user_feeling:
+    use_entities: true
+- deny:
+    use_entities: true
+- mood_happy:
+    use_entities: true
+- scope_not_handle:
+    use_entities: true
+- bot_possibility:
+    use_entities: true
+- offend:
+    use_entities: true
+- forgive:
+    use_entities: true
+- bot_name:
+    use_entities: true
+- call_nex:
+    use_entities: true
+- out_of_scope:
+    use_entities: true
+- goodbye:
+    use_entities: true
+- mood_unhappy:
+    use_entities: true
+- thankyou:
+    use_entities: true
+- need_help:
+    use_entities: true
+- why_this_answer:
+    use_entities: true
+- Les_sept_mensonges_du_succès:
+    use_entities: true
+- Restructuration_des_schémas_:_le_pouvoir_de_la_perspective:
+    use_entities: true
+- Savoir_se_mettre_dans_un_état_donné:
+    use_entities: true
+- Les_cinq_clés_de_la_richesse_et_du_bonheur:
+    use_entities: true
+- Physiologie_:_la_voie_royale_vers_l_excellence:
+    use_entities: true
+- Le_pouvoir_de_la_précision:
+    use_entities: true
+- L_énergie_:_le_carburant_de_l_excellence:
+    use_entities: true
+- Les_points_d_ancrage_de_la_réussite:
+    use_entities: true
+- Quelles_sont_les_pourvoir_de_la_croyance:
+    use_entities: true
+- Apprendre_excéllence_humaine:
+    use_entities: true
+- Établir_des_distinctions_:_les_méta-programmes:
+    use_entities: true
+- Les_systèmes_de_valeurs_:_jugement_ultime_de_la_réussite:
+    use_entities: true
+- ask_user_name:
+    use_entities: true
+- Connaître_la_distinction_entre_les_gens_qui_reussissent_et_les_autres:
+    use_entities: true
+- La_formule_fondamentale_du_succès:
+    use_entities: true
+- La_maîtrise_de_votre_esprit_ou_comment_faire_fonctionner_votre_cerveau:
+    use_entities: true
+- Création_des_tendances_:_le_pouvoir_de_la_persuasion:
+    use_entities: true
+- user_give_its_name:
+    use_entities: true
+- Comment_venir_à_bout_des_résistances_et_résoudre_les_problèmes:
+    use_entities: true
+- La_magie_de_la_sympathie:
+    use_entities: true
+entities: []
+slots: {}
+responses: {}
 actions:
 - action_answer_question
 - utter_ask_bot_feeling
 - utter_ask_rephrase
+- utter_ask_user_feeling
 - utter_ask_user_name
 - utter_bot_name
 - utter_bot_possibility
+- utter_call_nex
 - utter_default
+- utter_deny
+- utter_forgive
 - utter_goodbye
 - utter_greet
 - utter_greet_again
 - utter_mood_happy
+- utter_mood_unhappy
 - utter_offend
 - utter_out_of_scope
 - utter_scope_not_handle
 - utter_thankyou
+- utter_why_this_answer
+forms: {}
+e2e_actions: []

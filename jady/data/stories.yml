@@ -7,8 +7,6 @@ stories:
   - action: utter_greet
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
-  - intent: L_énergie_:_le_carburant_de_l_excellence
-  - action: action_answer_question
   - intent: greet
   - action: utter_greet_again
   - intent: ask_bot_feeling
@@ -74,7 +72,7 @@ stories:
   - intent: mood_happy
   - action: utter_mood_happy
   - intent: need_help
-  - action: utter_need_help
+  - action: utter_bot_possibility
 
 - story: interactive_story_1
   steps:
@@ -90,3 +88,111 @@ stories:
   - action: utter_scope_not_handle
   - intent: goodbye
   - action: utter_goodbye
+
+- story: interactive_story_1
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_happy
+  - action: utter_mood_happy
+  - intent: bot_name
+  - action: utter_bot_name
+  - intent: user_give_its_name
+  - action: utter_mood_happy
+  - intent: call_nex
+  - action: utter_call_nex
+  - intent: affirm
+  - action: utter_mood_happy
+  - intent: greet
+  - action: utter_greet_again
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+
+- story: interactive_story_1
+  steps:
+  - intent: greet
+  - action: utter_greet
+
+- story: interactive_story_1
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: deny
+  - action: utter_deny
+  - intent: ask_user_feeling
+  - action: utter_ask_user_feeling
+  - intent: mood_unhappy
+  - action: utter_mood_unhappy
+  - intent: mood_unhappy
+  - action: utter_mood_unhappy
+  - intent: affirm
+  - action: utter_mood_happy
+
+- story: interactive_story_1
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: ask_user_feeling
+  - action: utter_ask_user_feeling
+  - intent: mood_unhappy
+  - action: utter_mood_unhappy
+
+- story: interactive_story_1
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: bot_name
+  - action: utter_bot_name
+  - intent: ask_user_name
+  - action: utter_ask_user_name
+  - intent: user_give_its_name
+  - action: utter_mood_happy
+
+- story: interactive_story_1
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: bot_name
+  - action: utter_bot_name
+  - intent: user_give_its_name
+  - action: utter_mood_happy
+  - intent: bot_possibility
+  - action: utter_bot_possibility
+  - intent: mood_happy
+  - action: utter_mood_happy
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: mood_happy
+  - action: utter_mood_happy
+
+- story: interactive_story_1
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: deny
+  - action: utter_deny
+  - intent: bot_possibility
+  - action: utter_bot_possibility
+  - intent: mood_happy
+  - action: utter_mood_happy
+  - intent: bot_name
+  - action: utter_bot_name
+  - intent: scope_not_handle
+  - action: utter_scope_not_handle
+  - intent: offend
+  - action: utter_offend
+  - intent: forgive
+  - action: utter_forgive
+
+- story: interactive_story_1
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: ask_user_feeling
+  - action: utter_ask_user_feeling
+  - intent: affirm
+  - action: utter_mood_happy
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling

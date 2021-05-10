@@ -1,0 +1,3109 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "although i understand your still in development, i feel a little bit disappointed."
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Although i understand your still in development, i feel a little bit disappointed."
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "bad boy"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Bad boy"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "blague de merde"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Blague de merde"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "boring"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Boring"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "bots are bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Bots are bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "c'est mauvais"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "C'est mauvais"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "c'est tellement impoli"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "C'est tellement impoli"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "c'est une expérience vraiment frustrante"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "C'est une expérience vraiment frustrante"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "cet outil ici n'est pas bon"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Cet outil ici n'est pas bon"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "crappy joke"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Crappy joke"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "ennuyeuse"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Ennuyeuse"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "i am angry over you"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "I am angry over you"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "i am feel sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "I am feel sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "i am feeling bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "I am feeling bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "i am sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "I am sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "i am sad about that"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "I am sad about that"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "i am so worry"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "I am so worry"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "i am super sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "I am super sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "i am very sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "I am very sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "i dont like bots"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "I dont like bots"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "i feel sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "I feel sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "i hate you"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "I hate you"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "i sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "I sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "i will leave"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "I will leave"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "i'm sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "I'm sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "i'm super sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "I'm super sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "iam not feeling good"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Iam not feeling good"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "jady est mauvais"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Jady est mauvais"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "jady is bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Jady is bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je d'adore pas"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je d'adore pas"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je m'en fiche !!!!"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je m'en fiche !!!!"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je me sens absolument pas en sécurité avec toi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je me sens absolument pas en sécurité avec toi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je me sens pas bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je me sens pas bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je me sens pas tres bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je me sens pas tres bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je me sens pas très bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je me sens pas très bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je me sens triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je me sens triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je n'aime pas les bots"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je n'aime pas les bots"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je ne me sens pas bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je ne me sens pas bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je ne me sens pas tres bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je ne me sens pas tres bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je ne me sens pas très bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je ne me sens pas très bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je ne suis pas ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je ne suis pas ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je ne suis pas content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je ne suis pas content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je ne suis pas en forme"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je ne suis pas en forme"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je ne suis pas heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je ne suis pas heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je ne suis pas joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je ne suis pas joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je ne suis pas satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je ne suis pas satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je ne suis pas stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je ne suis pas stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je ne suis pas ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je ne suis pas ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je ne suis pas éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je ne suis pas éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je ne suis pas épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je ne suis pas épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je ne suis pas étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je ne suis pas étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je suis en colère contre toi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je suis en colère contre toi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je suis super triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je suis super triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je suis tellement inquiet"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je suis tellement inquiet"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je suis triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je suis triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je suis triste à ce sujet"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je suis triste à ce sujet"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je suis très triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je suis très triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je t'aime pas"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je t'aime pas"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je vais partir"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je vais partir"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je vais pas bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je vais pas bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je vais pas très bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je vais pas très bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "les robots sont mauvais"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Les robots sont mauvais"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "maintenant je suis triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Maintenant je suis triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "mal"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Mal"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "malheureusement"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Malheureusement"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "mauvais garçon"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Mauvais garçon"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "même si je comprends que vous êtes encore en développement, je me sens un peu déçu."
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Même si je comprends que vous êtes encore en développement, je me sens un peu déçu."
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "not bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Not bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "not good"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Not good"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "now i'm sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Now i'm sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "pas bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Pas bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "pas bon"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Pas bon"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "pas mal"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Pas mal"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "pas mal ton histoire mec"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Pas mal ton histoire mec"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "sadly"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Sadly"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "si triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Si triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "si triste :("
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Si triste :("
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "so sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "So sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "so sad :("
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "So sad :("
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "super sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Super sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "super triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Super triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "surely you're not so smart lik i thought"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Surely you're not so smart lik i thought"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "that tool here isnt good"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "That tool here isnt good"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "thats so rude"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Thats so rude"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "this is a really frustrating experience"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "This is a really frustrating experience"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "this is bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "This is bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "très très triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Très très triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu es assez mauvais"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu es assez mauvais"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu es fou"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu es fou"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu es grossier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu es grossier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu es plutôt terne"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu es plutôt terne"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu es un mauvais bot"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu es un mauvais bot"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu m'as brisé le coeur"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu m'as brisé le coeur"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu me rends pas heureux !"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu me rends pas heureux !"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu me rends triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu me rends triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es sûrement pas si intelligent que je pensais"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es sûrement pas si intelligent que je pensais"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "u broke my heart"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "U broke my heart"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "very bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Very bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "very very sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Very very sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "you are bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "You are bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "you are bad bot"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "You are bad bot"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "you are mad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "You are mad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "you are quite bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "You are quite bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "you are rude"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "You are rude"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "you make me sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "You make me sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "you're rather dull"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "You're rather dull"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "although i understand your still in development, i feel a little bit disappointed."
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Although i understand your still in development, i feel a little bit disappointed."
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "bad boy"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Bad boy"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "blague de merde"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Blague de merde"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "boring"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Boring"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "bots are bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Bots are bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "c'est mauvais"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "C'est mauvais"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "c'est tellement impoli"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "C'est tellement impoli"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "c'est une expérience vraiment frustrante"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "C'est une expérience vraiment frustrante"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "cava pas"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Cava pas"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "cava pas du tout"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Cava pas du tout"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "cet outil ici n'est pas bon"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Cet outil ici n'est pas bon"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "crappy joke"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Crappy joke"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "ennuyeuse"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Ennuyeuse"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "i am angry over you"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "I am angry over you"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "i am feel sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "I am feel sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "i am feeling bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "I am feeling bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "i am sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "I am sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "i am sad about that"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "I am sad about that"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "i am so worry"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "I am so worry"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "i am super sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "I am super sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "i am very sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "I am very sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "i dont like bots"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "I dont like bots"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "i feel sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "I feel sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "i sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "I sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "i will leave"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "I will leave"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "i'm sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "I'm sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "i'm super sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "I'm super sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "iam not feeling good"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Iam not feeling good"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "jady est mauvais"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Jady est mauvais"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "jady is bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Jady is bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je m'en fiche !!!!"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je m'en fiche !!!!"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je me sens pas bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je me sens pas bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je me sens pas tres bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je me sens pas tres bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je me sens pas très bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je me sens pas très bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je me sens triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je me sens triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je n'aime pas les bots"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je n'aime pas les bots"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je ne me sens pas bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je ne me sens pas bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je ne me sens pas tres bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je ne me sens pas tres bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je ne me sens pas très bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je ne me sens pas très bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je ne suis pas ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je ne suis pas ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je ne suis pas content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je ne suis pas content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je ne suis pas heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je ne suis pas heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je ne suis pas joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je ne suis pas joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je ne suis pas satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je ne suis pas satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je ne suis pas stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je ne suis pas stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je ne suis pas ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je ne suis pas ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je ne suis pas éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je ne suis pas éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je ne suis pas épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je ne suis pas épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je ne suis pas étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je ne suis pas étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je suis en colère contre toi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je suis en colère contre toi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je suis super triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je suis super triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je suis tellement inquiet"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je suis tellement inquiet"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je suis triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je suis triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je suis triste à ce sujet"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je suis triste à ce sujet"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je suis très triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je suis très triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "je vais partir"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Je vais partir"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "les robots sont mauvais"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Les robots sont mauvais"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "maintenant je suis triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Maintenant je suis triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "mal"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Mal"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "malheureusement"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Malheureusement"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "mauvais garçon"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Mauvais garçon"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "même si je comprends que vous êtes encore en développement, je me sens un peu déçu."
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Même si je comprends que vous êtes encore en développement, je me sens un peu déçu."
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "not bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Not bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "not good"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Not good"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "now i'm sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Now i'm sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "pas bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Pas bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "pas bon"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Pas bon"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "pas mal"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Pas mal"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "pas mal ton histoire mec"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Pas mal ton histoire mec"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "sa va pas"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Sa va pas"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "sa va pas bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Sa va pas bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "sa va pas fortement"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Sa va pas fortement"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "sa va pas fortement bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Sa va pas fortement bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "sa va pas incroyablement"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Sa va pas incroyablement"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "sa va pas incroyablement bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Sa va pas incroyablement bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "sa va pas super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Sa va pas super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "sa va pas super bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Sa va pas super bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "sa va pas tout"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Sa va pas tout"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "sa va pas tout bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Sa va pas tout bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "sa va pas très"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Sa va pas très"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "sa va pas très bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Sa va pas très bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "sa va sa va pas"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Sa va sa va pas"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "sa va sa va pas du tout"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Sa va sa va pas du tout"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "sadly"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Sadly"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "sava pas"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Sava pas"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "sava pas du tout"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Sava pas du tout"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "si triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Si triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "si triste :("
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Si triste :("
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "so sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "So sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "so sad :("
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "So sad :("
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "super sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Super sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "super triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Super triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "surely you're not so smart lik i thought"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Surely you're not so smart lik i thought"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "that tool here isnt good"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "That tool here isnt good"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "thats so rude"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Thats so rude"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "this is a really frustrating experience"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "This is a really frustrating experience"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "this is bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "This is bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "très très triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Très très triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu es assez mauvais"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu es assez mauvais"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu es fou"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu es fou"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu es grossier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu es grossier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu es plutôt terne"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu es plutôt terne"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu es un mauvais bot"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu es un mauvais bot"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu m'as brisé le coeur"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu m'as brisé le coeur"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu me rends triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu me rends triste"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas un bon compagnon admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas un bon compagnon admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas un bon compagnon cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas un bon compagnon cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas un bon compagnon délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas un bon compagnon délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas un bon compagnon excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas un bon compagnon excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas un bon compagnon extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas un bon compagnon extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas un bon compagnon fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas un bon compagnon fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas un bon compagnon formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas un bon compagnon formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas un bon compagnon génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas un bon compagnon génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas un bon compagnon génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas un bon compagnon génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas un bon compagnon impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas un bon compagnon impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas un bon compagnon incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas un bon compagnon incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas un bon compagnon magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas un bon compagnon magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas un bon compagnon merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas un bon compagnon merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas un bon compagnon parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas un bon compagnon parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas un bon compagnon puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas un bon compagnon puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas un bon compagnon remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas un bon compagnon remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas un bon compagnon sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas un bon compagnon sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas un bon compagnon singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas un bon compagnon singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas un bon compagnon succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas un bon compagnon succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas un bon compagnon super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas un bon compagnon super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas un bon compagnon superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas un bon compagnon superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas un bon compagnon épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas un bon compagnon épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es pas épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es pas épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "tu n'es sûrement pas si intelligent que je pensais"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Tu n'es sûrement pas si intelligent que je pensais"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "u broke my heart"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "U broke my heart"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "very bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Very bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "very very sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Very very sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "you are bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "You are bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "you are bad bot"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "You are bad bot"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "you are mad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "You are mad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "you are quite bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "You are quite bad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "you are rude"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "You are rude"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "you make me sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "You make me sad"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "you're rather dull"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "You're rather dull"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "ça va pas"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Ça va pas"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "ça va pas bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Ça va pas bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "ça va pas fortement"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Ça va pas fortement"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "ça va pas fortement bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Ça va pas fortement bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "ça va pas incroyablement"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Ça va pas incroyablement"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "ça va pas incroyablement bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Ça va pas incroyablement bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "ça va pas super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Ça va pas super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "ça va pas super bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Ça va pas super bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "ça va pas tout"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Ça va pas tout"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "ça va pas tout bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Ça va pas tout bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "ça va pas très"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Ça va pas très"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "ça va pas très bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Ça va pas très bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "ça va ça va pas"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Ça va ça va pas"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "ça va ça va pas du tout"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Ça va ça va pas du tout"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "çava pas"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Çava pas"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "çava pas du tout"
+      },
+      {
+        "entities": [],
+        "intent": "mood_unhappy",
+        "text": "Çava pas du tout"
+      }
+    ],
+    "entity_synonyms": [],
+    "lookup_tables": [],
+    "regex_features": []
+  }
+}

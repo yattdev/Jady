@@ -1,0 +1,366 @@
+// template fro affirm.txt
+// Intent: affirm
+%[&affirm](2000)
+    ~[affirm] [bot|robot|toi|intelligence artificiel?] [!?]
+    I will [!?]
+    tu je veux [robot|toi|intelligence artificiel?] [!?]
+
+
+~[&affirm]
+    affirm
+    J'accepte
+    Impressionnant!
+    Bien
+    J'accepte
+    J'accepte.
+    je suis d'accord
+    Je l'utilise
+    J'ai changé d'avis. Je veux l'accepter
+    je fais
+    je comprends
+    je crois que oui
+    Je l'ai utilisé dans le passé
+    je vais
+    J'adorerais absolument ça
+    Je suis sûr que je le ferai!
+    je l'utilise
+    Agréable
+    d'accord
+    Bien sûr
+    Oh oui
+    Oh d'accord
+    D'accord
+    OK commençons
+    D'accord.
+    D'accord
+    D'accord!
+    S'IL TE PLAÎT
+    BIEN SUR
+    Sûr
+    Doux
+    OUI
+    OUAIS
+    Ouais
+    Oui
+    Oui bien sûr
+    Ouais
+    Ouais c'est bien
+    Yepp
+    Oui s'il te plaît
+    Oui s'il te plaît!
+    Oui j'accepte
+    Oui.
+    un peu
+    Tout à fait
+    J'accepte
+    accepté
+    convenu
+    Ah ok
+    bien
+    amayzing
+    étonnante!
+    impressionnant
+    impressionnant!
+    confirmer
+    certainement oui sans aucun doute
+    Fini
+    assez juste
+    fcourse
+    amende
+    putain ouais!
+    vas-y
+    Allez-y
+    bien.
+    enfer ouais
+    putain, oui
+    comme c'est gentil!
+    J'accepte
+    je suis d'accord
+    Je veux cela
+    je vais!
+    c'est bon
+    ja
+    jezz
+    jo
+    k
+    kk
+    Faisons le
+    faisons cela
+    bien sûr
+    ofcoure je fais
+    bien sûr
+    Ok mon ami
+    OK bien
+    Ok, j'accepte
+    ok sara
+    ok, je me comporte maintenant
+    Ok j'ai compris
+    ok, Sara
+    d'accord...
+    d'accord
+    d'accord bien sûr
+    d'accord..
+    Oki Doki
+    okie
+    ook
+    s'il te plaît
+    si
+    sorte de
+    Bien sur
+    chose sûre
+    Bien sur!
+    OK bien
+    ça semble bien
+    C'est très bien
+    c'est bon
+    Haut
+    euh-huh
+    beaucoup
+    Hé bien oui
+    y
+    toi
+    tu vas y aller
+    s'il te plait
+    yaah
+    japper
+    jappements
+    Yay
+    vous
+    Oui s'il te plaît
+    ouais fais ça
+    Oui bien sûr
+    ouais '=
+    Ouais pourquoi pas
+    yeeeeezzzzz
+    yeeees
+    Ouais
+    oui je veux ça
+    oui si je dois
+    ouais s'il te plait
+    oui c'est sympa
+    oui, je vous remercie
+    Ouais. : /
+    Oui ...
+    oui accepter s'il vous plait
+    Oui bébé
+    oui donne moi des informations
+    Oui, vas y
+    oui vas-y
+    Oui j'accepte
+    Oui je suis d'accord
+    oui j'ai déjà construit un bot
+    Oui j'ai!
+    Oui c'est le cas
+    oui c'était bon
+    Oui bien sûr
+    oui pleae
+    Oui s'il te plaît
+    Oui s'il te plaît!
+    oui pls
+    oui sirfr
+    oui c'est ce que je veux
+    Oui, vous pouvez
+    Oui'
+    Oui, j'aimerais
+    oui, donnez-moi des informations, s'il vous plaît
+    Oui.
+    yessoo
+    oui oui oui
+    ouais
+    yop
+    tu m'as posé une question par oui ou par non, à laquelle j'ai répondu oui
+    tu m'as, j'accepte, si tu le veux
+    yres
+    yyeeeh
+    d'accord..
+    considérant
+    Plus ou moins
+    ça a l'air bien!
+    vraiment
+    Accept
+    I accept
+    I accept.
+    I agree
+    I am using it
+    I changed my mind. I want to accept it
+    I do
+    I get it
+    I guess so
+    I have used it in the past
+    I'd absolutely love that
+    I'm sure I will!
+    I'm using it
+    Nice
+    OK
+    Ofcourse
+    Oh yes
+    Oh, ok
+    Ok
+    Ok let's start
+    Ok.
+    Okay
+    Okay!
+    PLEASE
+    SURE
+    Sure
+    YES
+    YUP
+    Yea
+    Yeah
+    Yeah sure
+    Yep
+    Yep that's fine
+    Yep!
+    Yepp
+    Yes
+    Yes I do
+    Yes please
+    Yes please!
+    Yes, I accept
+    Yes.
+    Yup
+    a little
+    absolutely
+    accept
+    accepted
+    agreed
+    ah ok
+    alright
+    amayzing
+    amazing!
+    confirm
+    definitely yes without a doubt
+    done
+    fair enough
+    fcourse
+    fine
+    fuck yeah!
+    go ahead
+    go for it
+    hell yeah
+    hell yes
+    how nice!
+    i accept
+    i agree
+    i am!
+    i want that
+    i will!
+    it is ok
+    its okay
+    ja
+    jezz
+    jo
+    k
+    kk
+    lets do it
+    lets do this
+    of course
+    ofcoure i do
+    ofcourse
+    oh good !!
+    ok
+    ok fine
+    ok friend
+    ok good
+    ok i accept
+    ok sara
+    ok, I behave now
+    ok, I understood
+    ok, Sara
+    ok...
+    okay
+    okay sure
+    okay..
+    oki doki
+    okie
+    ook
+    oui
+    perfect
+    please
+    si
+    sort of
+    sure
+    sure thing
+    sure!
+    that ok
+    that sounds fine
+    thats fine
+    thats good
+    top
+    uh-huh
+    very much
+    well yes
+    y
+    ya
+    ya go for it
+    ya i want
+    ya please
+    yaah
+    yap
+    yaps
+    yas
+    yay
+    ye
+    ye splease
+    yea
+    yeah
+    yeah do that
+    yeah sure
+    yeah'=
+    yeah, why not
+    yeeeeezzzzz
+    yeeees
+    yep
+    yep i want that
+    yep if i have to
+    yep please
+    yep that's nice
+    yep, will do thank you
+    yep. :/
+    yes
+    yes ...
+    yes I do
+    yes accept please
+    yes baby
+    yes give me information
+    yes go ahead
+    yes go for it
+    yes i accept
+    yes i agree
+    yes i have built a bot before
+    yes i have!
+    yes it is
+    yes it was okay
+    yes of course
+    yes pleae
+    yes please
+    yes please!
+    yes pls
+    yes sirfr
+    yes that's what i want
+    yes you can
+    yes'
+    yes, I'd love to
+    yes, give me information, please
+    yes,i am
+    yes.
+    yesh
+    yess
+    yessoo
+    yesss
+    yesssss
+    yesyestyes
+    yesyesyes
+    yez
+    yop
+    you asked me a yes or no question, which i answered with yes
+    you got me, I accept, if you want me to
+    yres
+    ys
+    yup
+    yyeeeh
+    ok..
+    considering
+    More a less
+    sounds good!
+    really

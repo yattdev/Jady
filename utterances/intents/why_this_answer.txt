@@ -1,0 +1,15 @@
+// template fro why_this_answer.txt
+// Intent: why_this_answer
+%[&why_this_answer](1000)
+    pourquoi
+    pourquoi cette reponse
+    pourquoi ces reponses
+    pourquoi est ce que tu me donne cette reponses
+    pourquoi est ce que tu me donne ces reponses
+    je veux savoir pourquoi cette reponses
+    pourquoi tu as [donné|donne] cett reponse
+    qu'est qui ta pousser a donner cette reponse
+    j'aimerais savoir pourquoi cette reponse
+    j'aimerais savoir pourquoi ces reponses
+    dis moi, pourquoi cette reponse
+    dis moi, pourquoi ces reponses

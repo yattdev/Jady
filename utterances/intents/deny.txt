@@ -1,0 +1,204 @@
+// template fro deny.txt
+// Intent: deny
+%[&deny](2000)
+    ~[deny] [bot|robot|toi|intelligence artificiel?] [!?]
+
+
+~[&deny]
+    deny
+    non
+    pas d’accord
+    je suis pas d’accord
+    c’est faut
+    c’est pas exacte
+    c’est du mensonge
+    c’est une mensonge
+    c’est non
+    faut
+    wrong
+    je ne veux pas
+    je ne veux pas te le donner
+    je ne veux pas dire
+    je ne veux pas dire
+    je ne vous donne pas mon adresse e-mail
+    je ne vais pas te le donner
+    nein
+    non ne voulez pas cela!
+    ni
+    jamais
+    ça ne fait rien
+    non, merci
+    non, pas vraiment.
+    non.
+    pas vraiment
+    absolument pas
+    déclin
+    définitivement pas
+    nier
+    je refuse
+    je n'aime pas ça
+    je ne pense pas
+    je ne veux ni l'un ni l'autre
+    je ne veux pas
+    je ne veux pas te donner mon email
+    je ne veux pas
+    je ne veux pas accepter: p lol
+    je suppose que ça veut dire - non
+    j'ai bien peur que non
+    je ne suis pas sûr
+    ça va assez mal
+    ça craint
+    ça sux
+    n
+    n / a
+    non, ça va
+    non pas pour moi
+    non, première fois
+    non, ça va
+    nehi
+    nein
+    ni
+    jamais
+    ça ne fait rien
+    non :(
+    non je ne veux pas
+    non je n'ai pas encore décidé si je veux m'inscrire
+    non et non encore
+    pas de bots du tout
+    ne pas aller
+    non je ne peux pas
+    non je n'accepte pas
+    non je ne veux pas
+    non je ne veux pas accepter: p lol
+    non je ne le ferai pas
+    non madame
+    non monsieur
+    non désolé
+    certainement pas
+    non tu l'as mal fait
+    non!!!!
+    non, je hais ça
+    non, ma première fois
+    non. tu es idiot
+    noooooooooo
+    noooooooooooooooooooooooooooooooooooooooo
+    nan
+    nan!
+    nan. je vais bien
+    ça ne va pas du tout
+    pas vraiment
+    pas tout de suite
+    pas encore
+    désolé pas maintenant
+    je ne veux toujours pas dire
+    merci mais, non merci
+    ça craint
+    je n'ai pas besoin d'aide pour installer
+    je ne veux pas dire le nom de ma société
+    pas d'arrêt
+    arrête, je m'en fous !!!
+    aucun d'entre eux
+    je ne suis pas d'accord
+    tu ment
+    i don't want to
+    i don't want to give it to you
+    i don't want to say
+    i don't care!!!!
+    i don't care!
+    i don't care
+    i dont want to tell
+    i'm not giving you my email address
+    i'm not going to give it to you
+    nein
+    no
+    no don"t want this!
+    nah
+    neither
+    never
+    nevermind
+    no
+    no thank you
+    no, not really.
+    no, thank you
+    no.
+    nopes
+    not really
+    absolutely not
+    decline
+    definitely not
+    deny
+    i decline
+    i don not like this
+    i don't think so
+    i don't want either of those
+    i don't want to
+    i don't want to give you my email
+    i dont want to
+    i dont want to accept :p lol
+    i guess it means - no
+    i'm afraid not
+    i'm not sure
+    it is going pretty badly
+    it sucks
+    it sux
+    n
+    na
+    nah
+    nah i'm good
+    nah not for me
+    nah, first time
+    nah, i'm good
+    nehi
+    nein
+    neither
+    never
+    never mind
+    no
+    no :(
+    no i dont want
+    no i haven't decided yet if i want to sign up
+    no and no again
+    no bots at all
+    no go
+    no i can't
+    no i don't accept
+    no i dont want to
+    no i dont want to accept :p lol
+    no i won't
+    no ma'am
+    no sir
+    no sorry
+    no thank s
+    no thank you
+    no thanks
+    no way
+    no you did it wrong
+    no!!!!
+    no, i hate it
+    no, my frst time
+    no, thank you
+    no, thanks
+    no, thankyou
+    no. u r idiot
+    non
+    noooooooooo
+    noooooooooooooooooooooooooooooooooooooooo
+    nop
+    nope
+    nope!
+    nope. i am good
+    not going well at all
+    not really
+    not right now
+    not yet
+    nö
+    sorry not right now
+    still dont want to tell
+    thanks but no thanks
+    this sucks
+    i do not need help installing
+    i don't wanna tell the name of my company
+    no stop
+    stop it, i do not care!!!
+    none of them
+    i don't agree

@@ -3,43 +3,35 @@
     "common_examples": [
       {
         "text": "Salut",
-        "intent": "greet",
-        "entities": []
+        "intent": "greet"
       },
       {
         "text": "Salut !",
-        "intent": "greet",
-        "entities": []
+        "intent": "greet"
       },
       {
         "text": "Hi !",
-        "intent": "greet",
-        "entities": []
+        "intent": "greet"
       },
       {
         "text": "Allo !",
-        "intent": "greet",
-        "entities": []
+        "intent": "greet"
       },
       {
         "text": "Bonjour",
-        "intent": "greet",
-        "entities": []
+        "intent": "greet"
       },
       {
         "text": "Hi",
-        "intent": "greet",
-        "entities": []
+        "intent": "greet"
       },
       {
         "text": "Bonjour !",
-        "intent": "greet",
-        "entities": []
+        "intent": "greet"
       },
       {
         "text": "Allo",
-        "intent": "greet",
-        "entities": []
+        "intent": "greet"
       },
       {
         "text": "Q'est ce que tu peut faire",
@@ -63,116 +55,87 @@
       },
       {
         "text": "Merci",
-        "intent": "thankyou",
-        "entities": []
+        "intent": "thankyou"
       },
       {
         "text": "Merci beaucoup !",
-        "intent": "thankyou",
-        "entities": []
+        "intent": "thankyou"
       },
       {
         "text": "thank you !",
-        "intent": "thankyou",
-        "entities": []
+        "intent": "thankyou"
       },
       {
         "text": "thx you",
-        "intent": "thankyou",
-        "entities": []
+        "intent": "thankyou"
       },
       {
         "text": "Bien le bonjour",
-        "intent": "greet",
-        "entities": []
+        "intent": "greet"
       },
       {
         "text": "Hola !",
-        "intent": "greet",
-        "entities": []
+        "intent": "greet"
       },
       {
         "text": "Hola ",
-        "intent": "greet",
-        "entities": []
+        "intent": "greet"
       },
       {
         "text": "Bonsoir !",
-        "intent": "greet",
-        "entities": []
+        "intent": "greet"
       },
       {
         "text": "Bonsoir",
-        "intent": "greet",
-        "entities": []
+        "intent": "greet"
       },
       {
         "text": "Bien le bonsoir",
-        "intent": "greet",
-        "entities": []
+        "intent": "greet"
       },
       {
         "text": "Yo",
-        "intent": "greet",
-        "entities": []
+        "intent": "greet"
       },
       {
         "text": "Hello",
-        "intent": "greet",
-        "entities": []
+        "intent": "greet"
       },
       {
         "text": "salut",
-        "intent": "greet",
-        "entities": []
+        "intent": "greet"
       },
       {
         "text": "bonjour",
-        "intent": "greet",
-        "entities": []
+        "intent": "greet"
       },
       {
         "text": "bonsoir",
-        "intent": "greet",
-        "entities": []
+        "intent": "greet"
       },
       {
         "text": "hello",
-        "intent": "greet",
-        "entities": []
+        "intent": "greet"
       },
       {
         "text": "hi",
-        "intent": "greet",
-        "entities": []
+        "intent": "greet"
       },
       {
         "text": "hallo !",
-        "intent": "greet",
-        "entities": []
-      },
-      {
-        "text": "salut",
-        "intent": "greet",
-        "entities": []
-      },
-      {
-        "text": "bonjour",
-        "intent": "greet",
-        "entities": []
-      },
-      {
-        "text": "bonsoir",
-        "intent": "greet",
-        "entities": []
+        "intent": "greet"
       },
       {
         "text": "bien le bonjour",
-        "intent": "greet",
-        "entities": []
+        "intent": "greet"
+      },
+      {
+        "text": "qu'est ce tu fais ?",
+        "intent": "bot_possibility"
       }
     ],
     "regex_features": [],
+    "lookup_tables": [],
     "entity_synonyms": []
   }
 }

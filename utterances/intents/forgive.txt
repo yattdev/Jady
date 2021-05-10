@@ -1,0 +1,32 @@
+// template fro forgive.txt
+// Intent: forgive
+%[&forgive](1000)
+    ~[pardon]
+    frogive
+    frogive me
+    pardonne moi
+    je suis
+
+~[&pardon]
+    pardon
+    accept mon pardon
+    accept mes excuses
+    desoler
+    désoler
+    je suis desoler
+    je suis désoler
+    tu me pardonne
+    je veux tu me pardonne
+    tu dois me pardonner
+    je te fais ma rédemption
+    je fais rédemption
+    rédemption
+    je m'excuse [pour ca|pour offend?]
+    excuse moi [pour ca|pour offend?]
+    excuse [pour ca|pour offend?]
+    tu m'excuse [pour ca|pour offend?]
+    veillez me pardonnez [s'il vous plait|s'il te plait]
+    je te fait mon acquittement
+    amnistie
+    absolution
+    indulgence

@@ -4,8 +4,14 @@
     [&merci]
     [&merci] pour ton [service|travail|quartier]
     [&merci] [beaucoup|énormement|infinément]
-    [&mes] remerciements
-    tkx you
-    thank you
-    thanx you
-    thank
+    [&mes] remerciements [c'est sympa|c'est ~[excellent#singular]?]
+    tkx you [c'est sympa|c'est ~[excellent#singular]?]
+    thank you [c'est sympa|c'est ~[excellent#singular]?]
+    thanx you [c'est sympa|c'est ~[excellent#singular]?]
+    thank [c'est sympa|c'est ~[excellent#singular]?]
+    [&merci] ! c'etais [sympa|~[excellent#singular]]
+    [&merci] ! Tu es [sympa|~[excellent#singular]]
+
+
+// Inclure ~[excellents#plural] ~[excellent#singular]
+|../includes/positive.chatette

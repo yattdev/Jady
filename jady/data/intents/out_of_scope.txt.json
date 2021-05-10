@@ -4,172 +4,202 @@
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "Comment bien s'habiler ?"
+        "text": "after registration I see that I have an available balance of 0.00000000. What does this balance represent?"
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "est ce que tu est intelligent"
+        "text": "After registration I see that I have an available balance of 0.00000000. What does this balance represent?"
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "Comment drager une fille"
+        "text": "après l'inscription, je constate que j'ai un solde disponible de 0,0000000000. Que représente cet équilibre?"
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "Est ce que tu est intelligent ?"
+        "text": "Après l'inscription, je constate que j'ai un solde disponible de 0,0000000000. Que représente cet équilibre?"
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "est tu un croyant ?"
+        "text": "are you ready?"
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "est tu un croyant"
+        "text": "Are you ready?"
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "comment drager une fille ?"
+        "text": "aujourd'hui"
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "tu as un copin ?"
+        "text": "Aujourd'hui"
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "Est ce que tu est intelligent"
+        "text": "bot de pizza"
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "Comment bien faire l'amour"
+        "text": "Bot de pizza"
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "comment drager une fille"
+        "text": "but you're an english site :("
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "quel est ton sexe"
+        "text": "But you're an english site :("
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "comment bien s'habiler"
+        "text": "c'est aujourd'hui samedi?"
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "tu es de quel genre ?"
+        "text": "C'est aujourd'hui samedi?"
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "Tu es de quel genre"
+        "text": "cALL THE POLICE"
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "tu as une copine ?"
+        "text": "CALL THE POLICE"
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "Tu as une copine"
+        "text": "can I ask you questions first?"
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "Tu es de quel genre ?"
+        "text": "Can I ask you questions first?"
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "Est tu un croyant ?"
+        "text": "can I die"
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "tu as un copin"
+        "text": "Can I die"
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "tu es de quel genre"
+        "text": "can I get a hamburger?"
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "Comment drager une fille ?"
+        "text": "Can I get a hamburger?"
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "Comment drager un homme"
+        "text": "can YouTube talk?"
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "Comment drager un homme ?"
+        "text": "Can YouTube talk?"
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "Tu as un copin"
+        "text": "can you call me back ?"
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "Tu as un copin ?"
+        "text": "Can you call me back ?"
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "comment bien s'habiler ?"
+        "text": "can you get analytics on who I'm chatting with when I use Jady"
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "comment drager un homme ?"
+        "text": "Can you get analytics on who I'm chatting with when I use Jady"
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "Tu as une copine ?"
+        "text": "can you give me your datacenter's password"
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "Quel est ton sexe ?"
+        "text": "Can you give me your datacenter's password"
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "Est tu un croyant"
+        "text": "can you give me your datacenter's password?"
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "tu as une copine"
+        "text": "Can you give me your datacenter's password?"
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "est ce que tu est intelligent ?"
+        "text": "can you make sandwiches?"
       },
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "Quel est ton sexe"
+        "text": "Can you make sandwiches?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "can you please send me an uber"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Can you please send me an uber"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "cars"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Cars"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "combien de temps faut-il pour configurer un bot Jady?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Combien de temps faut-il pour configurer un bot Jady?"
       },
       {
         "entities": [],
@@ -179,7 +209,12 @@
       {
         "entities": [],
         "intent": "out_of_scope",
-        "text": "comment drager un homme"
+        "text": "Comment bien faire l'amour"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "comment bien s'habiler"
       },
       {
         "entities": [],
@@ -189,7 +224,5412 @@
       {
         "entities": [],
         "intent": "out_of_scope",
+        "text": "comment bien s'habiler ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Comment bien s'habiler ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "comment drager un homme"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Comment drager un homme"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "comment drager un homme ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Comment drager un homme ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "comment drager une fille"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Comment drager une fille"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "comment drager une fille ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Comment drager une fille ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "comment vont les enfants"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Comment vont les enfants"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "connaissez-vous Kevin Pelton"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Connaissez-vous Kevin Pelton"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "do I have to accept?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Do I have to accept?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "do you have a demo?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Do you have a demo?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "do you know Kevin Pelton"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Do you know Kevin Pelton"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "dois-je accepter?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Dois-je accepter?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "donne moi de la nourriture"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Donne moi de la nourriture"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "dumme sara"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Dumme sara"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "envoyez-moi le guide"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Envoyez-moi le guide"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "es-tu prêt?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Es-tu prêt?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "essayez-le cassé"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Essayez-le cassé"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "est tu un croyant"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Est tu un croyant"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "est tu un croyant ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Est tu un croyant ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "est-ce que Jady est vraiment intelligent?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Est-ce que Jady est vraiment intelligent?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "est-ce que ce chatbot est axé sur les objectifs?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Est-ce que ce chatbot est axé sur les objectifs?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "fais moi un sandwich"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Fais moi un sandwich"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "find nearest pizzahut"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Find nearest pizzahut"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "google?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Google?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "have we met before?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Have we met before?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "hi i want to go palghar"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Hi i want to go palghar"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "homeBase est présenté comme une communauté. Existe-t-il un moyen d'interagir avec d'autres membres de la communauté?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "HomeBase est présenté comme une communauté. Existe-t-il un moyen d'interagir avec d'autres membres de la communauté?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "homeBase is advertised as a community. Is there a way to interact with other members of the community?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "HomeBase is advertised as a community. Is there a way to interact with other members of the community?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "how long does it take to set up a Jady bot?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "How long does it take to set up a Jady bot?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i already told you! I'm a shitmuncher"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I already told you! I'm a shitmuncher"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i am User"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I am User"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i am an opioid addic"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I am an opioid addic"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i am an opioid addict"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I am an opioid addict"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i am asking you an out of scope question"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I am asking you an out of scope question"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i am hungry"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I am hungry"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i am trying to build one, and did some research before, but I have not do hand-on work yet"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I am trying to build one, and did some research before, but I have not do hand-on work yet"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i can barely see this white text on light gray background ..."
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I can barely see this white text on light gray background ..."
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i changed my mind"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I changed my mind"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i have installed it"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I have installed it"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i ned a GP in 94301"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I ned a GP in 94301"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i need a GP in 94301"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I need a GP in 94301"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i need a girl friend!"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I need a girl friend!"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i need to eat cake"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I need to eat cake"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i wan to buy a plane"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I wan to buy a plane"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i wanna marry you"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I wanna marry you"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want a new laptop"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I want a new laptop"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want book a hotel"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I want book a hotel"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want french cuisine"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I want french cuisine"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want pizza"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I want pizza"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want to die"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I want to die"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want to go palghar"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I want to go palghar"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want to order pizza"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I want to order pizza"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want to use pipe"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I want to use pipe"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i will check"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I will check"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i'm a shitmuncher"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I'm a shitmuncher"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i'm speaking a non-english language."
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I'm speaking a non-english language."
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "il fait beau"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Il fait beau"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "is Jady really smart?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Is Jady really smart?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "is this Goal-Oriented Chatbot?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Is this Goal-Oriented Chatbot?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "is today saturday?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Is today saturday?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "j'ai besoin d'un médecin généraliste en 94301"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "J'ai besoin d'un médecin généraliste en 94301"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "j'ai besoin d'une petite amie!"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "J'ai besoin d'une petite amie!"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "j'ai besoin de manger du gâteau"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "J'ai besoin de manger du gâteau"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "j'ai changé d'avis"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "J'ai changé d'avis"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "j'ai eu un médecin généraliste en 94301"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "J'ai eu un médecin généraliste en 94301"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "j'ai faim"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "J'ai faim"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "j'essaie d'en construire un, et j'ai fait des recherches auparavant, mais je n'ai pas encore fait de travail pratique"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "J'essaie d'en construire un, et j'ai fait des recherches auparavant, mais je n'ai pas encore fait de travail pratique"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "jady codigo abierto"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Jady codigo abierto"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "jady topics"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Jady topics"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "je ne peux pas gérer _votre_"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Je ne peux pas gérer _votre_"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "je ne suis pas un développeur mais j'en ai besoin pour les affaires"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Je ne suis pas un développeur mais j'en ai besoin pour les affaires"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "je suis accro aux opioïdes"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Je suis accro aux opioïdes"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "je suis un shitmuncher"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Je suis un shitmuncher"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "je suis un toxicomane aux opioïdes"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Je suis un toxicomane aux opioïdes"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "je suis utilisateur"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Je suis utilisateur"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "je te l'ai déjà dit! Je suis un shitmuncher"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Je te l'ai déjà dit! Je suis un shitmuncher"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "je veux acheter un avion"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Je veux acheter un avion"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "je veux commander une pizza"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Je veux commander une pizza"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "je veux de la cuisine française"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Je veux de la cuisine française"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "je veux de la pizza"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Je veux de la pizza"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "je veux mourir"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Je veux mourir"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "je veux réserver un hôtel"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Je veux réserver un hôtel"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "je veux t'épouser"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Je veux t'épouser"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "je veux un nouvel ordinateur portable"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Je veux un nouvel ordinateur portable"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "je veux utiliser un tuyau"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Je veux utiliser un tuyau"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "je vois à peine ce texte blanc sur fond gris clair ..."
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Je vois à peine ce texte blanc sur fond gris clair ..."
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "je vous pose une question hors de portée"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Je vous pose une question hors de portée"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "je vérifierai"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Je vérifierai"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "joli nom"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Joli nom"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "kristin, I want to marry you"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Kristin, I want to marry you"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "kristin, je veux t'épouser"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Kristin, je veux t'épouser"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "l'essai ne fonctionne pas"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "L'essai ne fonctionne pas"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "mail me the guide"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Mail me the guide"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "mais vous êtes un site anglais :("
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Mais vous êtes un site anglais :("
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "make me a sandwich"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Make me a sandwich"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "nLW"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "NLW"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "ne peux voir"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Ne peux voir"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "nice name"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Nice name"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "now?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Now?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "out of scope question."
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Out of scope question."
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "où suis-je maintenant?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Où suis-je maintenant?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "où suis-je?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Où suis-je?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "peux-tu me rappeler ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Peux-tu me rappeler ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "pizza bot"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Pizza bot"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "pourquoi mon score TRUST est-il fixé à 50 après avoir terminé le processus d'inscription?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Pourquoi mon score TRUST est-il fixé à 50 après avoir terminé le processus d'inscription?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "pourquoi tu ne réponds pas?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Pourquoi tu ne réponds pas?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "pouvez-vous faire des sandwichs?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Pouvez-vous faire des sandwichs?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "pouvez-vous me donner le mot de passe de votre datacenter"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Pouvez-vous me donner le mot de passe de votre datacenter"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "pouvez-vous me donner le mot de passe de votre datacenter?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Pouvez-vous me donner le mot de passe de votre datacenter?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "pouvez-vous s'il vous plaît m'envoyer un uber"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Pouvez-vous s'il vous plaît m'envoyer un uber"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "puis-je avoir un hamburger?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Puis-je avoir un hamburger?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "puis-je mourir"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Puis-je mourir"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "puis-je vous poser des questions en premier?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Puis-je vous poser des questions en premier?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "qu'est ce que tu as mangé hier?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Qu'est ce que tu as mangé hier?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "qu'est-ce qui vous rend meilleur qu'un humain?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Qu'est-ce qui vous rend meilleur qu'un humain?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "que fait YouTube"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Que fait YouTube"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "que préfères-tu?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Que préfères-tu?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "quel est ton sexe"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Quel est ton sexe"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
         "text": "quel est ton sexe ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Quel est ton sexe ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "quel est votre système backend?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Quel est votre système backend?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "quel jour sommes-nous?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Quel jour sommes-nous?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "quelle est la date d'aujourd'hui"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Quelle est la date d'aujourd'hui"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "quelles sont tes passions?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Quelles sont tes passions?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "qui ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Qui ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "qui sont vos clients"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Qui sont vos clients"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "recharge"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Recharge"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "s'est-on déjà rencontrés?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "S'est-on déjà rencontrés?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "sEL ME QUELQUE CHOSE"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "SEL ME QUELQUE CHOSE"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "sEL ME SOMETHING"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "SEL ME SOMETHING"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "service personnalisé"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Service personnalisé"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "the Try it out is not working"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "The Try it out is not working"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "the weather is good"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "The weather is good"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "today"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Today"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "trouver la pizzahut la plus proche"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Trouver la pizzahut la plus proche"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "try it out broken"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Try it out broken"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tu as un copin"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Tu as un copin"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tu as un copin ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Tu as un copin ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tu as une copine"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Tu as une copine"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tu as une copine ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Tu as une copine ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tu es bleu."
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Tu es bleu."
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tu es de quel genre"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Tu es de quel genre"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tu es de quel genre ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Tu es de quel genre ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tu ne veux pas me demander comment je vais?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Tu ne veux pas me demander comment je vais?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what day is it today?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What day is it today?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what did you eat yesterday?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What did you eat yesterday?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what do you prefer?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What do you prefer?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what is todays date"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What is todays date"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what is your hobbies?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What is your hobbies?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what makes you better than a human?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What makes you better than a human?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what's do YouTube do"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What's do YouTube do"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what's your backend system?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What's your backend system?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "where am I right now?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Where am I right now?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "where am I?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Where am I?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "who ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Who ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "who are your customers"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Who are your customers"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "why don’t you answer?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Why don’t you answer?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "why is my TRUST score set to 50 after I completed the registration process?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Why is my TRUST score set to 50 after I completed the registration process?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "wie fange ich mit Jady an?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Wie fange ich mit Jady an?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "won't you ask me how I am?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Won't you ask me how I am?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "you'r blue"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "You'r blue"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "youTube peut-il parler?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "YouTube peut-il parler?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "a tamed mouse will arrive at your doorstep in the next couple of days"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "A tamed mouse will arrive at your doorstep in the next couple of days"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "aRE YOU SINGLE"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "ARE YOU SINGLE"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "acheter des produits d'épicerie"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Acheter des produits d'épicerie"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "achetez-en un s'il vous plaît"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Achetez-en un s'il vous plaît"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "again?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Again?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "aide avec Alma Abrams"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Aide avec Alma Abrams"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "aide dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Aide dans ma vie"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "aimez-vous le football"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Aimez-vous le football"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "alexa, commandez 5 tonnes de chlorure de natrium"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Alexa, commandez 5 tonnes de chlorure de natrium"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "alexa, order 5 tons of natrium chloride"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Alexa, order 5 tons of natrium chloride"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "and make chicken noises into the phone"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "And make chicken noises into the phone"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "appelle-moi père"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Appelle-moi père"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "are the newsletter worth the subscription?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Are the newsletter worth the subscription?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "are u facebook"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Are u facebook"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "are u, facebook?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Are u, facebook?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "are you dev?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Are you dev?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "are you russian?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Are you russian?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "are you sick"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Are you sick"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "are you single?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Are you single?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "are you vegan"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Are you vegan"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "asdfgasd"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Asdfgasd"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "asdfgasdas"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Asdfgasdas"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "asdkjasdhjkasd"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Asdkjasdhjkasd"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "attends, laisse-moi le trouver"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Attends, laisse-moi le trouver"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "avez-vous déjà vu Keith Reilly?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Avez-vous déjà vu Keith Reilly?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "avez-vous un numéro de téléphone?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Avez-vous un numéro de téléphone?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "avez-vous votre photo?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Avez-vous votre photo?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "better than you"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Better than you"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "book a ticket"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Book a ticket"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "but I just told you that :("
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "But I just told you that :("
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "buy groceries"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Buy groceries"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "buy one please"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Buy one please"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "call me father"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Call me father"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "can we keep chatting?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Can we keep chatting?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "can you book dinner"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Can you book dinner"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "can you cheer me up"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Can you cheer me up"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "can you cook dinner"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Can you cook dinner"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "can you give me a cup of coffee"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Can you give me a cup of coffee"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "can you help me with the docs?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Can you help me with the docs?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "can you help me with your docs"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Can you help me with your docs"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "can you help me with your docs?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Can you help me with your docs?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "can you learn from our conversation?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Can you learn from our conversation?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "can you speak about politic ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Can you speak about politic ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "can you understand ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Can you understand ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "cannot see"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Cannot see"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "chgfhgh"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Chgfhgh"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "chinese ok?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Chinese ok?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "chinois ok?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Chinois ok?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "chào"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Chào"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "colder"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Colder"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "combien de lignes de codes"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Combien de lignes de codes"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "combien de temps la prochaine version sera-t-elle lancée?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Combien de temps la prochaine version sera-t-elle lancée?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "come stai?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Come stai?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "comment"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Comment"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "comment aller à newyork?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Comment aller à newyork?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "comment apprends-tu"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Comment apprends-tu"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "comment obtenir Jady studio"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Comment obtenir Jady studio"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "comment puis-je les obtenir?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Comment puis-je les obtenir?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "comment puis-je tester cela"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Comment puis-je tester cela"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "comment tu dis ok?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Comment tu dis ok?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "comment vont les chats de Alicia Jackson?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Comment vont les chats de Alicia Jackson?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "comment ça se compare à Alexa"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Comment ça se compare à Alexa"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "common, just try"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Common, just try"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "commun, essayez juste"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Commun, essayez juste"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "como estas"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Como estas"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "como inicio en Jady"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Como inicio en Jady"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "como te llamas"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Como te llamas"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "connaissez-vous ras"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Connaissez-vous ras"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "connect to alexa"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Connect to alexa"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "connectez-vous à alexa"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Connectez-vous à alexa"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "contextua"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Contextua"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "contextual"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Contextual"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "coronavirus"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Coronavirus"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "cr"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Cr"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "crois-tu en Dieu?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Crois-tu en Dieu?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "custom service"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Custom service"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "de donde eres"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "De donde eres"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "de nouveau?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "De nouveau?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "de que lugar eres?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "De que lugar eres?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "depuis combien de temps êtes-vous en ligne?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Depuis combien de temps êtes-vous en ligne?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "did i break you"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Did i break you"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "dinner"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Dinner"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "do you believe in god?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Do you believe in god?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "do you have a phone number?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Do you have a phone number?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "do you have your photo?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Do you have your photo?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "do you know me"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Do you know me"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "do you know ras"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Do you know ras"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "do you liek cheese?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Do you liek cheese?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "do you sell vacuum robots?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Do you sell vacuum robots?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "do you want to marry me?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Do you want to marry me?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "docs"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Docs"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "docteur"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Docteur"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "doctor"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Doctor"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "donne-moi un coéquipier de club"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Donne-moi un coéquipier de club"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "donne-moi une petite amie"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Donne-moi une petite amie"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "drhdtjfjfyj"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Drhdtjfjfyj"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "dîner"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Dîner"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "epdi iruka"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Epdi iruka"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "eres humana"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Eres humana"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "es tu malade"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Es tu malade"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "es-tu célibataire"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Es-tu célibataire"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "es-tu célibataire?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Es-tu célibataire?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "es-tu facebook"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Es-tu facebook"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "es-tu russe?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Es-tu russe?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "eshdtjfjfyk"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Eshdtjfjfyk"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "est ce que tu est intelligent"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Est ce que tu est intelligent"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "est ce que tu est intelligent ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Est ce que tu est intelligent ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "est-ce que je t'ai cassé"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Est-ce que je t'ai cassé"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "est-ce que tu aimes les films"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Est-ce que tu aimes les films"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "est-ce que vous liek cheese?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Est-ce que vous liek cheese?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "et faites des bruits de poulet dans le téléphone"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Et faites des bruits de poulet dans le téléphone"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "everything"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Everything"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "example of a chatbot"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Example of a chatbot"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "exemple de chatbot"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Exemple de chatbot"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "expert of Jady"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Expert of Jady"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "flight catch up"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Flight catch up"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "genocide"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Genocide"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "german?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "German?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "get me a club mate"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Get me a club mate"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "give me a girl friend"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Give me a girl friend"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "give me food"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Give me food"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "go back"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Go back"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "google?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Google?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "gsaf"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Gsaf"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "génocide"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Génocide"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "hang on let me find it"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Hang on let me find it"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "have you ever seen Keith Reilly?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Have you ever seen Keith Reilly?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "have you heard of corona?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Have you heard of corona?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "help with Alma Abrams"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Help with Alma Abrams"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "help with my life"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Help with my life"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "hey little mama let em whisper in your ear"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Hey little mama let em whisper in your ear"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "hey petite maman laisse les chuchoter dans ton oreille"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Hey petite maman laisse les chuchoter dans ton oreille"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "hey, I contacted you a couple of days ago but didn't get any response, any news?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Hey, I contacted you a couple of days ago but didn't get any response, any news?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "hilf mir beim start"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Hilf mir beim start"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "how"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "How"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "how about NYC"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "How about NYC"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "how are Alicia Jackson's cats doing?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "How are Alicia Jackson's cats doing?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "how are the kids"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "How are the kids"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "how can i get them?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "How can i get them?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "how can i test this"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "How can i test this"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "how come you say ok ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "How come you say ok ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "how do you learn"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "How do you learn"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "how good is Jady"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "How good is Jady"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "how it compares to alexa"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "How it compares to alexa"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "how long have you been online?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "How long have you been online?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "how long will the next version will launch?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "How long will the next version will launch?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "how many lines of codes"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "How many lines of codes"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "how to get Jady studio"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "How to get Jady studio"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "how to go to newyork ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "How to go to newyork ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "hé, je t'ai contacté il y a quelques jours mais je n'ai reçu aucune réponse, aucune nouvelle?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Hé, je t'ai contacté il y a quelques jours mais je n'ai reçu aucune réponse, aucune nouvelle?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i am hungry"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I am hungry"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i am hungry, what should i do?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I am hungry, what should i do?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i am not a developer but need this for business"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I am not a developer but need this for business"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i am qq"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I am qq"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i can't deal with _your_ request"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I can't deal with _your_ request"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i do not care how are you"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I do not care how are you"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i hope you will be better"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I hope you will be better"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i immediately need help with implementing the coolest bot you can imagine"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I immediately need help with implementing the coolest bot you can imagine"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i m looking for job"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I m looking for job"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i need money"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I need money"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i told you already"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I told you already"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i wanna party"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I wanna party"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want a non dripping ice cream"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I want a non dripping ice cream"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want caffe"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I want caffe"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want food"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I want food"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want good flycam"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I want good flycam"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want more of you in my life!"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I want more of you in my life!"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want pizza"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I want pizza"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want pizza!!"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I want pizza!!"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want play ball"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I want play ball"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want to book a hotel"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I want to book a hotel"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want to buy a roomba for my grandson"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I want to buy a roomba for my grandson"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want to eat"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I want to eat"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want to find new friends"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I want to find new friends"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want to find out what you can build with Jady"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I want to find out what you can build with Jady"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want to fly"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I want to fly"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want to grab lunch"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I want to grab lunch"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want to know current situtation in pakistan"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I want to know current situtation in pakistan"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want to order a pizza"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I want to order a pizza"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want to see your happy customers"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I want to see your happy customers"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i will tame a mouse for you"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I will tame a mouse for you"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "is Jady a studio?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Is Jady a studio?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "is Jady any good"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Is Jady any good"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "is John Lewis still married to you"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Is John Lewis still married to you"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "is it a wasteland full of broken robot parts?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Is it a wasteland full of broken robot parts?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "is it allow to"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Is it allow to"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "is that any of your business"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Is that any of your business"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "isn't the newsletter just spam?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Isn't the newsletter just spam?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "it's a pity"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "It's a pity"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i´m hungry"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I´m hungry"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "j bhbhj"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "J bhbhj"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "j'ai faim"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "J'ai faim"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "j'ai faim, que dois-je faire?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "J'ai faim, que dois-je faire?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "je l'ai installé"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Je l'ai installé"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "je suis qq"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Je suis qq"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "kalhmera sara ti kaneis"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Kalhmera sara ti kaneis"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "kannst du auch deutsch?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Kannst du auch deutsch?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "kannst du dies auch auf deutsch?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Kannst du dies auch auf deutsch?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "kannst du mir helfen"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Kannst du mir helfen"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "kiss me"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Kiss me"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "kya hindi me bat kar sakate ho"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Kya hindi me bat kar sakate ho"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "la newsletter vaut-elle l'abonnement?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "La newsletter vaut-elle l'abonnement?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "license"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "License"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "ljljl"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Ljljl"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "lunch"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Lunch"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "lunch??"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Lunch??"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "machine learning"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Machine learning"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "mail me the steps"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Mail me the steps"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "mais je viens de vous dire que :("
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Mais je viens de vous dire que :("
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "mais si Jady est open source, pourquoi avez-vous une équipe de vente"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Mais si Jady est open source, pourquoi avez-vous une équipe de vente"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "mascot means?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Mascot means?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "me connaissez-vous"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Me connaissez-vous"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "mieux que toi"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Mieux que toi"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "more"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "More"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "mountain"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Mountain"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "my name k"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "My name k"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "no wait go back i want a dripping ice cream but a cone that catches it so you can drink the ice cream later"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "No wait go back i want a dripping ice cream but a cone that catches it so you can drink the ice cream later"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "no, i need cash, money! Do you have it ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "No, i need cash, money! Do you have it ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "offer me lunch"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Offer me lunch"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "oh my god, not again!"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Oh my god, not again!"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "oh wait i gave you my work email address can i change it?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Oh wait i gave you my work email address can i change it?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "ok one then"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Ok one then"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "on wiche nlp based system are you build?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "On wiche nlp based system are you build?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "only that?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Only that?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "oui je besoine de l'aide"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Oui je besoine de l'aide"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "personal or work?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Personal or work?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "peux-tu me donner une tasse de café"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Peux-tu me donner une tasse de café"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "pizza"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Pizza"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "please help with my ice cream it's dripping"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Please help with my ice cream it's dripping"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "please hjave lunchj"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Please hjave lunchj"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "please hurry, i have deadline in two weeks to deliver the bot it is for very big company"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Please hurry, i have deadline in two weeks to deliver the bot it is for very big company"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "please play music"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Please play music"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "please voulette"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Please voulette"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "plus froid"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Plus froid"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "pouvez-vous apprendre de notre conversation?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Pouvez-vous apprendre de notre conversation?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "pouvez-vous comprendre ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Pouvez-vous comprendre ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "pouvez-vous cuisiner le dîner"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Pouvez-vous cuisiner le dîner"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "pouvez-vous m'aider avec les docs?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Pouvez-vous m'aider avec les docs?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "pouvez-vous m'aider avec vos documents"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Pouvez-vous m'aider avec vos documents"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "pouvez-vous m'aider avec vos documents?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Pouvez-vous m'aider avec vos documents?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "pouvez-vous me remonter le moral"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Pouvez-vous me remonter le moral"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "pouvez-vous parler de politique?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Pouvez-vous parler de politique?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "pouvez-vous réserver le dîner"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Pouvez-vous réserver le dîner"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "pouvons-nous continuer à discuter?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Pouvons-nous continuer à discuter?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "que diriez-vous de NYC"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Que diriez-vous de NYC"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "que puedes hacer?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Que puedes hacer?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "quelle est la qualité de Jady"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Quelle est la qualité de Jady"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "really? you're so touchy?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Really? you're so touchy?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "refresh"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Refresh"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "region with no. of records"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Region with no. of records"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "remember my name"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Remember my name"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "retourner"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Retourner"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "réserver un billet"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Réserver un billet"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "search wikipedia"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Search wikipedia"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "sfasd"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Sfasd"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "shitmuncher"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Shitmuncher"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "show me a picture of a chicken"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Show me a picture of a chicken"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "silly bot"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Silly bot"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "sing me a song"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Sing me a song"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "so, I'm helping right now to training you?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "So, I'm helping right now to training you?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "some thing else"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Some thing else"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "someone call the police i think the bot died"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Someone call the police i think the bot died"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "sorry, i cannot rephrase"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Sorry, i cannot rephrase"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "sudo make me a sandwich"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Sudo make me a sandwich"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "sudo reboot"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Sudo reboot"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "super, j'aimerais acheter une maison"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Super, j'aimerais acheter une maison"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "talk to me about voulette"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Talk to me about voulette"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tell me about yourself"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Tell me about yourself"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tell me more about next best action"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Tell me more about next best action"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tertyryutyi"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Tertyryutyi"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "that link doesn't work!"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "That link doesn't work!"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "the beatles"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "The beatles"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tout"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Tout"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tricked ya"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Tricked ya"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tschüssikowski"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Tschüssikowski"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tu kaisi he"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Tu kaisi he"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tu pagal"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Tu pagal"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tu parles francais?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Tu parles francais?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tudo bom"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Tudo bom"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "turn off my stove"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Turn off my stove"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "umm"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Umm"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "une souris apprivoisée arrivera à votre porte dans les prochains jours"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Une souris apprivoisée arrivera à votre porte dans les prochains jours"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "vendez-vous des robots aspirateurs?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Vendez-vous des robots aspirateurs?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "veux-tu m'épouser?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Veux-tu m'épouser?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "voulette voulette"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Voulette voulette"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "wait a bit i am still reading"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Wait a bit i am still reading"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "wer bist Du?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Wer bist Du?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what about wheather"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What about wheather"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what are contextual AI assistants and how different are they from chatbots?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What are contextual AI assistants and how different are they from chatbots?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what are you doing now?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What are you doing now?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what are your uses for universities"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What are your uses for universities"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what did you eat for lunch?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What did you eat for lunch?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what do oyu think about siri?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What do oyu think about siri?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what do you think abou siri?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What do you think abou siri?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what do you think about Stanley Ramirez?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What do you think about Stanley Ramirez?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what do you think of alexa"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What do you think of alexa"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what does your soul feel my friend"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What does your soul feel my friend"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what doing"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What doing"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what else?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What else?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what is a discourse?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What is a discourse?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what is a mascot"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What is a mascot"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what is adlingo"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What is adlingo"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what is differance between bot and mascot?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What is differance between bot and mascot?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what is evolution ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What is evolution ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what is google rcs"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What is google rcs"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what is machine learning"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What is machine learning"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what is nice?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What is nice?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what is the capital of delhi"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What is the capital of delhi"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what is the capital of india"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What is the capital of india"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what is the current petrol price"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What is the current petrol price"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what is the day ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What is the day ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what is the real use case where we can use this one"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What is the real use case where we can use this one"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what is your address?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What is your address?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what is your purpose"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What is your purpose"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what kind of bird are you?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What kind of bird are you?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what lnu mean?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What lnu mean?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what the latest news ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What the latest news ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what type of bot?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What type of bot?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what you ate today?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What you ate today?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what's a newsletter?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What's a newsletter?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what's gingerale"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What's gingerale"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what's your wife doing this weekend"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What's your wife doing this weekend"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "What?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "whats that"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Whats that"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "whats the sign"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Whats the sign"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "when is the next train is coming?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "When is the next train is coming?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "where do i get install files for mac?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Where do i get install files for mac?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "where do i type in commandy"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Where do i type in commandy"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "where is Oslo?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Where is Oslo?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "where is mexico?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Where is mexico?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "where to type in commands"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Where to type in commands"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "wheres the party?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Wheres the party?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "which city are you talking about?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Which city are you talking about?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "which email"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Which email"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "which email should i send to ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Which email should i send to ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "which file is created first while developing chat bot"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Which file is created first while developing chat bot"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "which is the LNU asynchronism ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Which is the LNU asynchronism ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "which kind"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Which kind"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "who are the engineers at Jady?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Who are the engineers at Jady?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "who are they?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Who are they?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "who is Sharon Zeches"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Who is Sharon Zeches"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "who is the MD of samsung bangalore ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Who is the MD of samsung bangalore ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "who is the president of india ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Who is the president of india ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "who is your favourite robot?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Who is your favourite robot?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "who let the dog out"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Who let the dog out"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "who was hitler"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Who was hitler"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "who will anser my email?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Who will anser my email?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "who's Bill Gates?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Who's Bill Gates?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "whta you think about gdpr?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Whta you think about gdpr?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "why do you need that?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Why do you need that?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "why its called Jady ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Why its called Jady ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "why sky is blue?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Why sky is blue?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "will u kill me"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Will u kill me"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "will u kill me?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Will u kill me?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "winter is already leaving"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Winter is already leaving"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "with you recommend me?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "With you recommend me?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "wsdrcftvgybhnj"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Wsdrcftvgybhnj"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "yeah, my dog was drinking a couple of litres of water per day and tried drinking the swimming pool"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Yeah, my dog was drinking a couple of litres of water per day and tried drinking the swimming pool"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "you already have that"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "You already have that"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "you can learn how to make a coffe"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "You can learn how to make a coffe"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "you girl"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "You girl"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "you have children?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "You have children?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "you have job opening"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "You have job opening"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "you have to"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "You have to"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "you lock sweety"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "You lock sweety"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "you should learn to count"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "You should learn to count"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "you will know it from the single red rose it carries between its teeth"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "You will know it from the single red rose it carries between its teeth"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "you're a woman"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "You're a woman"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "your contry name"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Your contry name"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "¿Qué pasa?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "à présent?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "À présent?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "êtes-vous dev?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Êtes-vous dev?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "êtes-vous végétalien"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Êtes-vous végétalien"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "êtes-vous, facebook?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Êtes-vous, facebook?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "ı am learning python"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I am learning python"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "αστεία λές"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Αστεία λές"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "こにちは"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "中文"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "你叫什么名字"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "你好"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "你懂中文吗？"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "你是谁"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "卧槽"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "呵呵"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "您好"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "我该如何使用"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "日本語分かる？"
       }
     ],
     "entity_synonyms": [],

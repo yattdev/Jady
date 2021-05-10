@@ -56,3 +56,6 @@ nlg:
 #  username: username
 #  password: password
 #  queue: queue
+#
+rasa:
+  url: "http://localhost:5002/api"

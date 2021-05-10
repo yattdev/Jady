@@ -34,7 +34,7 @@ stories:
 - story: Executer 'utter_bot_possibility' a tout moment quand l'user envoi un msg avec cet intent
   steps:
   - intent: need_help
-  - action: utter_need_help
+  - action: utter_bot_possibility
 
 - story: out_of_scope
   steps:
