@@ -42,19 +42,19 @@ class UpdateJsonBook(object):
 
     @classmethod
     def update_jsonBook(cls):
-        """ Update books/JsonFrench dir from books/EpubFrench 
+        """ Update books/JsonFrench dir from books/EpubFrench
             by use split_book function """
         epub_books = Path(EPUB_BOOK_FR_DIR).glob('*.epub')
         for book in epub_books:
-            # if: To skip the book already exist in books/JsonFrench dir 
-            if not exists(join(JSON_BOOK_FR_DIR, str(book).split('/')[-1])+'.json'):
-                make = UpdateJsonBook.split_book(str(book))
+            # if: To skip the book already exist in books/JsonFrench dir
+            if not exists(join(JSON_BOOK_FR_DIR,
+                               str(book).split('/')[-1])+'.json'):
+                UpdateJsonBook.split_book(str(book))
                 #  if make: print('DONE !!!')
 
         print('SUCCESSFULL ! All Epub-books splited into CHAPTERS in Json Format !!!')
         print()
         print('JsonFrench dir Updated !')
-
 
 
 class UpdateIndex(object):

@@ -4680,6 +4680,10 @@
       {
         "text": "Ça va",
         "intent": "ask_bot_feeling"
+      },
+      {
+        "text": "t'es faché ??",
+        "intent": "ask_bot_feeling"
       }
     ],
     "regex_features": [],

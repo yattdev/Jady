@@ -24,8 +24,7 @@ if __name__ == '__main__':
             #  print(hit)
 
     """ Update books/JsonFRench directory """
-    #  UpdateJsonBook.update_jsonBook()
+    UpdateJsonBook.update_jsonBook()
 
     """ Update Index """
-    UpdateIndex.clean_index(BookSchema)
-    
+    #  UpdateIndex.clean_index(BookSchema)

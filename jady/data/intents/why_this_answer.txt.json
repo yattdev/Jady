@@ -2,138 +2,124 @@
   "rasa_nlu_data": {
     "common_examples": [
       {
-        "entities": [],
-        "intent": "why_this_answer",
-        "text": "pourquoi tu as donné cett reponse"
+        "text": "pourquoi tu as donné cett reponse",
+        "intent": "why_this_answer"
       },
       {
-        "entities": [],
-        "intent": "why_this_answer",
-        "text": "Pourquoi cette reponse"
+        "text": "Pourquoi cette reponse",
+        "intent": "why_this_answer"
       },
       {
-        "entities": [],
-        "intent": "why_this_answer",
-        "text": "Pourquoi est ce que tu me donne cette reponses"
+        "text": "Pourquoi est ce que tu me donne cette reponses",
+        "intent": "why_this_answer"
       },
       {
-        "entities": [],
-        "intent": "why_this_answer",
-        "text": "j'aimerais savoir pourquoi cette reponse"
+        "text": "j'aimerais savoir pourquoi cette reponse",
+        "intent": "why_this_answer"
       },
       {
-        "entities": [],
-        "intent": "why_this_answer",
-        "text": "Pourquoi"
+        "text": "Pourquoi",
+        "intent": "why_this_answer"
       },
       {
-        "entities": [],
-        "intent": "why_this_answer",
-        "text": "Dis moi, pourquoi cette reponse"
+        "text": "Dis moi, pourquoi cette reponse",
+        "intent": "why_this_answer"
       },
       {
-        "entities": [],
-        "intent": "why_this_answer",
-        "text": "Dis moi, pourquoi ces reponses"
+        "text": "Dis moi, pourquoi ces reponses",
+        "intent": "why_this_answer"
       },
       {
-        "entities": [],
-        "intent": "why_this_answer",
-        "text": "Pourquoi tu as donne cett reponse"
+        "text": "Pourquoi tu as donne cett reponse",
+        "intent": "why_this_answer"
       },
       {
-        "entities": [],
-        "intent": "why_this_answer",
-        "text": "pourquoi cette reponse"
+        "text": "pourquoi cette reponse",
+        "intent": "why_this_answer"
       },
       {
-        "entities": [],
-        "intent": "why_this_answer",
-        "text": "J'aimerais savoir pourquoi ces reponses"
+        "text": "J'aimerais savoir pourquoi ces reponses",
+        "intent": "why_this_answer"
       },
       {
-        "entities": [],
-        "intent": "why_this_answer",
-        "text": "dis moi, pourquoi cette reponse"
+        "text": "dis moi, pourquoi cette reponse",
+        "intent": "why_this_answer"
       },
       {
-        "entities": [],
-        "intent": "why_this_answer",
-        "text": "pourquoi ces reponses"
+        "text": "pourquoi ces reponses",
+        "intent": "why_this_answer"
       },
       {
-        "entities": [],
-        "intent": "why_this_answer",
-        "text": "j'aimerais savoir pourquoi ces reponses"
+        "text": "j'aimerais savoir pourquoi ces reponses",
+        "intent": "why_this_answer"
       },
       {
-        "entities": [],
-        "intent": "why_this_answer",
-        "text": "Pourquoi tu as donné cett reponse"
+        "text": "Pourquoi tu as donné cett reponse",
+        "intent": "why_this_answer"
       },
       {
-        "entities": [],
-        "intent": "why_this_answer",
-        "text": "je veux savoir pourquoi cette reponses"
+        "text": "je veux savoir pourquoi cette reponses",
+        "intent": "why_this_answer"
       },
       {
-        "entities": [],
-        "intent": "why_this_answer",
-        "text": "pourquoi"
+        "text": "pourquoi",
+        "intent": "why_this_answer"
       },
       {
-        "entities": [],
-        "intent": "why_this_answer",
-        "text": "Je veux savoir pourquoi cette reponses"
+        "text": "Je veux savoir pourquoi cette reponses",
+        "intent": "why_this_answer"
       },
       {
-        "entities": [],
-        "intent": "why_this_answer",
-        "text": "Qu'est qui ta pousser a donner cette reponse"
+        "text": "Qu'est qui ta pousser a donner cette reponse",
+        "intent": "why_this_answer"
       },
       {
-        "entities": [],
-        "intent": "why_this_answer",
-        "text": "pourquoi est ce que tu me donne cette reponses"
+        "text": "pourquoi est ce que tu me donne cette reponses",
+        "intent": "why_this_answer"
       },
       {
-        "entities": [],
-        "intent": "why_this_answer",
-        "text": "pourquoi est ce que tu me donne ces reponses"
+        "text": "pourquoi est ce que tu me donne ces reponses",
+        "intent": "why_this_answer"
       },
       {
-        "entities": [],
-        "intent": "why_this_answer",
-        "text": "Pourquoi ces reponses"
+        "text": "Pourquoi ces reponses",
+        "intent": "why_this_answer"
       },
       {
-        "entities": [],
-        "intent": "why_this_answer",
-        "text": "Pourquoi est ce que tu me donne ces reponses"
+        "text": "Pourquoi est ce que tu me donne ces reponses",
+        "intent": "why_this_answer"
       },
       {
-        "entities": [],
-        "intent": "why_this_answer",
-        "text": "J'aimerais savoir pourquoi cette reponse"
+        "text": "J'aimerais savoir pourquoi cette reponse",
+        "intent": "why_this_answer"
       },
       {
-        "entities": [],
-        "intent": "why_this_answer",
-        "text": "dis moi, pourquoi ces reponses"
+        "text": "dis moi, pourquoi ces reponses",
+        "intent": "why_this_answer"
       },
       {
-        "entities": [],
-        "intent": "why_this_answer",
-        "text": "qu'est qui ta pousser a donner cette reponse"
+        "text": "qu'est qui ta pousser a donner cette reponse",
+        "intent": "why_this_answer"
       },
       {
-        "entities": [],
-        "intent": "why_this_answer",
-        "text": "pourquoi tu as donne cett reponse"
+        "text": "pourquoi tu as donne cett reponse",
+        "intent": "why_this_answer"
+      },
+      {
+        "text": "pouquoi Jady ?",
+        "intent": "why_this_answer"
+      },
+      {
+        "text": "pourquoi ?",
+        "intent": "why_this_answer"
+      },
+      {
+        "text": "pourqoui ?",
+        "intent": "why_this_answer"
       }
     ],
-    "entity_synonyms": [],
+    "regex_features": [],
     "lookup_tables": [],
-    "regex_features": []
+    "entity_synonyms": []
   }
 }

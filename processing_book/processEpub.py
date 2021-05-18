@@ -6,6 +6,7 @@ import string
 from errno import ENOENT
 from os import strerror
 
+from typing import List
 from textwrap3 import wrap
 from bs4 import BeautifulSoup
 import ebooklib
@@ -21,7 +22,7 @@ class ProcessBook():
     def __init__(self, bookname: string):
         """ Initialize create instance and variables """
         self.book_to_chaps = []
-        self.blacklist = ['[document]', 'noscript', 'header', 'html', 'meta', 'head','input', 'script']
+        self.blacklist = ['[document]', 'noscript', 'header', 'html', 'meta', 'head', 'input', 'script']
         self.book = None
         self.book_name = bookname.split('/')[-1]
         self.book_data = {}
@@ -30,10 +31,11 @@ class ProcessBook():
         except FileNotFoundError as e:
             raise e(ENOENT, strerror(ENOENT), bookname)
 
-        self.book_data = self.get_book_info() # Get book info
+        self.book_data = self.get_book_info()  # Get book info
         # Get chapter and it's page number [(chapter, page), ...]
         # Delete duplicate chapter by set() function
-        self.pages = ProcessBook.get_chapters_and_pages(self.book.toc, [], set())
+        self.pages = ProcessBook.get_chapters_and_pages(self.book.toc, [],
+                                                        set())
         # sorted chapter par page number
         #  self.pages = sorted(self.pages, key=lambda tup: int(tup[0]))
         # Split book to chapters
@@ -122,11 +124,11 @@ class ProcessBook():
         """
         try:
             index = [chap[0] for chap in self.pages].index(page_num)
-            next_page_index = index + 1 
+            next_page_index = index + 1
             # If next_page_index out of range, below-line throw indexError
             # exception, we catch it and : return False, because next_page_num
             # no exist.
-            next_page_num = self.pages[next_page_index][0] 
+            next_page_num = self.pages[next_page_index][0]
             return next_page_num
         except ValueError as e:
             return False
@@ -138,23 +140,23 @@ class ProcessBook():
             FROM index_01#pX TO index_01#pY
 
         :page_num: String: Page number where chapter start.
-        :returns chap_output: String 
+        :returns chap_output: String
 
         """
         chap_output = '' # Fill from chapter Content from page-x to page-y
         # Get next page number
-        next_page_num = self.get_next_chap_page(page_num) 
+        next_page_num = self.get_next_chap_page(page_num)
         # call beautiful funtion to get chapter contains
         soup = BeautifulSoup(item.get_content(), 'html.parser')
-        # find where chapter start = <p>..</p>  
+        # find where chapter start = <p>..</p>
         if soup.find(id=page_num).parent.name not in 'body div':
             chapter_start = soup.find(id=page_num).parent
-        else: 
+        else:
             chapter_start = soup.find(id=page_num)
         chap_output += '{}:\n'.format((self.get_text(chapter_start)).capitalize())
         # Get all paragraphe after title
         chapter_siblings = chapter_start.find_next_siblings('p')
-        # find where chapter end/next chapter start = <p><a id='next_page_num'></a>..</p>  
+        # find where chapter end/next chapter start = <p><a id='next_page_num'></a>..</p>
         for paragraph in chapter_siblings:
             if paragraph.a:
                 a_tag = paragraph.a
@@ -163,11 +165,11 @@ class ProcessBook():
             if paragraph.get('id') and paragraph.get('id') == next_page_num:
                 break
             chap_output += '{} '.format(self.get_text(paragraph))
-            
+
         return chap_output.strip().replace("  ", " ")
 
     def get_text(self, tag):
-        """ Return all text containt from a 'tag' given in parameter 
+        """ Return all text containt from a 'tag' given in parameter
 
         :tag:
         :returns output: String
@@ -197,7 +199,7 @@ class ProcessBook():
                     page_num = str(chap.href).split('#')[1]
                     #  with open('content.html', 'w') as fil:
                         #  soup = BeautifulSoup(item.get_content(), 'html.parser')
-                        # find where chapter start = <p>..</p>  
+                        # find where chapter start = <p>..</p>
                         #  if soup.find(id=page_num).parent.name not in 'body div':
                             #  chapter_start = soup.find(id=page_num).parent
                         #  else:
@@ -252,7 +254,7 @@ class ProcessBook():
                     'rigths', 'coverage']
         for info in  list_ids:
             data = list(self.book.get_metadata('DC', info))
-            if data:  # if data not empty 
+            if data:  # if data not empty
                 self.book_data[info] = []
                 for x in data:  # Extract each tuple
                     dataTuple = x
@@ -268,4 +270,3 @@ if __name__ == '__main__':
     pbook = ProcessBook("/home/alassane/Code/JimBot/chatbotapp/books/epubFrench/Le Personal MBA by KAUFMAN Josh (z-lib.org).epub")
     pbook.book_to_jsonFile()
     #  print(pbook.get_pages())
-
