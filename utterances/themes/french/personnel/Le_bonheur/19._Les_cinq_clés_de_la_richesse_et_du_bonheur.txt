@@ -1,0 +1,78 @@
+// Template for chapter Les_cinq_clés_de_la_richesse_et_du_bonheur
+// book: Pouvoir Illimite
+%[&Les_cinq_clés_de_la_richesse_et_du_bonheur](1500)
+    [&S'il vous plaît?] ~[utterances] [\??]
+
+    // ########### Avec le {Je} ###############
+    ~[&Je veux?] ~[&savoir] ~[utterances] [\??]
+
+~[utterances]
+    [&Les] cinq clés de la richesse et de ~[bonheur]
+    [&Quels] sont les cinq clés de la richesse et de ~[bonheur]
+    [&Quels] sont les cinq clés des ~[meneurs]
+    [&quelles] sont les [clés|fondations] de la richesse et du bonheur
+    [&quelles] sont les [clés|fondations] des ~[meneurs]
+    ~[&comment] [~[entretenir]|~[maintenir]] ~[élan] de ~[bonheur]
+    ~[&comment] ~[aller] de [richesse en richesse|réussite en réussite|bonheur en bonheur|succès en succès]
+    [&Qu]'est ce qui soutien ~[le bonheur]
+    [&Quels] sont les ~[fondements#plural] de la richesse et de ~[bonheur]
+
+
+~[fondements#plural]
+    soutiens
+    fondements
+    principes
+    socles
+    bases
+    soubassements
+    tenants
+    piliers
+
+~[élan]
+    l'élan
+    le rythme
+    l'ardeur
+    la ferveur
+    le feu
+    l'envol
+    la flamme
+    la course
+
+~[aller]
+    aller
+    converger
+    passer
+    acheminer
+    s'élever
+    se transporter
+    avancer
+    se porter
+    se déplacer
+    progresser
+    continuer
+    évoluer
+    poursuivre
+    cheminer
+    partir
+    se diriger
+
+// Inclure le ~[&Je veux?]
+|../../../../includes/je_veux.chatette
+
+// Inclure ~[savoir]
+|../../../../includes/savoir.chatette
+
+// Inclure ~[&comment]
+|../../../../includes/comment.chatette
+
+// Inclure ~[meneurs]
+|../../../../includes/meneurs_reussite.chatette
+
+// Inclure ~[personnes#plural]
+|../../../../includes/personne.chatette
+
+// Inclure le ~[bonheur]
+|../../../../includes/bonheur.chatette
+
+// Inclure ~[maintenir] et ~[entretenir]
+|../../../../includes/maintenir.chatette

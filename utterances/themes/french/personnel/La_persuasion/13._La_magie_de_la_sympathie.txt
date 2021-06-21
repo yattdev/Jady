@@ -1,0 +1,107 @@
+// Template for chapter La_magie_de_la_sympathie
+// book: Pouvoir Illimite
+%[&La_magie_de_la_sympathie](1500)
+    [&S'il vous plaît?] ~[intents]
+
+    // ########### Avec le {Je} ###############
+    ~[&Je veux?] ~[savoir] ~[&comment] ~[intents_avec_jeveux]
+    ~[&Je veux?] ~[savoir] ~[&pourquoi] créer de la [sympathie|synergie] avec ~[les gens] [\??]
+
+~[intents]
+    ~[&comment] ~[travailler] avec ~[les gens] [\??]
+    ~[&comment] influer sur ~[les gens] [\??]
+    ~[&comment] créer de la synergie avec ~[les gens] [\??]
+    ~[&pourquoi] créer de la synergie avec ~[les gens] [\??]
+    ~[&comment] créer de la sympathie avec ~[les gens] [\??]
+    ~[&pourquoi] créer de la sympathie avec ~[les gens] [\??] //  --> ~[&pourquoi]
+    ~[&comment] [mieux?] ~[améliorer] [mes|ces|nos] [rélation|rapports|communications] avec ~[les gens] [\??]
+    ~[&comment] [mieux?] communiquer [avec ~[les gens]?] [\??]
+    ~[&comment] ~[créons-nous] des points communs [avec ~[les gens]?] [\??]
+    ~[&comment] ~[créons-nous] la sympathie [avec ~[les gens]?] [\??]
+    ~[&comment] des points communs [avec ~[les gens]?] [\??]
+    ~[&comment] communiquer de façon efficace [avec ~[les gens]?] [\??]
+    ~[&comment] communiquer efficacement [avec ~[les gens]?] [\??]
+    ~[&comment] [certaines|d'autres] personnes [font pour communiquer|comunique] [mieux?] [avec nous même|avec les autres?] [\??]
+
+~[intents_avec_jeveux]
+    ~[travailler] avec ~[les gens] [\??]
+    influer sur ~[les gens] [\??]
+    créer de la synergie avec ~[les gens] [\??]
+    créer de la sympathie avec ~[les gens] [\??]
+    [mieux?] ~[améliorer] [mes|ces|nos] [rélation|rapports|communications] avec ~[les gens] [\??]
+    [mieux?] communiquer [avec ~[les gens]?] [\??]
+    ~[créons-nous] des points communs [avec ~[les gens]?] [\??]
+    ~[créons-nous] la sympathie [avec ~[les gens]?] [\??]
+    ~[créons-nous] des points communs [avec ~[les gens]?] [\??]
+    [certaines|d'autres] personnes [font pour communiquer|comunique] [mieux?] [avec nous même|avec les autres?] [\??]
+
+// Inclure le ~[&Je veux?]
+|../../../../includes/je_veux.chatette
+
+// Inclure ~[&comment?]
+|../../../../includes/comment.chatette
+
+// Inclure ~[savoir]
+|../../../../includes/savoir.chatette
+
+~[travailler]
+    travailler
+    obtenir des resultats
+    bosser
+    fonctionner
+    oeuvrer
+    collaborer
+    exercer
+    influencer
+
+~[créons-nous]
+    // Peut être developper en ~[cré]ons-nous
+    créons-nous
+    crée-t-on
+    peut-on
+    je peux
+    créer
+    bâtir
+    faire
+    provoquer
+    constituer
+    faire naître
+    instaurer
+    réaliser
+    édifier
+    construire
+    engendrer
+    instituer
+    élaborer
+    déclencher
+    entraîner
+    former
+    susciter
+    fabriquer
+    établir
+
+~[les gens]
+    les autres
+    les gens
+    d'autre gens
+    d'autre personnes
+    des inconnus
+
+~[efficace]
+    efficace
+    influent
+    percutant
+    percutant
+
+~[améliorer]
+    améliorer
+    enrichir
+    parfaire
+    développer
+    perfectionner
+    épurer
+    fortifier
+    transformer
+    modifier
+    enchérir
+    optimiser

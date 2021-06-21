@@ -1,17 +1,15 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 import json
-import string
 from errno import ENOENT
-from os import strerror
+from os import strerror, path, chdir, mkdir
+from settings.config_default import (BASE_DIR, JSON_BOOK_FR_DIR,
+                                     INDEXED_CHAP_PATHS)
 
 from typing import List
-from textwrap3 import wrap
 from bs4 import BeautifulSoup
-import ebooklib
 from ebooklib import epub
-from ebooklib.utils import get_pages
 
 from settings import config_default as cfg
 
@@ -19,10 +17,11 @@ from settings import config_default as cfg
 class ProcessBook():
     """ Class to splite Epubbook by chapter to jsonFormat """
 
-    def __init__(self, bookname: string):
+    def __init__(self, bookname: str):
         """ Initialize create instance and variables """
         self.book_to_chaps = []
-        self.blacklist = ['[document]', 'noscript', 'header', 'html', 'meta', 'head', 'input', 'script']
+        self.blacklist = ['[document]', 'noscript', 'header', 'html', 'meta',
+                          'head', 'input', 'script']
         self.book = None
         self.book_name = bookname.split('/')[-1]
         self.book_data = {}
@@ -44,9 +43,9 @@ class ProcessBook():
 
     #  def get_pages(self):
         #  """ Return book chapter and it's page.
-#
+
         #  :returns: TODO
-#
+
         #  """
         #  return self.pages
 
@@ -66,7 +65,13 @@ class ProcessBook():
 
     @staticmethod
     def get_chapters_and_pages(toc, pages, duplicat: set):
-        """ Return list of chapters """
+        """ Return list of chapters
+        Params:
+            pages: List -> It's list of pages to return
+            duplicat: Set -> It's set
+        Return:
+            pages
+        """
         for chap in toc:
             if isinstance(chap, epub.Link):
                 if "#" in chap.href:
@@ -115,7 +120,7 @@ class ProcessBook():
                 output += '{} '.format(t)
         return output.strip().replace("  ", " ")
 
-    def get_next_chap_page(self, page_num: str):
+    def get_next_chap_page_num(self, page_num: str):
         """ Return next chapter page number with current page_num given in para
 
         :page_num: TODO
@@ -126,16 +131,16 @@ class ProcessBook():
             index = [chap[0] for chap in self.pages].index(page_num)
             next_page_index = index + 1
             # If next_page_index out of range, below-line throw indexError
-            # exception, we catch it and : return False, because next_page_num
+            # exception, we catch it and : return False, because next_chap_page_num
             # no exist.
-            next_page_num = self.pages[next_page_index][0]
-            return next_page_num
-        except ValueError as e:
+            next_chap_page_num = self.pages[next_page_index][0]
+            return next_chap_page_num
+        except ValueError:
             return False
-        except IndexError as e:
+        except IndexError:
             return False
 
-    def get_chapter_content(self, item, page_num: str) -> str:
+    def get_chapter_content(self, chap_title: str, item, page_num: str) -> str:
         """ Return content of a chapter that's between pages like:
             FROM index_01#pX TO index_01#pY
 
@@ -143,28 +148,40 @@ class ProcessBook():
         :returns chap_output: String
 
         """
-        chap_output = '' # Fill from chapter Content from page-x to page-y
-        # Get next page number
-        next_page_num = self.get_next_chap_page(page_num)
+        chap_output = ''  # Fill with chapter content from page-x to page-y
+        # Get next chapter start page number
+        next_chap_page_num = self.get_next_chap_page_num(page_num)
         # call beautiful funtion to get chapter contains
         soup = BeautifulSoup(item.get_content(), 'html.parser')
         # find where chapter start = <p>..</p>
-        if soup.find(id=page_num).parent.name not in 'body div':
-            chapter_start = soup.find(id=page_num).parent
-        else:
-            chapter_start = soup.find(id=page_num)
-        chap_output += '{}:\n'.format((self.get_text(chapter_start)).capitalize())
-        # Get all paragraphe after title
-        chapter_siblings = chapter_start.find_next_siblings('p')
-        # find where chapter end/next chapter start = <p><a id='next_page_num'></a>..</p>
-        for paragraph in chapter_siblings:
-            if paragraph.a:
-                a_tag = paragraph.a
-                if a_tag.get('id') and a_tag.get('id') == next_page_num:
+        if soup.find(id=page_num):
+            try:
+                if soup.find(id=page_num).parent.name not in 'body div':
+                    chapter_start = soup.find(id=page_num).parent
+                else:
+                    chapter_start = soup.find(id=page_num)
+            except AttributeError as e:
+                print("Can't split book: {book_name}".format(
+                    book_name=self.book_name))
+                print("Error to get contents of chapter: {chap_title}".format(
+                    chap_title=chap_title))
+                print("Item: {item}".format(item=item))
+                raise e
+
+            # Get chapter title
+            chap_output += '{}:\n'.format(
+                (self.get_text(chapter_start)).capitalize())
+            # Get all paragraphe after title
+            chapter_siblings = chapter_start.find_next_siblings('p')
+            # find where chapter end/next chapter start = <p><a id='next_chap_page_num'></a>..</p>
+            for paragraph in chapter_siblings:
+                if paragraph.a:
+                    a_tag = paragraph.a
+                    if a_tag.get('id') and a_tag.get('id') == next_chap_page_num:
+                        break
+                if paragraph.get('id') and paragraph.get('id') == next_chap_page_num:
                     break
-            if paragraph.get('id') and paragraph.get('id') == next_page_num:
-                break
-            chap_output += '{} '.format(self.get_text(paragraph))
+                chap_output += '{} '.format(self.get_text(paragraph))
 
         return chap_output.strip().replace("  ", " ")
 
@@ -176,8 +193,8 @@ class ProcessBook():
 
         """
         output = ''
-        for string in tag.stripped_strings:
-            output += '{} '.format(string)
+        for _ in tag.stripped_strings:
+            output += '{} '.format(_)
         return output.strip().replace("  ", " ") + "\n"
 
     def splitbook_to_chapters(self, toc, chapters: List) -> List:
@@ -189,7 +206,7 @@ class ProcessBook():
         :return chapters[] # List of 'chapter and its contents'
         """
         #  'content': '\n'.join(wrap(self.get_content(
-            #  item.get_content()), 40))
+        #  item.get_content()), 40))
         #  'content': self.get_content(item.get_content())
         for chap in toc:
             if isinstance(chap, epub.Link):
@@ -217,7 +234,9 @@ class ProcessBook():
                             'chapter_title': chap.title,
                             'subject': self.book_data['subject'],
                             'context': self.book_data['description'],
-                            'content': self.get_chapter_content(item, page_num),
+                            'content': self.get_chapter_content(chap.title,
+                                                                item,
+                                                                page_num)
                         }
                     )
                 else:
@@ -247,26 +266,74 @@ class ProcessBook():
                 )
         return chapters
 
+    def save_chaps_to_file(self, file_path=None, chapters=None):
+        """
+            Save each book chapter's in separate file into json format !
+        """
+        if not path.exists(path.join(JSON_BOOK_FR_DIR, self.book_name)):
+            # Change path
+            chdir(JSON_BOOK_FR_DIR)
+            mkdir(self.book_name)  # Create directorie with bookname
+
+        if chapters is None:
+            # If chapters is empty so its function first call and
+            chapters = self.book_to_chaps
+            # add book_name to path
+            book_path = path.join(JSON_BOOK_FR_DIR, self.book_name)
+            # Change path
+            chdir(book_path)
+
+        if file_path:  # if file_path is not None so:
+            book_path = file_path
+            chdir(book_path)
+
+        for chap in chapters:
+            if chap['is_part']:
+                """ Create a directorie with par name if not exist
+                    then call this function with List of chapter
+                    of this part
+                """
+                if not path.exists(path.join(book_path, chap['title'])):
+                    mkdir(chap['title'])  # Create directorie with part title
+
+                part_path = path.join(book_path, chap['title'])
+                chdir(part_path)
+                self.save_chaps_to_file(part_path, chap['chapters'])
+                chdir(book_path)  # cd.. to part dir after save its chapters
+            else:
+                title = chap['chapter_title'].replace('/', ' ou ')
+                output = book_path + '/' + title + '.json'
+                with open(output, 'w') as json_file:
+                    json.dump(chap, json_file)
+
+    @classmethod
+    def save(cls, file_path, chapter):
+        """ Save chapter to file in json format """
+        output = file_path + '/' + chapter['chapter_title'] + '.json'
+        with open(output, 'w') as json_file:
+            json.dump(chapter, json_file)
+
     def get_book_info(self):
         """ Return a list: data=[(id1,value1), (id2, value2)] or None=[] """
         list_ids = ['title', 'creator', 'identifier', 'description',
                     'subject', 'language', 'contributor', 'publisher', 'date',
                     'rigths', 'coverage']
-        for info in  list_ids:
+        for info in list_ids:
             data = list(self.book.get_metadata('DC', info))
             if data:  # if data not empty
                 self.book_data[info] = []
-                for x in data:  # Extract each tuple
-                    dataTuple = x
+                for _ in data:  # Extract each tuple
+                    dataTuple = _
                     self.book_data[info].append(str(dataTuple[0]))
                 #  Join [] to str by ,
                 self.book_data[info] = ", ".join(self.book_data[info])
-            else: self.book_data[info] = ""
+            else:
+                self.book_data[info] = ""
         return self.book_data
 
 
 if __name__ == '__main__':
     print('Je suis YATTARA')
-    pbook = ProcessBook("/home/alassane/Code/JimBot/chatbotapp/books/epubFrench/Le Personal MBA by KAUFMAN Josh (z-lib.org).epub")
-    pbook.book_to_jsonFile()
+    pbook = ProcessBook("/home/alassane/Code/JimBot/chatbotapp/books/epubFrench/startup_entreprise/L’autoroute du millionnaire by MJ De Marco [Marco, MJ De] (z-lib.org).epub")
+    pbook.save_chaps_to_file()
     #  print(pbook.get_pages())

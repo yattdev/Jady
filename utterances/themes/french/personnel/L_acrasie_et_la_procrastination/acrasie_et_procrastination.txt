@@ -1,0 +1,69 @@
+// This template define intent for L'acrasie et la procrastination
+%[&L'acrasie et la procrastination]('train': 1500)
+    [&S'il vous plaît?] @[question]
+    [&S'il vous plaît?] @[question_2]
+
+    // ########### Avec le {Je} ###############
+    ~[&Je veux?] ~[savoir] @[question]
+
+
+@[question]
+    Qu'est ce que la procrastination [\??]
+    ~[&comment] surmonter la procrastination [\??]
+    ~[&comment] arrêter de tout remettre à plus tard [\??]
+    ~[&pourquoi] J’attends toujours la dernière minute pour rendre un devoir, un travail, écrire une lettre…
+    ~[&pourquoi] Je reporte les choses à faire même si elles sont importantes…
+    ~[&pourquoi] J’ai du mal à me mettre au travail…
+    ~[&pourquoi] Si l’action ou la tâche à réaliser est difficile ou que je ne suis pas sûr d’y arriver, je la remets à plus tard
+    ~[&pourquoi] faire aujourd’hui ce que l’on peut faire demain » est ma devise préférée…
+    ~[&pourquoi] J’aime passer du temps sur les réseaux sociaux, regarder mes emails plusieurs fois par heure…
+    ~[&pourquoi] Lorsque j’ai beaucoup de tâches à effectuer, je commence toujours par les plus importantes…
+    Quelles sont les causes de la procrastination [\??]
+    ~[&comment] se sortir de la procrastination [\??]
+    Est-ce grave de procrastiner [\??]
+    Quel type de Procrastinateur Êtes-vous [\??]
+    ~[&pourquoi] je Procrastine tout le temps [\??]
+    procrastination [\??]
+    ~[&comment] bien procrastiner [\??]
+    ~[&comment] s'appelle une personne qui remet tout au lendemain [\??]
+    ~[&comment] arrêter de procrastiner et passer à laction [\??]
+    ~[&pourquoi] je reporte tout au lendemain [\??]
+    ~[&comment] arrêter de procrastiner livre [\??]
+    ~[&comment] arrêter de remettre à plus tard [\??]
+    ~[&pourquoi] remettre à demain [\??]
+    ~[&comment] avaler un crapaud [\??]
+
+@[question_2]
+    Qu'est ce que la procrastination [\??]
+    surmonter la procrastination [\??]
+    arrêter de tout remettre à plus tard [\??]
+    J’attends toujours la dernière minute pour rendre un devoir, un travail, écrire une lettre…
+    Je reporte les choses à faire même si elles sont importantes…
+    J’ai du mal à me mettre au travail…
+    Si l’action ou la tâche à réaliser est difficile ou que je ne suis pas sûr d’y arriver, je la remets à plus tard
+    faire aujourd’hui ce que l’on peut faire demain » est ma devise préférée…
+    J’aime passer du temps sur les réseaux sociaux, regarder mes emails plusieurs fois par heure…
+    Lorsque j’ai beaucoup de tâches à effectuer, je commence toujours par les plus importantes…
+    Quelles sont les causes de la procrastination [\??]
+    se sortir de la procrastination [\??]
+    Est-ce grave de procrastiner [\??]
+    Quel type de Procrastinateur Êtes-vous [\??]
+    je Procrastine tout le temps [\??]
+    procrastination [\??]
+    bien procrastiner [\??]
+    s'appelle une personne qui remet tout au lendemain [\??]
+    arrêter de procrastiner et passer à laction [\??]
+    je reporte tout au lendemain [\??]
+    arrêter de procrastiner livre [\??]
+    arrêter de remettre à plus tard [\??]
+    remettre à demain [\??]
+    avaler un crapaud [\??]
+
+// Inclure ~[&pourquoi], ~[&comment?] and ~[&comment?]
+|../../../../includes/comment.chatette
+
+// Inclure ~[&Je veux?]
+|../../../../includes/je_veux.chatette
+
+// Inclure ~[savoir]
+|../../../../includes/savoir.chatette

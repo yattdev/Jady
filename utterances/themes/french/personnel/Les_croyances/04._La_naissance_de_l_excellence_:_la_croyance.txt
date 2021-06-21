@@ -1,0 +1,23 @@
+// This template chapter 04._La_naissance_de_l_’_excellence_:_la_croyance.txt
+// book: Pouvoir Illimite
+%[&Quelles_sont_les_pourvoir_de_la_croyance](1500)
+    [&S'il vous plaît?] [&Quelles] sont ~[les pouvoirs#plural] de la [croyance|conviction|foi|certitude] [\??]
+    [&S'il vous plaît?] [&Quelle] est ~[le pouvoir#singular] de la [croyance|conviction] [\??]
+    [&S'il vous plaît?] [&C]'est quoi ~[le pouvoir#singular] de la croyance [\??]
+    [&S'il vous plaît?] [&C]'est quoi ~[les pouvoirs#plural] de la croyance [\??]
+    [&S'il vous plaît?] [&Comment|Dis-moi] [les croyances|nos croyances] [m'influences|nous influences|gouvernes] t-elles [\??]
+    // ########### Avec le {Je} ###############
+    ~[&Je veux?] ~[&savoir] quelles sont ~[les pouvoirs#plural] de la [croyance|conviction|foi|certitude] [\??]
+    ~[&Je veux?] ~[&savoir] quelle est ~[le pouvoir#singular] de la [croyance|conviction] [\??]
+    ~[&Je veux?] ~[&savoir] comment [les croyances|nos croyances] nous [influences|gouvernes] t-elles [\??]
+
+
+
+// Inclure le ~[&Je veux?]
+|../../../../includes/je_veux.chatette
+
+// Inclure le ~[le pouvoir#singular] and ~[les pouvoir#plural]
+|../../../../includes/pouvoir.chatette
+
+// Inclure ~[savoir]
+|../../../../includes/savoir.chatette

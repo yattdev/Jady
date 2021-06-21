@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 
@@ -11,10 +11,13 @@ from pathlib import Path
 from indexation.index_book import IndexBook
 from indexation.schema import BookSchema
 from processing_book.processEpub import ProcessBook
-from settings.config_default import EPUB_BOOK_FR_DIR, JSON_BOOK_FR_DIR
+from settings.config_default import (EPUB_BOOK_FR_DIR,
+                                     JSON_BOOK_FR_DIR,
+                                     THEMES_DIR,
+                                     )
 
 
-class UpdateJsonBook(object):
+class UpdateJsonBook:
 
     """ Class to update books/JsonFrench if
     books/EpubFrench is upadate with new books """
@@ -32,19 +35,20 @@ class UpdateJsonBook(object):
 
         """
         try:
-            processBook = ProcessBook(book) # Process Book: Work on Book
+            process_book = ProcessBook(book)  # Process Book: Work on Book
             #  split epub-book to chapters and save it to book-name.json
-            processBook.book_to_jsonFile() # value == True if all rigth
-        except Exception as e:
-            print("Can't split book to json")
+            #  process_book.book_to_jsonFile()  # Save book splited in json format
+            process_book.save_chaps_to_file()  # save each book chapters's in json format
+        except AttributeError as e:
+            f"Can't split book: {book} to json"
             raise e
         return True
 
     @classmethod
-    def update_jsonBook(cls):
+    def update_json_book(cls):
         """ Update books/JsonFrench dir from books/EpubFrench
             by use split_book function """
-        epub_books = Path(EPUB_BOOK_FR_DIR).glob('*.epub')
+        epub_books = Path(EPUB_BOOK_FR_DIR).glob('*/*.epub')
         for book in epub_books:
             # if: To skip the book already exist in books/JsonFrench dir
             if not exists(join(JSON_BOOK_FR_DIR,
@@ -52,12 +56,12 @@ class UpdateJsonBook(object):
                 UpdateJsonBook.split_book(str(book))
                 #  if make: print('DONE !!!')
 
-        print('SUCCESSFULL ! All Epub-books splited into CHAPTERS in Json Format !!!')
+        print('SUCCESSFULL ! All Epub-books splited into Json Format !!!')
         print()
         print('JsonFrench dir Updated !')
 
 
-class UpdateIndex(object):
+class UpdateIndex:
 
     """ UpdateIndex: For update index if JsonFrench dir is updated """
 
@@ -65,30 +69,58 @@ class UpdateIndex(object):
         """ Create Instance from UpdateIndex """
 
     @classmethod
-    def add_to_index(cls, bookSchema: BookSchema, book_name:string, index=None):
+    def add_to_index(cls, book_schema: BookSchema, book_name: str, index=None):
         """ Add JSON FORMAT FILE in index, by use 'IndexBook' Class """
         # TODO: Add possibility to create index or open exist index from
         # index_dir:Insert in function arg: add_to_index(..., index_dir:string)
         if index:
             storage = index
         else:
-            storage = IndexBook.get_index(bookSchema)
+            storage = IndexBook.get_index(book_schema)
 
         writer = storage.writer()
         with open(book_name) as json_file:
             json_data = json.load(json_file)
             IndexBook.add_to_index(json_data=json_data, writer=writer,
-                                   path=str(jsonBookName))
+                                   path=str(book_name))
 
-        writer.commit() # Save index and close writer
+        writer.commit()  # Save index and close writer
         print('SUCCESSFULL ! All Json-books indexed !!!')
         print()
         print('Index_dir Updated !')
 
     @classmethod
-    def clean_index(cls, bookSchema: BookSchema):
+    def add_to_index_by_chapter(cls, book_schema: BookSchema,
+                                index=None,
+                                ):
+        """ Add JSON FORMAT FILE in index, by use 'IndexBook' Class """
+        # TODO: Add possibility to create index or open exist index from
+        # index_dir:Insert in function arg: add_to_index(..., index_dir:string)
+        if index:
+            storage = index
+        else:
+            storage = IndexBook.get_index(book_schema)
+
+        writer = storage.writer()
+
+        chapters = Path(THEMES_DIR).rglob('*.json')
+        for chap in chapters:
+            with open(chap) as json_file:
+                json_data = json.load(json_file)
+                IndexBook.add_to_index_by_chapter(chap_json_data=json_data,
+                                                  writer=writer,
+                                                  path=str(chap),
+                                                  )
+
+        writer.commit()  # Save index and close writer
+        print('SUCCESSFULL ! All Json-books indexed !!!')
+        print()
+        print('Index_dir Updated !')
+
+    @classmethod
+    def clean_index(cls, book_schema: BookSchema):
         """ clean_index is call to re-write index """
-        index = IndexBook.get_index(bookSchema, clean=True)
+        index = IndexBook.get_index(book_schema, clean=True)
         json_books = Path(JSON_BOOK_FR_DIR).glob('*.json')
         writer = index.writer()
         for book in json_books:
@@ -99,7 +131,7 @@ class UpdateIndex(object):
                                        path=str(book))
             print('DONE !!! '+str(book))
 
-        writer.commit() # Save index and close writer
+        writer.commit()  # Save index and close writer
         print('INDEX CLEANED SUCCESSFULL !')
         print()
         print('All Json-books are indexed !!!')

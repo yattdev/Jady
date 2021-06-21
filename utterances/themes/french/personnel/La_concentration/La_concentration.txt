@@ -1,0 +1,55 @@
+// This template define intent for La concentration
+%[&La concentration]('train': 1500)
+    [&S'il vous plaît?] @[question]
+    [&S'il vous plaît?] @[question_2]
+
+    // ########### Avec le {Je} ###############
+    ~[&Je veux?] ~[savoir] @[question]
+
+
+@[question]
+    ~[&comment] bien se concentrer [\??]
+    ~[&comment] faire pour bien se concentrer [\??]
+    ~[&comment] rester concentrer quand on est fatigué [\??]
+    ~[&comment] se concentrer en esprit [\??]
+    ~[&comment] se concentrer en télétravail [\??]
+    ~[&comment] l'aider à se concentrer [\??]
+    ~[&comment] entraîner son cerveau à se concentrer [\??]
+    ~[&pourquoi] j'ai un manque de concentration [\??]
+    ~[&comment] améliorer la mémoire et la concentration [\??]
+    ~[&comment] trouver la concentration mentale [\??]
+    ~[&comment] apprendre a se concentrer [\??]
+    ~[&comment] je peux apprendre a se concentrer [\??]
+    ~[&comment] avoir une concentration ultime [\??]
+    Quels aliments pour la concentration [\??]
+    ~[&comment] entrer en état de flow [\??]
+    ~[&comment] savoir si on a un trouble de l'attention [\??]
+    ~[&comment] me concentrer sur mon travail [\??]
+
+@[question_2]
+    bien se concentrer [\??]
+    faire pour bien se concentrer [\??]
+    rester concentrer quand on est fatigué [\??]
+    se concentrer en esprit [\??]
+    se concentrer en télétravail [\??]
+    l'aider à se concentrer [\??]
+    entraîner son cerveau à se concentrer [\??]
+    j'ai un manque de concentration [\??]
+    améliorer la mémoire et la concentration [\??]
+    trouver la concentration mentale [\??]
+    apprendre a se concentrer [\??]
+    je peux apprendre a se concentrer [\??]
+    avoir une concentration ultime [\??]
+    Quels aliments pour la concentration [\??]
+    entrer en état de flow [\??]
+    savoir si on a un trouble de l'attention [\??]
+    me concentrer sur mon travail [\??]
+
+// Inclure ~[&pourquoi], ~[&comment??] and ~[&comment?]
+|../../../../includes/comment.chatette
+
+// Inclure ~[&Je veux?]
+|../../../../includes/je_veux.chatette
+
+// Inclure ~[savoir]
+|../../../../includes/savoir.chatette

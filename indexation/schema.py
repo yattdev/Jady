@@ -12,6 +12,7 @@ class BookSchema(SchemaClass):
         and search Ebook
     """
     path = ID(unique=True, stored=True)
+    intent = TEXT(analyzer=LanguageAnalyzer(lang='fr'), stored=True)
     book_id = TEXT(analyzer=LanguageAnalyzer(lang='fr'), stored=True)
     book_title = TEXT(analyzer=LanguageAnalyzer(lang='fr'), stored=True)
     creator = TEXT(analyzer=LanguageAnalyzer(lang='fr'), stored=True)

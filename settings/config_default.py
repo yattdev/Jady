@@ -26,6 +26,7 @@ INDEXED_CHAP_PATHS = path.join(BASE_DIR, config['books']['paths']['french'].get(
 # Create Variable for book epub path
 EPUB_BOOK_FR_DIR = path.join(BASE_DIR, config['books']['epub']['french'].get())
 EPUB_BOOK_EN_DIR = path.join(BASE_DIR, config['books']['epub']['english'].get())
+THEMES_DIR = path.join(BASE_DIR, config['books']['themes']['french'].get())
 
 NLU_DATA_PATH = path.join(BASE_DIR, config['nlu_data_path'].get())
 

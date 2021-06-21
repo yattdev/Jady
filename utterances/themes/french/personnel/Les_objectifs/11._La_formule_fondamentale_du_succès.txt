@@ -1,0 +1,59 @@
+// Template for chapter La_formule_fondamentale_du_succès
+// book: Pouvoir Illimite
+%[&La_formule_fondamentale_du_succès](1000)
+    [&S'il vous plaît?] ~[&comment] [~[fixer]|attiendre] [mes|des|ces|nos] ~[objectifs#plural] [\??]
+    [&S'il vous plaît?] ~[&comment] ~[fixer] ce que nous voulons [\??]
+    [&S'il vous plaît?] ~[&comment] ~[fixer] ce que je veux [\??]
+    [&S'il vous plaît?] [&Quel est?] ~[le pouvoir#singular] ~[definir] [mes|des|ces|nos] ~[objectifs#plural] [\??]
+    [&S'il vous plaît?] [&Quels sont?] ~[les pouvoirs#plural] ~[definir] [mes|des|ces|nos] ~[objectifs#plural] [\??]
+
+    // ########### Avec le {Je} ###############
+    ~[&Je veux?] ~[savoir] ~[&comment] [~[fixer]|attiendre] [mes|des|ces|nos] ~[objectifs#plural] [\??]
+    ~[&Je veux?] ~[savoir] ~[&comment] ~[fixer] ce que nous voulons [\??]
+    ~[&Je veux?] ~[savoir] ~[&comment] ~[fixer] ce que je veux [\??]
+    ~[&Je veux?] ~[savoir] [&Quel est?] ~[le pouvoir#singular] ~[definir] [mes|des|ces|nos] ~[objectifs#plural] [\??]
+    ~[&Je veux?] ~[savoir] [&Quels sont?] ~[les pouvoirs#plural] ~[definir] [mes|des|ces|nos] ~[objectifs#plural] [\??]
+
+
+// Inclure ~[le pouvoir#singular] and ~[les pouvoirs#plural]
+|../../../../includes/pouvoir.chatette
+
+// Inclure ~[&comment?] and ~[&comment]
+|../../../../includes/comment.chatette
+
+// Inclure ~[&Je veux?]
+|../../../../includes/je_veux.chatette
+
+// Inclure ~[savoir]
+|../../../../includes/savoir.chatette
+
+~[definir]
+    de ~[fixer]
+    de se fixer
+    d'avoir
+
+~[fixer]
+    fixer
+    déterminer
+    spécifier
+    écrire
+    s'assigner
+    préciser
+    décider
+    définir
+
+~[objectifs#plural]
+    objectifs
+    aspirations
+    buts
+    désirs
+    intentions
+    missions
+
+~[objectif#singular]
+    objectif
+    aspiration
+    but
+    désir
+    intention
+    mission

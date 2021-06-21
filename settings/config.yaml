@@ -9,6 +9,9 @@ books:
     epub:
         french: 'books/epubFrench'
         english: 'books/epubEnglish'
+    themes:
+        french: 'books/themes/french'
+        english: 'books/themes/english'
     paths:
         french: 'books/chapterFrenchPaths/indexed_chap_paths.json'
 

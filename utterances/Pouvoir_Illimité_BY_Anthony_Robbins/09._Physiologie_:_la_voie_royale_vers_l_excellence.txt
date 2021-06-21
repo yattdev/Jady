@@ -1,6 +1,6 @@
-// Template for chapter Physiologie_:_la_voie_royale_vers_l_’_excellence
+// Template for chapter L'influence de la physiologie sur nous
 // book: Pouvoir Illimite
-%[&Physiologie_:_la_voie_royale_vers_l_’_excellence](1500)
+%[&L'influence de la physiologie sur nous](1500)
     [&S'il vous plaît?] ~[&comment?] ~[notre] etat ~[physiologie] joue t-elle sur ~[notre] ~[bonheur] [\??]
     [&S'il vous plaît?] ~[&comment?] ~[notre] ~[physiologie] joue t-elle sur ~[notre] ~[bonheur] [\??]
     [&S'il vous plaît?] ~[&comment?] mon etat ~[physiologie] joue t-elle sur mon ~[bonheur] [\??]

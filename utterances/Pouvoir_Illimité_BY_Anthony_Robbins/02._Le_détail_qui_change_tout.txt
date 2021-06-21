@@ -5,9 +5,9 @@
     [&S'il vous plaît?] Qu'est ce qui ~[fait la distinction entre] ~[les gens] qui ~[réussissent] et ~[les autres] [\??]
     [&S'il vous plaît?] Qu’est-ce qui ~[défini#plural] les ~[meneurs] [\??]
     [&S'il vous plaît?] [Qu'est ce qui|C'est quoi qui] [pousse|motive] les êtres à réagir comme ils le font [\??]
-    [&S'il vous plaît?] [&Pourquoi] les êtres à réagir comme ils le font [\??]
+    [&S'il vous plaît?] [&pourquoi] les êtres à réagir comme ils le font [\??]
     [&S'il vous plaît?] [Qu'est ce qui|C'est quoi qui] [distingue|différencie|défini] les [réactions|actions] des ~[personnes#plural] devant ~[les grandes épreuves] [\??]
-    [&S'il vous plaît?] ~[Pourquoi] il y ait tant de ~[personnes#plural] [sur terre?] qui mènent une vie ~[heureuse] malgré ~[les grandes épreuves] [\??]
+    [&S'il vous plaît?] ~[&pourquoi] il y ait tant de ~[personnes#plural] [sur terre?] qui mènent une vie ~[heureuse] malgré ~[les grandes épreuves] [\??]
     [&S'il vous plaît?] [Qu'est ce qui|C'est quoi qui] [distingue|différencie] les ~[meneurs] et ~[les autres] [\??]
     [&S'il vous plaît?] Pouquoi [d’autres|certain] ~[semblent tout avoir], ne [connaissent|savent|sachent] que le désespoir, la colère et l’abattement [\??]
 
@@ -19,7 +19,7 @@
     ~[&Je veux?] savoir [qu'est ce qui|c'est quoi qui] [pousse|motive] les êtres à réagir comme ils le font [\??]
     ~[&Je veux?] savoir pourquoi les êtres à réagir comme ils le font [\??]
     ~[&Je veux?] savoir [qu'est ce qui|c'est quoi qui] [distingue|différencie] les [réactions|actions] des ~[personnes#plural] devant ~[les grandes épreuves] [\??]
-    ~[&Je veux?] savoir ~[&Pourquoi] il y ait tant de ~[personnes#plural] [sur terre qui|] mènent une vie ~[heureuse] malgré ~[les grandes épreuves] [\??]
+    ~[&Je veux?] savoir ~[&pourquoi] il y ait tant de ~[personnes#plural] [sur terre qui|] mènent une vie ~[heureuse] malgré ~[les grandes épreuves] [\??]
     ~[&Je veux?] savoir [qu'est ce qui|c'est quoi qui] [distingue|différencie] les ~[meneurs] et ~[les autres] [\??]
     ~[&Je veux?] savoir pouquoi [d’autres|certain] ~[semblent tout avoir], ne [connaissent|savent|sachent] que ~[le désespoir], [la colère et l’abattement?] [\??]
 
@@ -52,11 +52,8 @@
 // Inclure ~[réussissent]
 |../includes/meneurs_reussite.chatette
 
-~[&Pourquoi]
-    Pourquoi
-    Comment expliquer que
-    Qu'est ce qui fait que
-    Comment c'est possible que
+// Inclure ~[&pourquoi]
+|../includes/comment.chatette
 
 ~[heureuse]
     heureuse

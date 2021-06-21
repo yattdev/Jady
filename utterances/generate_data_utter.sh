@@ -3,10 +3,10 @@
 for n in $(seq 1 $#); do
     for i in $1/*.txt; do
         python -m chatette $i
-        echo "Create ../jady/data/"$1" if not exist"
-        mkdir -p ../jady/data/$1
-        echo "coping output/train/output.json to ../jady/data/"$i".json"
-        cp output/train/output.json ../jady/data/$i.json
+        echo "Create $JADY_PATH/data/$1 if not exist"
+        mkdir -p "$JADY_PATH/data/$1"
+        echo "coping output/train/output.json to $JADY_PATH/data/$i.json"
+        cp output/train/output.json "$JADY_PATH/data/$i.json"
         echo "DONE SUCCESSFULL\n"
     done
   shift

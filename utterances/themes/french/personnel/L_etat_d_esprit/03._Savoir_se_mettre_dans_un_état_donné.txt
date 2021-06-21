@@ -1,0 +1,101 @@
+// This template chapter 03._Savoir_se_mettre_dans_un_état_donné.txt
+// book: Pouvoir Illimite
+%[&Savoir_se_mettre_dans_un_état_donné](1500)
+    [&S'il vous plaît?] Comment nous créons nos états intérieurs et nos comportements
+    [&S'il vous plaît?] ~[&savoir?] ~[utterances] [\??]
+
+    // ########### Avec le {Je} ###############
+    ~[&Je veux?] ~[&savoir] ~[&comment] ~[utterances] [\??]
+    ~[&Je veux?] ~[&savoir] ~[&pourquoi] ~[utterances] [\??]
+    ~[&Je veux?] ~[&savoir] pourquoi [tantôt?] obtenons-nous ~[des résultats] ~[catastrophiques] et ~[tantôt] ~[des résultats] ~[excellents#plural] [\??]
+
+~[utterances]
+    ~[changer] son état de façon à obtenir ce qu’on veut [\??]
+    ~[se] mettre dans un étant donné
+    ~[changer] son état [\??]
+    ~[changer] ~[notre] états de façon à obtenir ce qu’on veut [\??]
+    ~[changer] ~[notre] états [\??]
+    ~[changer] [d'état|son état]
+    ~[se] [mettre en forme|motivé|donné de l'energie|du pouvoir]
+    ~[changer] son pouvoir [personnel ?]
+    ~[se] donné du pouvoir [personnel ?]
+    [obtenez-vous?] [tantôt?] ~[des résultats] ~[catastrophiques] et ~[tantôt] ~[des résultats] ~[excellents#plural]
+
+// Inclure le ~[&Je veux?]
+|../../../../includes/je_veux.chatette
+
+// Inclure ~[changer]
+|../../../../includes/changer.chatette
+
+// Inclure ~[savoir]
+|../../../../includes/savoir.chatette
+
+// Inclure ~[&comment]
+|../../../../includes/comment.chatette
+
+// Inclure ~[excellents#plural]
+|../../../../includes/positive.chatette
+
+~[catastrophiques]
+    catastrophiques
+    médiocre
+    exécrable
+    affreux
+    épouvantable
+    calamiteuse
+    cataclysmique
+    déplorable
+    désastreuse
+    désastreux
+    détestable
+    dramatique
+    effroyable
+    fatal
+    funeste
+    gravissime
+    malheureux
+    mauvais
+    pitoyable
+    terrible
+    tragique
+
+~[des résultats]
+    des résultats
+    d'aboutissants
+    des bénéfices
+    des bilan
+    des décision
+    des effets
+    des performances
+    des quotients
+    des résultantes
+    des réussites
+    des solution
+    des succès
+
+~[tantôt]
+    tantôt
+    parfois
+    des fois
+    par moments
+    de temps en temps
+    de temps à autre
+    quelquefois
+
+~[&Savoir]
+    Savoir
+    ~[&comment]
+    ~[&savoir] ~[&comment]
+
+~[se]
+    se
+    me
+    nous
+    //vous
+    //les
+    //lui
+    //leur
+    //leurs
+
+~[notre]
+    notre
