@@ -1,6 +1,6 @@
 version: "2.0"
 # ----------stories:-------------------------------------------------------------
-# CHAPTERS FOR POUVOIR ILLIMITÉS BY ANTHONY ROBBINS
+# PERSONNEL
 stories:
     #--------------------------------------------------------------------------
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
@@ -445,7 +445,7 @@ stories:
   steps:
   - intent: greet
   - action: utter_greet
-  - intent: Physiologie_:_la_voie_royale_vers_l_excellence
+  - intent: L_influence_de_la_physiologie
   - action: action_answer_question
   - intent: greet
   - action: utter_greet_again
@@ -455,7 +455,7 @@ stories:
   steps:
   - intent: greet
   - action: utter_greet
-  - intent: Physiologie_:_la_voie_royale_vers_l_excellence
+  - intent: L_influence_de_la_physiologie
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
@@ -465,7 +465,7 @@ stories:
   - action: utter_greet
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
-  - intent: Physiologie_:_la_voie_royale_vers_l_excellence
+  - intent: L_influence_de_la_physiologie
   - action: action_answer_question
   - intent: greet
   - action: utter_greet_again
@@ -477,7 +477,7 @@ stories:
   - action: utter_greet
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
-  - intent: Physiologie_:_la_voie_royale_vers_l_excellence
+  - intent: L_influence_de_la_physiologie
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
@@ -485,7 +485,7 @@ stories:
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
-  - intent: Physiologie_:_la_voie_royale_vers_l_excellence
+  - intent: L_influence_de_la_physiologie
   - action: action_answer_question
   - intent: greet
   - action: utter_greet_again
@@ -495,13 +495,13 @@ stories:
   steps:
   - intent: ask_bot_feeling
   - action: utter_ask_bot_feeling
-  - intent: Physiologie_:_la_voie_royale_vers_l_excellence
+  - intent: L_influence_de_la_physiologie
   - action: action_answer_question
 
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
 
   steps:
-  - intent: Physiologie_:_la_voie_royale_vers_l_excellence
+  - intent: L_influence_de_la_physiologie
   - action: action_answer_question
   - intent: greet
   - action: utter_greet_again
@@ -509,7 +509,7 @@ stories:
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
 
   steps:
-  - intent: Physiologie_:_la_voie_royale_vers_l_excellence
+  - intent: L_influence_de_la_physiologie
   - action: action_answer_question
     #--------------------------------------------------------------------------
 - story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
@@ -1302,5 +1302,151 @@ stories:
 
   steps:
   - intent: Création_des_tendances_:_le_pouvoir_de_la_persuasion
+  - action: action_answer_question
+#-------------------------------------------------------------------------------------
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: L'acrasie et la procrastination
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: L'acrasie et la procrastination
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: L'acrasie et la procrastination
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: L'acrasie et la procrastination
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: L'acrasie et la procrastination
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: L'acrasie et la procrastination
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: L'acrasie et la procrastination
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: L'acrasie et la procrastination
+  - action: action_answer_question
+#-------------------------------------------------------------------------------------
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: La concentration
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: La concentration
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: La concentration
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: La concentration
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: La concentration
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: La concentration
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: La concentration
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: La concentration
   - action: action_answer_question
 ################################### END ##################################

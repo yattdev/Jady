@@ -1,6 +1,6 @@
-// Template for chapter L'influence de la physiologie sur nous
+// Template for chapter L_influence_de_la_physiologie
 // book: Pouvoir Illimite
-%[&L'influence de la physiologie sur nous](1500)
+%[&L_influence_de_la_physiologie](1500)
     [&S'il vous plaît?] ~[&comment?] ~[notre] etat ~[physiologie] joue t-elle sur ~[notre] ~[bonheur] [\??]
     [&S'il vous plaît?] ~[&comment?] ~[notre] ~[physiologie] joue t-elle sur ~[notre] ~[bonheur] [\??]
     [&S'il vous plaît?] ~[&comment?] mon etat ~[physiologie] joue t-elle sur mon ~[bonheur] [\??]

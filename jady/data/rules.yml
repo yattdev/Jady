@@ -132,7 +132,7 @@ rules:
 
 - rule: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
   steps:
-  - intent: Physiologie_:_la_voie_royale_vers_l_excellence
+  - intent: L_influence_de_la_physiologie
   - action: action_answer_question
 
 - rule: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
