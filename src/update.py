@@ -109,7 +109,7 @@ class UpdateIndex:
                 json_data = json.load(json_file)
                 IndexBook.add_to_index_by_chapter(chap_json_data=json_data,
                                                   writer=writer,
-                                                  path=str(chap),
+                                                  file_path=str(chap),
                                                   )
 
         writer.commit()  # Save index and close writer

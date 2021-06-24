@@ -21,7 +21,7 @@ if __name__ == '__main__':
     #  qp = QueryParser('chapter_title', schema=BookSchema())
     #  query = qp.parse(u""+"La marchandise des rois")
     qp = QueryParser('intent', schema=index.schema)
-    query = qp.parse(u"Le bonheur")
+    query = qp.parse(u"Le bonheur selon Anthony Robbins")
     with index.searcher() as searcher:
         result = searcher.search(query)
         print('###RESULTAT###')

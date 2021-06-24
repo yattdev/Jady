@@ -1,4 +1,0 @@
-// Template for chapter La_syntaxe_du_succès
-// book: Pouvoir Illimite
-%[&La_syntaxe_du_succès](500)
-

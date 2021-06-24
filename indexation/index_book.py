@@ -83,16 +83,22 @@ class IndexBook:
                 )
 
     @classmethod
-    def add_to_index_by_chapter(cls, chap_json_data, writer, path: str):
-        """ Docstring for add_to_index.
+    def add_to_index_by_chapter(cls, chap_json_data, writer, file_path: str):
+        """ Docstring for add_to_index_by_chapter.
             TODO: add to index each chapter from chap_json_data
-            :chap_json_data: Dict or List to content list of book chapters's
+            params:
+                chap_json_data: Dict or List to content list of book chapters's
             :returns: None
         """
         chapter = chap_json_data  # Json data to write un index
+        try:
+            date = parser.parse(chapter['published_date'][:19])
+        except parser.ParserError as e:
+            date = datetime.now()
+
         writer.add_document(
-            path=u''+path+'#'+chapter['chapter_title'],
-            intent=IndexBook.dir_name(path),
+            path=u''+file_path+'#'+chapter['chapter_title'],
+            intent=IndexBook.dir_name(file_path),
             chapter_title=u''+chapter['chapter_title'],
             content=u''+chapter['content'],
             book_id=u''+chapter['book_id'],
@@ -101,7 +107,7 @@ class IndexBook:
             contributor=u''+chapter['contributor'],
             context=u''+chapter['context'],
             tags=u''+chapter['subject'],
-            published_date=parser.parse(chapter['published_date'][:19])
+            published_date=date
                                              #  "%Y-%m-%dT%H:%M:%S")
         )
 

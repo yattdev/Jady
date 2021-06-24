@@ -81,7 +81,41 @@ intents:
     use_entities: true
 - La_magie_de_la_sympathie:
     use_entities: true
-entities: []
+- La concentration:
+    use_entities: true
+- L_influence_de_la_physiologie:
+    use_entities: true
+- L'acrasie et la procrastination:
+    use_entities: true
+- L_etat_d_esprit:
+    use_entities: true
+- La_richesse_et_du_bonheur:
+    use_entities: true
+- La_physiologie:
+    use_entities: true
+- La_concentration:
+    use_entities: true
+- L_énergie:
+    use_entities: true
+- Les_croyances:
+    use_entities: true
+- Les_objectifs:
+    use_entities: true
+- acrasie_et_la_procrastination:
+    use_entities: true
+- Les_systèmes_de_valeurs:
+    use_entities: true
+- Les_habitudes:
+    use_entities: true
+- La_perspective:
+    use_entities: true
+- La_persuasion:
+    use_entities: true
+- Les_pourvoir_de_la_croyance:
+    use_entities: true
+entities:
+- question
+- question_2
 slots: {}
 responses: {}
 actions:

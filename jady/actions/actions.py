@@ -70,7 +70,7 @@ class ActionAnswerQuestion(Action):
                 )-> List[EventType]
         This method run custom action and back response to user
         """
-        #  question = tracker.get_slot('question') # Get user question
+        #  question = tracker.get_slot('question')  # Get user question
         # Get intent of last message
         intent = str(tracker.get_intent_of_latest_message())
         # delete _ in intent name
@@ -87,23 +87,24 @@ class ActionAnswerQuestion(Action):
             """ Search qsn in index """
             try:
                 index = IndexBook.get_index(bookSchema=BookSchema())
-                qp = QueryParser('chapter_title', schema=BookSchema())
+                qp = QueryParser('intent', schema=BookSchema())
                 query = qp.parse(u""+intent)
-                responses = "Search result:\n"
+                responses = "Je te propose la lecture de ces chapitres:\n"
                 with index.searcher() as searcher:
-                    result = searcher.search(query)
+                    result = searcher.search(query, limit=10)
                     for num, resp in enumerate(result):
-                        responses += str(num) + "/Le livre: " + resp['book_title'] + "\n"
-                        responses += 'Auteur: ' + resp['creator'] + "\n"
+                        responses += "=============== "+str(num+1)+" =====================\n"
+                        responses += 'Chapitre: ' + resp['chapter_title'] + "\n"
+                        responses += "Livre: " + resp['book_title'] + " de " + str(resp['creator']).upper() + "\n"
                         # clique pour afficher le context/ resp['context']
                         responses += "Bouton: de quoi parle ce livre\n"
-                        responses += 'Date de publication: ' + str(resp['published_date']) + "\n"
-                        responses += 'Catégorie: ' + resp['tags'] + "\n"
-                        responses += 'Chapitre: ' + resp['chapter_title'] + "\n"
+                        #  responses += 'Date de publication: ' + str(resp['published_date']) + "\n"
+                        #  responses += 'Catégorie: ' + resp['tags'] + "\n"
                         #  responses += resp['content']
-                        responses += "Cliquer ici pour acheter ce livre\n"
-                        responses += "====================================\n"
-                        responses += "====================================\n"
+                        #  responses += "Cliquer ici pour acheter ce livre\n"
+
+                    if len(result) == 0:  # Change display msg where result is empty,
+                        responses = "Désoler ! Je n'est pas de reponse pertinante pour cette question actuellement."
                 #  TODO: Formater en plus joli l'affichage du text de reponse
             except Exception as e:
                 raise e

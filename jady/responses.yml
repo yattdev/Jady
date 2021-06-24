@@ -1,46 +1,34 @@
 responses:
     utter_greet:
-    - text: "Bonjour! La forme ?\n
-      Je suis Jady un IA\n
-      Inpirer des entrepreneurs, meneurs et batisseurs de fortune,\n
-      Je suis programmer pour mimer le systeme mental de ces hommes a succes,\n
-      Ma seule mission: Aider a faire fortune(Spirituel, Personnelle-Relation et Financiere)\n
-      Voici ce que je peux faire toi ?\n
-      • Faire un retour personnel sur tout question lier a l’entrepreneuriat\n
-      • Faire le retour d’avis de mes models et ce qui ont un avis eloigne\n
-      • Faire la suggestion du chapitre precis d’un/+ livres sur la question\n
-      • Donner une action precis a apprendre s’il y’a en a"
-    - text: "Yo! Comment ça va ?\n
-      Je suis Jady un IA\n
-      Inpirer des entrepreneurs, meneurs et batisseurs de fortune,\n
-      Je suis programmer pour mimer le systeme mental de ces hommes a succes,\n
-      Ma seule mission: Aider a faire fortune(Spirituel, Personnelle-Relation et Financiere)\n
-      Voici ce que je peux faire toi ?\n
-      • Faire un retour personnel sur tout question lier a l’entrepreneuriat\n
-      • Faire le retour d’avis de mes models et ce qui ont un avis eloigne\n
-      • Faire la suggestion du chapitre precis d’un/+ livres sur la question\n
-      • Donner une action precis a apprendre s’il y’a en a"
-    - text: "Bien le bonjour! 😁\n
-      Je suis Jady un IA\n
-      Inpirer des entrepreneurs, meneurs et batisseurs de fortune,\n
-      Je suis programmer pour mimer le systeme mental de ces hommes a succes,\n
-      Ma seule mission: Aider a faire fortune(Spirituel, Personnelle-Relation et Financiere)\n
-      Voici ce que je peux faire toi ?\n
-      • Faire un retour personnel sur tout question lier a l’entrepreneuriat\n
-      • Faire le retour d’avis de mes models et ce qui ont un avis eloigne\n
-      • Faire la suggestion du chapitre precis d’un/+ livres sur la question\n
-      • Donner une action precis a apprendre s’il y’a en a"
-    - text: "Salut 👋 !\n
-      Je suis Jady un IA\n
-      Je suis programmer pour mimer le systeme mental des personnes a succes,\n
-      Inpirer des entrepreneurs, meneurs et batisseurs de fortune,\n
-      Ma seule mission: T'aider à être le plus utils pour toi même et au monde,\n
-      car je crois, c'est le seule chemin vers la fortune(Spirituel, Personnelle-Relation et Financiere)\n
-      Voici ce que je peux faire toi ?\n
-      • Faire un retour personnel sur tout question lier a l’entrepreneuriat\n
-      • Faire le retour d’avis de mes models et ce qui ont un avis eloigne\n
-      • Faire la suggestion du chapitre precis d’un/+ livres sur la question\n
-      • Donner une action precis a apprendre s’il y’a en a"
+    - text: "Bonjour! J'suis Jady\n
+      Un IA Inpirer des entrepreneurs les plus reussites du monde.\n
+      Pour accompagner, conseiller, inspirer et orienter des entrepreneurs et les aspirants entrepreneur.\n
+      Voici des exmaples de questions qu'on me pose:\n
+      • Comment etablir ces objectifs ?\n
+      • Quelles sont les meilleurs habitudes qui mène a la reussite ?\n
+      • Comment etablir des vrais objectifs et les réalisés ?\n
+      • Comment être plus productif dans mes tâches journalière ?\n"
+    - text: "Yo! J'suis Jady\n
+      Un IA Inpirer des entrepreneurs les plus reussites du monde.\n
+      Pour accompagner, conseiller, inspirer et orienter des entrepreneurs et les aspirants entrepreneur.\n
+      Voici des exmaples de questions qu'on me pose:\n
+      • Qu'est ce qui fait réelement le succes d'un entrepreneur ?\n
+      • Comment etablir des vrais objectifs et les réalisés ?\n
+      • Comment être plus productif dans mes tâches journalière ?\n"
+    - text: "Bien le bonjour! Je m'appelle Jady\n
+      Un IA Inpirer des entrepreneurs a success.\n
+      Pour accompagner, conseiller, inspirer et orienter des entrepreneurs et les aspirants entrepreneur.\n
+      Voici des exmaples de questions qu'on me pose:\n
+      • Quelles sont les meilleurs habitudes qui mène a la reussite ?\n
+      • Comment etablir des vrais objectifs et les réalisés ?\n
+      • Comment être plus productif dans mes tâches journalière ?\n"
+    - text: "Salut 👋 ! J'suis Jady\n
+      Un IA Inpirer des entrepreneurs a success.\n
+      Pour accompagner, conseiller, inspirer et orienter des entrepreneurs et les aspirants entrepreneur.\n
+      Voici des exmaples de questions qu'on me pose:\n
+      • Quelles sont les meilleurs habitudes qui mène a la reussite ?\n
+      • Comment etablir des vrais objectifs et les réalisés ?\n
+      • Comment être plus productif dans mes tâches journalière ?\n"
 
     utter_ask_bot_feeling:
     - text: "Moi, Tout baigne 24/24.\n Quelle est ta qsn, j'écoute ?"
@@ -107,13 +95,14 @@ responses:
     - text: "👋 ba-bye ba-bye!"
 
     utter_bot_possibility:
-    - text: "OBJECTIF: Ma mission est de t'apporter et t'aider à l'utiliser
-    ce qu'il faut, mais vraiment ce qu'il faut pour avoir les resultats attendus.\n
-    Je suis creer avec la croyance qu'il n'est pas necessaire de tout comprendre pour
-    attendre son but.\n
-    Je suis un MODEL DES ENTREPRENEURS a success.
-    \nConcus pour mimer la façons dont les legendes du business traite
-    \nl'informations pour avoir des resultats qui donnent cet status de legende"
+    - text: "Je suis une IA(Intelligence Artificiel) Inpirer des entrepreneurs a success\n
+      Je suis programmé pour accompagner, conseiller, inspirer et orienter\n
+      les entrepreneurs et les aspirants entrepreneur.\n
+      Voici des exmaples de questions qu'on me pose:\n
+      • Comment etablir ces objectifs ?\n
+      • Quelles sont les meilleurs habitudes qui mène a la reussite ?\n
+      • Comment etablir des vrais objectifs et les réalisés ?\n
+      • Comment être plus productif dans mes tâches journalière ?\n"
 
     utter_thankyou:
     - text: "Je t'en prie!"
