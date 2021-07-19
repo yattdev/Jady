@@ -11,6 +11,7 @@ from rasa.shared.core.domain import Domain
 from rasa.core.nlg import TemplatedNaturalLanguageGenerator
 from rasa.shared.core.trackers import DialogueStateTracker
 from rasa.constants import ENV_SANIC_BACKLOG, DEFAULT_SANIC_WORKERS
+from settings.config_default import COVER_IMG_PATH
 
 logger = logging.getLogger(__name__)
 
@@ -64,6 +65,8 @@ async def generate_response(nlg_call, domain):
 
 def run_server(domain, port, workers):
     app = Sanic(__name__)
+    # To server static files when hit url: /static/{static file name}
+    app.static('/static', COVER_IMG_PATH)
 
     @app.route("/nlg", methods=["POST", "OPTIONS"])
     async def nlg(request):

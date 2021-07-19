@@ -25,6 +25,7 @@ class ProcessBook():
         self.book = None
         self.book_name = bookname.split('/')[-1]
         self.book_data = {}
+        self.book_data["cover_img_path"] = self.book_name + ".jpg"
         try:
             self.book = epub.read_epub(bookname)
         except FileNotFoundError as e:
@@ -226,6 +227,7 @@ class ProcessBook():
                         {
                             'is_part': False,
                             'book_title': self.book_data['title'],
+                            'cover_img_path': self.book_data['cover_img_path'],
                             'book_id': self.book_data['identifier'],
                             'creator': self.book_data['creator'],
                             'contributor': self.book_data['contributor'],
@@ -244,6 +246,7 @@ class ProcessBook():
                         {
                             'is_part': False,
                             'book_title': self.book_data['title'],
+                            'cover_img_path': self.book_data['cover_img_path'],
                             'book_id': self.book_data['identifier'],
                             'creator': self.book_data['creator'],
                             'contributor': self.book_data['contributor'],

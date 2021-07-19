@@ -52,7 +52,7 @@ class UpdateJsonBook:
         for book in epub_books:
             # if: To skip the book already exist in books/JsonFrench dir
             if not exists(join(JSON_BOOK_FR_DIR,
-                               str(book).split('/')[-1])+'.json'):
+                               str(book).split('/')[-1])):
                 UpdateJsonBook.split_book(str(book))
                 #  if make: print('DONE !!!')
 
@@ -103,7 +103,7 @@ class UpdateIndex:
 
         writer = storage.writer()
 
-        chapters = Path(THEMES_DIR).rglob('*.json')
+        chapters = Path(JSON_BOOK_FR_DIR).rglob('*.json')
         for chap in chapters:
             with open(chap) as json_file:
                 json_data = json.load(json_file)

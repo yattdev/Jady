@@ -33,3 +33,6 @@ NLU_DATA_PATH = path.join(BASE_DIR, config['nlu_data_path'].get())
 VERIFY = config['VERIFY'].as_str_expanded()
 SECRET = config['SECRET'].as_str_expanded()
 PAGE_ACCESS_TOKEN = config['PAGE_ACCESS_TOKEN'].as_str_expanded()
+
+# Dir path for images of books coverage
+COVER_IMG_PATH = path.join(BASE_DIR, config['books']['cover_img_path'].get())

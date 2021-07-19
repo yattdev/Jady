@@ -14,6 +14,7 @@ books:
         english: 'books/themes/english'
     paths:
         french: 'books/chapterFrenchPaths/indexed_chap_paths.json'
+    cover_img_path: 'books/jsonFrench/cover_img'
 
 nlu_data_path: 'jady/data'
 

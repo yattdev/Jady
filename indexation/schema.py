@@ -14,6 +14,7 @@ class BookSchema(SchemaClass):
     path = ID(unique=True, stored=True)
     intent = TEXT(analyzer=LanguageAnalyzer(lang='fr'), stored=True)
     book_id = TEXT(analyzer=LanguageAnalyzer(lang='fr'), stored=True)
+    cover_img_path = TEXT(stored=True)
     book_title = TEXT(analyzer=LanguageAnalyzer(lang='fr'), stored=True)
     creator = TEXT(analyzer=LanguageAnalyzer(lang='fr'), stored=True)
     contributor = TEXT(analyzer=LanguageAnalyzer(lang='fr'), stored=True)

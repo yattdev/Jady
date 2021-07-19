@@ -72,6 +72,7 @@ class IndexBook:
                     chapter_title=u''+dic['chapter_title'],
                     content=u''+dic['content'],
                     book_id=u''+dic['book_id'],
+                    cover_img_path=u''+dic['cover_img_path'],
                     book_title=u''+dic['book_title'],
                     creator=u''+dic['creator'],
                     contributor=u''+dic['contributor'],
@@ -96,20 +97,25 @@ class IndexBook:
         except parser.ParserError as e:
             date = datetime.now()
 
-        writer.add_document(
-            path=u''+file_path+'#'+chapter['chapter_title'],
-            intent=IndexBook.dir_name(file_path),
-            chapter_title=u''+chapter['chapter_title'],
-            content=u''+chapter['content'],
-            book_id=u''+chapter['book_id'],
-            book_title=u''+chapter['book_title'],
-            creator=u''+chapter['creator'],
-            contributor=u''+chapter['contributor'],
-            context=u''+chapter['context'],
-            tags=u''+chapter['subject'],
-            published_date=date
-                                             #  "%Y-%m-%dT%H:%M:%S")
-        )
+        try:
+            writer.add_document(
+                path=u''+file_path+'#'+chapter['chapter_title'],
+                intent=IndexBook.dir_name(file_path),
+                chapter_title=u''+chapter['chapter_title'],
+                content=u''+chapter['content'],
+                book_id=u''+chapter['book_id'],
+                cover_img_path=u''+chapter['cover_img_path'],
+                book_title=u''+chapter['book_title'],
+                creator=u''+chapter['creator'],
+                contributor=u''+chapter['contributor'],
+                context=u''+chapter['context'],
+                tags=u''+chapter['subject'],
+                published_date=date
+                                                 #  "%Y-%m-%dT%H:%M:%S")
+            )
+        except KeyError as e:
+            print(file_path)
+            raise e
 
     @classmethod
     def dir_name(cls, file_absolue_path):

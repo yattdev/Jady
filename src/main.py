@@ -15,13 +15,20 @@ from settings.config_default import (EPUB_BOOK_FR_DIR,
                                      )
 from os import path
 
+
+def test():
+    chapters = Path(JSON_BOOK_FR_DIR).rglob('*.json')
+    for chap in chapters:
+        print(chap)
+
+
 if __name__ == '__main__':
     """ Main function to test code """
-    index = IndexBook.get_index(bookSchema=BookSchema)
     #  qp = QueryParser('chapter_title', schema=BookSchema())
     #  query = qp.parse(u""+"La marchandise des rois")
+    index = IndexBook.get_index(bookSchema=BookSchema)
     qp = QueryParser('intent', schema=index.schema)
-    query = qp.parse(u"Le bonheur selon Anthony Robbins")
+    query = qp.parse(u"Les objectifs")
     with index.searcher() as searcher:
         result = searcher.search(query)
         print('###RESULTAT###')

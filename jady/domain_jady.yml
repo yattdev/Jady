@@ -113,6 +113,10 @@ intents:
     use_entities: true
 - Les_pourvoir_de_la_croyance:
     use_entities: true
+- L_etat_d_esprit_ou_le_cerveau:
+    use_entities: true
+- Le_bonheur:
+    use_entities: true
 entities:
 - question
 - question_2
@@ -120,6 +124,7 @@ slots: {}
 responses: {}
 actions:
 - action_answer_question
+- utter_answer_question
 - utter_ask_bot_feeling
 - utter_ask_rephrase
 - utter_ask_user_feeling
@@ -138,6 +143,7 @@ actions:
 - utter_offend
 - utter_out_of_scope
 - utter_scope_not_handle
+- utter_reaching_out_to_user
 - utter_thankyou
 - utter_why_this_answer
 forms: {}

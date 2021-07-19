@@ -4,31 +4,47 @@ responses:
       Un IA Inpirer des entrepreneurs les plus reussites du monde.\n
       Pour accompagner, conseiller, inspirer et orienter des entrepreneurs et les aspirants entrepreneur.\n
       Voici des exmaples de questions qu'on me pose:\n
-      • Comment etablir ces objectifs ?\n
-      • Quelles sont les meilleurs habitudes qui mène a la reussite ?\n
-      • Comment etablir des vrais objectifs et les réalisés ?\n
+      • Comment definir ces objectifs ?\n
+      • Quelles sont les convictions fondamentale de la reussite ?\n
+      • Comment definir ces objectifs ?\n
       • Comment être plus productif dans mes tâches journalière ?\n"
     - text: "Yo! J'suis Jady\n
       Un IA Inpirer des entrepreneurs les plus reussites du monde.\n
       Pour accompagner, conseiller, inspirer et orienter des entrepreneurs et les aspirants entrepreneur.\n
       Voici des exmaples de questions qu'on me pose:\n
       • Qu'est ce qui fait réelement le succes d'un entrepreneur ?\n
-      • Comment etablir des vrais objectifs et les réalisés ?\n
+      • Comment definir ces objectifs ?\n
       • Comment être plus productif dans mes tâches journalière ?\n"
     - text: "Bien le bonjour! Je m'appelle Jady\n
       Un IA Inpirer des entrepreneurs a success.\n
       Pour accompagner, conseiller, inspirer et orienter des entrepreneurs et les aspirants entrepreneur.\n
       Voici des exmaples de questions qu'on me pose:\n
-      • Quelles sont les meilleurs habitudes qui mène a la reussite ?\n
-      • Comment etablir des vrais objectifs et les réalisés ?\n
+      • Quelles sont les convictions fondamentale de la reussite ?\n
+      • Comment definir ces objectifs ?\n
       • Comment être plus productif dans mes tâches journalière ?\n"
     - text: "Salut 👋 ! J'suis Jady\n
       Un IA Inpirer des entrepreneurs a success.\n
       Pour accompagner, conseiller, inspirer et orienter des entrepreneurs et les aspirants entrepreneur.\n
       Voici des exmaples de questions qu'on me pose:\n
-      • Quelles sont les meilleurs habitudes qui mène a la reussite ?\n
-      • Comment etablir des vrais objectifs et les réalisés ?\n
+      • Quelles sont les convictions fondamentale de la reussite ?\n
+      • Comment definir ces objectifs ?\n
       • Comment être plus productif dans mes tâches journalière ?\n"
+
+    utter_reaching_out_to_user:
+    - text: "Voici des exmaples de questions qu'on me pose:\n
+      • Quelles sont les convictions fondamentale de la reussite ?\n
+      • Comment definir ces objectifs ?\n
+      • Comment être plus productif dans mes tâches journalière ?\n"
+
+    # Template for custom action
+    utter_answer_question:
+    - text: "**Chapitre:** {chapter_title}\n
+      **Livre:** {book_title} [purchase](https://www.google.com)\n
+      **Auteur:** *{author}*"
+      image: "http://0.0.0.0:5056/static/{cover_img_path}"
+      buttons:
+      - title: "{text_button}"
+        payload: "/{chapter_title}"
 
     utter_ask_bot_feeling:
     - text: "Moi, Tout baigne 24/24.\n Quelle est ta qsn, j'écoute ?"
@@ -99,9 +115,9 @@ responses:
       Je suis programmé pour accompagner, conseiller, inspirer et orienter\n
       les entrepreneurs et les aspirants entrepreneur.\n
       Voici des exmaples de questions qu'on me pose:\n
-      • Comment etablir ces objectifs ?\n
-      • Quelles sont les meilleurs habitudes qui mène a la reussite ?\n
-      • Comment etablir des vrais objectifs et les réalisés ?\n
+      • comment definir ces objectifs ?\n
+      • Quelles sont les convictions fondamentale de la reussite ?\n
+      • Comment definir ces objectifs ?\n
       • Comment être plus productif dans mes tâches journalière ?\n"
 
     utter_thankyou:
@@ -135,8 +151,8 @@ responses:
     utter_out_of_scope:
     - text: "Nan ! Je ne gere pas ce type de request."
     - text: "Humm ! Je ne gere pas ce type de request, Désoler."
-    - text: "Out the box ! Je ne gere pas ce type de request,\n tu peut t'adresser a google."
-    - text: "Out the scope ! Je ne gere pas ce type de request,\n essaye google et aura probablement qlq chose."
+    # - text: "Out the box ! Je ne gere pas ce type de request,\n tu peut t'adresser a google."
+    # - text: "Out the scope ! Je ne gere pas ce type de request,\n essaye google et aura probablement qlq chose."
 
     utter_call_nex:
     - text: "Yep!"

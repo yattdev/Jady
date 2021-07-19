@@ -1,0 +1,10 @@
+// The round table
+digraph {
+	A [label=Alassane]
+	B [label=Koty]
+	C [label=Abdoul]
+	D [label=Mikael]
+	A -> B
+	B -> C
+	C -> D
+}

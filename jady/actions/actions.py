@@ -23,6 +23,7 @@ from whoosh.qparser import QueryParser
 
 from indexation.index_book import IndexBook
 from indexation.schema import BookSchema
+from time import sleep
 
 
 # class ActionHelloWorld(Action):
@@ -89,28 +90,37 @@ class ActionAnswerQuestion(Action):
                 index = IndexBook.get_index(bookSchema=BookSchema())
                 qp = QueryParser('intent', schema=BookSchema())
                 query = qp.parse(u""+intent)
-                responses = "Je te propose la lecture de ces chapitres:\n"
+                responses = "Les meilleurs chapitres à lire:\n"
                 with index.searcher() as searcher:
                     result = searcher.search(query, limit=10)
+                    # Change display msg if result is empty,
+                    if len(result) == 0:
+                        responses = "Désoler ! Je n'est pas de reponse pertinante pour cette question actuellement."
+                        dispatcher.utter_message(text=responses)
+                        return []
+
+                    # Display answer if result not empty
+                    dispatcher.utter_message(text=responses)
                     for num, resp in enumerate(result):
-                        responses += "=============== "+str(num+1)+" =====================\n"
-                        responses += 'Chapitre: ' + resp['chapter_title'] + "\n"
-                        responses += "Livre: " + resp['book_title'] + " de " + str(resp['creator']).upper() + "\n"
+                        dispatcher.utter_message(
+                            response="utter_answer_question",
+                            chapter_title=resp['chapter_title'],
+                            cover_img_path=resp['cover_img_path'],
+                            book_title=resp['book_title'],
+                            author=str(resp['creator']).upper(),
+                            text_button="Je veux lire ce chapitre")
+                        #  responses += "=============== "+str(num+1)+" =====================\n"
+                        #  responses += 'Chapitre: ' + resp['chapter_title'] + "\n"
+                        #  responses += "Livre: " + resp['book_title'] + " de " + str(resp['creator']).upper() + "\n"
                         # clique pour afficher le context/ resp['context']
-                        responses += "Bouton: de quoi parle ce livre\n"
+                        #  responses += "Lien de lecture: Indisponible momentanément\n"
                         #  responses += 'Date de publication: ' + str(resp['published_date']) + "\n"
                         #  responses += 'Catégorie: ' + resp['tags'] + "\n"
                         #  responses += resp['content']
                         #  responses += "Cliquer ici pour acheter ce livre\n"
-
-                    if len(result) == 0:  # Change display msg where result is empty,
-                        responses = "Désoler ! Je n'est pas de reponse pertinante pour cette question actuellement."
-                #  TODO: Formater en plus joli l'affichage du text de reponse
             except Exception as e:
                 raise e
 
-            dispatcher.utter_message(text=responses)
-            #  return [SlotSet("question", question)]
             return []
         else:
             dispatcher.utter_message(text='No question asked !')
