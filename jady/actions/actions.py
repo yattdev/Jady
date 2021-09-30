@@ -14,33 +14,63 @@ from __future__ import (absolute_import, division, print_function,
 from typing import Any, Dict, List, Text
 
 import requests
-#  from rasa.core.actions.action import Action
-from textwrap3 import wrap
+from indexation.index_book import IndexBook
+from indexation.schema import BookSchema
 from rasa_sdk import Action, Tracker
 from rasa_sdk.events import EventType, SlotSet
 from rasa_sdk.executor import CollectingDispatcher
+#  from rasa.core.actions.action import Action
+from textwrap3 import wrap
 from whoosh.qparser import QueryParser
-
-from indexation.index_book import IndexBook
-from indexation.schema import BookSchema
-from time import sleep
+import time
 
 
-# class ActionHelloWorld(Action):
-#
-#     def name(self) -> Text:
-#         return "action_hello_world"
-#
-#     def run(self, dispatcher: CollectingDispatcher,
-#             tracker: Tracker,
-#             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
-#
-#         dispatcher.utter_message(text="Hello World!")
-#
-#         return []
+class ActionGreet(Action):
+    def name(self) -> Text:
+        return "action_greet"
+
+    async def run(self, dispatcher: CollectingDispatcher, tracker: Tracker,
+                  domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+
+        dispatcher.utter_message(text="Bonjour! J'suis Jady")
+
+        dispatcher.utter_message(
+            text="Un IA Inpirer des entrepreneurs les plus reussites du monde")
+
+        text = "Pour accompagner, conseiller, inspirer et orienter "
+        text += "des entrepreneurs et les aspirants entrepreneur"
+        dispatcher.utter_message(text)
+
+        text = "Je réponds aux questions telles que:  \n"
+        text += "• Quelles sont les convictions fondamentale de la reussite ?  \n"
+        text += "• Comment définir ces objectifs ?  \n"
+        text += "• Comment être plus productif dans mes tâches journalière ?  \n"
+        dispatcher.utter_message(text)
+
+        return []
+
+    def delay(self, sec):
+        time.sleep(sec)
+
+        return None
 
 
 class ActionAnswerQuestion(Action):
+    """ Custom action that fetch from search ingine user qsn """
+    def __init__(self):
+        # Template to create a carousel for fetched books
+        self.carousel = {
+            "type": "template",
+            "payload": {
+                "template_type":
+                "generic",
+                "elements": [
+                    # Responses from search engine will be place here as dict
+                ]
+            }
+        }
+        super().__init__()
+
     def name(self) -> Text:
         return "action_answer_question"
 
@@ -53,11 +83,13 @@ class ActionAnswerQuestion(Action):
             search_field: is the list fields to search qsn into like 'title'
         """
         index = IndexBook.get_index(bookSchema=BookSchema)
-        qp = QueryParser('title', schema=index.schema)
-        query = qp.parse(u""+str(qsn))
+        query_p = QueryParser('title', schema=index.schema)
+        query = query_p.parse(u"" + str(qsn))
         with index.searcher() as searcher:
             result = searcher.search(query)
+
             return result
+
         return False
 
     async def run(
@@ -78,67 +110,94 @@ class ActionAnswerQuestion(Action):
         intent = intent.split('_')
         intent = " ".join(intent)
         print('#######################################################')
-        print('INTENT SEARCHING: '+intent)
+        print('INTENT SEARCHING: ' + intent)
         print('############################ ANSWER ###################')
         # Le subjet n'exist plus dans les slot
         #  subject = tracker.get_slot('subject') Get subject for user question
         # ###### Call Database OR API #########
+
+        #  dispatcher.utter_message(attachment=test_carousel)
         responses = "Search result:\n"
+
         if intent:  # if User asked qns
             """ Search qsn in index """
-            try:
-                index = IndexBook.get_index(bookSchema=BookSchema())
-                qp = QueryParser('intent', schema=BookSchema())
-                query = qp.parse(u""+intent)
+            answer = self.get_response(intent)
+
+            if answer:
                 responses = "Les meilleurs chapitres à lire:\n"
-                with index.searcher() as searcher:
-                    result = searcher.search(query, limit=10)
-                    # Change display msg if result is empty,
-                    if len(result) == 0:
-                        responses = "Désoler ! Je n'est pas de reponse pertinante pour cette question actuellement."
-                        dispatcher.utter_message(text=responses)
-                        return []
+                # If there is the answer from search engine, answer == true
+                dispatcher.utter_message(text=responses)
+                dispatcher.utter_message(attachment=self.carousel)
 
-                    # Display answer if result not empty
-                    dispatcher.utter_message(text=responses)
-                    for num, resp in enumerate(result):
-                        dispatcher.utter_message(
-                            response="utter_answer_question",
-                            chapter_title=resp['chapter_title'],
-                            cover_img_path=resp['cover_img_path'],
-                            book_title=resp['book_title'],
-                            author=str(resp['creator']).upper(),
-                            text_button="Je veux lire ce chapitre")
-                        #  responses += "=============== "+str(num+1)+" =====================\n"
-                        #  responses += 'Chapitre: ' + resp['chapter_title'] + "\n"
-                        #  responses += "Livre: " + resp['book_title'] + " de " + str(resp['creator']).upper() + "\n"
-                        # clique pour afficher le context/ resp['context']
-                        #  responses += "Lien de lecture: Indisponible momentanément\n"
-                        #  responses += 'Date de publication: ' + str(resp['published_date']) + "\n"
-                        #  responses += 'Catégorie: ' + resp['tags'] + "\n"
-                        #  responses += resp['content']
-                        #  responses += "Cliquer ici pour acheter ce livre\n"
-            except Exception as e:
-                raise e
+                return []  # return empty, No slot here
 
-            return []
+            responses = "Désoler ! Je n'est pas de reponse pertinante pour\
+                cette question actuellement."
+
+            dispatcher.utter_message(text=responses)
+
+            return []  # return empty, No slot here
         else:
             dispatcher.utter_message(text='No question asked !')
-            return []
+
+            return []  # return empty, No slot here
         #  return [SlotSet("question", question), SlotSet("subject", subject)]
+
+    def get_response(self, intent: str):
+        """ To search intent with search Engine """
+        try:
+            index = IndexBook.get_index(bookSchema=BookSchema())
+            query_p = QueryParser('intent', schema=BookSchema())
+            query = query_p.parse(u"" + intent)
+            with index.searcher() as searcher:
+                result = searcher.search(query, limit=10)
+
+                if len(result) == 0:
+                    # there is None for current intent so return False
+
+                    return False
+
+                for num, resp in enumerate(result):
+                    self.carousel['payload']['elements'].append({
+                        "index":
+                        num,
+                        "Livre":
+                        resp['book_title'],
+                        "Auteur":
+                        str(resp['creator']).upper(),
+                        "Chapitre":
+                        resp['chapter_title'],
+                        "image_url":
+                        "http://0.0.0.0:5056/static/" + resp['cover_img_path'],
+                        "buttons": [{
+                            "title": "Lire",
+                            "url": "#",
+                            "type": "web_url"
+                        }]
+                    })
+
+            return True
+        except Exception as error:
+            raise error
+
+        return False
 
     @staticmethod
     def search_test():
+        """ My search test """
         index = IndexBook.get_index(bookSchema=BookSchema())
-        qp = QueryParser('chapter_title', schema=BookSchema())
-        query = qp.parse(u""+"La marchandise des rois")
+        query_p = QueryParser('chapter_title', schema=BookSchema())
+        query = query_p.parse(u"" + "La marchandise des rois")
         print("Search result:")
         with index.searcher() as searcher:
             with open('resulat.txt', 'w') as outfile:
                 result = searcher.search(query)
+
                 for num, resp in enumerate(result):
-                    print(str(num) + ": " + resp['chapter_title'], file=outfile)
-                    #  print('\n'.join(wrap(resp['content'], 40)), file=outfile)
+                    print(str(num) + ": " + resp['chapter_title'],
+                          file=outfile)
+                    #  print('\n'.join(wrap(resp['content'], 40)),
+                    #  file=outfile)
                     print(resp['content'], file=outfile)
             #  response = result[0]
             #  print(responses)
@@ -152,9 +211,9 @@ class ActionPresentModels(Action):
         """
             type: (Dispatcher, DialogueStateTracker, Domain) -> List[Event]
         """
-        question = tracker.get_slot('question') # Get user question
-        subject = tracker.get_slot('subject') # Get subject for user question
-        ####### Call Database OR API #########
+        question = tracker.get_slot('question')  # Get user question
+        subject = tracker.get_slot('subject')  # Get subject for user question
+        # Call Database OR API #
         response = "Ta Question est: {qsn}\n Le Theme: {th}".format(
             qsn=question, th=subject)
         dispatcher.utter_message(response)

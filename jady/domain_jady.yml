@@ -146,5 +146,6 @@ actions:
 - utter_reaching_out_to_user
 - utter_thankyou
 - utter_why_this_answer
+- action_greet
 forms: {}
 e2e_actions: []

@@ -28,7 +28,7 @@ if __name__ == '__main__':
     #  query = qp.parse(u""+"La marchandise des rois")
     index = IndexBook.get_index(bookSchema=BookSchema)
     qp = QueryParser('intent', schema=index.schema)
-    query = qp.parse(u"Les objectifs")
+    query = qp.parse(u"procrastination")
     with index.searcher() as searcher:
         result = searcher.search(query)
         print('###RESULTAT###')

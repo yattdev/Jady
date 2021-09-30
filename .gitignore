@@ -1,4 +1,5 @@
 env/
+env
 building_chatbots_with_python/
 *.vscode/
 .zshrc

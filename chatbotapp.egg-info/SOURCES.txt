@@ -1,3 +1,4 @@
+LICENSE
 README.md
 setup.py
 chatbotapp.egg-info/PKG-INFO
@@ -8,6 +9,7 @@ indexation/__init__.py
 indexation/index_book.py
 indexation/schema.py
 jady/__init__.py
+jady/actions.py
 jady/actions/__init__.py
 jady/actions/actions.py
 processing_book/__init__.py

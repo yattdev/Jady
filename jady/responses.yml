@@ -4,7 +4,6 @@ responses:
       Un IA Inpirer des entrepreneurs les plus reussites du monde.\n
       Pour accompagner, conseiller, inspirer et orienter des entrepreneurs et les aspirants entrepreneur.\n
       Voici des exmaples de questions qu'on me pose:\n
-      • Comment definir ces objectifs ?\n
       • Quelles sont les convictions fondamentale de la reussite ?\n
       • Comment definir ces objectifs ?\n
       • Comment être plus productif dans mes tâches journalière ?\n"
@@ -39,8 +38,8 @@ responses:
     # Template for custom action
     utter_answer_question:
     - text: "**Chapitre:** {chapter_title}\n
-      **Livre:** {book_title} [purchase](https://www.google.com)\n
-      **Auteur:** *{author}*"
+      # **Livre:** {book_title} [purchase](https://www.google.com)\n
+      # **Auteur:** *{author}*"
       image: "http://0.0.0.0:5056/static/{cover_img_path}"
       buttons:
       - title: "{text_button}"
