@@ -41,85 +41,17 @@ intents:
     use_entities: true
 - why_this_answer:
     use_entities: true
-- Les_sept_mensonges_du_succès:
-    use_entities: true
-- Restructuration_des_schémas_:_le_pouvoir_de_la_perspective:
-    use_entities: true
-- Savoir_se_mettre_dans_un_état_donné:
-    use_entities: true
-- Les_cinq_clés_de_la_richesse_et_du_bonheur:
-    use_entities: true
-- Physiologie_:_la_voie_royale_vers_l_excellence:
-    use_entities: true
-- Le_pouvoir_de_la_précision:
-    use_entities: true
-- L_énergie_:_le_carburant_de_l_excellence:
-    use_entities: true
-- Les_points_d_ancrage_de_la_réussite:
-    use_entities: true
-- Quelles_sont_les_pourvoir_de_la_croyance:
-    use_entities: true
-- Apprendre_excéllence_humaine:
-    use_entities: true
-- Établir_des_distinctions_:_les_méta-programmes:
-    use_entities: true
-- Les_systèmes_de_valeurs_:_jugement_ultime_de_la_réussite:
-    use_entities: true
 - ask_user_name:
-    use_entities: true
-- Connaître_la_distinction_entre_les_gens_qui_reussissent_et_les_autres:
-    use_entities: true
-- La_formule_fondamentale_du_succès:
-    use_entities: true
-- La_maîtrise_de_votre_esprit_ou_comment_faire_fonctionner_votre_cerveau:
-    use_entities: true
-- Création_des_tendances_:_le_pouvoir_de_la_persuasion:
     use_entities: true
 - user_give_its_name:
     use_entities: true
-- Comment_venir_à_bout_des_résistances_et_résoudre_les_problèmes:
-    use_entities: true
-- La_magie_de_la_sympathie:
-    use_entities: true
-- La concentration:
-    use_entities: true
-- L_influence_de_la_physiologie:
-    use_entities: true
-- L'acrasie et la procrastination:
-    use_entities: true
-- L_etat_d_esprit:
-    use_entities: true
-- La_richesse_et_du_bonheur:
-    use_entities: true
-- La_physiologie:
-    use_entities: true
-- La_concentration:
-    use_entities: true
-- L_énergie:
-    use_entities: true
-- Les_croyances:
-    use_entities: true
-- Les_objectifs:
-    use_entities: true
-- acrasie_et_la_procrastination:
-    use_entities: true
-- Les_systèmes_de_valeurs:
-    use_entities: true
-- Les_habitudes:
-    use_entities: true
-- La_perspective:
-    use_entities: true
-- La_persuasion:
-    use_entities: true
-- Les_pourvoir_de_la_croyance:
-    use_entities: true
-- L_etat_d_esprit_ou_le_cerveau:
-    use_entities: true
-- Le_bonheur:
-    use_entities: true
+- Computer_Science_Courses:
+    use_entities: false
+- Literature_Courses:
+    use_entities: false
+- Management_Courses:
+    use_entities: false
 entities:
-- question
-- question_2
 slots: {}
 responses: {}
 actions:
