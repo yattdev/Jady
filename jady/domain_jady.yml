@@ -51,7 +51,6 @@ intents:
     use_entities: false
 - Management_Courses:
     use_entities: false
-entities:
 slots: {}
 responses: {}
 actions:

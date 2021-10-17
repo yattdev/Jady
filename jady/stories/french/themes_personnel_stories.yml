@@ -1,0 +1,1525 @@
+version: "2.0"
+# ----------stories:-------------------------------------------------------------
+# PERSONNEL
+stories:
+    #--------------------------------------------------------------------------
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: Apprendre_excéllence_humaine
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: Apprendre_excéllence_humaine
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Apprendre_excéllence_humaine
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Apprendre_excéllence_humaine
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Apprendre_excéllence_humaine
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Apprendre_excéllence_humaine
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: Apprendre_excéllence_humaine
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: Apprendre_excéllence_humaine
+  - action: action_answer_question
+    #--------------------------------------------------------------------------
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: Connaître_la_distinction_entre_les_gens_qui_reussissent_et_les_autres
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Connaître_la_distinction_entre_les_gens_qui_reussissent_et_les_autres
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Connaître_la_distinction_entre_les_gens_qui_reussissent_et_les_autres
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: Connaître_la_distinction_entre_les_gens_qui_reussissent_et_les_autres
+  - action: action_answer_question
+
+    ############## Avec greet again ##############
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: Connaître_la_distinction_entre_les_gens_qui_reussissent_et_les_autres
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Connaître_la_distinction_entre_les_gens_qui_reussissent_et_les_autres
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Connaître_la_distinction_entre_les_gens_qui_reussissent_et_les_autres
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: Connaître_la_distinction_entre_les_gens_qui_reussissent_et_les_autres
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+    #--------------------------------------------------------------------------
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: L_etat_d_esprit
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: L_etat_d_esprit
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: L_etat_d_esprit
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: L_etat_d_esprit
+  - action: action_answer_question
+
+    ############## Avec greet again ##############
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: L_etat_d_esprit
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: L_etat_d_esprit
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: L_etat_d_esprit
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: L_etat_d_esprit
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+    #--------------------------------------------------------------------------
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: Quelles_sont_les_pourvoir_de_la_croyance
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Quelles_sont_les_pourvoir_de_la_croyance
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Quelles_sont_les_pourvoir_de_la_croyance
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: Quelles_sont_les_pourvoir_de_la_croyance
+  - action: action_answer_question
+
+    ############## Avec greet again ##############
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: Quelles_sont_les_pourvoir_de_la_croyance
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Quelles_sont_les_pourvoir_de_la_croyance
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Quelles_sont_les_pourvoir_de_la_croyance
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: Quelles_sont_les_pourvoir_de_la_croyance
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+    #--------------------------------------------------------------------------
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: Les_sept_mensonges_du_succès
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Les_sept_mensonges_du_succès
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Les_sept_mensonges_du_succès
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: Les_sept_mensonges_du_succès
+  - action: action_answer_question
+
+    ############## Avec greet again ##############
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: Les_sept_mensonges_du_succès
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Les_sept_mensonges_du_succès
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Les_sept_mensonges_du_succès
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: Les_sept_mensonges_du_succès
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+    #--------------------------------------------------------------------------
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: L_etat_d_esprit_ou_le_cerveau
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: L_etat_d_esprit_ou_le_cerveau
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: L_etat_d_esprit_ou_le_cerveau
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: L_etat_d_esprit_ou_le_cerveau
+  - action: action_answer_question
+    # Avec utter_greet_again
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: L_etat_d_esprit_ou_le_cerveau
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: L_etat_d_esprit_ou_le_cerveau
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: L_etat_d_esprit_ou_le_cerveau
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: L_etat_d_esprit_ou_le_cerveau
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+    #--------------------------------------------------------------------------
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: La_physiologie
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: La_physiologie
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: La_physiologie
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: La_physiologie
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: La_physiologie
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: La_physiologie
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: La_physiologie
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: La_physiologie
+  - action: action_answer_question
+    #--------------------------------------------------------------------------
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: L_énergie
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: L_énergie
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: L_énergie
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: L_énergie
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: L_énergie
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: L_énergie
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: L_énergie
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: L_énergie
+  - action: action_answer_question
+    #--------------------------------------------------------------------------
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: Les_objectifs
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: Les_objectifs
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Les_objectifs
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Les_objectifs
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Les_objectifs
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Les_objectifs
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: Les_objectifs
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: Les_objectifs
+  - action: action_answer_question
+    #--------------------------------------------------------------------------
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: Le_pouvoir_de_la_précision
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: Le_pouvoir_de_la_précision
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Le_pouvoir_de_la_précision
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Le_pouvoir_de_la_précision
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Le_pouvoir_de_la_précision
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Le_pouvoir_de_la_précision
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: Le_pouvoir_de_la_précision
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: Le_pouvoir_de_la_précision
+  - action: action_answer_question
+    #--------------------------------------------------------------------------
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: La_magie_de_la_sympathie
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: La_magie_de_la_sympathie
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: La_magie_de_la_sympathie
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: La_magie_de_la_sympathie
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: La_magie_de_la_sympathie
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: La_magie_de_la_sympathie
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: La_magie_de_la_sympathie
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: La_magie_de_la_sympathie
+  - action: action_answer_question
+    #--------------------------------------------------------------------------
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: Établir_des_distinctions_:_les_méta-programmes
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: Établir_des_distinctions_:_les_méta-programmes
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Établir_des_distinctions_:_les_méta-programmes
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Établir_des_distinctions_:_les_méta-programmes
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Établir_des_distinctions_:_les_méta-programmes
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Établir_des_distinctions_:_les_méta-programmes
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: Établir_des_distinctions_:_les_méta-programmes
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: Établir_des_distinctions_:_les_méta-programmes
+  - action: action_answer_question
+    #--------------------------------------------------------------------------
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: Comment_venir_à_bout_des_résistances_et_résoudre_les_problèmes
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: Comment_venir_à_bout_des_résistances_et_résoudre_les_problèmes
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Comment_venir_à_bout_des_résistances_et_résoudre_les_problèmes
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Comment_venir_à_bout_des_résistances_et_résoudre_les_problèmes
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Comment_venir_à_bout_des_résistances_et_résoudre_les_problèmes
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Comment_venir_à_bout_des_résistances_et_résoudre_les_problèmes
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: Comment_venir_à_bout_des_résistances_et_résoudre_les_problèmes
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: Comment_venir_à_bout_des_résistances_et_résoudre_les_problèmes
+  - action: action_answer_question
+    #--------------------------------------------------------------------------
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: La_perspective
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: La_perspective
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: La_perspective
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: La_perspective
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: La_perspective
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: La_perspective
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: La_perspective
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: La_perspective
+  - action: action_answer_question
+    #--------------------------------------------------------------------------
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: Les_habitudes
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: Les_habitudes
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Les_habitudes
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Les_habitudes
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Les_habitudes
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Les_habitudes
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: Les_habitudes
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: Les_habitudes
+  - action: action_answer_question
+    #--------------------------------------------------------------------------
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: Les_systèmes_de_valeurs
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: Les_systèmes_de_valeurs
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Les_systèmes_de_valeurs
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Les_systèmes_de_valeurs
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Les_systèmes_de_valeurs
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Les_systèmes_de_valeurs
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: Les_systèmes_de_valeurs
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: Les_systèmes_de_valeurs
+  - action: action_answer_question
+    #--------------------------------------------------------------------------
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: La_richesse_et_du_bonheur
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: La_richesse_et_du_bonheur
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: La_richesse_et_du_bonheur
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: La_richesse_et_du_bonheur
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: La_richesse_et_du_bonheur
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: La_richesse_et_du_bonheur
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: La_richesse_et_du_bonheur
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: La_richesse_et_du_bonheur
+  - action: action_answer_question
+    #--------------------------------------------------------------------------
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: Création_des_tendances_:_le_pouvoir_de_la_persuasion
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: Création_des_tendances_:_le_pouvoir_de_la_persuasion
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Création_des_tendances_:_le_pouvoir_de_la_persuasion
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Création_des_tendances_:_le_pouvoir_de_la_persuasion
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Création_des_tendances_:_le_pouvoir_de_la_persuasion
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Création_des_tendances_:_le_pouvoir_de_la_persuasion
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: Création_des_tendances_:_le_pouvoir_de_la_persuasion
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: Création_des_tendances_:_le_pouvoir_de_la_persuasion
+  - action: action_answer_question
+#-------------------------------------------------------------------------------------
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: acrasie_et_la_procrastination
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: acrasie_et_la_procrastination
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: acrasie_et_la_procrastination
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: acrasie_et_la_procrastination
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: acrasie_et_la_procrastination
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: acrasie_et_la_procrastination
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: acrasie_et_la_procrastination
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: acrasie_et_la_procrastination
+  - action: action_answer_question
+#-------------------------------------------------------------------------------------
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: La_concentration
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: La_concentration
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: La_concentration
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: La_concentration
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: La_concentration
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: La_concentration
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: La_concentration
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: La_concentration
+  - action: action_answer_question
+# ------------------------------------------------------------------------
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: Le_bonheur
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: Le_bonheur
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Le_bonheur
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Le_bonheur
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Le_bonheur
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: ask_bot_feeling
+  - action: utter_ask_bot_feeling
+  - intent: Le_bonheur
+  - action: action_answer_question
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: Le_bonheur
+  - action: action_answer_question
+  - intent: greet
+  - action: utter_greet_again
+
+- story: Executer 'action_answer_question' a tout moment quand l'user envoi un msg avec cet intent
+
+  steps:
+  - intent: Le_bonheur
+  - action: action_answer_question
+################################### END ##################################
