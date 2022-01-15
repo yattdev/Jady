@@ -13,22 +13,23 @@ pipeline:
     analyzer: "char_wb"
     min_ngram: 1
     max_ngram: 4
-  - name: DIETClassifier
-    epochs: 5
-  - name: EntitySynonymMapper
+  # - name: DIETClassifier
+  # entity_recognition: false # true: For entity extraction
+    # epochs: 100
+  # - name: EntitySynonymMapper # For entity extraction
   - name: ResponseSelector
-    epochs: 5
+    epochs: 300
   - name: FallbackClassifier
     threshold: 0.7
 
 policies:
   - name: MemoizationPolicy
-    max_history: 5
+    max_history: 100
   - name: TEDPolicy
     constrain_similarities: true
-    max_history: 5
-    epochs: 5
-    batch_size: 5
+    max_history: 100
+    epochs: 100
+    batch_size: 100
     max_training_samples: 1000
   - name : RulePolicy
     core_fallback_threshold: 0.3

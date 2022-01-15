@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3.8
 # -*- coding: utf-8 -*-
 
 import argparse
@@ -59,14 +59,13 @@ async def generate_response(nlg_call, domain):
     channel_name = nlg_call.get("channel")
 
     return await TemplatedNaturalLanguageGenerator(domain.responses).generate(
-        response, tracker, channel_name, **kwargs
-    )
+        response, tracker, channel_name, **kwargs)
 
 
 def run_server(domain, port, workers):
     app = Sanic(__name__)
     # To server static files when hit url: /static/{static file name}
-    app.static('/static', COVER_IMG_PATH)
+    app.static("/static", COVER_IMG_PATH)
 
     @app.route("/nlg", methods=["POST", "OPTIONS"])
     async def nlg(request):

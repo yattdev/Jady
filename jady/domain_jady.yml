@@ -45,12 +45,6 @@ intents:
     use_entities: true
 - user_give_its_name:
     use_entities: true
-- Computer_Science_Courses:
-    use_entities: false
-- Literature_Courses:
-    use_entities: false
-- Management_Courses:
-    use_entities: false
 slots: {}
 responses: {}
 actions:

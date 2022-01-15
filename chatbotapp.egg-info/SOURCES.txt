@@ -9,9 +9,13 @@ indexation/__init__.py
 indexation/index_book.py
 indexation/schema.py
 jady/__init__.py
-jady/actions.py
+jady/actions2.py
 jady/actions/__init__.py
 jady/actions/actions.py
+jady/modules/__init__.py
+jady/nlg_server/__init__.py
+jady/nlg_server/nlg_server.py
+jady/nlg_server/server.py
 processing_book/__init__.py
 processing_book/processEpub.py
 settings/__init__.py
