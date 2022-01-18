@@ -2,35 +2,43 @@ language: "fr"  # your two-letter language code
 
 pipeline:
   - name: SpacyNLP
-  # language model to load
     model: "fr_core_news_md"
+    case_sensitive: False
   - name: SpacyTokenizer
+    intent_tokenization_flag: False # Flag to check whether to split intents
+    intent_split_symbol: "_" # Symbol on which intent should be split
+    token_pattern: '(?u)\b\w+\b' # Regular expression to detect tokens
+  # - name: "WhitespaceTokenizer"
+    # intent_tokenization_flag: False # Flag to check whether to split intents
+    # intent_split_symbol: "_" # Symbol on which intent should be split
+    # token_pattern: '(?u)\b\w+\b'
   - name: SpacyFeaturizer
   - name: RegexFeaturizer
-  - name: LexicalSyntacticFeaturizer
   - name: CountVectorsFeaturizer
-  - name: CountVectorsFeaturizer
-    analyzer: "char_wb"
+    analyzer: "word"
     min_ngram: 1
-    max_ngram: 4
-  # - name: DIETClassifier
-  # entity_recognition: false # true: For entity extraction
-    # epochs: 100
+    max_ngram: 2
+  - name: DIETClassifier
+    entity_recognition: false # true: For entity extraction
+    number_of_transformer_layers: 8
+    use_masked_language_model : true
+    evaluate_every_number_of_epochs: 15
+    epochs: 100
   # - name: EntitySynonymMapper # For entity extraction
   - name: ResponseSelector
-    epochs: 300
+    epochs: 100
   - name: FallbackClassifier
     threshold: 0.7
 
 policies:
   - name: MemoizationPolicy
-    max_history: 100
+    max_history: 8
   - name: TEDPolicy
-    constrain_similarities: true
-    max_history: 100
+    # constrain_similarities: true
+    max_history: 8
     epochs: 100
-    batch_size: 100
-    max_training_samples: 1000
+    batch_size: 50
+    max_training_samples: 500
   - name : RulePolicy
     core_fallback_threshold: 0.3
     core_fallback_action_name: utter_default
